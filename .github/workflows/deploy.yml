@@ -1,4 +1,4 @@
-name: Build and Publish to Development
+name: Build and Depoly
 
 on:
     push:
