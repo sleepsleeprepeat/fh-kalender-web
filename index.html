@@ -4,146 +4,67 @@
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="stylesheet" href="css/pico.slim.min.css" />
-        <title>Kalender FH Kiel</title>
+        <link rel="stylesheet" href="css/pico.min.css" />
+        <title>FH-Kiel Kalender</title>
+        <style>
+            .grid a {
+                display: grid;
+                place-items: center;
+                margin: 0.5rem 0;
+            }
+        </style>
     </head>
     <body>
         <header class="container">
-            <h1>Kalender FH Kiel</h1>
+            <a href="/index.html">
+                <h1>FH Kiel Kalender</h1>
+            </a>
 
-            <h2>
-                Hinweis: Es wurde kein Plan auf Richtigkeit überprüft! Es wird keine Haftung
-                übernommen.
-            </h2>
-
-            <h2>
-                <b
-                    >Alle Pläne die vor dem 02.03.2023 um 18:00 importiert wurden, haben falsche
-                    Daten. Unbedingt durch die aktuelle Version ersetzten
-                </b>
-            </h2>
-
-            <h3>Anmerkungen</h3>
-            <ul>
-                <li>
-                    Bitte prüft den Plan vor der Nutzung auf Richtigkeit. Nutzt hierzu bitte die
-                    <a
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        href="https://www.fh-kiel.de/fachbereiche/informatik-und-elektrotechnik/studiengaenge/uebergreifende-informationen/infos-fuer-studierende/veranstaltungen-sommersemester/"
-                        >offiziellen Pläne</a
-                    >
-                    der FH Kiel. Bei gefundenen Fehlern gebt mir bitte per Mail (<a
-                        href="mailto:jon.haase@student.fh-kiel.de"
-                        >jon.haase@student.fh-kiel.de</a
-                    >) Bescheid.
-                </li>
-                <li>
-                    Wenn ihr ein Update des Kalenders macht, löscht bitte euren Browsercache, damit
-                    die Änderungen angezeigt werden.
-                </li>
-                <li>
-                    Ich würde mich über Untersützung bei dem Projekt freuen, gerne auch per Mail
-                    melden.
-                </li>
-                <li>
-                    Den Quellcode findet ihr auf
-                    <a
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        href="https://github.com/sleepsleeprepeat/fh-kalender"
-                        >Github</a
-                    >. Bitte beachtet, dass ich kein Informatiker bin und der Code daher nicht schön
-                    ist oder irgendwelchen Richtlinien folgt. Für Tipps und Verbessungsvorschläge
-                    bin ich dankbar.
-                </li>
-            </ul>
+            <div class="grid">
+                <a href="fb_iue.html" role="button" class="contrast">
+                    Elektrotechnik und Informatik
+                </a>
+                <a href="fb_maschinen.html" role="button" class="contrast">Maschienen&shy;wesen</a>
+                <a href="fb_medien.html" role="button" class="contrast"> Medien / Bauwesen </a>
+                <a href="fb_arbeit.html" role="button" class="contrast">
+                    Soziale Arbeit und Gesundheit
+                </a>
+                <a href="fb_wirtschaft.html" role="button" class="contrast">Wirtschaft</a>
+            </div>
         </header>
 
         <main class="container">
-            <hr />
-            <br />
-            <h3>2. Semester</h3>
+            <h3>Anmerkungen</h3>
 
-            <h5>Elektrotechnik</h5>
-            <ul>
-                <li><a href="assets/2_e-technik_1.ics">Elektrotechnik Gruppe 1</a></li>
-                <li><a href="assets/2_e-technik_2.ics">Elektrotechnik Gruppe 2</a></li>
-                <li><a href="assets/2_e-technik_3.ics">Elektrotechnik Gruppe 3</a></li>
-                <li><a href="assets/2_e-technik_4.ics">Elektrotechnik Gruppe 4</a></li>
-            </ul>
+            <p>
+                Bitte prüft den Plan vor der Nutzung auf Richtigkeit. Nutzt hierzu bitte die
+                <a
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    href="https://www.fh-kiel.de/fachbereiche/informatik-und-elektrotechnik/studiengaenge/uebergreifende-informationen/infos-fuer-studierende/veranstaltungen-sommersemester/"
+                    >offiziellen Pläne</a
+                >
+                der FH Kiel. Bei gefundenen Fehlern gebt mir bitte per Mail (<a
+                    href="mailto:jon.haase@student.fh-kiel.de"
+                    >jon.haase@student.fh-kiel.de</a
+                >) Bescheid.
+            </p>
 
-            <h5>Informatik</h5>
-            <ul>
-                <li><a href="assets/2_inf_1.ics">Informatik Gruppe 1</a></li>
-                <li><a href="assets/2_inf_2.ics">Informatik Gruppe 2</a></li>
-                <li><a href="assets/2_inf_3.ics">Informatik Gruppe 3</a></li>
-                <li><a href="assets/2_inf_4.ics">Informatik Gruppe 4</a></li>
-                <li><a href="assets/2_inf_5.ics">Informatik Gruppe 5</a></li>
-            </ul>
-
-            <h5>Mechatronik</h5>
-            <ul>
-                <li><a href="assets/2_mech_1.ics">Mechatronik Gruppe 1</a></li>
-                <li><a href="assets/2_mech_2.ics">Mechatronik Gruppe 2</a></li>
-            </ul>
-
-            <h5>Medieningenieur</h5>
-            <ul>
-                <li><a href="assets2_ming_1.ics">Medieningenieur Gruppe 1</a></li>
-                <li><a href="assets2_ming_2.ics">Medieningenieur Gruppe 2</a></li>
-                <li><a href="assets2_ming_3.ics">Medieningenieur Gruppe 3</a></li>
-            </ul>
-
-            <h5>Wirtschaftsingenieurwesen</h5>
-            <ul>
-                <li><a href="assets/2_wing_1.ics">Wirtschaftsingenieurwesen Gruppe 1</a></li>
-                <li><a href="assets/2_wing_2.ics">Wirtschaftsingenieurwesen Gruppe 2</a></li>
-                <li><a href="assets/2_wing_3.ics">Wirtschaftsingenieurwesen Gruppe 3</a></li>
-            </ul>
-
-            <hr />
-            <h3>4. Semester</h3>
-
-            <h5>Elektrotechnik</h5>
-            <ul>
-                <li><a href="assets/4_e-technik_e_1.ics">Energietechnik Gruppe 1</a></li>
-                <li><a href="assets/4_e-technik_i_1.ics">Technische Informatik Gruppe 1 </a></li>
-                <li><a href="assets/4_e-technik_k_1.ics">Kommunikationstechnik Gruppe 1</a></li>
-                <li><a href="assets/4_e-technik_k_2.ics">Kommunikationstechnik Gruppe 2</a></li>
-            </ul>
-
-            <h5>Informatik</h5>
-            <ul>
-                <li><a href="assets/4_inf_ae_1.ics">Anwendungsentwickelung Gruppe 1</a></li>
-                <li><a href="assets/4_inf_ae_2.ics">Anwendungsentwickelung Gruppe 2</a></li>
-                <li><a href="assets/4_inf_ae_3.ics">Anwendungsentwickelung Gruppe 3</a></li>
-                <li><a href="assets/4_inf_ki_1.ics">Künstliche Intelligenz Gruppe 1</a></li>
-            </ul>
-
-            <h5>Mechatronik</h5>
-            <ul>
-                <li><a href="assets/4_mech_1.ics">Mechatronik Gruppe 1</a></li>
-                <li><a href="assets/4_mech_2.ics">Mechatronik Gruppe 2</a></li>
-                <li><a href="assets/4_mech_3.ics">Mechatronik Gruppe 2</a></li>
-            </ul>
-
-            <h5>Medieningenieur</h5>
-            <ul>
-                <li><a href="assets/4_ming_1.ics">Medieningenieur Gruppe 1</a></li>
-                <li><a href="assets/4_ming_2.ics">Medieningenieur Gruppe 2</a></li>
-                <li><a href="assets/4_ming_3.ics">Medieningenieur Gruppe 3</a></li>
-            </ul>
-
-            <h5>Wirtschaftsingenieurwesen</h5>
-            <ul>
-                <li><a href="assets/4_wing_dw_1.ics">Digitale Wirtschaft Gruppe 1</a></li>
-                <li><a href="assets/4_wing_k_1.ics">Kommunikation Gruppe 1</a></li>
-                <li><a href="assets/4_wing_ne_1.ics">Nachhaltige Energie Gruppe 1</a></li>
-                <li><a href="assets/4_wing_ne_2.ics">Nachhaltige Energie Gruppe 2</a></li>
-            </ul>
+            <p>
+                Den Quellcode findet ihr auf
+                <a
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    href="https://github.com/sleepsleeprepeat/fh-kalender"
+                    >Github</a
+                >. Bitte beachtet, dass ich kein Informatiker bin und der Code daher nicht schön ist
+                oder irgendwelchen Richtlinien folgt. Für Tipps und Verbessungsvorschläge bin ich
+                dankbar.
+            </p>
         </main>
 
-        <footer class="container">Copyright Jon Haase</footer>
+        <footer class="container">
+            <p>Copyright Jon Haase</p>
+        </footer>
     </body>
 </html>
