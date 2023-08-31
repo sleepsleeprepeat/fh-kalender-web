@@ -1,4 +1,4 @@
-name: Build and Publish to Development
+name: Build and Depoly
 
 on:
     push:
@@ -18,7 +18,7 @@ jobs:
               with:
                   node-version: 18
 
-            - name: Build the Vue app
+            - name: Build the Astro app
               run: |
                 npm install
                 npm run build
