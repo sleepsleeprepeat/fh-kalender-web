@@ -18,7 +18,7 @@ jobs:
               with:
                   node-version: 18
 
-            - name: Build the Vue app
+            - name: Build the Astro app
               run: |
                 npm install
                 npm run build
