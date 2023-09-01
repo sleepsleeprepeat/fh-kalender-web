@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Feiertag - Tag der Deutschen Einheit Feiertag - Tag der Deutschen 
+ Einheit
+DTSTART:20231003T083000
+DTEND:20231003T173000
+DESCRIPTION:Prof. Wree\, Prof. Woelk\, Prof. Wehrend\, Prof. Weber\, S. Wa
+ gner\, A. Totzek\, R. Thomsen\, M. Teichmann\, Hr. Söhl\, Prof. Stock\, M
+ . Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwatlo\, H. Schukies\, Pr
+ of. Schramm\, Prof. Schmidt-Rethmeier\, S. Schmarbeck\, Hr. Schmagold\, Hr
+ . Sachse\, J. Rähse\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\,
+  A. Raschke\, Prof. Prochnow\, C-P. Piontke\, Prof. Petersen\, E. Petersen
+ \, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann
+ \, A. Neumann\, A.\, H. Müller\, E. Moritz\, H. Mohs\, Prof. Mielke\, Pro
+ f. Manzke\, Prof. Lüssem\, Prof. Luczak\, M. Lederer\, Prof. Lebert\, Pro
+ f. Krueger\, S. Koß\, C. Kopka\, J. Kohlmorgen\, Prof. Kallies\, L. Jorsw
+ ieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T. Greve\, C. Glüsin
+ g\, G. Gesell\, Prof. Finkemeyer (FB M)\, Prof. Eisele\, H. Eilers\, Prof.
+  Ehlers\, J. Dittmann-Wunderlich\, F. Caspar\, Prof. Brauer\, C. Brauer\, 
+ Prof. Bicakci\, I. Baus\, Prof. Badri-Höher\, Prof. Acker ()
+LOCATION: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Digitaltechnik ÜL-E4W
+DTSTART:20231005T101500
+DTEND:20231005T133000
+DESCRIPTION:M. Sieloff ()
+LOCATION:C13-2.25 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Digitaltechnik ÜL-E3
+DTSTART:20231010T124500
+DTEND:20231010T160000
+DESCRIPTION:M. Sieloff\, Prof. Jetzek ()
+LOCATION:C13-2.25 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Digitaltechnik ÜL-E3
+DTSTART:20231024T124500
+DTEND:20231024T160000
+DESCRIPTION:M. Sieloff\, Prof. Jetzek ()
+LOCATION:C13-2.25 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Digitaltechnik ÜL-E3
+DTSTART:20231121T124500
+DTEND:20231121T160000
+DESCRIPTION:M. Sieloff\, Prof. Jetzek ()
+LOCATION:C13-2.25 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Digitaltechnik ÜL-E3
+DTSTART:20231205T124500
+DTEND:20231205T160000
+DESCRIPTION:M. Sieloff\, Prof. Jetzek ()
+LOCATION:C13-2.25 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Digitaltechnik ÜL-E4W
+DTSTART:20231020T101500
+DTEND:20231020T133000
+DESCRIPTION:M. Sieloff ()
+LOCATION:C13-2.25 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Digitaltechnik ÜL-E4W
+DTSTART:20231117T101500
+DTEND:20231117T133000
+DESCRIPTION:M. Sieloff ()
+LOCATION:C13-2.25 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Digitaltechnik ÜL-E4W
+DTSTART:20231201T101500
+DTEND:20231201T133000
+DESCRIPTION:M. Sieloff ()
+LOCATION:C13-2.25 
+END:VEVENT
+END:VCALENDAR

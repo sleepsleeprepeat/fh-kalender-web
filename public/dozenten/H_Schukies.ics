@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY: ME112-ÜL-1 Regelung elektrischer Antriebe
+DTSTART:20230925T124500
+DTEND:20230925T141500
+DESCRIPTION:Prof. Schümann\, H. Schukies ()
+LOCATION:C06-1.05\, C06-1.17 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: ME112-ÜL-1 Regelung elektrischer Antriebe
+DTSTART:20231009T124500
+DTEND:20231009T141500
+DESCRIPTION:Prof. Schümann\, H. Schukies ()
+LOCATION:C06-1.05\, C06-1.17 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: ME112-ÜL-1 Regelung elektrischer Antriebe
+DTSTART:20231023T124500
+DTEND:20231023T141500
+DESCRIPTION:Prof. Schümann\, H. Schukies ()
+LOCATION:C06-1.05\, C06-1.17 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: ME112-ÜL-1 Regelung elektrischer Antriebe
+DTSTART:20231120T124500
+DTEND:20231120T141500
+DESCRIPTION:Prof. Schümann\, H. Schukies ()
+LOCATION:C06-1.05\, C06-1.17 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: ME112-ÜL-1 Regelung elektrischer Antriebe
+DTSTART:20231204T124500
+DTEND:20231204T141500
+DESCRIPTION:Prof. Schümann\, H. Schukies ()
+LOCATION:C06-1.05\, C06-1.17 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: ME112-ÜL-1 Regelung elektrischer Antriebe
+DTSTART:20231218T124500
+DTEND:20231218T141500
+DESCRIPTION:Prof. Schümann\, H. Schukies ()
+LOCATION:C06-1.05\, C06-1.17 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: ME112-ÜL-2  Regelung elektrischer Antriebe
+DTSTART:20230926T143000
+DTEND:20230926T160000
+DESCRIPTION:H. Schukies\, Prof. Schümann ()
+LOCATION:C06-1.17\, C06-1.05 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: ME112-ÜL-2  Regelung elektrischer Antriebe
+DTSTART:20231010T143000
+DTEND:20231010T160000
+DESCRIPTION:H. Schukies\, Prof. Schümann ()
+LOCATION:C06-1.17\, C06-1.05 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: ME112-ÜL-2  Regelung elektrischer Antriebe
+DTSTART:20231024T143000
+DTEND:20231024T160000
+DESCRIPTION:H. Schukies\, Prof. Schümann ()
+LOCATION:C06-1.17\, C06-1.05 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: ME112-ÜL-2  Regelung elektrischer Antriebe
+DTSTART:20231121T143000
+DTEND:20231121T160000
+DESCRIPTION:H. Schukies\, Prof. Schümann ()
+LOCATION:C06-1.17\, C06-1.05 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: ME112-ÜL-2  Regelung elektrischer Antriebe
+DTSTART:20231205T143000
+DTEND:20231205T160000
+DESCRIPTION:H. Schukies\, Prof. Schümann ()
+LOCATION:C06-1.17\, C06-1.05 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: ME112-ÜL-2  Regelung elektrischer Antriebe
+DTSTART:20231219T143000
+DTEND:20231219T160000
+DESCRIPTION:H. Schukies\, Prof. Schümann ()
+LOCATION:C06-1.17\, C06-1.05 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feiertag - Tag der Deutschen Einheit Feiertag - Tag der Deutschen 
+ Einheit
+DTSTART:20231003T083000
+DTEND:20231003T173000
+DESCRIPTION:Prof. Wree\, Prof. Woelk\, Prof. Wehrend\, Prof. Weber\, S. Wa
+ gner\, A. Totzek\, R. Thomsen\, M. Teichmann\, Hr. Söhl\, Prof. Stock\, M
+ . Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwatlo\, H. Schukies\, Pr
+ of. Schramm\, Prof. Schmidt-Rethmeier\, S. Schmarbeck\, Hr. Schmagold\, Hr
+ . Sachse\, J. Rähse\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\,
+  A. Raschke\, Prof. Prochnow\, C-P. Piontke\, Prof. Petersen\, E. Petersen
+ \, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann
+ \, A. Neumann\, A.\, H. Müller\, E. Moritz\, H. Mohs\, Prof. Mielke\, Pro
+ f. Manzke\, Prof. Lüssem\, Prof. Luczak\, M. Lederer\, Prof. Lebert\, Pro
+ f. Krueger\, S. Koß\, C. Kopka\, J. Kohlmorgen\, Prof. Kallies\, L. Jorsw
+ ieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T. Greve\, C. Glüsin
+ g\, G. Gesell\, Prof. Finkemeyer (FB M)\, Prof. Eisele\, H. Eilers\, Prof.
+  Ehlers\, J. Dittmann-Wunderlich\, F. Caspar\, Prof. Brauer\, C. Brauer\, 
+ Prof. Bicakci\, I. Baus\, Prof. Badri-Höher\, Prof. Acker ()
+LOCATION: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Grundlagen der Leistungselektronik-ÜL-W1
+DTSTART:20231117T083000
+DTEND:20231117T114500
+DESCRIPTION:R. Raßmann\, H. Schukies ()
+LOCATION:C06-1.21 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Grundlagen der Leistungselektronik-ÜL-W1
+DTSTART:20231201T083000
+DTEND:20231201T114500
+DESCRIPTION:R. Raßmann\, H. Schukies ()
+LOCATION:C06-1.21 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Grundlagen der Leistungselektronik-ÜL-W1
+DTSTART:20231215T083000
+DTEND:20231215T114500
+DESCRIPTION:R. Raßmann\, H. Schukies ()
+LOCATION:C06-1.21 
+END:VEVENT
+END:VCALENDAR
