@@ -18,35 +18,35 @@ DESCRIPTION:Prof. Wree\, Prof. Woelk\, Prof. Wehrend\, Prof. Weber\, S. Wa
  inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T. Greve\, C. Glüsin
  g\, G. Gesell\, Prof. Finkemeyer (FB M)\, Prof. Eisele\, H. Eilers\, Prof.
   Ehlers\, J. Dittmann-Wunderlich\, F. Caspar\, Prof. Brauer\, C. Brauer\, 
- Prof. Bicakci\, I. Baus\, Prof. Badri-Höher\, Prof. Acker ()
+ Prof. Bicakci\, I. Baus\, Prof. Badri-Höher\, Prof. Acker
 LOCATION: 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: XFÜH  Mitarbeiterführung
 DTSTART:20231007T090000
 DTEND:20231007T170000
-DESCRIPTION:Prof. Krueger ()
+DESCRIPTION:Prof. Krueger
 LOCATION:C22-0.01 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: XFÜH  Mitarbeiterführung
 DTSTART:20231008T090000
 DTEND:20231008T170000
-DESCRIPTION:Prof. Krueger ()
+DESCRIPTION:Prof. Krueger
 LOCATION:C22-0.01 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: XZEIT  Zeitmanagement
 DTSTART:20231125T090000
 DTEND:20231125T170000
-DESCRIPTION:Prof. Krueger ()
+DESCRIPTION:Prof. Krueger
 LOCATION:C22-0.01 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: XZEIT  Zeitmanagement
 DTSTART:20231126T090000
 DTEND:20231126T170000
-DESCRIPTION:Prof. Krueger ()
+DESCRIPTION:Prof. Krueger
 LOCATION:C22-0.01 
 END:VEVENT
 END:VCALENDAR
