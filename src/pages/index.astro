@@ -3,16 +3,34 @@ import Layout from "../layouts/Layout.astro";
 ---
 
 <Layout title="">
-    <h2>Anmerkungen</h2>
+    <h2>Updates</h2>
 
-    <h3>
-        In Dateien die vor Mittwoch dem 06.09.2023 um 22:00 Uhr heruntergeladen wurden, gibt es
-        systematische Fehler! <br />
-         Bitte ladet die Dateien erneut herunter, löscht die alten Kalender und importiert euren
-        Stundenplan erneut. <br />
-         Bitte löscht vor dem herunterladen des neuen Kalenders euren Browsercache.
-    </h3>
+    <h3>Bitte überprüft regelmäßig, ob es Updates gibt.</h3>
+    <ul>
+        <li>
+            <strong>10.09.2023 - Anpassung an den iCalender-Spec</strong>
+            <p>
+                Die Dateien wurden angepasst um den iCalender-Anforderungen zu entsprechen.
+                Validiert wurde dies mit dem <a href="https://icalendar.org/validator.html"
+                    >iCalendar-Validator</a
+                >. Falls es Probleme mit dem importieren in den eigenen Kalender gab, sollte diese
+                nun behoben sein. <br />
+                 Es ist kein erneuter Import notwendig, wenn dieser bereits erfolgreich war.
+            </p>
+        </li>
+        <li>
+            <strong>06.09.2023 - inhaltlicher Fehler behoben</strong>
+            <p>
+                In Dateien die vor Mittwoch dem 06.09.2023 um 22:00 Uhr heruntergeladen wurden, gibt
+                es systematische Fehler! <br />
+                 Bitte ladet die Dateien erneut herunter, löscht die alten Kalender und importiert
+                euren Stundenplan erneut. <br />
+                 Bitte löscht vor dem herunterladen des neuen Kalenders euren Browsercache.
+            </p>
+        </li>
+    </ul>
 
+    <h2>Hinweise</h2>
     <p>
         <strong>Es gibt keine Haftung für die Richtigkeit der Pläne!</strong>
     </p>
