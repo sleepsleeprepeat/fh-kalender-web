@@ -1,0 +1,2 @@
+# keep ics files with CRLF line endings
+*.ics text eol=crlf
