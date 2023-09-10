@@ -1,0 +1,109 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Feiertag - Tag der Deutschen Einheit Feiertag - Tag der Deutschen 
+ Einheit
+DTSTART:20231003T083000
+DTEND:20231003T173000
+DTSTAMP:20230910T133113Z
+UID:df2ae7c7-ad00-47b8-816e-cbd9293ba125
+DESCRIPTION:Prof. Wree\, Prof. Woelk\, Prof. Wehrend\, Prof. Weber\, S. Wa
+ gner\, A. Totzek\, R. Thomsen\, M. Teichmann\, Hr. Söhl\, Prof. Stock\, M
+ . Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwatlo\, H. Schukies\, Pr
+ of. Schramm\, Prof. Schmidt-Rethmeier\, S. Schmarbeck\, Hr. Schmagold\, Hr
+ . Sachse\, J. Rähse\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\,
+  A. Raschke\, Prof. Prochnow\, C-P. Piontke\, Prof. Petersen\, E. Petersen
+ \, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann
+ \, A. Neumann\, A.\, H. Müller\, E. Moritz\, H. Mohs\, Prof. Mielke\, Pro
+ f. Manzke\, Prof. Lüssem\, Prof. Luczak\, M. Lederer\, Prof. Lebert\, Pro
+ f. Krueger\, S. Koß\, C. Kopka\, J. Kohlmorgen\, Prof. Kallies\, L. Jorsw
+ ieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T. Greve\, C. Glüsin
+ g\, G. Gesell\, Prof. Finkemeyer (FB M)\, Prof. Eisele\, H. Eilers\, Prof.
+  Ehlers\, J. Dittmann-Wunderlich\, F. Caspar\, Prof. Brauer\, C. Brauer\, 
+ Prof. Bicakci\, I. Baus\, Prof. Badri-Höher\, Prof. Acker
+LOCATION: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Grundlagen der Leistungselektronik-ÜL-W2
+DTSTART:20231110T083000
+DTEND:20231110T114500
+DTSTAMP:20230910T133113Z
+UID:7ddc820f-b20f-42ab-959e-64b324421f82
+DESCRIPTION:S. Schmarbeck\, R. Raßmann
+LOCATION:C06-1.21 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Grundlagen der Leistungselektronik-ÜL-W2
+DTSTART:20231124T083000
+DTEND:20231124T114500
+DTSTAMP:20230910T133113Z
+UID:66cdd303-9ecc-4dcd-9131-282688dca7ea
+DESCRIPTION:S. Schmarbeck\, R. Raßmann
+LOCATION:C06-1.21 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Grundlagen der Leistungselektronik-ÜL-W2
+DTSTART:20231208T083000
+DTEND:20231208T114500
+DTSTAMP:20230910T133113Z
+UID:44bb4f76-f48a-4a18-b672-858f2f200127
+DESCRIPTION:S. Schmarbeck\, R. Raßmann
+LOCATION:C06-1.21 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Grundlagen der Leistungselektronik-ÜL-W1
+DTSTART:20231117T083000
+DTEND:20231117T114500
+DTSTAMP:20230910T133113Z
+UID:911b1372-da29-403c-ab9e-417c0d190352
+DESCRIPTION:R. Raßmann\, H. Schukies
+LOCATION:C06-1.21 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Grundlagen der Leistungselektronik-ÜL-W1
+DTSTART:20231201T083000
+DTEND:20231201T114500
+DTSTAMP:20230910T133113Z
+UID:c9da9cb2-6fa5-40ea-abc0-a010b2da9ff1
+DESCRIPTION:R. Raßmann\, H. Schukies
+LOCATION:C06-1.21 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Grundlagen der Leistungselektronik-ÜL-W1
+DTSTART:20231215T083000
+DTEND:20231215T114500
+DTSTAMP:20230910T133113Z
+UID:b151c44c-dd71-41de-8c83-32c9e76aeb7c
+DESCRIPTION:R. Raßmann\, H. Schukies
+LOCATION:C06-1.21 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Grundlagen der Leistungselektronik-ÜL-E1
+DTSTART:20231113T101500
+DTEND:20231113T133000
+DTSTAMP:20230910T133113Z
+UID:4d4110bb-5005-4f8a-a7f1-242244d02c4a
+DESCRIPTION:R. Raßmann\, S. Schmarbeck
+LOCATION:C06-1.21 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Grundlagen der Leistungselektronik-ÜL-E1
+DTSTART:20231127T101500
+DTEND:20231127T133000
+DTSTAMP:20230910T133113Z
+UID:91861077-890a-4420-a138-80ae0fbc439a
+DESCRIPTION:R. Raßmann\, S. Schmarbeck
+LOCATION:C06-1.21 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Grundlagen der Leistungselektronik-ÜL-E1
+DTSTART:20231211T101500
+DTEND:20231211T133000
+DTSTAMP:20230910T133113Z
+UID:9884ccaf-5af1-4b72-ac49-386d3712c55c
+DESCRIPTION:R. Raßmann\, S. Schmarbeck
+LOCATION:C06-1.21 
+END:VEVENT
+END:VCALENDAR

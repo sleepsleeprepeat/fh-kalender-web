@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY: XGRF Gründungs- organisation
+DTSTART:20230915T083000
+DTEND:20230915T114500
+DTSTAMP:20230910T133113Z
+UID:8e77a2f9-b51f-4703-aa6c-ae4b17f592e2
+DESCRIPTION:H. Mohs
+LOCATION:C13-1.20 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: XGRF Gründungs- organisation
+DTSTART:20230922T083000
+DTEND:20230922T114500
+DTSTAMP:20230910T133113Z
+UID:e744a538-06ca-4b67-b9f0-81ef126fca3b
+DESCRIPTION:H. Mohs
+LOCATION:C13-1.20 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: XGRF Gründungs- organisation
+DTSTART:20230929T083000
+DTEND:20230929T114500
+DTSTAMP:20230910T133113Z
+UID:593891f2-6adf-43fc-bc3c-5cb3bc55d848
+DESCRIPTION:H. Mohs
+LOCATION:C13-1.20 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: XGRF Gründungs- organisation
+DTSTART:20231013T083000
+DTEND:20231013T114500
+DTSTAMP:20230910T133113Z
+UID:18526a00-a41d-40b9-b9b0-7d201068b3ac
+DESCRIPTION:H. Mohs
+LOCATION:C13-1.20 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: XGRF Gründungs- organisation
+DTSTART:20231110T083000
+DTEND:20231110T114500
+DTSTAMP:20230910T133113Z
+UID:686b2151-1992-4b79-8783-8a5845e861ac
+DESCRIPTION:H. Mohs
+LOCATION:C13-1.20 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: XGRF Gründungs- organisation
+DTSTART:20231117T083000
+DTEND:20231117T114500
+DTSTAMP:20230910T133113Z
+UID:c9a407cd-d3ef-4dcf-b6e5-1a6eb5ab5aad
+DESCRIPTION:H. Mohs
+LOCATION:C13-1.20 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: XGRF Gründungs- organisation
+DTSTART:20231124T083000
+DTEND:20231124T114500
+DTSTAMP:20230910T133113Z
+UID:c7ac9f48-6c07-4707-a5df-420c62668eb4
+DESCRIPTION:H. Mohs
+LOCATION:C13-1.20 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: XGRF Gründungs- organisation
+DTSTART:20231201T083000
+DTEND:20231201T114500
+DTSTAMP:20230910T133113Z
+UID:9200a5bf-6bf7-4d7d-82cf-1d171c6218d7
+DESCRIPTION:H. Mohs
+LOCATION:C13-1.20 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: XGRF Gründungs- organisation
+DTSTART:20231208T083000
+DTEND:20231208T114500
+DTSTAMP:20230910T133113Z
+UID:fd847c0a-c7a3-4397-82ac-40a2f2a9fe20
+DESCRIPTION:H. Mohs
+LOCATION:C13-1.20 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: XGRF Gründungs- organisation
+DTSTART:20231215T083000
+DTEND:20231215T114500
+DTSTAMP:20230910T133113Z
+UID:3da2e31f-04ba-401d-85ae-f68a0938756c
+DESCRIPTION:H. Mohs
+LOCATION:C13-1.20 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feiertag - Tag der Deutschen Einheit Feiertag - Tag der Deutschen 
+ Einheit
+DTSTART:20231003T083000
+DTEND:20231003T173000
+DTSTAMP:20230910T133113Z
+UID:7e395fe2-4ddc-420c-a2f1-7a1a05277da9
+DESCRIPTION:Prof. Wree\, Prof. Woelk\, Prof. Wehrend\, Prof. Weber\, S. Wa
+ gner\, A. Totzek\, R. Thomsen\, M. Teichmann\, Hr. Söhl\, Prof. Stock\, M
+ . Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwatlo\, H. Schukies\, Pr
+ of. Schramm\, Prof. Schmidt-Rethmeier\, S. Schmarbeck\, Hr. Schmagold\, Hr
+ . Sachse\, J. Rähse\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\,
+  A. Raschke\, Prof. Prochnow\, C-P. Piontke\, Prof. Petersen\, E. Petersen
+ \, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann
+ \, A. Neumann\, A.\, H. Müller\, E. Moritz\, H. Mohs\, Prof. Mielke\, Pro
+ f. Manzke\, Prof. Lüssem\, Prof. Luczak\, M. Lederer\, Prof. Lebert\, Pro
+ f. Krueger\, S. Koß\, C. Kopka\, J. Kohlmorgen\, Prof. Kallies\, L. Jorsw
+ ieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T. Greve\, C. Glüsin
+ g\, G. Gesell\, Prof. Finkemeyer (FB M)\, Prof. Eisele\, H. Eilers\, Prof.
+  Ehlers\, J. Dittmann-Wunderlich\, F. Caspar\, Prof. Brauer\, C. Brauer\, 
+ Prof. Bicakci\, I. Baus\, Prof. Badri-Höher\, Prof. Acker
+LOCATION: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: XGRF Gründungs- organisation
+DTSTART:20231006T083000
+DTEND:20231006T114500
+DTSTAMP:20230910T133113Z
+UID:a518cfae-8ed1-4adb-8631-f9f4ce1296e7
+DESCRIPTION:H. Mohs
+LOCATION:C13-1.20 
+END:VEVENT
+END:VCALENDAR

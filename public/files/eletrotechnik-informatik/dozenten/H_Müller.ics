@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY: Automatisierungs- technik-ÜL-3 (WM)
+DTSTART:20230929T124500
+DTEND:20230929T160000
+DTSTAMP:20230910T133113Z
+UID:1ce9ba2b-e16f-4790-a649-f85a978a745a
+DESCRIPTION:C. Brauer\, M. Lederer\, H. Müller (6.Termin_nach_Abspr.)
+LOCATION:C12-1.25 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Automatisierungs- technik-ÜL-3 (WM)
+DTSTART:20231013T124500
+DTEND:20231013T160000
+DTSTAMP:20230910T133113Z
+UID:e8950eb2-a2bc-4e4c-a4be-b0cceeef9811
+DESCRIPTION:C. Brauer\, M. Lederer\, H. Müller (6.Termin_nach_Abspr.)
+LOCATION:C12-1.25 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Automatisierungs- technik-ÜL-3 (WM)
+DTSTART:20231110T124500
+DTEND:20231110T160000
+DTSTAMP:20230910T133113Z
+UID:a2779716-2638-4799-86d5-6f5c7f7f1c36
+DESCRIPTION:C. Brauer\, M. Lederer\, H. Müller (6.Termin_nach_Abspr.)
+LOCATION:C12-1.25 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Automatisierungs- technik-ÜL-3 (WM)
+DTSTART:20231124T124500
+DTEND:20231124T160000
+DTSTAMP:20230910T133113Z
+UID:e1e16670-ec5d-4185-93f3-eb888f380399
+DESCRIPTION:C. Brauer\, M. Lederer\, H. Müller (6.Termin_nach_Abspr.)
+LOCATION:C12-1.25 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Automatisierungs- technik-ÜL-3 (WM)
+DTSTART:20231208T124500
+DTEND:20231208T160000
+DTSTAMP:20230910T133113Z
+UID:85309c52-18dd-481d-988f-b75f9a4ed898
+DESCRIPTION:C. Brauer\, M. Lederer\, H. Müller (6.Termin_nach_Abspr.)
+LOCATION:C12-1.25 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feiertag - Tag der Deutschen Einheit Feiertag - Tag der Deutschen 
+ Einheit
+DTSTART:20231003T083000
+DTEND:20231003T173000
+DTSTAMP:20230910T133113Z
+UID:c26c8f11-e406-4dab-a378-ed3f3afb124f
+DESCRIPTION:Prof. Wree\, Prof. Woelk\, Prof. Wehrend\, Prof. Weber\, S. Wa
+ gner\, A. Totzek\, R. Thomsen\, M. Teichmann\, Hr. Söhl\, Prof. Stock\, M
+ . Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwatlo\, H. Schukies\, Pr
+ of. Schramm\, Prof. Schmidt-Rethmeier\, S. Schmarbeck\, Hr. Schmagold\, Hr
+ . Sachse\, J. Rähse\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\,
+  A. Raschke\, Prof. Prochnow\, C-P. Piontke\, Prof. Petersen\, E. Petersen
+ \, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann
+ \, A. Neumann\, A.\, H. Müller\, E. Moritz\, H. Mohs\, Prof. Mielke\, Pro
+ f. Manzke\, Prof. Lüssem\, Prof. Luczak\, M. Lederer\, Prof. Lebert\, Pro
+ f. Krueger\, S. Koß\, C. Kopka\, J. Kohlmorgen\, Prof. Kallies\, L. Jorsw
+ ieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T. Greve\, C. Glüsin
+ g\, G. Gesell\, Prof. Finkemeyer (FB M)\, Prof. Eisele\, H. Eilers\, Prof.
+  Ehlers\, J. Dittmann-Wunderlich\, F. Caspar\, Prof. Brauer\, C. Brauer\, 
+ Prof. Bicakci\, I. Baus\, Prof. Badri-Höher\, Prof. Acker
+LOCATION: 
+END:VEVENT
+END:VCALENDAR
