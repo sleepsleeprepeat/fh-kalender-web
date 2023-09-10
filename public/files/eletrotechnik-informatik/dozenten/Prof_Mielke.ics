@@ -1,9 +1,13 @@
 BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
 BEGIN:VEVENT
 SUMMARY:Feiertag - Tag der Deutschen Einheit Feiertag - Tag der Deutschen 
  Einheit
 DTSTART:20231003T083000
 DTEND:20231003T173000
+DTSTAMP:20230910T133113Z
+UID:15629731-d1e7-4cfc-8d63-04cad58e5ccf
 DESCRIPTION:Prof. Wree\, Prof. Woelk\, Prof. Wehrend\, Prof. Weber\, S. Wa
  gner\, A. Totzek\, R. Thomsen\, M. Teichmann\, Hr. Söhl\, Prof. Stock\, M
  . Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwatlo\, H. Schukies\, Pr

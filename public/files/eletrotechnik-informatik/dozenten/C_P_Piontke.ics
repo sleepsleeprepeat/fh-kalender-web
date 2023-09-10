@@ -1,9 +1,13 @@
 BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
 BEGIN:VEVENT
 SUMMARY:Feiertag - Tag der Deutschen Einheit Feiertag - Tag der Deutschen 
  Einheit
 DTSTART:20231003T083000
 DTEND:20231003T173000
+DTSTAMP:20230910T133113Z
+UID:d52c08d9-b58d-406a-a9e1-681de1c5feba
 DESCRIPTION:Prof. Wree\, Prof. Woelk\, Prof. Wehrend\, Prof. Weber\, S. Wa
  gner\, A. Totzek\, R. Thomsen\, M. Teichmann\, Hr. Söhl\, Prof. Stock\, M
  . Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwatlo\, H. Schukies\, Pr
@@ -25,6 +29,8 @@ BEGIN:VEVENT
 SUMMARY: XPKE  Persönlichkeits- entwicklung
 DTSTART:20231202T090000
 DTEND:20231202T170000
+DTSTAMP:20230910T133113Z
+UID:e3743de1-df3f-46dd-a14a-073ab989e13b
 DESCRIPTION:C-P. Piontke
 LOCATION:C22-0.01 
 END:VEVENT
@@ -32,6 +38,8 @@ BEGIN:VEVENT
 SUMMARY: XPKE  Persönlichkeits- entwicklung
 DTSTART:20231203T090000
 DTEND:20231203T170000
+DTSTAMP:20230910T133113Z
+UID:d918354b-16dc-4b14-9cbd-425c84d80ad4
 DESCRIPTION:C-P. Piontke
 LOCATION:C22-0.01 
 END:VEVENT
