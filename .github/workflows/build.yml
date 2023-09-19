@@ -4,7 +4,7 @@ on: [push]
 
 jobs:
     deploy-frontend:
-        name: Build and Deploy FH Kalender
+        name: Build and Reploy FH Kalender
         runs-on: ubuntu-latest
 
         steps:
