@@ -1,4 +1,4 @@
-name: Build and Depoly
+name: Build and Depoly V2
 
 on: [push]
 
@@ -41,5 +41,5 @@ jobs:
                   password: ${{ secrets.PASSWORD }}
                   compress: true
                   removeExtraFilesOnServer: true
-                  localDir: './dist/*'
+                  localDir: 'dist'
                   remoteDir: ${{ secrets.REMOTE_DIR }}
