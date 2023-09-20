@@ -3,13 +3,12 @@ name: Build and Depoly
 on: [push]
 
 jobs:
-    deploy-frontend:
-        name: Build and Reploy FH Kalender
+    build:
         runs-on: ubuntu-latest
 
         steps:
             - name: Checkout code
-              uses: actions/checkout@v3
+              uses: actions/checkout@v4
 
             - name: Setup Node.js 18
               uses: actions/setup-node@v2
@@ -18,10 +17,10 @@ jobs:
 
             - name: Build the Astro app
               run: |
-                npm install
-                npm run build
+                  npm install
+                  npm run build
 
-            - name: Upload via SFTP
+            - name: Upload via SFTP to production server
               uses: wlixcc/SFTP-Deploy-Action@v1.2.4
               with:
                   server: ${{ secrets.SFTP_SERVER }}
@@ -31,4 +30,16 @@ jobs:
                   remote_path: ${{ secrets.SFTP_SERVER_DIR }}
                   local_path: ./dist/*
                   sftp_only: true
-                  sftpArgs: '-o ConnectTimeout=5'
+                  sftpArgs: "-o ConnectTimeout=5"
+
+            - name: Upload via SFTP to dev server
+              uses: wangyucode/sftp-upload-action@v2.0.2
+              with:
+                  host: ${{ secrets.HOST }}
+                  port: ${{ secrets.PORT }}
+                  username: ${{ secrets.USER }}
+                  password: ${{ secrets.PASSWORD }}
+                  compress: true
+                  removeExtraFilesOnServer: true
+                  localDir: './dist/*'
+                  remoteDir: ${{ secrets.REMOTE_DIR }}
