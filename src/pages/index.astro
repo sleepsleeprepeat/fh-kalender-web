@@ -1,33 +1,43 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import Status from "../components/Status.astro";
 ---
 
 <Layout title="">
-    <h2>
-        Die Kalender zu dem kommenden Semester werdern morgen (23.02.2024)
-        veröffentlicht.
-    </h2>
+    <h2>Aktuelle Informationen</h2>
+    <blockquote>
+        Die Pläne für den Fachbereich Informatik und Elektrotechnik werden am
+        23.02.2024 veröffentlicht.
+    </blockquote>
 
-    <h3 style="color:rgb(203, 26, 26)">
-        Es gibt keine Haftung für die Richtigkeit der Pläne!
-    </h3>
-
-    <h3>Bitte überprüft regelmäßig, ob es Änderungen gibt.</h3>
-
-    <p>
-        Bitte prüft den Plan vor der Nutzung auf Richtigkeit. Nutzt hierzu bitte
-        die
-        <a
-            target="
-        _blank"
-            rel="noopener noreferrer"
-            href="https://www.fh-kiel.de/fachbereiche/informatik-und-elektrotechnik/studiengaenge/uebergreifende-informationen/infos-fuer-studierende/veranstaltungen-sommersemester/"
-        >
-            offiziellen Pläne
-        </a>
-        der FH Kiel. Bei gefundenen Fehlern gebt mir bitte per Mail (<a
-            href="mailto:jon.haase@student.fh-kiel.de"
-            >jon.haase@student.fh-kiel.de</a
-        >) Bescheid.
-    </p>
+    <h2>Status</h2>
+    <Status
+        entries={[
+            {
+                status: "yellow",
+                department: "Informatik und Elektrotechnik",
+                notes: "Veröffentlichung am 23.02.2024",
+            },
+            {
+                status: "yellow",
+                department: "Wirtschaft und Recht",
+                notes: "Veröffentlichung vorraussichtlich zwischen 23.02.2024 und 01.03.2024",
+            },
+            {
+                status: "orange",
+                department: "Medien & Bauingenieurwesen",
+                notes: "Veröffentlichungsdatum derzeit noch unbekannt",
+            },
+            {
+                status: "red",
+                department: "Maschienenbau",
+                notes: "Keine Veröffenlichung in diesem Semester",
+            },
+            {
+                status: "red",
+                department: "Soziale Arbeit & Gesundheit",
+                notes: "Keine Veröffenlichung in diesem Semester",
+            },
+        ]}
+    />
 </Layout>

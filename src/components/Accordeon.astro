@@ -1,0 +1,27 @@
+---
+export interface Props {
+    title: string;
+    updateDate: string;
+    items: {
+        label: string;
+        url: string;
+    }[];
+}
+const { title, updateDate, items } = Astro.props;
+---
+
+<details>
+    <summary>
+        <b>{title}</b>
+        <i>(Letzte Änderung am {updateDate})</i>
+    </summary>
+    <ul>
+        {
+            items.map((item) => (
+                <li>
+                    <a href={item.url}>{item.label}</a>
+                </li>
+            ))
+        }
+    </ul>
+</details>

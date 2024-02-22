@@ -1,0 +1,39 @@
+---
+export interface Props {
+    entries: {
+        status: "green" | "yellow" | "orange" | "red";
+        department: string;
+        notes: string;
+    }[];
+}
+
+const { entries } = Astro.props;
+
+const statusColor = {
+    green: "🟢",
+    yellow: "🟡",
+    orange: "🟠",
+    red: "🔴",
+};
+---
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Fachbereich</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        {
+            entries.map((entry) => (
+                <tr>
+                    <td>{statusColor[entry.status]}</td>
+                    <td>{entry.department}</td>
+                    <td>{entry.notes}</td>
+                </tr>
+            ))
+        }
+    </tbody>
+</table>
