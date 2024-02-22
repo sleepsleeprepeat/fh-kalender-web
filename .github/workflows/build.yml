@@ -1,4 +1,4 @@
-name: Build and Depoly V2
+name: Build and Depoly
 
 on: [push]
 
@@ -20,7 +20,7 @@ jobs:
                   npm install
                   npm run build
 
-            - name: Upload via SFTP to dev server
+            - name: Upload via SFTP to server
               uses: wangyucode/sftp-upload-action@v2.0.2
               with:
                   host: ${{ secrets.HOST }}
