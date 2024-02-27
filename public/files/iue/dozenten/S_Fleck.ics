@@ -5,135 +5,179 @@ BEGIN:VEVENT
 SUMMARY:Karfreitag
 DTSTART:20240329T083000
 DTEND:20240329T180000
-DTSTAMP:20240226T225035Z
-UID:e520607d-628d-46fa-8d31-61558a697b39
-DESCRIPTION:Karfreitag__Good_Friday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:04db549c-8066-4586-b31c-b5720181d683
+DESCRIPTION:Karfreitag__Good_FridayProf. Wree\, Prof. Woelk\, Prof. Wellbr
+ ock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Totzek
+ \, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\, Pr
+ of. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S
+ . Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Rie
+ del\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof. P
+ atz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Neuma
+ nn\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, Prof
+ . Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\, 
+ J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\, L
+ . Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J. H
+ offmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T. G
+ reve\, C. Glüsing\, S. Fleck\, Prof. Eisele\, H. Eilers\, Prof. Ehlers\, 
+ J. Dittmann\, F. Caspar\, F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bi
+ cakci\, Prof. Badri-Höher\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ostermontag
 DTSTART:20240401T083000
 DTEND:20240401T180000
-DTSTAMP:20240226T225035Z
-UID:eba81d54-1225-4493-b79e-251ee635d00d
-DESCRIPTION:Ostermontag__Easter_Monday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:b1104218-262a-47ff-9690-3264c24f8595
+DESCRIPTION:Ostermontag__Easter_MondayProf. Wree\, Prof. Woelk\, Prof. Wel
+ lbrock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Tot
+ zek\, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\,
+  Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\
+ , S. Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. 
+ Riedel\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof
+ . Patz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Ne
+ umann\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, P
+ rof. Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka
+ \, J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\
+ , L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J
+ . Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T
+ . Greve\, C. Glüsing\, S. Fleck\, Prof. Finkemeyer (FB M)\, Prof. Eisele\
+ , H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektrische Maschinen ÜL-E1
 DTSTART:20240408T083000
 DTEND:20240408T114500
-DTSTAMP:20240226T225035Z
-UID:3051a6ff-1d9a-4ea3-a897-ffde2b51b3bc
-DESCRIPTION: 
-LOCATION:C06-0.16\, 
+DTSTAMP:20240227T122637Z
+UID:7004a7b5-a8d5-4995-95b5-b62b6291e232
+DESCRIPTION:S. Fleck\, S. Schmarbeck
+LOCATION:C06-0.16
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektrische Maschinen ÜL-E1
 DTSTART:20240422T083000
 DTEND:20240422T114500
-DTSTAMP:20240226T225035Z
-UID:ca259087-4bde-494a-94dc-c40a9880ca64
-DESCRIPTION: 
-LOCATION:C06-0.16\, 
+DTSTAMP:20240227T122637Z
+UID:a434ccdd-a8c8-4d75-99b8-51730e2210f8
+DESCRIPTION:S. Fleck\, S. Schmarbeck
+LOCATION:C06-0.16
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektrische Maschinen ÜL-E1
 DTSTART:20240603T083000
 DTEND:20240603T114500
-DTSTAMP:20240226T225035Z
-UID:8fd10fc8-c165-4187-ba00-4eb2018b97a6
-DESCRIPTION: 
-LOCATION:C06-0.16\, 
+DTSTAMP:20240227T122637Z
+UID:3edb189b-dc52-4436-a2df-6680cdb2c26d
+DESCRIPTION:S. Fleck\, S. Schmarbeck
+LOCATION:C06-0.16
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektrische Maschinen ÜL-E2W
 DTSTART:20240410T083000
 DTEND:20240410T114500
-DTSTAMP:20240226T225035Z
-UID:5f5771ac-9f3b-47eb-b016-5af5eddbfe31
-DESCRIPTION: 
-LOCATION:C06-0.16\, 
+DTSTAMP:20240227T122637Z
+UID:c1e2ac38-c3b4-47cc-b953-4d27d4452748
+DESCRIPTION:S. Schmarbeck\, S. Fleck
+LOCATION:C06-0.16
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektrische Maschinen ÜL-E2W
 DTSTART:20240424T083000
 DTEND:20240424T114500
-DTSTAMP:20240226T225035Z
-UID:419fd05c-9561-40fe-86d0-4ea75b9adf0b
-DESCRIPTION: 
-LOCATION:C06-0.16\, 
+DTSTAMP:20240227T122637Z
+UID:9a535fe3-6cb3-467d-b749-7a0d3b30b4e7
+DESCRIPTION:S. Schmarbeck\, S. Fleck
+LOCATION:C06-0.16
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektrische Maschinen ÜL-E2W
 DTSTART:20240605T083000
 DTEND:20240605T114500
-DTSTAMP:20240226T225035Z
-UID:e939655f-58db-43a3-9dcb-45c161e1a5d6
-DESCRIPTION: 
-LOCATION:C06-0.16\, 
+DTSTAMP:20240227T122637Z
+UID:00c8146c-0e1b-4005-92ad-96e0b9a2fc82
+DESCRIPTION:S. Schmarbeck\, S. Fleck
+LOCATION:C06-0.16
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektrische Maschinen ÜL-W1
 DTSTART:20240415T083000
 DTEND:20240415T114500
-DTSTAMP:20240226T225035Z
-UID:69d9f417-2cbb-4586-ba53-a9e6e9af6a77
-DESCRIPTION: 
-LOCATION:C06-0.16\, 
+DTSTAMP:20240227T122637Z
+UID:290d408e-6371-4433-b41f-a35afcfd84cf
+DESCRIPTION:S. Fleck\, S. Schmarbeck
+LOCATION:C06-0.16
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektrische Maschinen ÜL-W1
 DTSTART:20240513T083000
 DTEND:20240513T114500
-DTSTAMP:20240226T225035Z
-UID:5cb3376b-599b-4633-aa77-4a0685087b56
-DESCRIPTION: 
-LOCATION:C06-0.16\, 
+DTSTAMP:20240227T122637Z
+UID:5e9523a3-5197-479f-906a-b73b1b1d67cc
+DESCRIPTION:S. Fleck\, S. Schmarbeck
+LOCATION:C06-0.16
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektrische Maschinen ÜL-W1
 DTSTART:20240527T083000
 DTEND:20240527T114500
-DTSTAMP:20240226T225035Z
-UID:7be33de7-deb6-42a9-95cf-40cd94287617
-DESCRIPTION: 
-LOCATION:C06-0.16\, 
+DTSTAMP:20240227T122637Z
+UID:f55ca8d5-9ed0-4398-9485-e3993f92aec9
+DESCRIPTION:S. Fleck\, S. Schmarbeck
+LOCATION:C06-0.16
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektrische Maschinen ÜL-W1
 DTSTART:20240610T083000
 DTEND:20240610T114500
-DTSTAMP:20240226T225035Z
-UID:56f3ff85-555e-4ae8-a580-ea3c37a72c88
-DESCRIPTION: 
-LOCATION:C06-0.16\, 
+DTSTAMP:20240227T122637Z
+UID:c11b1c25-9701-46a2-8bfa-b3ddce7ad280
+DESCRIPTION:S. Fleck\, S. Schmarbeck
+LOCATION:C06-0.16
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pfingstmontag
 DTSTART:20240520T083000
 DTEND:20240520T180000
-DTSTAMP:20240226T225035Z
-UID:5e18b4d3-e64f-4957-9131-b6778d094d43
-DESCRIPTION:Pfingstmontag__Whit_Monday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:e7b91b87-ba45-4bf7-9ef5-14c9ccedfd5d
+DESCRIPTION:Pfingstmontag__Whit_MondayProf. Wree\, Prof. Woelk\, Prof. Wel
+ lbrock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Tot
+ zek\, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\,
+  Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\
+ , S. Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. 
+ Riedel\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof
+ . Patz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Ne
+ umann\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, P
+ rof. Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka
+ \, J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\
+ , L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J
+ . Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T
+ . Greve\, C. Glüsing\, S. Fleck\, Prof. Finkemeyer (FB M)\, Prof. Eisele\
+ , H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektrische Maschinen ÜL-E2W
 DTSTART:20240522T083000
 DTEND:20240522T114500
-DTSTAMP:20240226T225035Z
-UID:ad4de9f7-4374-44b5-9ce3-b91f6ac98384
-DESCRIPTION: 
-LOCATION:C06-0.16\, 
+DTSTAMP:20240227T122637Z
+UID:1dc7fc46-5a7b-4157-87df-09c72a91c781
+DESCRIPTION:S. Schmarbeck\, S. Fleck
+LOCATION:C06-0.16
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektrische Maschinen ÜL-E1
 DTSTART:20240617T083000
 DTEND:20240617T114500
-DTSTAMP:20240226T225035Z
-UID:aabdd279-5713-40e3-b942-b598938d791b
-DESCRIPTION: 
-LOCATION:C06-0.16\, 
+DTSTAMP:20240227T122637Z
+UID:aff882e8-c709-42fe-93c5-eff8a722856b
+DESCRIPTION:S. Fleck\, S. Schmarbeck
+LOCATION:C06-0.16
 END:VEVENT
 END:VCALENDAR

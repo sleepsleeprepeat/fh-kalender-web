@@ -5,27 +5,57 @@ BEGIN:VEVENT
 SUMMARY:Ostermontag
 DTSTART:20240401T083000
 DTEND:20240401T180000
-DTSTAMP:20240226T225035Z
-UID:e7e1e8db-5471-4f84-988a-15185b6a5833
-DESCRIPTION:Ostermontag__Easter_Monday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:bb2faf91-c587-434a-90db-4bdcff13c0a9
+DESCRIPTION:Ostermontag__Easter_MondayProf. Wree\, Prof. Woelk\, Prof. Wel
+ lbrock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Tot
+ zek\, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\,
+  Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\
+ , S. Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. 
+ Riedel\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof
+ . Patz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Ne
+ umann\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, P
+ rof. Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka
+ \, J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\
+ , L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J
+ . Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T
+ . Greve\, C. Glüsing\, S. Fleck\, Prof. Finkemeyer (FB M)\, Prof. Eisele\
+ , H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektrotechnik 2  ÜL-E1
 DTSTART:20240404T124500
 DTEND:20240404T160000
-DTSTAMP:20240226T225035Z
-UID:0ec09992-e46d-4173-ad6d-88deeef6e6d5
-DESCRIPTION: 
-LOCATION:C13-1.23\, 
+DTSTAMP:20240227T122637Z
+UID:03b87f90-6b86-45c2-a81d-7e7c47770fdc
+DESCRIPTION:M. Löwe\, A. Raschke
+LOCATION:C13-1.23
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pfingstmontag
 DTSTART:20240520T083000
 DTEND:20240520T180000
-DTSTAMP:20240226T225035Z
-UID:ea20fe79-764f-410c-a87f-4a185f257f78
-DESCRIPTION:Pfingstmontag__Whit_Monday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:160341d1-3872-4b4a-b453-93943f4355b5
+DESCRIPTION:Pfingstmontag__Whit_MondayProf. Wree\, Prof. Woelk\, Prof. Wel
+ lbrock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Tot
+ zek\, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\,
+  Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\
+ , S. Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. 
+ Riedel\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof
+ . Patz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Ne
+ umann\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, P
+ rof. Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka
+ \, J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\
+ , L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J
+ . Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T
+ . Greve\, C. Glüsing\, S. Fleck\, Prof. Finkemeyer (FB M)\, Prof. Eisele\
+ , H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 END:VCALENDAR

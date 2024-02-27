@@ -5,81 +5,125 @@ BEGIN:VEVENT
 SUMMARY:PM103 Advanced Modelling
 DTSTART:20240323T090000
 DTEND:20240323T160000
-DTSTAMP:20240226T225035Z
-UID:628a8011-9ed3-4532-8819-e693e1c93d01
-DESCRIPTION: 
-LOCATION:C12-2.61\, 
+DTSTAMP:20240227T122637Z
+UID:125e6360-dda4-44ad-a4bb-8e4cbb10f5cb
+DESCRIPTION:Prof. Mielke\, Prof. Lüssem
+LOCATION:C12-2.61
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PM103 Advanced Modelling
 DTSTART:20240427T090000
 DTEND:20240427T160000
-DTSTAMP:20240226T225035Z
-UID:fe00fa63-ffa4-4c5f-bfe9-098d008177a9
-DESCRIPTION: 
-LOCATION:C12-2.61\, 
+DTSTAMP:20240227T122637Z
+UID:681c36ef-596e-40c8-a61f-2136adb4c5aa
+DESCRIPTION:Prof. Mielke\, Prof. Lüssem
+LOCATION:C12-2.61
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PM103 Advanced Modelling
 DTSTART:20240322T161500
 DTEND:20240322T193000
-DTSTAMP:20240226T225035Z
-UID:94f92a97-b14a-402e-a222-97cf08798142
-DESCRIPTION: 
-LOCATION:C12-2.61\, 
+DTSTAMP:20240227T122637Z
+UID:bc36b2b0-dd9c-448c-a0b4-cf27a63bd52e
+DESCRIPTION:Prof. Lüssem\, Prof. Mielke
+LOCATION:C12-2.61
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PM103 Advanced Modelling
 DTSTART:20240426T161500
 DTEND:20240426T193000
-DTSTAMP:20240226T225035Z
-UID:53b082f7-2149-47e9-a7be-fd5627fa2334
-DESCRIPTION: 
-LOCATION:C12-2.61\, 
+DTSTAMP:20240227T122637Z
+UID:35707da7-ce8e-4fd6-ab23-d4e693c1aff1
+DESCRIPTION:Prof. Lüssem\, Prof. Mielke
+LOCATION:C12-2.61
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karfreitag
 DTSTART:20240329T083000
 DTEND:20240329T180000
-DTSTAMP:20240226T225035Z
-UID:03fdbdc4-bdcc-40f6-a7e0-49e74ec596b2
-DESCRIPTION:Karfreitag__Good_Friday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:b58e6ad9-b1fd-47cf-9c2c-9a02783fdc7a
+DESCRIPTION:Karfreitag__Good_FridayProf. Wree\, Prof. Woelk\, Prof. Wellbr
+ ock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Totzek
+ \, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\, Pr
+ of. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S
+ . Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Rie
+ del\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof. P
+ atz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Neuma
+ nn\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, Prof
+ . Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\, 
+ J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\, L
+ . Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J. H
+ offmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T. G
+ reve\, C. Glüsing\, S. Fleck\, Prof. Eisele\, H. Eilers\, Prof. Ehlers\, 
+ J. Dittmann\, F. Caspar\, F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bi
+ cakci\, Prof. Badri-Höher\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ostermontag
 DTSTART:20240401T083000
 DTEND:20240401T180000
-DTSTAMP:20240226T225035Z
-UID:2d93f66b-c395-4e6a-84cc-a313b922d51b
-DESCRIPTION:Ostermontag__Easter_Monday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:09950b3f-bc31-4814-a9eb-10c90d504cd8
+DESCRIPTION:Ostermontag__Easter_MondayProf. Wree\, Prof. Woelk\, Prof. Wel
+ lbrock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Tot
+ zek\, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\,
+  Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\
+ , S. Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. 
+ Riedel\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof
+ . Patz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Ne
+ umann\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, P
+ rof. Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka
+ \, J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\
+ , L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J
+ . Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T
+ . Greve\, C. Glüsing\, S. Fleck\, Prof. Finkemeyer (FB M)\, Prof. Eisele\
+ , H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pfingstmontag
 DTSTART:20240520T083000
 DTEND:20240520T180000
-DTSTAMP:20240226T225035Z
-UID:d920d282-bb5c-453a-a04f-a082a6c49c8a
-DESCRIPTION:Pfingstmontag__Whit_Monday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:27b4358b-7ca5-42ab-9d7a-87357a0d9e35
+DESCRIPTION:Pfingstmontag__Whit_MondayProf. Wree\, Prof. Woelk\, Prof. Wel
+ lbrock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Tot
+ zek\, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\,
+  Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\
+ , S. Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. 
+ Riedel\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof
+ . Patz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Ne
+ umann\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, P
+ rof. Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka
+ \, J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\
+ , L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J
+ . Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T
+ . Greve\, C. Glüsing\, S. Fleck\, Prof. Finkemeyer (FB M)\, Prof. Eisele\
+ , H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PM103 Advanced Modelling
 DTSTART:20240615T090000
 DTEND:20240615T160000
-DTSTAMP:20240226T225035Z
-UID:ec170716-aba0-4fc8-896a-124af88e1ea6
-DESCRIPTION: 
-LOCATION:C12-2.61\, 
+DTSTAMP:20240227T122637Z
+UID:c4ef5ed6-57d9-4a91-8d2a-6e779e734c80
+DESCRIPTION:Prof. Mielke
+LOCATION:C12-2.61
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PM103 Advanced Modelling
 DTSTART:20240614T161500
 DTEND:20240614T193000
-DTSTAMP:20240226T225035Z
-UID:7a8e4b26-bfdc-4aac-81a4-3f54880f2d0c
-DESCRIPTION: 
-LOCATION:C12-2.61\, 
+DTSTAMP:20240227T122637Z
+UID:664316b9-7fb4-45a6-aa83-60b95b62b08b
+DESCRIPTION:Prof. Lüssem\, Prof. Mielke
+LOCATION:C12-2.61
 END:VEVENT
 END:VCALENDAR

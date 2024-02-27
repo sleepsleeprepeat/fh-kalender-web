@@ -5,117 +5,161 @@ BEGIN:VEVENT
 SUMMARY:XINT Internetrecht
 DTSTART:20240318T161500
 DTEND:20240318T174500
-DTSTAMP:20240226T225035Z
-UID:68265224-2b74-4527-95c5-c199810e536a
-DESCRIPTION: 
-LOCATION:C13-3.02\, 
+DTSTAMP:20240227T122637Z
+UID:b3583655-b26d-42a4-b16f-df175bed37e9
+DESCRIPTION:M. Robinius
+LOCATION:C13-3.02
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XINT Internetrecht
 DTSTART:20240408T161500
 DTEND:20240408T174500
-DTSTAMP:20240226T225035Z
-UID:c6b844a6-aaf8-4ecf-a6b7-cbc65fc10f64
-DESCRIPTION: 
-LOCATION:C13-3.02\, 
+DTSTAMP:20240227T122637Z
+UID:95acb884-1204-4c9a-8dc0-88b8aa2009ba
+DESCRIPTION:M. Robinius
+LOCATION:C13-3.02
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XINT Internetrecht
 DTSTART:20240415T161500
 DTEND:20240415T174500
-DTSTAMP:20240226T225035Z
-UID:02db778a-497c-4507-ac97-86282df7b503
-DESCRIPTION: 
-LOCATION:C13-3.02\, 
+DTSTAMP:20240227T122637Z
+UID:a4622a14-f23c-45cf-adad-3dee427fe3dd
+DESCRIPTION:M. Robinius
+LOCATION:C13-3.02
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XINT Internetrecht
 DTSTART:20240422T161500
 DTEND:20240422T174500
-DTSTAMP:20240226T225035Z
-UID:67158676-b3ac-4531-b117-41b0c1d0b53d
-DESCRIPTION: 
-LOCATION:C13-3.02\, 
+DTSTAMP:20240227T122637Z
+UID:cf53513d-939c-4b6f-bdcb-f6a77f776149
+DESCRIPTION:M. Robinius
+LOCATION:C13-3.02
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XINT Internetrecht
 DTSTART:20240513T161500
 DTEND:20240513T174500
-DTSTAMP:20240226T225035Z
-UID:1392debf-1385-4d62-8434-75d0396eb253
-DESCRIPTION: 
-LOCATION:C13-3.02\, 
+DTSTAMP:20240227T122637Z
+UID:4a0af702-b1b4-49ca-9e5f-46573132ec9b
+DESCRIPTION:M. Robinius
+LOCATION:C13-3.02
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XINT Internetrecht
 DTSTART:20240527T161500
 DTEND:20240527T174500
-DTSTAMP:20240226T225035Z
-UID:5d5137b5-5d81-4e74-9054-cafdcc036b2d
-DESCRIPTION: 
-LOCATION:C13-3.02\, 
+DTSTAMP:20240227T122637Z
+UID:0c4e95aa-353c-4ed6-aedd-5e831d022c60
+DESCRIPTION:M. Robinius
+LOCATION:C13-3.02
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XINT Internetrecht
 DTSTART:20240603T161500
 DTEND:20240603T174500
-DTSTAMP:20240226T225035Z
-UID:fbb7799c-e13c-4220-b36c-78c9c027c220
-DESCRIPTION: 
-LOCATION:C13-3.02\, 
+DTSTAMP:20240227T122637Z
+UID:ff8a8009-ab54-48b7-a91d-e09de5bc0780
+DESCRIPTION:M. Robinius
+LOCATION:C13-3.02
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XINT Internetrecht
 DTSTART:20240610T161500
 DTEND:20240610T174500
-DTSTAMP:20240226T225035Z
-UID:246bdd60-7e8d-4317-a952-f6e83ebcb2a3
-DESCRIPTION: 
-LOCATION:C13-3.02\, 
+DTSTAMP:20240227T122637Z
+UID:c69448f9-d65f-4e1a-81d3-75af2aef4777
+DESCRIPTION:M. Robinius
+LOCATION:C13-3.02
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XINT Internetrecht
 DTSTART:20240617T161500
 DTEND:20240617T174500
-DTSTAMP:20240226T225035Z
-UID:1601872f-c0a2-4599-b8af-ed39527683a0
-DESCRIPTION: 
-LOCATION:C13-3.02\, 
+DTSTAMP:20240227T122637Z
+UID:3918eefe-326f-46a4-981a-8ae8c4c6ef02
+DESCRIPTION:M. Robinius
+LOCATION:C13-3.02
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karfreitag
 DTSTART:20240329T083000
 DTEND:20240329T180000
-DTSTAMP:20240226T225035Z
-UID:1653189b-72bd-4991-9a5c-0276e93d3088
-DESCRIPTION:Karfreitag__Good_Friday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:a682e3d7-7137-423f-a9b8-fe406b43942f
+DESCRIPTION:Karfreitag__Good_FridayProf. Wree\, Prof. Woelk\, Prof. Wellbr
+ ock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Totzek
+ \, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\, Pr
+ of. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S
+ . Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Rie
+ del\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof. P
+ atz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Neuma
+ nn\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, Prof
+ . Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\, 
+ J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\, L
+ . Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J. H
+ offmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T. G
+ reve\, C. Glüsing\, S. Fleck\, Prof. Eisele\, H. Eilers\, Prof. Ehlers\, 
+ J. Dittmann\, F. Caspar\, F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bi
+ cakci\, Prof. Badri-Höher\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XINT Internetrecht
 DTSTART:20240325T161500
 DTEND:20240325T174500
-DTSTAMP:20240226T225035Z
-UID:26cda71c-b6ef-421f-bc52-8ee39470b16e
-DESCRIPTION: 
-LOCATION:C13-3.02\, 
+DTSTAMP:20240227T122637Z
+UID:9568940d-799e-452d-af90-536f19134846
+DESCRIPTION:M. Robinius
+LOCATION:C13-3.02
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ostermontag
 DTSTART:20240401T083000
 DTEND:20240401T180000
-DTSTAMP:20240226T225035Z
-UID:ce4a169f-cfa6-4d8f-81b3-1e033400628a
-DESCRIPTION:Ostermontag__Easter_Monday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:86b70536-e62a-4fa8-811c-c6c7044482a9
+DESCRIPTION:Ostermontag__Easter_MondayProf. Wree\, Prof. Woelk\, Prof. Wel
+ lbrock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Tot
+ zek\, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\,
+  Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\
+ , S. Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. 
+ Riedel\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof
+ . Patz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Ne
+ umann\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, P
+ rof. Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka
+ \, J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\
+ , L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J
+ . Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T
+ . Greve\, C. Glüsing\, S. Fleck\, Prof. Finkemeyer (FB M)\, Prof. Eisele\
+ , H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pfingstmontag
 DTSTART:20240520T083000
 DTEND:20240520T180000
-DTSTAMP:20240226T225035Z
-UID:0e290882-1046-43d5-b53d-30c49b1068ce
-DESCRIPTION:Pfingstmontag__Whit_Monday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:ed2e5081-7ec1-4be1-a6ec-6625a5d9ee4d
+DESCRIPTION:Pfingstmontag__Whit_MondayProf. Wree\, Prof. Woelk\, Prof. Wel
+ lbrock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Tot
+ zek\, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\,
+  Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\
+ , S. Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. 
+ Riedel\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof
+ . Patz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Ne
+ umann\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, P
+ rof. Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka
+ \, J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\
+ , L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J
+ . Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T
+ . Greve\, C. Glüsing\, S. Fleck\, Prof. Finkemeyer (FB M)\, Prof. Eisele\
+ , H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 END:VCALENDAR

@@ -5,135 +5,179 @@ BEGIN:VEVENT
 SUMMARY:XGRF Gründungsorg. Firmengründ.-management
 DTSTART:20240321T083000
 DTEND:20240321T114500
-DTSTAMP:20240226T225035Z
-UID:a54ce03c-6500-4825-a3e8-a66b02930072
-DESCRIPTION: 
-LOCATION:C13-1.20\, 
+DTSTAMP:20240227T122637Z
+UID:385ce170-f020-49a6-b185-4ec07d1a9907
+DESCRIPTION:Dr. Mohs
+LOCATION:C13-1.20
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XGRF Gründungsorg. Firmengründ.-management
 DTSTART:20240411T083000
 DTEND:20240411T114500
-DTSTAMP:20240226T225035Z
-UID:2711c7ff-bf30-4dae-a7c4-22ae4feb9ec6
-DESCRIPTION: 
-LOCATION:C13-1.20\, 
+DTSTAMP:20240227T122637Z
+UID:52c76a54-670a-48d9-9dc7-e5ab75e69b75
+DESCRIPTION:Dr. Mohs
+LOCATION:C13-1.20
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XGRF Gründungsorg. Firmengründ.-management
 DTSTART:20240418T083000
 DTEND:20240418T114500
-DTSTAMP:20240226T225035Z
-UID:e4094992-99cd-4b6f-be8c-fc0f01f1850f
-DESCRIPTION: 
-LOCATION:C13-1.20\, 
+DTSTAMP:20240227T122637Z
+UID:51c1a85f-0627-40fa-8c0a-42f3562fab81
+DESCRIPTION:Dr. Mohs
+LOCATION:C13-1.20
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XGRF Gründungsorg. Firmengründ.-management
 DTSTART:20240425T083000
 DTEND:20240425T114500
-DTSTAMP:20240226T225035Z
-UID:2a4e09b9-3598-43ac-a49e-e919e60e2350
-DESCRIPTION: 
-LOCATION:C13-1.20\, 
+DTSTAMP:20240227T122637Z
+UID:73c34ea7-f5ed-4236-baaf-9ba7ff3775fc
+DESCRIPTION:Dr. Mohs
+LOCATION:C13-1.20
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XGRF Gründungsorg. Firmengründ.-management
 DTSTART:20240516T083000
 DTEND:20240516T114500
-DTSTAMP:20240226T225035Z
-UID:491234d2-f5eb-4013-8121-679d1833bff5
-DESCRIPTION: 
-LOCATION:C13-1.20\, 
+DTSTAMP:20240227T122637Z
+UID:43bc7a1b-2396-4613-a7d2-0e6e2ac80795
+DESCRIPTION:Dr. Mohs
+LOCATION:C13-1.20
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XGRF Gründungsorg. Firmengründ.-management
 DTSTART:20240530T083000
 DTEND:20240530T114500
-DTSTAMP:20240226T225035Z
-UID:9b92355c-f34e-4e9d-ad70-0b644aa45d94
-DESCRIPTION: 
-LOCATION:C13-1.20\, 
+DTSTAMP:20240227T122637Z
+UID:340d4051-d360-4876-bcee-b4f5e40503a9
+DESCRIPTION:Dr. Mohs
+LOCATION:C13-1.20
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XGRF Gründungsorg. Firmengründ.-management
 DTSTART:20240606T083000
 DTEND:20240606T114500
-DTSTAMP:20240226T225035Z
-UID:5eb78232-694e-481a-a69c-59b6829db1a7
-DESCRIPTION: 
-LOCATION:C13-1.20\, 
+DTSTAMP:20240227T122637Z
+UID:2785e383-1b64-4551-bc29-52417e943e97
+DESCRIPTION:Dr. Mohs
+LOCATION:C13-1.20
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XGRF Gründungsorg. Firmengründ.-management
 DTSTART:20240613T083000
 DTEND:20240613T114500
-DTSTAMP:20240226T225035Z
-UID:14da43b9-cef8-4dfd-acad-98e559d4d629
-DESCRIPTION: 
-LOCATION:C13-1.20\, 
+DTSTAMP:20240227T122637Z
+UID:1b0241b4-eb69-4d0b-ae61-5b410eac45eb
+DESCRIPTION:Dr. Mohs
+LOCATION:C13-1.20
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XGRF Gründungsorg. Firmengründ.-management
 DTSTART:20240620T083000
 DTEND:20240620T114500
-DTSTAMP:20240226T225035Z
-UID:970f34fa-b9cc-4e91-8e2e-e6b49e0970b6
-DESCRIPTION: 
-LOCATION:C13-1.20\, 
+DTSTAMP:20240227T122637Z
+UID:740e3037-b3a0-41ef-a61a-6e7a2628e49e
+DESCRIPTION:Dr. Mohs
+LOCATION:C13-1.20
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XGRF Gründungsorg. Firmengründ.-management
 DTSTART:20240328T083000
 DTEND:20240328T114500
-DTSTAMP:20240226T225035Z
-UID:03459ac0-6a72-43a5-844b-979dc780fc71
-DESCRIPTION: 
-LOCATION:C13-1.20\, 
+DTSTAMP:20240227T122637Z
+UID:56ce1f72-e164-483a-b857-54816f31124c
+DESCRIPTION:Dr. Mohs
+LOCATION:C13-1.20
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karfreitag
 DTSTART:20240329T083000
 DTEND:20240329T180000
-DTSTAMP:20240226T225035Z
-UID:d01bc05b-2d38-4094-b347-d66e22da2a22
-DESCRIPTION:Karfreitag__Good_Friday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:fe1e7157-0b7e-43ec-b58e-801da77cfef7
+DESCRIPTION:Karfreitag__Good_FridayProf. Wree\, Prof. Woelk\, Prof. Wellbr
+ ock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Totzek
+ \, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\, Pr
+ of. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S
+ . Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Rie
+ del\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof. P
+ atz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Neuma
+ nn\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, Prof
+ . Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\, 
+ J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\, L
+ . Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J. H
+ offmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T. G
+ reve\, C. Glüsing\, S. Fleck\, Prof. Eisele\, H. Eilers\, Prof. Ehlers\, 
+ J. Dittmann\, F. Caspar\, F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bi
+ cakci\, Prof. Badri-Höher\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ostermontag
 DTSTART:20240401T083000
 DTEND:20240401T180000
-DTSTAMP:20240226T225035Z
-UID:8fd9d374-0d2b-4094-a40f-a4d82388a240
-DESCRIPTION:Ostermontag__Easter_Monday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:30446192-09d5-4ed8-948f-cea6de454c7b
+DESCRIPTION:Ostermontag__Easter_MondayProf. Wree\, Prof. Woelk\, Prof. Wel
+ lbrock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Tot
+ zek\, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\,
+  Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\
+ , S. Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. 
+ Riedel\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof
+ . Patz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Ne
+ umann\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, P
+ rof. Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka
+ \, J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\
+ , L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J
+ . Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T
+ . Greve\, C. Glüsing\, S. Fleck\, Prof. Finkemeyer (FB M)\, Prof. Eisele\
+ , H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XGRF Gründungsorg. Firmengründ.-management
 DTSTART:20240404T083000
 DTEND:20240404T114500
-DTSTAMP:20240226T225035Z
-UID:cc1163f8-d9fd-4487-b135-5a82e4319bae
-DESCRIPTION: 
-LOCATION:C13-1.20\, 
+DTSTAMP:20240227T122637Z
+UID:dec78768-0a53-469a-ac43-99d4e1d49c8a
+DESCRIPTION:Dr. Mohs
+LOCATION:C13-1.20
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pfingstmontag
 DTSTART:20240520T083000
 DTEND:20240520T180000
-DTSTAMP:20240226T225035Z
-UID:7342665c-3b3b-4fe1-b6c6-c963fba3453d
-DESCRIPTION:Pfingstmontag__Whit_Monday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:4fa89bbc-79d9-4ce8-abda-8363defeb7ca
+DESCRIPTION:Pfingstmontag__Whit_MondayProf. Wree\, Prof. Woelk\, Prof. Wel
+ lbrock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Tot
+ zek\, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\,
+  Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\
+ , S. Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. 
+ Riedel\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof
+ . Patz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Ne
+ umann\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, P
+ rof. Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka
+ \, J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\
+ , L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J
+ . Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T
+ . Greve\, C. Glüsing\, S. Fleck\, Prof. Finkemeyer (FB M)\, Prof. Eisele\
+ , H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XGRF Gründungsorg. Firmengründ.-management
 DTSTART:20240523T083000
 DTEND:20240523T114500
-DTSTAMP:20240226T225035Z
-UID:46621cdb-d2d3-4c02-a792-0af1e06cb3e1
-DESCRIPTION: 
-LOCATION:C13-1.20\, 
+DTSTAMP:20240227T122637Z
+UID:abbf4ff7-b3e0-4cd0-8751-769e4f2a6a96
+DESCRIPTION:Dr. Mohs
+LOCATION:C13-1.20
 END:VEVENT
 END:VCALENDAR

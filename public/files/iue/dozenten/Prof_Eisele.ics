@@ -5,63 +5,111 @@ BEGIN:VEVENT
 SUMMARY:Karfreitag
 DTSTART:20240329T083000
 DTEND:20240329T180000
-DTSTAMP:20240226T225035Z
-UID:1115afa4-570f-448f-868a-73ec51843584
-DESCRIPTION:Karfreitag__Good_Friday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:df84af60-0c2d-4307-8d48-fd0d53589358
+DESCRIPTION:Karfreitag__Good_FridayProf. Wree\, Prof. Woelk\, Prof. Wellbr
+ ock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Totzek
+ \, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\, Pr
+ of. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S
+ . Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Rie
+ del\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof. P
+ atz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Neuma
+ nn\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, Prof
+ . Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\, 
+ J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\, L
+ . Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J. H
+ offmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T. G
+ reve\, C. Glüsing\, S. Fleck\, Prof. Eisele\, H. Eilers\, Prof. Ehlers\, 
+ J. Dittmann\, F. Caspar\, F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bi
+ cakci\, Prof. Badri-Höher\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Interdiszi. Projektarbeit
 DTSTART:20240327T143000
 DTEND:20240327T173000
-DTSTAMP:20240226T225035Z
-UID:230fdb4f-dc58-4adc-8796-e65402e11bb3
-DESCRIPTION: 
-LOCATION:C12-2.14\, 
+DTSTAMP:20240227T122637Z
+UID:af609ec0-d72a-4f8c-be29-dcc99ed3a97f
+DESCRIPTION:Prof. Bicakci\, Prof. Eisele\, Prof. Immel\, Prof. Lebert\, Pr
+ of. Rinder\, Prof. Weber
+LOCATION:C12-2.14
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ostermontag
 DTSTART:20240401T083000
 DTEND:20240401T180000
-DTSTAMP:20240226T225035Z
-UID:f9ed62ab-7ab4-4556-9780-bcd1d771447d
-DESCRIPTION:Ostermontag__Easter_Monday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:573f31fe-0c86-4785-b659-a6627d409cca
+DESCRIPTION:Ostermontag__Easter_MondayProf. Wree\, Prof. Woelk\, Prof. Wel
+ lbrock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Tot
+ zek\, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\,
+  Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\
+ , S. Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. 
+ Riedel\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof
+ . Patz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Ne
+ umann\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, P
+ rof. Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka
+ \, J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\
+ , L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J
+ . Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T
+ . Greve\, C. Glüsing\, S. Fleck\, Prof. Finkemeyer (FB M)\, Prof. Eisele\
+ , H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Interdiszi. Projektarbeit
 DTSTART:20240515T143000
 DTEND:20240515T173000
-DTSTAMP:20240226T225035Z
-UID:4c8ef547-96a8-4dd8-9b5d-c25cf6fcfed3
-DESCRIPTION: 
-LOCATION:C12-2.14\, 
+DTSTAMP:20240227T122637Z
+UID:0796c6b9-718a-4c5a-a3d2-24c280494ab5
+DESCRIPTION:Prof. Bicakci\, Prof. Eisele\, Prof. Immel\, Prof. Lebert\, Pr
+ of. Rinder\, Prof. Weber
+LOCATION:C12-2.14
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Interdiszi. Projektarbeit
 DTSTART:20240605T143000
 DTEND:20240605T173000
-DTSTAMP:20240226T225035Z
-UID:0e679f3e-bfd0-4925-9422-52e3b785c0ce
-DESCRIPTION: 
-LOCATION:C12-2.14\, 
+DTSTAMP:20240227T122637Z
+UID:2561f482-3cb9-4835-8066-df9d3c02263a
+DESCRIPTION:Prof. Bicakci\, Prof. Eisele\, Prof. Immel\, Prof. Lebert\, Pr
+ of. Rinder\, Prof. Weber
+LOCATION:C12-2.14
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Interdiszi. Projektarbeit
 DTSTART:20240612T143000
 DTEND:20240612T173000
-DTSTAMP:20240226T225035Z
-UID:674d6192-eb1e-4fbc-809d-45613c7f0fde
-DESCRIPTION: 
-LOCATION:C12-2.14\, 
+DTSTAMP:20240227T122637Z
+UID:b24b4f3b-46a1-4cb2-b275-ca2c2ed86d2e
+DESCRIPTION:Prof. Bicakci\, Prof. Eisele\, Prof. Immel\, Prof. Lebert\, Pr
+ of. Rinder\, Prof. Weber
+LOCATION:C12-2.14
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pfingstmontag
 DTSTART:20240520T083000
 DTEND:20240520T180000
-DTSTAMP:20240226T225035Z
-UID:8dc69605-1820-4b32-8e2d-13e89d03f471
-DESCRIPTION:Pfingstmontag__Whit_Monday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:787eb163-2e20-40fa-b150-a805015a4d4a
+DESCRIPTION:Pfingstmontag__Whit_MondayProf. Wree\, Prof. Woelk\, Prof. Wel
+ lbrock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Tot
+ zek\, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\,
+  Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\
+ , S. Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. 
+ Riedel\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof
+ . Patz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Ne
+ umann\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, P
+ rof. Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka
+ \, J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\
+ , L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J
+ . Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T
+ . Greve\, C. Glüsing\, S. Fleck\, Prof. Finkemeyer (FB M)\, Prof. Eisele\
+ , H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 END:VCALENDAR

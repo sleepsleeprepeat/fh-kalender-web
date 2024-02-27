@@ -5,243 +5,299 @@ BEGIN:VEVENT
 SUMMARY:BI136 Humanoide Robotiker in der Pflege ÜL-1
 DTSTART:20240319T101500
 DTEND:20240319T114500
-DTSTAMP:20240226T225035Z
-UID:7bcae487-ae77-40dc-bf5b-587e3db0fa1e
-DESCRIPTION: 
-LOCATION:C12-2.72\, 
+DTSTAMP:20240227T122637Z
+UID:fe68b3ff-49f9-44ff-8023-380e7bcf3888
+DESCRIPTION:Prof. Lüssem\, H. Eilers
+LOCATION:C12-2.72
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI136 Humanoide Robotiker in der Pflege ÜL-1
 DTSTART:20240409T101500
 DTEND:20240409T114500
-DTSTAMP:20240226T225035Z
-UID:2e41bacc-ca35-4584-b2b2-622d67797cbb
-DESCRIPTION: 
-LOCATION:C12-2.72\, 
+DTSTAMP:20240227T122637Z
+UID:2420991c-f191-42cf-bd92-f2247b27b383
+DESCRIPTION:Prof. Lüssem\, H. Eilers
+LOCATION:C12-2.72
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI136 Humanoide Robotiker in der Pflege ÜL-1
 DTSTART:20240416T101500
 DTEND:20240416T114500
-DTSTAMP:20240226T225035Z
-UID:af0a7fb9-8a24-4a4c-9742-d56a477a5743
-DESCRIPTION: 
-LOCATION:C12-2.72\, 
+DTSTAMP:20240227T122637Z
+UID:276abca7-67ca-46cc-ab11-3fd1b2a34754
+DESCRIPTION:Prof. Lüssem\, H. Eilers
+LOCATION:C12-2.72
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI136 Humanoide Robotiker in der Pflege ÜL-1
 DTSTART:20240423T101500
 DTEND:20240423T114500
-DTSTAMP:20240226T225035Z
-UID:6dbc9ab5-044b-41d6-b1df-7229171b8c4c
-DESCRIPTION: 
-LOCATION:C12-2.72\, 
+DTSTAMP:20240227T122637Z
+UID:26e4b682-0679-4198-80d9-4707bb08b589
+DESCRIPTION:Prof. Lüssem\, H. Eilers
+LOCATION:C12-2.72
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI136 Humanoide Robotiker in der Pflege ÜL-1
 DTSTART:20240514T101500
 DTEND:20240514T114500
-DTSTAMP:20240226T225035Z
-UID:1d1292a8-8fef-4fa9-97d5-6ea5f393b4dc
-DESCRIPTION: 
-LOCATION:C12-2.72\, 
+DTSTAMP:20240227T122637Z
+UID:1731a910-64bb-4355-9c07-012337a40cbd
+DESCRIPTION:Prof. Lüssem\, H. Eilers
+LOCATION:C12-2.72
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI136 Humanoide Robotiker in der Pflege ÜL-1
 DTSTART:20240528T101500
 DTEND:20240528T114500
-DTSTAMP:20240226T225035Z
-UID:659d94de-3f27-4c6c-aa21-99edfa1a9feb
-DESCRIPTION: 
-LOCATION:C12-2.72\, 
+DTSTAMP:20240227T122637Z
+UID:bccb9886-c301-4409-b95d-544e2fd9e520
+DESCRIPTION:Prof. Lüssem\, H. Eilers
+LOCATION:C12-2.72
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI136 Humanoide Robotiker in der Pflege ÜL-1
 DTSTART:20240604T101500
 DTEND:20240604T114500
-DTSTAMP:20240226T225035Z
-UID:c4ea919f-0c27-43f5-84ec-06db2b38459d
-DESCRIPTION: 
-LOCATION:C12-2.72\, 
+DTSTAMP:20240227T122637Z
+UID:f86f1038-09e3-4f71-8b37-864981af6897
+DESCRIPTION:Prof. Lüssem\, H. Eilers
+LOCATION:C12-2.72
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI136 Humanoide Robotiker in der Pflege ÜL-1
 DTSTART:20240611T101500
 DTEND:20240611T114500
-DTSTAMP:20240226T225035Z
-UID:379b52f4-9796-4a3f-af33-01ea23cf75ab
-DESCRIPTION: 
-LOCATION:C12-2.72\, 
+DTSTAMP:20240227T122637Z
+UID:628e1b0a-ee37-4d92-96a9-f988858e356e
+DESCRIPTION:Prof. Lüssem\, H. Eilers
+LOCATION:C12-2.72
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI136 Humanoide Robotiker in der Pflege ÜL-1
 DTSTART:20240618T101500
 DTEND:20240618T114500
-DTSTAMP:20240226T225035Z
-UID:f3605d12-c7f9-42cd-a5fc-674b2f828a3e
-DESCRIPTION: 
-LOCATION:C12-2.72\, 
+DTSTAMP:20240227T122637Z
+UID:fb64980f-43b5-46ed-9744-e74755edc66c
+DESCRIPTION:Prof. Lüssem\, H. Eilers
+LOCATION:C12-2.72
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI136 Humanoide Robotiker in der Pflege ÜL-2
 DTSTART:20240319T124500
 DTEND:20240319T141500
-DTSTAMP:20240226T225035Z
-UID:97f66c62-2215-4c75-9d69-78f73d541978
-DESCRIPTION: 
-LOCATION:C12-2.72\, 
+DTSTAMP:20240227T122637Z
+UID:df0cad2d-f024-4c7f-93d9-6f2cdbdf5d7d
+DESCRIPTION:Prof. Dr. Katharina Scheel (Physiotherapie)\, Prof. Dr. Gaby L
+ enz\, H. Eilers
+LOCATION:C12-2.72
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI136 Humanoide Robotiker in der Pflege ÜL-2
 DTSTART:20240409T124500
 DTEND:20240409T141500
-DTSTAMP:20240226T225035Z
-UID:abc0e6bc-4db9-4e62-b933-628412585628
-DESCRIPTION: 
-LOCATION:C12-2.72\, 
+DTSTAMP:20240227T122637Z
+UID:17b1a62f-f523-4752-9d5e-7a5f5a71c8ab
+DESCRIPTION:Prof. Dr. Katharina Scheel (Physiotherapie)\, Prof. Dr. Gaby L
+ enz\, H. Eilers
+LOCATION:C12-2.72
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI136 Humanoide Robotiker in der Pflege ÜL-2
 DTSTART:20240416T124500
 DTEND:20240416T141500
-DTSTAMP:20240226T225035Z
-UID:4ec286fe-e7a3-4bbd-b808-0d95c370ef15
-DESCRIPTION: 
-LOCATION:C12-2.72\, 
+DTSTAMP:20240227T122637Z
+UID:c36208d6-b884-4532-8cad-85bfa8cee1c4
+DESCRIPTION:Prof. Dr. Katharina Scheel (Physiotherapie)\, Prof. Dr. Gaby L
+ enz\, H. Eilers
+LOCATION:C12-2.72
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI136 Humanoide Robotiker in der Pflege ÜL-2
 DTSTART:20240423T124500
 DTEND:20240423T141500
-DTSTAMP:20240226T225035Z
-UID:a3b3e485-a031-47c3-99d3-92a63277f7b0
-DESCRIPTION: 
-LOCATION:C12-2.72\, 
+DTSTAMP:20240227T122637Z
+UID:f89c96cd-a0f9-4ab7-9d44-ca5de83f2746
+DESCRIPTION:Prof. Dr. Katharina Scheel (Physiotherapie)\, Prof. Dr. Gaby L
+ enz\, H. Eilers
+LOCATION:C12-2.72
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI136 Humanoide Robotiker in der Pflege ÜL-2
 DTSTART:20240514T124500
 DTEND:20240514T141500
-DTSTAMP:20240226T225035Z
-UID:ededc229-c23a-4dc1-9a18-cc8afae84d83
-DESCRIPTION: 
-LOCATION:C12-2.72\, 
+DTSTAMP:20240227T122637Z
+UID:8dc953fa-cc2d-42fc-b656-2114d84e0839
+DESCRIPTION:Prof. Dr. Katharina Scheel (Physiotherapie)\, Prof. Dr. Gaby L
+ enz\, H. Eilers
+LOCATION:C12-2.72
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI136 Humanoide Robotiker in der Pflege ÜL-2
 DTSTART:20240528T124500
 DTEND:20240528T141500
-DTSTAMP:20240226T225035Z
-UID:aca83c44-1efc-460a-a255-1e3ba1284074
-DESCRIPTION: 
-LOCATION:C12-2.72\, 
+DTSTAMP:20240227T122637Z
+UID:0384cbac-3e45-47be-b68b-789a05738c7d
+DESCRIPTION:Prof. Dr. Katharina Scheel (Physiotherapie)\, Prof. Dr. Gaby L
+ enz\, H. Eilers
+LOCATION:C12-2.72
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI136 Humanoide Robotiker in der Pflege ÜL-2
 DTSTART:20240604T124500
 DTEND:20240604T141500
-DTSTAMP:20240226T225035Z
-UID:d1dd9cdd-13c4-45d3-bb53-4b452bd540f7
-DESCRIPTION: 
-LOCATION:C12-2.72\, 
+DTSTAMP:20240227T122637Z
+UID:866d0404-ee85-4e20-ba93-fb4ac330a015
+DESCRIPTION:Prof. Dr. Katharina Scheel (Physiotherapie)\, Prof. Dr. Gaby L
+ enz\, H. Eilers
+LOCATION:C12-2.72
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI136 Humanoide Robotiker in der Pflege ÜL-2
 DTSTART:20240611T124500
 DTEND:20240611T141500
-DTSTAMP:20240226T225035Z
-UID:002cbb99-70f4-417f-947f-9e69f6514047
-DESCRIPTION: 
-LOCATION:C12-2.72\, 
+DTSTAMP:20240227T122637Z
+UID:426f3d05-44f6-4237-b67c-714af667819c
+DESCRIPTION:Prof. Dr. Katharina Scheel (Physiotherapie)\, Prof. Dr. Gaby L
+ enz\, H. Eilers
+LOCATION:C12-2.72
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI136 Humanoide Robotiker in der Pflege ÜL-2
 DTSTART:20240618T124500
 DTEND:20240618T141500
-DTSTAMP:20240226T225035Z
-UID:371f7ae3-012c-481a-ad90-d9ca7acd5d12
-DESCRIPTION: 
-LOCATION:C12-2.72\, 
+DTSTAMP:20240227T122637Z
+UID:900d72b0-3170-4843-9074-82ca4101b680
+DESCRIPTION:Prof. Dr. Katharina Scheel (Physiotherapie)\, Prof. Dr. Gaby L
+ enz\, H. Eilers
+LOCATION:C12-2.72
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karfreitag
 DTSTART:20240329T083000
 DTEND:20240329T180000
-DTSTAMP:20240226T225035Z
-UID:94994ebc-f816-435c-9465-04fd851e2f1f
-DESCRIPTION:Karfreitag__Good_Friday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:ebf4f349-23ff-450f-8038-55697ed7c3f2
+DESCRIPTION:Karfreitag__Good_FridayProf. Wree\, Prof. Woelk\, Prof. Wellbr
+ ock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Totzek
+ \, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\, Pr
+ of. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S
+ . Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Rie
+ del\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof. P
+ atz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Neuma
+ nn\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, Prof
+ . Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\, 
+ J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\, L
+ . Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J. H
+ offmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T. G
+ reve\, C. Glüsing\, S. Fleck\, Prof. Eisele\, H. Eilers\, Prof. Ehlers\, 
+ J. Dittmann\, F. Caspar\, F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bi
+ cakci\, Prof. Badri-Höher\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI136 Humanoide Robotiker in der Pflege ÜL-1
 DTSTART:20240326T101500
 DTEND:20240326T114500
-DTSTAMP:20240226T225035Z
-UID:997afed7-f725-42d1-8515-016371b75841
-DESCRIPTION: 
-LOCATION:C12-2.72\, 
+DTSTAMP:20240227T122637Z
+UID:d7c5175f-13ce-464b-a764-4313cfeb4ce5
+DESCRIPTION:Prof. Lüssem\, H. Eilers
+LOCATION:C12-2.72
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI136 Humanoide Robotiker in der Pflege ÜL-2
 DTSTART:20240326T124500
 DTEND:20240326T141500
-DTSTAMP:20240226T225035Z
-UID:6c1a6352-6758-4a14-b0d3-cf28b8312f53
-DESCRIPTION: 
-LOCATION:C12-2.72\, 
+DTSTAMP:20240227T122637Z
+UID:3a125cad-1a40-4d1f-82dd-10fbf9ee6de3
+DESCRIPTION:Prof. Dr. Katharina Scheel (Physiotherapie)\, Prof. Dr. Gaby L
+ enz\, H. Eilers
+LOCATION:C12-2.72
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ostermontag
 DTSTART:20240401T083000
 DTEND:20240401T180000
-DTSTAMP:20240226T225035Z
-UID:16515a73-8db9-4ce9-ad96-45ca74f11feb
-DESCRIPTION:Ostermontag__Easter_Monday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:50303e13-8937-4893-9eb9-91a7a5de9890
+DESCRIPTION:Ostermontag__Easter_MondayProf. Wree\, Prof. Woelk\, Prof. Wel
+ lbrock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Tot
+ zek\, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\,
+  Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\
+ , S. Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. 
+ Riedel\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof
+ . Patz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Ne
+ umann\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, P
+ rof. Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka
+ \, J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\
+ , L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J
+ . Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T
+ . Greve\, C. Glüsing\, S. Fleck\, Prof. Finkemeyer (FB M)\, Prof. Eisele\
+ , H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI136 Humanoide Robotiker in der Pflege ÜL-1
 DTSTART:20240402T101500
 DTEND:20240402T114500
-DTSTAMP:20240226T225035Z
-UID:d78527db-4f50-4f40-bc9a-f21632099f69
-DESCRIPTION: 
-LOCATION:C12-2.72\, 
+DTSTAMP:20240227T122637Z
+UID:ecd7a6f3-7d1b-4e9e-bb31-210731a91e43
+DESCRIPTION:Prof. Lüssem\, H. Eilers
+LOCATION:C12-2.72
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI136 Humanoide Robotiker in der Pflege ÜL-2
 DTSTART:20240402T124500
 DTEND:20240402T141500
-DTSTAMP:20240226T225035Z
-UID:0c305e81-0e4b-486c-8ff4-3a22cf2b8831
-DESCRIPTION: 
-LOCATION:C12-2.72\, 
+DTSTAMP:20240227T122637Z
+UID:d83427ad-966c-4332-bd6b-6419e9066e3a
+DESCRIPTION:Prof. Dr. Katharina Scheel (Physiotherapie)\, Prof. Dr. Gaby L
+ enz\, H. Eilers
+LOCATION:C12-2.72
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pfingstmontag
 DTSTART:20240520T083000
 DTEND:20240520T180000
-DTSTAMP:20240226T225035Z
-UID:d159a495-989d-41da-9397-3a161458878c
-DESCRIPTION:Pfingstmontag__Whit_Monday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:ffdbe5d7-c6a5-4b7c-b203-8b861a43d58d
+DESCRIPTION:Pfingstmontag__Whit_MondayProf. Wree\, Prof. Woelk\, Prof. Wel
+ lbrock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Tot
+ zek\, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\,
+  Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\
+ , S. Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. 
+ Riedel\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof
+ . Patz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Ne
+ umann\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, P
+ rof. Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka
+ \, J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\
+ , L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J
+ . Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T
+ . Greve\, C. Glüsing\, S. Fleck\, Prof. Finkemeyer (FB M)\, Prof. Eisele\
+ , H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI136 Humanoide Robotiker in der Pflege ÜL-1
 DTSTART:20240521T101500
 DTEND:20240521T114500
-DTSTAMP:20240226T225035Z
-UID:2ebc6aae-1b79-4b99-832d-0c395303a041
-DESCRIPTION: 
-LOCATION:C12-2.72\, 
+DTSTAMP:20240227T122637Z
+UID:b20a2aa4-56b1-41f0-8009-727848baa6cb
+DESCRIPTION:Prof. Lüssem\, H. Eilers
+LOCATION:C12-2.72
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI136 Humanoide Robotiker in der Pflege ÜL-2
 DTSTART:20240521T124500
 DTEND:20240521T141500
-DTSTAMP:20240226T225035Z
-UID:f1891c1a-d64a-43f1-bd15-4b83c2fdabaf
-DESCRIPTION: 
-LOCATION:C12-2.72\, 
+DTSTAMP:20240227T122637Z
+UID:655abca1-3a1e-4430-b131-b04d7c23256c
+DESCRIPTION:Prof. Dr. Katharina Scheel (Physiotherapie)\, Prof. Dr. Gaby L
+ enz\, H. Eilers
+LOCATION:C12-2.72
 END:VEVENT
 END:VCALENDAR

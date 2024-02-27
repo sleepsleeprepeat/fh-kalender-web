@@ -5,135 +5,179 @@ BEGIN:VEVENT
 SUMMARY:Karfreitag
 DTSTART:20240329T083000
 DTEND:20240329T180000
-DTSTAMP:20240226T225035Z
-UID:e9bfdbb3-ef8b-4c0e-8667-ef2278765ea1
-DESCRIPTION:Karfreitag__Good_Friday 
-LOCATION:\, 
+DTSTAMP:20240227T122638Z
+UID:dabcc9e2-fb0b-46d8-8942-e26541cab9f2
+DESCRIPTION:Karfreitag__Good_FridayProf. Wree\, Prof. Woelk\, Prof. Wellbr
+ ock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Totzek
+ \, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\, Pr
+ of. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S
+ . Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Rie
+ del\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof. P
+ atz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Neuma
+ nn\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, Prof
+ . Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\, 
+ J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\, L
+ . Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J. H
+ offmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T. G
+ reve\, C. Glüsing\, S. Fleck\, Prof. Eisele\, H. Eilers\, Prof. Ehlers\, 
+ J. Dittmann\, F. Caspar\, F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bi
+ cakci\, Prof. Badri-Höher\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ostermontag
 DTSTART:20240401T083000
 DTEND:20240401T180000
-DTSTAMP:20240226T225035Z
-UID:3509ade5-97d3-4588-aa60-ba8a7ba1c42d
-DESCRIPTION:Ostermontag__Easter_Monday 
-LOCATION:\, 
+DTSTAMP:20240227T122638Z
+UID:69d234f3-7aea-4dbb-9e4e-26b502bb9801
+DESCRIPTION:Ostermontag__Easter_MondayProf. Wree\, Prof. Woelk\, Prof. Wel
+ lbrock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Tot
+ zek\, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\,
+  Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\
+ , S. Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. 
+ Riedel\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof
+ . Patz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Ne
+ umann\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, P
+ rof. Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka
+ \, J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\
+ , L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J
+ . Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T
+ . Greve\, C. Glüsing\, S. Fleck\, Prof. Finkemeyer (FB M)\, Prof. Eisele\
+ , H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digitaltechnik ÜL-M1
 DTSTART:20240408T083000
 DTEND:20240408T114500
-DTSTAMP:20240226T225035Z
-UID:86cf5b6a-c2d8-4cb6-bd3a-56e4c70162da
-DESCRIPTION: 
-LOCATION:C13-2.25\, 
+DTSTAMP:20240227T122638Z
+UID:89541d38-2c14-46a1-b3a9-791807db9444
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digitaltechnik ÜL-M1
 DTSTART:20240422T083000
 DTEND:20240422T114500
-DTSTAMP:20240226T225035Z
-UID:5f49b838-57ef-4f0d-8844-380a167c1bcb
-DESCRIPTION: 
-LOCATION:C13-2.25\, 
+DTSTAMP:20240227T122638Z
+UID:71b7da13-771b-4c57-bfb8-97f6218521b7
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digitaltechnik ÜL-M1
 DTSTART:20240603T083000
 DTEND:20240603T114500
-DTSTAMP:20240226T225035Z
-UID:735e40a7-39cd-45eb-b03b-ae8f2f135979
-DESCRIPTION: 
-LOCATION:C13-2.25\, 
+DTSTAMP:20240227T122638Z
+UID:1aae478a-0697-4ea6-9d52-1d8e0c7f5b17
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digitaltechnik ÜL-W1
 DTSTART:20240412T083000
 DTEND:20240412T114500
-DTSTAMP:20240226T225035Z
-UID:bce0333f-9b23-43c3-9df6-39b649a6c255
-DESCRIPTION: 
-LOCATION:C13-2.25\, 
+DTSTAMP:20240227T122638Z
+UID:b44dd95b-8b88-460c-943d-3c2fd1afcbb9
+DESCRIPTION:J. Dittmann\, M. Sieloff
+LOCATION:C13-2.25
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digitaltechnik ÜL-W1
 DTSTART:20240426T083000
 DTEND:20240426T114500
-DTSTAMP:20240226T225035Z
-UID:f8abffae-8319-4d0b-895f-d9cffe96a007
-DESCRIPTION: 
-LOCATION:C13-2.25\, 
+DTSTAMP:20240227T122638Z
+UID:c419aab9-54c2-4b93-a35b-35f32890c41a
+DESCRIPTION:J. Dittmann\, M. Sieloff
+LOCATION:C13-2.25
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digitaltechnik ÜL-W1
 DTSTART:20240607T083000
 DTEND:20240607T114500
-DTSTAMP:20240226T225035Z
-UID:0a222b8a-6e79-46ed-b6bc-5ccca14f00bb
-DESCRIPTION: 
-LOCATION:C13-2.25\, 
+DTSTAMP:20240227T122638Z
+UID:ee0441ab-7f2f-4e77-8ec8-fd70ab76289e
+DESCRIPTION:J. Dittmann\, M. Sieloff
+LOCATION:C13-2.25
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digitaltechnik ÜL-M2
 DTSTART:20240415T083000
 DTEND:20240415T114500
-DTSTAMP:20240226T225035Z
-UID:bb498240-771d-45d7-9fa3-f6ff8240b5b8
-DESCRIPTION: 
-LOCATION:C13-2.25\, 
+DTSTAMP:20240227T122638Z
+UID:cd8938ee-ea37-426b-b22c-9be8d101d6df
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digitaltechnik ÜL-M2
 DTSTART:20240513T083000
 DTEND:20240513T114500
-DTSTAMP:20240226T225035Z
-UID:cd00d6c9-4704-41fc-a2d6-ffca2662e280
-DESCRIPTION: 
-LOCATION:C13-2.25\, 
+DTSTAMP:20240227T122638Z
+UID:f13242f2-94d7-4f44-adc2-5d9b85ef68af
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digitaltechnik ÜL-M2
 DTSTART:20240527T083000
 DTEND:20240527T114500
-DTSTAMP:20240226T225035Z
-UID:e145c20c-91ad-4513-934e-ddbe71d7bb09
-DESCRIPTION: 
-LOCATION:C13-2.25\, 
+DTSTAMP:20240227T122638Z
+UID:7ca9fc75-dfca-431e-8a55-d7316aaa77bf
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digitaltechnik ÜL-M2
 DTSTART:20240610T083000
 DTEND:20240610T114500
-DTSTAMP:20240226T225035Z
-UID:1fba841e-bed7-4e8d-8896-536a1f6a6c3f
-DESCRIPTION: 
-LOCATION:C13-2.25\, 
+DTSTAMP:20240227T122638Z
+UID:b82fe8dc-87a9-4c14-b0aa-c0d26dbb855b
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pfingstmontag
 DTSTART:20240520T083000
 DTEND:20240520T180000
-DTSTAMP:20240226T225035Z
-UID:6a39beb9-8888-4bef-81aa-300d019dbe5c
-DESCRIPTION:Pfingstmontag__Whit_Monday 
-LOCATION:\, 
+DTSTAMP:20240227T122638Z
+UID:fd08d237-3a2f-4c67-8ba7-8387c7905219
+DESCRIPTION:Pfingstmontag__Whit_MondayProf. Wree\, Prof. Woelk\, Prof. Wel
+ lbrock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Tot
+ zek\, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\,
+  Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\
+ , S. Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. 
+ Riedel\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof
+ . Patz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Ne
+ umann\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, P
+ rof. Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka
+ \, J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\
+ , L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J
+ . Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T
+ . Greve\, C. Glüsing\, S. Fleck\, Prof. Finkemeyer (FB M)\, Prof. Eisele\
+ , H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digitaltechnik ÜL-W1
 DTSTART:20240524T083000
 DTEND:20240524T114500
-DTSTAMP:20240226T225035Z
-UID:f7b46976-e152-4df4-b459-6afe8ddc1c72
-DESCRIPTION: 
-LOCATION:C13-2.25\, 
+DTSTAMP:20240227T122638Z
+UID:5c4e66f7-01ad-49b2-9ca4-db1e71a4be43
+DESCRIPTION:J. Dittmann\, M. Sieloff
+LOCATION:C13-2.25
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digitaltechnik ÜL-M1
 DTSTART:20240617T083000
 DTEND:20240617T114500
-DTSTAMP:20240226T225035Z
-UID:50086f48-73f5-45d2-a8b3-fba6513eb353
-DESCRIPTION: 
-LOCATION:C13-2.25\, 
+DTSTAMP:20240227T122638Z
+UID:9ebbdbef-404a-4fc0-8251-4a649d9bf67f
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
 END:VEVENT
 END:VCALENDAR

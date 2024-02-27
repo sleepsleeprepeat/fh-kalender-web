@@ -5,234 +5,278 @@ BEGIN:VEVENT
 SUMMARY:Schiffssystem- technik (FB M)
 DTSTART:20240320T081500
 DTEND:20240320T100000
-DTSTAMP:20240226T225035Z
-UID:bf24e770-79af-49a0-88a5-e1645c39e858
-DESCRIPTION: 
-LOCATION:C13-0.04\, 
+DTSTAMP:20240227T122637Z
+UID:f84c41df-efe1-42c1-8e97-a59bffd7bf5f
+DESCRIPTION:R. Hellmund
+LOCATION:C13-0.04
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektrotechnik 2 ÜL-E3 Einf.
 DTSTART:20240320T101500
 DTEND:20240320T114500
-DTSTAMP:20240226T225035Z
-UID:97a2275d-25ec-4b90-9e8a-103d7e0a7486
-DESCRIPTION: Wing-NE2_wird_aufgeteilt
-LOCATION:C13-1.23\, 
+DTSTAMP:20240227T122637Z
+UID:a1b29913-b710-45bd-97f1-15db1e9387e1
+DESCRIPTION:Wing-NE2_wird_aufgeteiltR. Hellmund\, J. Dittmann
+LOCATION:C13-1.23
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schiffssystem- technik (FB M)
 DTSTART:20240327T081500
 DTEND:20240327T100000
-DTSTAMP:20240226T225035Z
-UID:69c4cb8f-c466-49c2-b63c-b31680166c23
-DESCRIPTION: 
-LOCATION:C13-0.04\, 
+DTSTAMP:20240227T122637Z
+UID:7a911b8b-6ff6-49a3-9c76-87ccf9518374
+DESCRIPTION:R. Hellmund
+LOCATION:C13-0.04
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karfreitag
 DTSTART:20240329T083000
 DTEND:20240329T180000
-DTSTAMP:20240226T225035Z
-UID:7b0a66a8-e07d-46ea-9f1b-1789fa5eea84
-DESCRIPTION:Karfreitag__Good_Friday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:90d0300b-395b-459b-8a49-7b1c77a70ab0
+DESCRIPTION:Karfreitag__Good_FridayProf. Wree\, Prof. Woelk\, Prof. Wellbr
+ ock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Totzek
+ \, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\, Pr
+ of. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S
+ . Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Rie
+ del\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof. P
+ atz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Neuma
+ nn\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, Prof
+ . Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\, 
+ J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\, L
+ . Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J. H
+ offmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T. G
+ reve\, C. Glüsing\, S. Fleck\, Prof. Eisele\, H. Eilers\, Prof. Ehlers\, 
+ J. Dittmann\, F. Caspar\, F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bi
+ cakci\, Prof. Badri-Höher\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektrotechnik 2 ÜL-E4 Einf.
 DTSTART:20240327T101500
 DTEND:20240327T114500
-DTSTAMP:20240226T225035Z
-UID:162702ba-9e6a-4843-b1b8-05579b516fdd
-DESCRIPTION: Wing-NE2_wird_aufgeteilt
-LOCATION:C13-1.23\, 
+DTSTAMP:20240227T122637Z
+UID:c0848d65-ccfd-4b97-869c-54c20955fe37
+DESCRIPTION:Wing-NE2_wird_aufgeteiltR. Hellmund\, J. Dittmann
+LOCATION:C13-1.23
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ostermontag
 DTSTART:20240401T083000
 DTEND:20240401T180000
-DTSTAMP:20240226T225035Z
-UID:634a487f-61a8-4660-9f8a-4e0e7f01942f
-DESCRIPTION:Ostermontag__Easter_Monday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:d0d2ab31-d1e1-4c54-800a-7579f2a9405e
+DESCRIPTION:Ostermontag__Easter_MondayProf. Wree\, Prof. Woelk\, Prof. Wel
+ lbrock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Tot
+ zek\, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\,
+  Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\
+ , S. Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. 
+ Riedel\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof
+ . Patz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Ne
+ umann\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, P
+ rof. Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka
+ \, J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\
+ , L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J
+ . Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T
+ . Greve\, C. Glüsing\, S. Fleck\, Prof. Finkemeyer (FB M)\, Prof. Eisele\
+ , H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektrotechnik 2  ÜL-E3
 DTSTART:20240403T101500
 DTEND:20240403T133000
-DTSTAMP:20240226T225035Z
-UID:4e70af02-9edf-48e4-b08e-d52c42351d7a
-DESCRIPTION: Wing-NE2_wird_aufgeteilt
-LOCATION:C13-1.23\, 
+DTSTAMP:20240227T122637Z
+UID:6978c12f-130f-417e-88cf-9ef5b87c33d4
+DESCRIPTION:Wing-NE2_wird_aufgeteiltR. Hellmund\, A. Raschke
+LOCATION:C13-1.23
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schiffssystem- technik (FB M)
 DTSTART:20240410T081500
 DTEND:20240410T100000
-DTSTAMP:20240226T225035Z
-UID:f446c0e4-3962-465a-a809-9b370d08dfdd
-DESCRIPTION: 
-LOCATION:C13-0.04\, 
+DTSTAMP:20240227T122637Z
+UID:15a8922c-d7d5-4c00-aa8e-02f5c4b612ee
+DESCRIPTION:R. Hellmund
+LOCATION:C13-0.04
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schiffssystem- technik (FB M)
 DTSTART:20240424T081500
 DTEND:20240424T100000
-DTSTAMP:20240226T225035Z
-UID:1651310a-2fd7-406c-b856-9546a3fcb552
-DESCRIPTION: 
-LOCATION:C13-0.04\, 
+DTSTAMP:20240227T122637Z
+UID:8acc4d75-db4c-4e15-b2a2-053ef5a965f8
+DESCRIPTION:R. Hellmund
+LOCATION:C13-0.04
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schiffssystem- technik (FB M)
 DTSTART:20240605T081500
 DTEND:20240605T100000
-DTSTAMP:20240226T225035Z
-UID:e94e9296-10ea-4f45-9bd8-c7f4837eacf1
-DESCRIPTION: 
-LOCATION:C13-0.04\, 
+DTSTAMP:20240227T122637Z
+UID:ad398ab0-0bcf-44fd-ba98-dfbc94e0d418
+DESCRIPTION:R. Hellmund
+LOCATION:C13-0.04
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektrotechnik 2  ÜL-E4
 DTSTART:20240410T101500
 DTEND:20240410T133000
-DTSTAMP:20240226T225035Z
-UID:52d1bdc4-be66-4571-b8f7-402cb50fedb0
-DESCRIPTION: Wing-NE2_wird_aufgeteilt
-LOCATION:C13-1.23\, 
+DTSTAMP:20240227T122637Z
+UID:c8f5a5e7-8dea-400a-b622-613a3b564113
+DESCRIPTION:Wing-NE2_wird_aufgeteiltA. Raschke\, R. Hellmund
+LOCATION:C13-1.23
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektrotechnik 2  ÜL-E4
 DTSTART:20240424T101500
 DTEND:20240424T133000
-DTSTAMP:20240226T225035Z
-UID:1ce0dd4c-ad2f-4397-915d-680f301c9a05
-DESCRIPTION: Wing-NE2_wird_aufgeteilt
-LOCATION:C13-1.23\, 
+DTSTAMP:20240227T122637Z
+UID:7011fe2d-4d9e-4d0b-9808-b39229c2651e
+DESCRIPTION:Wing-NE2_wird_aufgeteiltA. Raschke\, R. Hellmund
+LOCATION:C13-1.23
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektrotechnik 2  ÜL-E4
 DTSTART:20240605T101500
 DTEND:20240605T133000
-DTSTAMP:20240226T225035Z
-UID:9a689570-7a40-483b-8b55-2c33e06d4b6d
-DESCRIPTION: Wing-NE2_wird_aufgeteilt
-LOCATION:C13-1.23\, 
+DTSTAMP:20240227T122637Z
+UID:776cd9c6-4a01-47d1-a80f-254baef4579c
+DESCRIPTION:Wing-NE2_wird_aufgeteiltA. Raschke\, R. Hellmund
+LOCATION:C13-1.23
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schiffssystem- technik (FB M)
 DTSTART:20240417T081500
 DTEND:20240417T100000
-DTSTAMP:20240226T225035Z
-UID:9dd83458-3525-4c43-9dd2-8b2e03b09bf6
-DESCRIPTION: 
-LOCATION:C13-0.04\, 
+DTSTAMP:20240227T122637Z
+UID:874557e8-8d40-4507-9946-d5dccf00c9d1
+DESCRIPTION:R. Hellmund
+LOCATION:C13-0.04
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schiffssystem- technik (FB M)
 DTSTART:20240515T081500
 DTEND:20240515T100000
-DTSTAMP:20240226T225035Z
-UID:92cb1c78-b937-443f-9a6b-feaffc6db6dc
-DESCRIPTION: 
-LOCATION:C13-0.04\, 
+DTSTAMP:20240227T122637Z
+UID:80e8c994-262c-4629-b58e-b062913270fb
+DESCRIPTION:R. Hellmund
+LOCATION:C13-0.04
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektrotechnik 2  ÜL-E3
 DTSTART:20240417T101500
 DTEND:20240417T133000
-DTSTAMP:20240226T225035Z
-UID:0cc44527-d3b1-41e2-afd6-891e05929a27
-DESCRIPTION: Wing-NE2_wird_aufgeteilt
-LOCATION:C13-1.23\, 
+DTSTAMP:20240227T122637Z
+UID:b18e43c0-8c89-467b-be1a-848841bfd4e7
+DESCRIPTION:Wing-NE2_wird_aufgeteiltR. Hellmund\, A. Raschke
+LOCATION:C13-1.23
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektrotechnik 2  ÜL-E3
 DTSTART:20240515T101500
 DTEND:20240515T133000
-DTSTAMP:20240226T225035Z
-UID:95057bf5-4600-450f-ab30-54d06d26247d
-DESCRIPTION: Wing-NE2_wird_aufgeteilt
-LOCATION:C13-1.23\, 
+DTSTAMP:20240227T122637Z
+UID:084750f2-44d8-41b6-9183-8a8de8295417
+DESCRIPTION:Wing-NE2_wird_aufgeteiltR. Hellmund\, A. Raschke
+LOCATION:C13-1.23
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schiffssystem- technik (FB M)
 DTSTART:20240522T081500
 DTEND:20240522T100000
-DTSTAMP:20240226T225035Z
-UID:ad970e8a-b9f8-4a5d-ae08-ba8ad98b4229
-DESCRIPTION: 
-LOCATION:C13-0.04\, 
+DTSTAMP:20240227T122637Z
+UID:d8fa5102-c317-44a0-a884-c7b6f41c3bf4
+DESCRIPTION:R. Hellmund
+LOCATION:C13-0.04
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pfingstmontag
 DTSTART:20240520T083000
 DTEND:20240520T180000
-DTSTAMP:20240226T225035Z
-UID:b76e3eac-fb57-41e9-8e72-441a95679d92
-DESCRIPTION:Pfingstmontag__Whit_Monday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:5d34aa70-d355-4321-8253-02e726eea4cc
+DESCRIPTION:Pfingstmontag__Whit_MondayProf. Wree\, Prof. Woelk\, Prof. Wel
+ lbrock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Tot
+ zek\, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\,
+  Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\
+ , S. Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. 
+ Riedel\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof
+ . Patz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Ne
+ umann\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, P
+ rof. Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka
+ \, J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\
+ , L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J
+ . Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T
+ . Greve\, C. Glüsing\, S. Fleck\, Prof. Finkemeyer (FB M)\, Prof. Eisele\
+ , H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektrotechnik 2  ÜL-E4
 DTSTART:20240522T101500
 DTEND:20240522T133000
-DTSTAMP:20240226T225035Z
-UID:80bdd981-7ee8-46cf-baaa-3f8694110d24
-DESCRIPTION: Wing-NE2_wird_aufgeteilt
-LOCATION:C13-1.23\, 
+DTSTAMP:20240227T122637Z
+UID:b23122ae-c763-4754-8e81-4aa3f16df08d
+DESCRIPTION:Wing-NE2_wird_aufgeteiltA. Raschke\, R. Hellmund
+LOCATION:C13-1.23
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schiffssystem- technik (FB M)
 DTSTART:20240529T081500
 DTEND:20240529T100000
-DTSTAMP:20240226T225035Z
-UID:da4e7a15-521b-4244-866c-d33c1795f674
-DESCRIPTION: 
-LOCATION:C13-0.04\, 
+DTSTAMP:20240227T122637Z
+UID:ae0cb679-e655-4a18-8d04-a6cb7aae083a
+DESCRIPTION:R. Hellmund
+LOCATION:C13-0.04
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektrotechnik 2  ÜL-E3
 DTSTART:20240529T124500
 DTEND:20240529T160000
-DTSTAMP:20240226T225035Z
-UID:bce4df41-3b55-4e4d-87a9-da04c5c9cb5d
-DESCRIPTION: Wing-NE2_wird_aufgeteilt
-LOCATION:C13-1.23\, 
+DTSTAMP:20240227T122637Z
+UID:f4e2794a-143f-43a8-9a1e-818cd8c8b2e6
+DESCRIPTION:Wing-NE2_wird_aufgeteiltA. Raschke\, R. Hellmund
+LOCATION:C13-1.23
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schiffssystem- technik (FB M)
 DTSTART:20240612T081500
 DTEND:20240612T100000
-DTSTAMP:20240226T225035Z
-UID:df69776e-2ca0-4c06-8763-dbe700c9af94
-DESCRIPTION: 
-LOCATION:C13-0.04\, 
+DTSTAMP:20240227T122637Z
+UID:75284de3-dd3f-47aa-bdbd-fb8326032aa4
+DESCRIPTION:R. Hellmund
+LOCATION:C13-0.04
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektrotechnik 2 ÜL-E3 Test
 DTSTART:20240612T101500
 DTEND:20240612T114500
-DTSTAMP:20240226T225035Z
-UID:424042e3-3330-4562-bf86-6021f9ee08a2
-DESCRIPTION: Wing-NE2_wird_aufgeteilt
-LOCATION:C13-1.25\, C13-1.23\, 
+DTSTAMP:20240227T122637Z
+UID:dbc66c16-09e5-451c-b357-6d9352881020
+DESCRIPTION:Wing-NE2_wird_aufgeteiltR. Hellmund\, A. Raschke
+LOCATION:C13-1.25\, C13-1.23
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schiffssystem- technik (FB M)
 DTSTART:20240619T081500
 DTEND:20240619T100000
-DTSTAMP:20240226T225035Z
-UID:91559e54-7c81-4e8e-9a60-5050a6da230c
-DESCRIPTION: 
-LOCATION:C13-0.04\, 
+DTSTAMP:20240227T122637Z
+UID:da949ed0-0177-4290-af9e-a2e9dcdcb268
+DESCRIPTION:R. Hellmund
+LOCATION:C13-0.04
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektrotechnik 2 ÜL-E4 Test
 DTSTART:20240619T101500
 DTEND:20240619T114500
-DTSTAMP:20240226T225035Z
-UID:b0c97573-4a37-401d-9b25-87b39b66ebb2
-DESCRIPTION: Wing-NE2_wird_aufgeteilt
-LOCATION:C13-1.25\, C13-1.23\, 
+DTSTAMP:20240227T122637Z
+UID:240c5645-7786-4ea5-b797-3b6540d4aacf
+DESCRIPTION:Wing-NE2_wird_aufgeteiltR. Hellmund\, A. Raschke
+LOCATION:C13-1.25\, C13-1.23
 END:VEVENT
 END:VCALENDAR

@@ -5,135 +5,179 @@ BEGIN:VEVENT
 SUMMARY:AN Angewandte Netzwerktechnik
 DTSTART:20240320T143000
 DTEND:20240320T174500
-DTSTAMP:20240226T225035Z
-UID:c1cfe1c4-cd2c-4f5b-8399-c66dbd076772
-DESCRIPTION: 
-LOCATION:C13-3.01\, 
+DTSTAMP:20240227T122637Z
+UID:6e27f9cd-97ff-4842-87c5-efe4355224af
+DESCRIPTION:J. Angres
+LOCATION:C13-3.01
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AN Angewandte Netzwerktechnik
 DTSTART:20240529T143000
 DTEND:20240529T174500
-DTSTAMP:20240226T225035Z
-UID:fcb6b1be-d720-4b2a-86ac-9de92971ffd8
-DESCRIPTION: 
-LOCATION:C13-3.01\, 
+DTSTAMP:20240227T122637Z
+UID:a8b6235a-50c7-4c28-8eeb-82884e3c3bef
+DESCRIPTION:J. Angres
+LOCATION:C13-3.01
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AN Angewandte Netzwerktechnik
 DTSTART:20240605T143000
 DTEND:20240605T174500
-DTSTAMP:20240226T225035Z
-UID:5ad50ebc-23de-4add-a5b4-9b4bcdd76789
-DESCRIPTION: 
-LOCATION:C13-3.01\, 
+DTSTAMP:20240227T122637Z
+UID:210e9881-35e0-4486-b570-93ec33833b4a
+DESCRIPTION:J. Angres
+LOCATION:C13-3.01
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AN Angewandte Netzwerktechnik
 DTSTART:20240612T143000
 DTEND:20240612T174500
-DTSTAMP:20240226T225035Z
-UID:f2d3bbdb-1c1d-4159-99d5-53886ee2bef4
-DESCRIPTION: 
-LOCATION:C13-3.01\, 
+DTSTAMP:20240227T122637Z
+UID:7a5aea5a-5ea6-41ad-bd80-7c377018eeaa
+DESCRIPTION:J. Angres
+LOCATION:C13-3.01
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AN Angewandte Netzwerktechnik
 DTSTART:20240619T143000
 DTEND:20240619T174500
-DTSTAMP:20240226T225035Z
-UID:358a5d57-8714-4afd-aab1-00d966e9f8d5
-DESCRIPTION: 
-LOCATION:C13-3.01\, 
+DTSTAMP:20240227T122637Z
+UID:2d0c46de-df9a-41c9-8856-1e75e580614a
+DESCRIPTION:J. Angres
+LOCATION:C13-3.01
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karfreitag
 DTSTART:20240329T083000
 DTEND:20240329T180000
-DTSTAMP:20240226T225035Z
-UID:25dbc804-a391-47c4-a6f7-794eab8ac607
-DESCRIPTION:Karfreitag__Good_Friday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:1533d1c9-3f24-4a55-bcf2-c7d6de3a21dc
+DESCRIPTION:Karfreitag__Good_FridayProf. Wree\, Prof. Woelk\, Prof. Wellbr
+ ock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Totzek
+ \, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\, Pr
+ of. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S
+ . Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Rie
+ del\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof. P
+ atz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Neuma
+ nn\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, Prof
+ . Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\, 
+ J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\, L
+ . Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J. H
+ offmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T. G
+ reve\, C. Glüsing\, S. Fleck\, Prof. Eisele\, H. Eilers\, Prof. Ehlers\, 
+ J. Dittmann\, F. Caspar\, F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bi
+ cakci\, Prof. Badri-Höher\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AN Angewandte Netzwerktechnik
 DTSTART:20240327T143000
 DTEND:20240327T174500
-DTSTAMP:20240226T225035Z
-UID:6e618385-1214-403c-9177-ee07593d812f
-DESCRIPTION: online
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:8e9f4019-90ac-44ae-a1ed-a506a636b309
+DESCRIPTION:onlineJ. Angres
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ostermontag
 DTSTART:20240401T083000
 DTEND:20240401T180000
-DTSTAMP:20240226T225035Z
-UID:69c0ebcb-f408-400c-a17b-f918918d58c8
-DESCRIPTION:Ostermontag__Easter_Monday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:53139850-8e83-41d2-a160-ac0928d80abc
+DESCRIPTION:Ostermontag__Easter_MondayProf. Wree\, Prof. Woelk\, Prof. Wel
+ lbrock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Tot
+ zek\, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\,
+  Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\
+ , S. Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. 
+ Riedel\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof
+ . Patz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Ne
+ umann\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, P
+ rof. Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka
+ \, J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\
+ , L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J
+ . Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T
+ . Greve\, C. Glüsing\, S. Fleck\, Prof. Finkemeyer (FB M)\, Prof. Eisele\
+ , H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AN Angewandte Netzwerktechnik
 DTSTART:20240403T143000
 DTEND:20240403T174500
-DTSTAMP:20240226T225035Z
-UID:191fb7cf-48ca-48b9-b894-e859b58c808d
-DESCRIPTION: online
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:e7a2b6a7-0b9f-4e82-b0dd-ecdfc558b523
+DESCRIPTION:onlineJ. Angres
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AN Angewandte Netzwerktechnik
 DTSTART:20240410T143000
 DTEND:20240410T174500
-DTSTAMP:20240226T225035Z
-UID:d483cd23-388b-40aa-ae77-3a25ec2c18b5
-DESCRIPTION: online
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:3938aa18-1d5e-4d6c-93a5-74147b55af34
+DESCRIPTION:onlineJ. Angres
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AN Angewandte Netzwerktechnik
 DTSTART:20240417T143000
 DTEND:20240417T174500
-DTSTAMP:20240226T225035Z
-UID:cfdee8c4-fbac-469b-b814-92c94e7e1a67
-DESCRIPTION: online
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:7de5baa7-6601-4268-8aac-027c6f9070f2
+DESCRIPTION:onlineJ. Angres
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AN Angewandte Netzwerktechnik
 DTSTART:20240424T143000
 DTEND:20240424T174500
-DTSTAMP:20240226T225035Z
-UID:1410d244-0bfc-4c6b-b7a7-0f1aea7b9f87
-DESCRIPTION: online
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:ca3ac51e-4ec9-4d77-9b44-c8840bcb844c
+DESCRIPTION:onlineJ. Angres
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AN Angewandte Netzwerktechnik
 DTSTART:20240515T143000
 DTEND:20240515T174500
-DTSTAMP:20240226T225035Z
-UID:065fb3c9-3bef-4eaf-b2d1-9b05ef58e2b5
-DESCRIPTION: online
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:f7df6277-4fab-4cf7-bac6-2a616306a058
+DESCRIPTION:onlineJ. Angres
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pfingstmontag
 DTSTART:20240520T083000
 DTEND:20240520T180000
-DTSTAMP:20240226T225035Z
-UID:b61347b8-0e79-4303-bf08-600b1f245616
-DESCRIPTION:Pfingstmontag__Whit_Monday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:86defdf0-b90d-45cf-9694-3e3a8f5c11aa
+DESCRIPTION:Pfingstmontag__Whit_MondayProf. Wree\, Prof. Woelk\, Prof. Wel
+ lbrock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Tot
+ zek\, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\,
+  Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\
+ , S. Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. 
+ Riedel\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof
+ . Patz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Ne
+ umann\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, P
+ rof. Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka
+ \, J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\
+ , L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J
+ . Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T
+ . Greve\, C. Glüsing\, S. Fleck\, Prof. Finkemeyer (FB M)\, Prof. Eisele\
+ , H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AN Angewandte Netzwerktechnik
 DTSTART:20240522T143000
 DTEND:20240522T174500
-DTSTAMP:20240226T225035Z
-UID:a04ff85d-4a2e-467f-b1a1-2342186860d2
-DESCRIPTION: 
-LOCATION:C13-3.01\, 
+DTSTAMP:20240227T122637Z
+UID:5c02767b-7252-463c-99da-6b58a50eadaa
+DESCRIPTION:J. Angres
+LOCATION:C13-3.01
 END:VEVENT
 END:VCALENDAR

@@ -5,207 +5,251 @@ BEGIN:VEVENT
 SUMMARY:Advanced  C++
 DTSTART:20240318T124500
 DTEND:20240318T141500
-DTSTAMP:20240226T225035Z
-UID:250aa1ec-00e8-4616-860c-2e95616fa941
-DESCRIPTION: 
-LOCATION:C12-2.61\, 
+DTSTAMP:20240227T122637Z
+UID:75b47e99-037e-4ea0-b5ee-9bd18f36f31a
+DESCRIPTION:T. Greve
+LOCATION:C12-2.61
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Advanced  C++
 DTSTART:20240408T124500
 DTEND:20240408T141500
-DTSTAMP:20240226T225035Z
-UID:51d7de63-5b54-4b7e-af09-6c2a38148c42
-DESCRIPTION: 
-LOCATION:C12-2.61\, 
+DTSTAMP:20240227T122637Z
+UID:c697ff09-fb88-48fd-bbd2-10fa3530670c
+DESCRIPTION:T. Greve
+LOCATION:C12-2.61
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Advanced  C++
 DTSTART:20240415T124500
 DTEND:20240415T141500
-DTSTAMP:20240226T225035Z
-UID:63e69ade-bb09-42de-96f0-6f2f7b0c31ba
-DESCRIPTION: 
-LOCATION:C12-2.61\, 
+DTSTAMP:20240227T122637Z
+UID:092c300c-a2b4-4376-b08e-e56c28f376c1
+DESCRIPTION:T. Greve
+LOCATION:C12-2.61
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Advanced  C++
 DTSTART:20240422T124500
 DTEND:20240422T141500
-DTSTAMP:20240226T225035Z
-UID:b4110f43-ffe6-4b5b-9586-64ff7a9164c5
-DESCRIPTION: 
-LOCATION:C12-2.61\, 
+DTSTAMP:20240227T122637Z
+UID:b88f67e9-8769-4aee-857c-411764c80889
+DESCRIPTION:T. Greve
+LOCATION:C12-2.61
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Advanced  C++
 DTSTART:20240513T124500
 DTEND:20240513T141500
-DTSTAMP:20240226T225035Z
-UID:e1401b56-5f62-40f7-8a4a-bc4d886639bb
-DESCRIPTION: 
-LOCATION:C12-2.61\, 
+DTSTAMP:20240227T122637Z
+UID:58332915-4bc3-4a56-b3b4-4766620c33bb
+DESCRIPTION:T. Greve
+LOCATION:C12-2.61
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Advanced  C++
 DTSTART:20240527T124500
 DTEND:20240527T141500
-DTSTAMP:20240226T225035Z
-UID:2989ea8f-097b-4bab-8a74-11eddf925e60
-DESCRIPTION: 
-LOCATION:C12-2.61\, 
+DTSTAMP:20240227T122637Z
+UID:1e10be03-d31b-44bc-a1fd-12c79c1e9aa8
+DESCRIPTION:T. Greve
+LOCATION:C12-2.61
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Advanced  C++
 DTSTART:20240603T124500
 DTEND:20240603T141500
-DTSTAMP:20240226T225035Z
-UID:46519f09-41a1-4c06-a010-48d58d1671f8
-DESCRIPTION: 
-LOCATION:C12-2.61\, 
+DTSTAMP:20240227T122637Z
+UID:44b9369c-6c2a-457c-ba1b-d402469ec42a
+DESCRIPTION:T. Greve
+LOCATION:C12-2.61
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Advanced  C++
 DTSTART:20240610T124500
 DTEND:20240610T141500
-DTSTAMP:20240226T225035Z
-UID:72b98def-83ee-49c6-95fe-b70b851b5dba
-DESCRIPTION: 
-LOCATION:C12-2.61\, 
+DTSTAMP:20240227T122637Z
+UID:7b1af043-429b-4626-a9c7-d95bd7578192
+DESCRIPTION:T. Greve
+LOCATION:C12-2.61
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Advanced  C++
 DTSTART:20240617T124500
 DTEND:20240617T141500
-DTSTAMP:20240226T225035Z
-UID:0f4d0ddd-47aa-4540-9aca-b7d8724f7833
-DESCRIPTION: 
-LOCATION:C12-2.61\, 
+DTSTAMP:20240227T122637Z
+UID:ff129b51-52fb-4db9-84ba-bac923ebc90c
+DESCRIPTION:T. Greve
+LOCATION:C12-2.61
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Advanced  C++
 DTSTART:20240318T143000
 DTEND:20240318T163000
-DTSTAMP:20240226T225035Z
-UID:1b3b9a2e-5aa8-48c5-9658-12112754dc11
-DESCRIPTION: mit_Ausgleich_Feiertage
-LOCATION:C12-2.61\, 
+DTSTAMP:20240227T122637Z
+UID:bd96c31e-0c62-4839-9ce9-ab9317af0b02
+DESCRIPTION:mit_Ausgleich_FeiertageT. Greve
+LOCATION:C12-2.61
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Advanced  C++
 DTSTART:20240408T143000
 DTEND:20240408T163000
-DTSTAMP:20240226T225035Z
-UID:4cb061dd-a7fd-4a7e-97a5-c041fde523ce
-DESCRIPTION: mit_Ausgleich_Feiertage
-LOCATION:C12-2.61\, 
+DTSTAMP:20240227T122637Z
+UID:16137813-7a9d-4c5d-8e39-5e79c56727aa
+DESCRIPTION:mit_Ausgleich_FeiertageT. Greve
+LOCATION:C12-2.61
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Advanced  C++
 DTSTART:20240415T143000
 DTEND:20240415T163000
-DTSTAMP:20240226T225035Z
-UID:c8084916-36f8-45f0-a195-fb15c29382f1
-DESCRIPTION: mit_Ausgleich_Feiertage
-LOCATION:C12-2.61\, 
+DTSTAMP:20240227T122637Z
+UID:c762b38b-ce5b-486c-8267-3396bd45be51
+DESCRIPTION:mit_Ausgleich_FeiertageT. Greve
+LOCATION:C12-2.61
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Advanced  C++
 DTSTART:20240422T143000
 DTEND:20240422T163000
-DTSTAMP:20240226T225035Z
-UID:2843c194-8d9f-44d2-a13a-b57e65a15436
-DESCRIPTION: mit_Ausgleich_Feiertage
-LOCATION:C12-2.61\, 
+DTSTAMP:20240227T122637Z
+UID:2e0ce145-a8e2-486b-942d-1eef8fe7e6b3
+DESCRIPTION:mit_Ausgleich_FeiertageT. Greve
+LOCATION:C12-2.61
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Advanced  C++
 DTSTART:20240513T143000
 DTEND:20240513T163000
-DTSTAMP:20240226T225035Z
-UID:29a517a2-e304-4c42-9446-4caa209608eb
-DESCRIPTION: mit_Ausgleich_Feiertage
-LOCATION:C12-2.61\, 
+DTSTAMP:20240227T122637Z
+UID:3c854097-955f-4f08-8462-4ecd70837445
+DESCRIPTION:mit_Ausgleich_FeiertageT. Greve
+LOCATION:C12-2.61
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Advanced  C++
 DTSTART:20240527T143000
 DTEND:20240527T163000
-DTSTAMP:20240226T225035Z
-UID:d54b424b-8f0c-489b-ad53-e502c9ea17fb
-DESCRIPTION: mit_Ausgleich_Feiertage
-LOCATION:C12-2.61\, 
+DTSTAMP:20240227T122637Z
+UID:cee538ee-4a4f-47f5-a824-2c05f6ef9f54
+DESCRIPTION:mit_Ausgleich_FeiertageT. Greve
+LOCATION:C12-2.61
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Advanced  C++
 DTSTART:20240603T143000
 DTEND:20240603T163000
-DTSTAMP:20240226T225035Z
-UID:c266685b-3ab7-4f9e-8364-b29d645f5bce
-DESCRIPTION: mit_Ausgleich_Feiertage
-LOCATION:C12-2.61\, 
+DTSTAMP:20240227T122637Z
+UID:e54c2128-b91c-453d-93a2-911b1c863e09
+DESCRIPTION:mit_Ausgleich_FeiertageT. Greve
+LOCATION:C12-2.61
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Advanced  C++
 DTSTART:20240610T143000
 DTEND:20240610T163000
-DTSTAMP:20240226T225035Z
-UID:335fed0b-b0d9-41e7-887b-293183f7df68
-DESCRIPTION: mit_Ausgleich_Feiertage
-LOCATION:C12-2.61\, 
+DTSTAMP:20240227T122637Z
+UID:1464a10f-2729-45f5-a2cb-c2210572b8e7
+DESCRIPTION:mit_Ausgleich_FeiertageT. Greve
+LOCATION:C12-2.61
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Advanced  C++
 DTSTART:20240617T143000
 DTEND:20240617T163000
-DTSTAMP:20240226T225035Z
-UID:ae75b7de-95fe-4928-813c-011d34244735
-DESCRIPTION: mit_Ausgleich_Feiertage
-LOCATION:C12-2.61\, 
+DTSTAMP:20240227T122637Z
+UID:e4bc8aba-c806-410b-9c15-c2756f1712a2
+DESCRIPTION:mit_Ausgleich_FeiertageT. Greve
+LOCATION:C12-2.61
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karfreitag
 DTSTART:20240329T083000
 DTEND:20240329T180000
-DTSTAMP:20240226T225035Z
-UID:07977827-15d2-45ad-a9fa-889d7c084e46
-DESCRIPTION:Karfreitag__Good_Friday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:dd5eea30-3344-45c0-8021-27e4dddf6fb1
+DESCRIPTION:Karfreitag__Good_FridayProf. Wree\, Prof. Woelk\, Prof. Wellbr
+ ock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Totzek
+ \, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\, Pr
+ of. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S
+ . Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Rie
+ del\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof. P
+ atz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Neuma
+ nn\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, Prof
+ . Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\, 
+ J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\, L
+ . Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J. H
+ offmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T. G
+ reve\, C. Glüsing\, S. Fleck\, Prof. Eisele\, H. Eilers\, Prof. Ehlers\, 
+ J. Dittmann\, F. Caspar\, F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bi
+ cakci\, Prof. Badri-Höher\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Advanced  C++
 DTSTART:20240325T124500
 DTEND:20240325T141500
-DTSTAMP:20240226T225035Z
-UID:3ac57580-a928-4e01-9296-8ab1a9b12d5b
-DESCRIPTION: 
-LOCATION:C12-2.61\, 
+DTSTAMP:20240227T122637Z
+UID:2bc17d53-ddcf-434a-93ba-8fe18bc0efab
+DESCRIPTION:T. Greve
+LOCATION:C12-2.61
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Advanced  C++
 DTSTART:20240325T143000
 DTEND:20240325T163000
-DTSTAMP:20240226T225035Z
-UID:0592be06-bcd0-4142-a1d7-42cf81b2bed2
-DESCRIPTION: mit_Ausgleich_Feiertage
-LOCATION:C12-2.61\, 
+DTSTAMP:20240227T122637Z
+UID:16507c37-8b08-4dfe-a22e-a0921bee9a19
+DESCRIPTION:mit_Ausgleich_FeiertageT. Greve
+LOCATION:C12-2.61
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ostermontag
 DTSTART:20240401T083000
 DTEND:20240401T180000
-DTSTAMP:20240226T225035Z
-UID:8ae50684-d0e4-4d88-bb93-be65c3e8f465
-DESCRIPTION:Ostermontag__Easter_Monday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:2284f1b4-f5b5-408a-a845-0ea9d8395293
+DESCRIPTION:Ostermontag__Easter_MondayProf. Wree\, Prof. Woelk\, Prof. Wel
+ lbrock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Tot
+ zek\, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\,
+  Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\
+ , S. Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. 
+ Riedel\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof
+ . Patz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Ne
+ umann\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, P
+ rof. Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka
+ \, J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\
+ , L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J
+ . Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T
+ . Greve\, C. Glüsing\, S. Fleck\, Prof. Finkemeyer (FB M)\, Prof. Eisele\
+ , H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pfingstmontag
 DTSTART:20240520T083000
 DTEND:20240520T180000
-DTSTAMP:20240226T225035Z
-UID:09297090-a6a9-42ff-a6ff-6fa30bdf5904
-DESCRIPTION:Pfingstmontag__Whit_Monday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:818bbfaf-9174-4b3b-b4d9-4b3941bfba03
+DESCRIPTION:Pfingstmontag__Whit_MondayProf. Wree\, Prof. Woelk\, Prof. Wel
+ lbrock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Tot
+ zek\, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\,
+  Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\
+ , S. Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. 
+ Riedel\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof
+ . Patz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Ne
+ umann\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, P
+ rof. Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka
+ \, J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\
+ , L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J
+ . Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T
+ . Greve\, C. Glüsing\, S. Fleck\, Prof. Finkemeyer (FB M)\, Prof. Eisele\
+ , H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 END:VCALENDAR

@@ -5,126 +5,171 @@ BEGIN:VEVENT
 SUMMARY:Kick-Off-Seminar 4. Sem.
 DTSTART:20240315T124500
 DTEND:20240315T141500
-DTSTAMP:20240226T225035Z
-UID:52fd249f-d793-4725-b4e9-22c52bda970b
-DESCRIPTION:Kick-off_Seminar_4.Sem. C22-0.01
-LOCATION:C22-0.01\, 
+DTSTAMP:20240227T122638Z
+UID:40957ed9-019d-49aa-92e5-a3df6e4a9776
+DESCRIPTION:Kick-off_Seminar_4.Sem. C22-0.01Kjär\, H.\, Prof. Woelk\, S. 
+ Wagner\, T. Thiericke\, Prof. Lüssem\, K. Hinkelmann\, Prof. Ehlers
+LOCATION:C22-0.01
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projektmanagement u. Unternehmensführung
 DTSTART:20240318T161500
 DTEND:20240318T193000
-DTSTAMP:20240226T225035Z
-UID:7510384d-a6d3-4238-9bec-fb447d840aa3
-DESCRIPTION: online/Zoom
-LOCATION:\, 
+DTSTAMP:20240227T122638Z
+UID:9fbf9102-38a4-4f53-83fb-ffc2c9f77c6e
+DESCRIPTION:online/ZoomT. Thiericke
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projektmanagement u. Unternehmensführung
 DTSTART:20240408T161500
 DTEND:20240408T193000
-DTSTAMP:20240226T225035Z
-UID:0a089b53-98be-4b1b-b0a6-dcd9a6936e04
-DESCRIPTION: online/Zoom
-LOCATION:\, 
+DTSTAMP:20240227T122638Z
+UID:f2d6ad14-14de-4ca6-8cfa-170f0ac8410f
+DESCRIPTION:online/ZoomT. Thiericke
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projektmanagement u. Unternehmensführung
 DTSTART:20240415T161500
 DTEND:20240415T193000
-DTSTAMP:20240226T225035Z
-UID:4d0a0c7d-aab6-4b6a-a348-4132ebed2d20
-DESCRIPTION: online/Zoom
-LOCATION:\, 
+DTSTAMP:20240227T122638Z
+UID:a25b9a03-a9e7-4bfb-a848-6c103b1af76d
+DESCRIPTION:online/ZoomT. Thiericke
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projektmanagement u. Unternehmensführung
 DTSTART:20240422T161500
 DTEND:20240422T193000
-DTSTAMP:20240226T225035Z
-UID:338ebeb2-6d09-46db-a4b9-13bf80f9803f
-DESCRIPTION: online/Zoom
-LOCATION:\, 
+DTSTAMP:20240227T122638Z
+UID:32b113ca-7aad-49fa-943e-e63163de5d24
+DESCRIPTION:online/ZoomT. Thiericke
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projektmanagement u. Unternehmensführung
 DTSTART:20240513T161500
 DTEND:20240513T193000
-DTSTAMP:20240226T225035Z
-UID:6b1db761-286f-4136-bee4-5b6347e5cdcc
-DESCRIPTION: online/Zoom
-LOCATION:\, 
+DTSTAMP:20240227T122638Z
+UID:afe58345-eabd-4737-9961-6c53fea629c2
+DESCRIPTION:online/ZoomT. Thiericke
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projektmanagement u. Unternehmensführung
 DTSTART:20240527T161500
 DTEND:20240527T193000
-DTSTAMP:20240226T225035Z
-UID:075cc3ef-7b20-4e06-a328-4e73e7ccb9f4
-DESCRIPTION: online/Zoom
-LOCATION:\, 
+DTSTAMP:20240227T122638Z
+UID:7d0e3785-89c4-4138-8c28-35954699e73a
+DESCRIPTION:online/ZoomT. Thiericke
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projektmanagement u. Unternehmensführung
 DTSTART:20240603T161500
 DTEND:20240603T193000
-DTSTAMP:20240226T225035Z
-UID:46ecc8f6-e2a2-4b00-999b-a3c6651c4e29
-DESCRIPTION: online/Zoom
-LOCATION:\, 
+DTSTAMP:20240227T122638Z
+UID:bf981fe2-b7ac-4f3a-8dac-fc2cce6fe7bb
+DESCRIPTION:online/ZoomT. Thiericke
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projektmanagement u. Unternehmensführung
 DTSTART:20240610T161500
 DTEND:20240610T193000
-DTSTAMP:20240226T225035Z
-UID:9d4db0a7-f6c1-4d48-be82-08e7fbe6f415
-DESCRIPTION: online/Zoom
-LOCATION:\, 
+DTSTAMP:20240227T122638Z
+UID:928e1c2e-40f4-4e15-9e87-0cad46ad387e
+DESCRIPTION:online/ZoomT. Thiericke
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projektmanagement u. Unternehmensführung
 DTSTART:20240617T161500
 DTEND:20240617T193000
-DTSTAMP:20240226T225035Z
-UID:b69177e9-ef78-4359-ac72-9ce7bc098a7e
-DESCRIPTION: online/Zoom
-LOCATION:\, 
+DTSTAMP:20240227T122638Z
+UID:d24d87bb-882d-4279-9a19-f59d9243bf16
+DESCRIPTION:online/ZoomT. Thiericke
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karfreitag
 DTSTART:20240329T083000
 DTEND:20240329T180000
-DTSTAMP:20240226T225035Z
-UID:6491ddbf-92e0-41d0-90ea-3b71237470ca
-DESCRIPTION:Karfreitag__Good_Friday 
-LOCATION:\, 
+DTSTAMP:20240227T122638Z
+UID:f33ae8f7-5d8e-439e-a43b-1cf53da61a35
+DESCRIPTION:Karfreitag__Good_FridayProf. Wree\, Prof. Woelk\, Prof. Wellbr
+ ock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Totzek
+ \, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\, Pr
+ of. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S
+ . Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Rie
+ del\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof. P
+ atz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Neuma
+ nn\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, Prof
+ . Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\, 
+ J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\, L
+ . Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J. H
+ offmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T. G
+ reve\, C. Glüsing\, S. Fleck\, Prof. Eisele\, H. Eilers\, Prof. Ehlers\, 
+ J. Dittmann\, F. Caspar\, F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bi
+ cakci\, Prof. Badri-Höher\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projektmanagement u. Unternehmensführung
 DTSTART:20240325T161500
 DTEND:20240325T193000
-DTSTAMP:20240226T225035Z
-UID:67bdc12f-aa89-4ea1-b2a0-0dd809afd7ef
-DESCRIPTION: online/Zoom
-LOCATION:\, 
+DTSTAMP:20240227T122638Z
+UID:bc359279-e0ef-46be-af49-1d32faf6c480
+DESCRIPTION:online/ZoomT. Thiericke
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ostermontag
 DTSTART:20240401T083000
 DTEND:20240401T180000
-DTSTAMP:20240226T225035Z
-UID:4822ad9f-0d5e-4276-afcc-ef3f83cbf83c
-DESCRIPTION:Ostermontag__Easter_Monday 
-LOCATION:\, 
+DTSTAMP:20240227T122638Z
+UID:58eb97d5-e075-426e-b276-3cdf87a1c35b
+DESCRIPTION:Ostermontag__Easter_MondayProf. Wree\, Prof. Woelk\, Prof. Wel
+ lbrock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Tot
+ zek\, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\,
+  Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\
+ , S. Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. 
+ Riedel\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof
+ . Patz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Ne
+ umann\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, P
+ rof. Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka
+ \, J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\
+ , L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J
+ . Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T
+ . Greve\, C. Glüsing\, S. Fleck\, Prof. Finkemeyer (FB M)\, Prof. Eisele\
+ , H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pfingstmontag
 DTSTART:20240520T083000
 DTEND:20240520T180000
-DTSTAMP:20240226T225035Z
-UID:5a0ceab4-50af-4599-b64b-d7638830b83d
-DESCRIPTION:Pfingstmontag__Whit_Monday 
-LOCATION:\, 
+DTSTAMP:20240227T122638Z
+UID:fef89a47-fcc9-453d-8b8b-de86c2414a9e
+DESCRIPTION:Pfingstmontag__Whit_MondayProf. Wree\, Prof. Woelk\, Prof. Wel
+ lbrock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Tot
+ zek\, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\,
+  Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\
+ , S. Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. 
+ Riedel\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof
+ . Patz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Ne
+ umann\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, P
+ rof. Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka
+ \, J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\
+ , L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J
+ . Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T
+ . Greve\, C. Glüsing\, S. Fleck\, Prof. Finkemeyer (FB M)\, Prof. Eisele\
+ , H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 END:VCALENDAR

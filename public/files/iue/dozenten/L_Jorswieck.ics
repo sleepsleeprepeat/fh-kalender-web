@@ -5,216 +5,260 @@ BEGIN:VEVENT
 SUMMARY:BI131 Makertechn. Prototypen
 DTSTART:20240319T161500
 DTEND:20240319T193000
-DTSTAMP:20240226T225035Z
-UID:dd038c37-34b8-4275-8ae6-666b064ed4f5
-DESCRIPTION: 
-LOCATION:C12-1.20\, C12-1.19\, C12-1.18\, 
+DTSTAMP:20240227T122637Z
+UID:7705ae22-f051-42d0-b718-fcbb1a86896e
+DESCRIPTION:L. Jorswieck
+LOCATION:C12-1.20\, C12-1.19\, C12-1.18
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karfreitag
 DTSTART:20240329T083000
 DTEND:20240329T180000
-DTSTAMP:20240226T225035Z
-UID:ec637d85-6d8d-4069-b6c5-fbb37e664c30
-DESCRIPTION:Karfreitag__Good_Friday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:9d33ca0a-bdf9-4800-9d1a-8b5f56d67c6f
+DESCRIPTION:Karfreitag__Good_FridayProf. Wree\, Prof. Woelk\, Prof. Wellbr
+ ock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Totzek
+ \, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\, Pr
+ of. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S
+ . Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Rie
+ del\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof. P
+ atz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Neuma
+ nn\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, Prof
+ . Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\, 
+ J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\, L
+ . Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J. H
+ offmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T. G
+ reve\, C. Glüsing\, S. Fleck\, Prof. Eisele\, H. Eilers\, Prof. Ehlers\, 
+ J. Dittmann\, F. Caspar\, F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bi
+ cakci\, Prof. Badri-Höher\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Algorithmen-u. Datenstrukturen ÜL-WM+höhere Sem.
 DTSTART:20240328T143000
 DTEND:20240328T160000
-DTSTAMP:20240226T225035Z
-UID:235dd30a-cf09-4312-851a-c67bece6c935
-DESCRIPTION: 
-LOCATION:C12-2.69\, 
+DTSTAMP:20240227T122637Z
+UID:36160dbc-dee8-4899-835a-4ab85e5976f0
+DESCRIPTION:L. Jorswieck
+LOCATION:C12-2.69
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI131 Makertechn. Prototypen
 DTSTART:20240326T161500
 DTEND:20240326T193000
-DTSTAMP:20240226T225035Z
-UID:bd7294d8-e6a4-48f1-81f3-01b5f7b09c45
-DESCRIPTION: 
-LOCATION:C12-1.20\, C12-1.19\, C12-1.18\, 
+DTSTAMP:20240227T122637Z
+UID:567dafd1-38e9-4cbc-ae59-83def7e70bdc
+DESCRIPTION:L. Jorswieck
+LOCATION:C12-1.20\, C12-1.19\, C12-1.18
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ostermontag
 DTSTART:20240401T083000
 DTEND:20240401T180000
-DTSTAMP:20240226T225035Z
-UID:deaec85a-5481-434f-954b-c8191f025f45
-DESCRIPTION:Ostermontag__Easter_Monday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:57e0d009-8aad-42c2-b243-c3ec191cacfc
+DESCRIPTION:Ostermontag__Easter_MondayProf. Wree\, Prof. Woelk\, Prof. Wel
+ lbrock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Tot
+ zek\, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\,
+  Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\
+ , S. Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. 
+ Riedel\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof
+ . Patz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Ne
+ umann\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, P
+ rof. Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka
+ \, J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\
+ , L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J
+ . Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T
+ . Greve\, C. Glüsing\, S. Fleck\, Prof. Finkemeyer (FB M)\, Prof. Eisele\
+ , H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I4
 DTSTART:20240403T143000
 DTEND:20240403T160000
-DTSTAMP:20240226T225035Z
-UID:59aea297-844b-49d1-81e4-9f492811cf2e
-DESCRIPTION: 
-LOCATION:C12-2.69\, 
+DTSTAMP:20240227T122637Z
+UID:a69c96cd-2f9c-4e06-a6e5-1be59b2f3e79
+DESCRIPTION:L. Jorswieck
+LOCATION:C12-2.69
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI131 Makertechn. Prototypen
 DTSTART:20240402T161500
 DTEND:20240402T193000
-DTSTAMP:20240226T225035Z
-UID:1a1b2d19-c96b-481a-b85f-fe64bb45a10a
-DESCRIPTION: 
-LOCATION:C12-1.20\, C12-1.19\, C12-1.18\, 
+DTSTAMP:20240227T122637Z
+UID:18ed8339-d7c1-473c-9952-2b9c733e8a1c
+DESCRIPTION:L. Jorswieck
+LOCATION:C12-1.20\, C12-1.19\, C12-1.18
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I5
 DTSTART:20240403T161500
 DTEND:20240403T174500
-DTSTAMP:20240226T225035Z
-UID:354109cd-f09c-4906-9caf-0a511f2db435
-DESCRIPTION: 
-LOCATION:C12-2.69\, 
+DTSTAMP:20240227T122637Z
+UID:987fe08a-888f-4929-9179-9951cca1a632
+DESCRIPTION:L. Jorswieck
+LOCATION:C12-2.69
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Algorithmen-u. Datenstrukturen ÜL-WM+höhere Sem.
 DTSTART:20240411T143000
 DTEND:20240411T160000
-DTSTAMP:20240226T225035Z
-UID:a4dcebcb-8be6-4094-b4cb-b1cc3af470b5
-DESCRIPTION: 
-LOCATION:C12-2.69\, 
+DTSTAMP:20240227T122637Z
+UID:86c79d42-7c74-4321-a02c-3102cdab2376
+DESCRIPTION:L. Jorswieck
+LOCATION:C12-2.69
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Algorithmen-u. Datenstrukturen ÜL-WM+höhere Sem.
 DTSTART:20240425T143000
 DTEND:20240425T160000
-DTSTAMP:20240226T225035Z
-UID:4e4e1c89-dbe9-412b-b162-b5bf5f3883a7
-DESCRIPTION: 
-LOCATION:C12-2.69\, 
+DTSTAMP:20240227T122637Z
+UID:f1e140bd-4e17-4de1-b431-4a5cfc91ce25
+DESCRIPTION:L. Jorswieck
+LOCATION:C12-2.69
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI131 Makertechn. Prototypen
 DTSTART:20240409T161500
 DTEND:20240409T193000
-DTSTAMP:20240226T225035Z
-UID:365ec691-8372-4573-bacc-796a77026cd0
-DESCRIPTION: 
-LOCATION:C12-1.20\, C12-1.19\, C12-1.18\, 
+DTSTAMP:20240227T122637Z
+UID:59c79d57-61bc-4ba1-ae0b-6ff1ea3ffd38
+DESCRIPTION:L. Jorswieck
+LOCATION:C12-1.20\, C12-1.19\, C12-1.18
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI131 Makertechn. Prototypen
 DTSTART:20240423T161500
 DTEND:20240423T193000
-DTSTAMP:20240226T225035Z
-UID:c39df26e-56c3-4b05-b830-96f94c2ddc08
-DESCRIPTION: 
-LOCATION:C12-1.20\, C12-1.19\, C12-1.18\, 
+DTSTAMP:20240227T122637Z
+UID:808a4d9f-6eca-4e8a-bf15-d32e095cbbfe
+DESCRIPTION:L. Jorswieck
+LOCATION:C12-1.20\, C12-1.19\, C12-1.18
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I4
 DTSTART:20240417T143000
 DTEND:20240417T160000
-DTSTAMP:20240226T225035Z
-UID:a3217382-202c-4cd5-b9e1-dc8f4852bb38
-DESCRIPTION: 
-LOCATION:C12-2.69\, 
+DTSTAMP:20240227T122637Z
+UID:f96ee545-a871-46c0-a3dd-40c7da893b04
+DESCRIPTION:L. Jorswieck
+LOCATION:C12-2.69
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI131 Makertechn. Prototypen
 DTSTART:20240416T161500
 DTEND:20240416T193000
-DTSTAMP:20240226T225035Z
-UID:ccf4144a-6d73-4fd5-a9dd-3f8a46e899ba
-DESCRIPTION: 
-LOCATION:C12-1.20\, C12-1.19\, C12-1.18\, 
+DTSTAMP:20240227T122637Z
+UID:e1e37c82-e096-441a-a22d-069f549b4bb5
+DESCRIPTION:L. Jorswieck
+LOCATION:C12-1.20\, C12-1.19\, C12-1.18
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I5
 DTSTART:20240417T161500
 DTEND:20240417T174500
-DTSTAMP:20240226T225035Z
-UID:d438bc8c-cfb0-42b3-aeb4-c946f4809f58
-DESCRIPTION: 
-LOCATION:C12-2.69\, 
+DTSTAMP:20240227T122637Z
+UID:31ce2160-0249-4091-8233-a0413651c63c
+DESCRIPTION:L. Jorswieck
+LOCATION:C12-2.69
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I4
 DTSTART:20240515T143000
 DTEND:20240515T160000
-DTSTAMP:20240226T225035Z
-UID:7843b8bb-7deb-4f0c-b242-37dbe9524df2
-DESCRIPTION: 
-LOCATION:C12-2.69\, 
+DTSTAMP:20240227T122637Z
+UID:0c239fe9-0ff7-4e9c-a7f2-96a3d0678260
+DESCRIPTION:L. Jorswieck
+LOCATION:C12-2.69
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I4
 DTSTART:20240529T143000
 DTEND:20240529T160000
-DTSTAMP:20240226T225035Z
-UID:38331a9d-608b-4099-baf4-9d2ebbdbc853
-DESCRIPTION: 
-LOCATION:C12-2.69\, 
+DTSTAMP:20240227T122637Z
+UID:d85f4ec8-aa5a-41d3-9656-f160b795cfc7
+DESCRIPTION:L. Jorswieck
+LOCATION:C12-2.69
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I4
 DTSTART:20240612T143000
 DTEND:20240612T160000
-DTSTAMP:20240226T225035Z
-UID:4ba90244-f962-4eff-8c9e-96ee0979178d
-DESCRIPTION: 
-LOCATION:C12-2.69\, 
+DTSTAMP:20240227T122637Z
+UID:4867b5b8-3ae9-4f1c-98d3-051df4bd972a
+DESCRIPTION:L. Jorswieck
+LOCATION:C12-2.69
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I5
 DTSTART:20240515T161500
 DTEND:20240515T174500
-DTSTAMP:20240226T225035Z
-UID:835f1b14-c1a7-47c1-9c7f-c0f1b9917cf9
-DESCRIPTION: 
-LOCATION:C12-2.69\, 
+DTSTAMP:20240227T122637Z
+UID:94161ba3-3c1d-467f-bd58-57edd237f0f2
+DESCRIPTION:L. Jorswieck
+LOCATION:C12-2.69
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I5
 DTSTART:20240529T161500
 DTEND:20240529T174500
-DTSTAMP:20240226T225035Z
-UID:8865181c-7fb5-40ee-b8cd-7b0077198b4d
-DESCRIPTION: 
-LOCATION:C12-2.69\, 
+DTSTAMP:20240227T122637Z
+UID:7e5cef3c-3385-4bb5-a16e-c55207a667a7
+DESCRIPTION:L. Jorswieck
+LOCATION:C12-2.69
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I5
 DTSTART:20240612T161500
 DTEND:20240612T174500
-DTSTAMP:20240226T225035Z
-UID:6946c360-0609-41b3-ade7-55260b583530
-DESCRIPTION: 
-LOCATION:C12-2.69\, 
+DTSTAMP:20240227T122637Z
+UID:0e9f4c68-4d11-4294-9f4b-353c435ee242
+DESCRIPTION:L. Jorswieck
+LOCATION:C12-2.69
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pfingstmontag
 DTSTART:20240520T083000
 DTEND:20240520T180000
-DTSTAMP:20240226T225035Z
-UID:84863649-dd5e-49f0-b675-be651a3f3c8a
-DESCRIPTION:Pfingstmontag__Whit_Monday 
-LOCATION:\, 
+DTSTAMP:20240227T122637Z
+UID:59b48363-9c3b-4a5c-be99-eb2266cb5798
+DESCRIPTION:Pfingstmontag__Whit_MondayProf. Wree\, Prof. Woelk\, Prof. Wel
+ lbrock (FB M)\, Prof. Wehrend\, Prof. Weber\, S. Wagner\, M. Voß\, A. Tot
+ zek\, T. Thiericke\, M. Teichmann\, M. Stüwe\, Prof. Stock\, M. Sieloff\,
+  Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\
+ , S. Schmarbeck\, Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. 
+ Riedel\, A. Raschke\, Prof. Prochnow\, Prof. Petersen\, E. Petersen\, Prof
+ . Patz\, Prof. Osterwald\, H. Oenings\, J.Nowitzki\, Prof. Neumann\, A. Ne
+ umann\, E. Moritz\, Dr. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, P
+ rof. Lüssem\, M. Löwe\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka
+ \, J. Kohlmorgen\, A. Kielmann\, Hr. Kasalo\, Prof. Kallies\, J. Jürgens\
+ , L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, S. Horn\, J
+ . Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, T
+ . Greve\, C. Glüsing\, S. Fleck\, Prof. Finkemeyer (FB M)\, Prof. Eisele\
+ , H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, J. Angres\, Prof. Acker
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Algorithmen-u. Datenstrukturen ÜL-WM+höhere Sem.
 DTSTART:20240523T143000
 DTEND:20240523T160000
-DTSTAMP:20240226T225035Z
-UID:cde1ebaf-3359-46a4-902b-a2ad9c2bc640
-DESCRIPTION: 
-LOCATION:C12-2.69\, 
+DTSTAMP:20240227T122637Z
+UID:b523a0b2-85a8-48d3-9c04-855c060d9cd0
+DESCRIPTION:L. Jorswieck
+LOCATION:C12-2.69
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Algorithmen-u. Datenstrukturen ÜL-WM+höhere Sem.
 DTSTART:20240606T143000
 DTEND:20240606T160000
-DTSTAMP:20240226T225035Z
-UID:b5c50019-3473-4feb-bc11-38b54201f4ef
-DESCRIPTION: 
-LOCATION:C12-2.69\, 
+DTSTAMP:20240227T122637Z
+UID:abf48282-7e4b-448d-bf28-dba7a221bc92
+DESCRIPTION:L. Jorswieck
+LOCATION:C12-2.69
 END:VEVENT
 END:VCALENDAR
