@@ -1,0 +1,136 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Grundlagen der HF-Technik
+DTSTART:20240920T143000
+DTEND:20240920T174500
+DTSTAMP:20240829T122024Z
+UID:0b9e5780-4489-456b-ac7d-5c8ae4d61eed
+DESCRIPTION:Prof. Brauer\, J. Dittmann-Wunderlich
+LOCATION:C13-3.24\, C13-3.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen der HF-Technik
+DTSTART:20240927T143000
+DTEND:20240927T174500
+DTSTAMP:20240829T122024Z
+UID:2e9d7d0c-77ae-4ee9-b5f8-f7cf1b515ac4
+DESCRIPTION:Prof. Brauer\, J. Dittmann-Wunderlich
+LOCATION:C13-3.24\, C13-3.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen der HF-Technik
+DTSTART:20241011T143000
+DTEND:20241011T174500
+DTSTAMP:20240829T122024Z
+UID:d85e8404-acab-440b-af3f-56b11b2c1cc9
+DESCRIPTION:Prof. Brauer\, J. Dittmann-Wunderlich
+LOCATION:C13-3.24\, C13-3.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen der HF-Technik
+DTSTART:20241018T143000
+DTEND:20241018T174500
+DTSTAMP:20240829T122024Z
+UID:118bd787-e835-4230-bf27-56582b75b877
+DESCRIPTION:Prof. Brauer\, J. Dittmann-Wunderlich
+LOCATION:C13-3.24\, C13-3.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen der HF-Technik
+DTSTART:20241025T143000
+DTEND:20241025T174500
+DTSTAMP:20240829T122024Z
+UID:1d68f08c-6f0b-4a24-8f8a-d951b2040a40
+DESCRIPTION:Prof. Brauer\, J. Dittmann-Wunderlich
+LOCATION:C13-3.24\, C13-3.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feiertag - Tag der Deutschen Einheit
+DTSTART:20241003T083000
+DTEND:20241003T180000
+DTSTAMP:20240829T122024Z
+UID:8ab2b489-cee7-4aca-b12b-a200e525331f
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, J. Angres\, 
+ Prof. Aßmuth\, Prof. Bicakci\, C. Brauer\, Prof. Brauer\, F. Bähnck\, F.
+  Caspar\, J. Dittmann-Wunderlich\, Prof. Ehlers\, H. Eilers\, P. Farshidfa
+ r\, Prof. Finkemeyer (FB M)\, C. Glüsing\, T. Greve\, Hr. Gripp\, R. Hell
+ mund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\, J. Hoffmüller\, M. Igna
+ tov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetzek\, Prof. Kallies\, Y. Koc
+ er (FB W)\, J. Kohlmorgen\, C. Kopka\, S. Koß\, Prof. Krueger\, Prof. Leb
+ ert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Menzel\, Prof. Miel
+ ke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neumann\, J. Nowitzki\,
+  H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\, Prof. Petersen\
+ , C-P. Piontke\, Prof. Prieß\, Prof. Prochnow\, A. Raschke\, R. Raßmann\
+ , M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. Sachse\, Hr. Schma
+ gold\, S. Schmarbeck\, Prof. Schmidt-Rethmeier\, Prof. Schramm\, C. Schwat
+ lo\, Prof. Schümann\, M. Senkbeil\, M. Siegert\, M. Sieloff\, Prof. Stock
+ \, M. Teichmann\, Prof. Weber\, Prof. Wehrend\, T. Wilts\, Prof. Woelk\, P
+ rof. Wree
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen der HF-Technik
+DTSTART:20241004T143000
+DTEND:20241004T174500
+DTSTAMP:20240829T122024Z
+UID:ca901783-b42f-4432-8f63-da462b8a74ff
+DESCRIPTION:Prof. Brauer\, J. Dittmann-Wunderlich
+LOCATION:C13-3.24\, C13-3.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen der HF-Technik
+DTSTART:20241115T083000
+DTEND:20241115T114500
+DTSTAMP:20240829T122024Z
+UID:5de34bcb-6cf9-4ac5-a448-dacb235ee4bd
+DESCRIPTION:Prof. Brauer\, J. Dittmann-Wunderlich
+LOCATION:C13-3.24\, C13-3.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen der HF-Technik
+DTSTART:20241122T083000
+DTEND:20241122T114500
+DTSTAMP:20240829T122024Z
+UID:f3f53fab-e5cd-4431-ba06-8ae215303e07
+DESCRIPTION:Prof. Brauer\, J. Dittmann-Wunderlich
+LOCATION:C13-3.24\, C13-3.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen der HF-Technik
+DTSTART:20241129T083000
+DTEND:20241129T114500
+DTSTAMP:20240829T122024Z
+UID:6de53054-8539-46b6-be6e-26f0cfd7fa34
+DESCRIPTION:Prof. Brauer\, J. Dittmann-Wunderlich
+LOCATION:C13-3.24\, C13-3.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen der HF-Technik
+DTSTART:20241206T083000
+DTEND:20241206T114500
+DTSTAMP:20240829T122024Z
+UID:996f2696-3971-4f43-a711-d96139628fb0
+DESCRIPTION:Prof. Brauer\, J. Dittmann-Wunderlich
+LOCATION:C13-3.24\, C13-3.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen der HF-Technik
+DTSTART:20241213T083000
+DTEND:20241213T114500
+DTSTAMP:20240829T122024Z
+UID:d83bb4c5-87c9-46e9-90aa-eb52c769d0fa
+DESCRIPTION:Prof. Brauer\, J. Dittmann-Wunderlich
+LOCATION:C13-3.24\, C13-3.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen der HF-Technik
+DTSTART:20241220T083000
+DTEND:20241220T114500
+DTSTAMP:20240829T122024Z
+UID:441b4155-3aaf-49c7-8639-11cba1bd4758
+DESCRIPTION:Prof. Brauer\, J. Dittmann-Wunderlich
+LOCATION:C13-3.24\, C13-3.23
+END:VEVENT
+END:VCALENDAR

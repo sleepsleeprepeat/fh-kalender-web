@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:IT-Team FB IuE
+DTSTART:20240923T124500
+DTEND:20240923T141500
+DTSTAMP:20240829T115420Z
+UID:da747f98-7647-4fcc-8cbc-dc37b1cd2173
+DESCRIPTION:IT-Team_FB_IuEProf. Woelk\, M. Teichmann\, M. Sieloff\, S. Sch
+ marbeck\, J. Nowitzki\, J. Hoffmüller\, J. Dittmann-Wunderlich\, F. Bähn
+ ck
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Team FB IuE
+DTSTART:20241014T124500
+DTEND:20241014T141500
+DTSTAMP:20240829T115420Z
+UID:cc4d095e-528c-4219-9c78-918a9ff6428e
+DESCRIPTION:IT-Team_FB_IuEProf. Woelk\, M. Teichmann\, M. Sieloff\, S. Sch
+ marbeck\, J. Nowitzki\, J. Hoffmüller\, J. Dittmann-Wunderlich\, F. Bähn
+ ck
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Team FB IuE
+DTSTART:20241104T124500
+DTEND:20241104T141500
+DTSTAMP:20240829T115420Z
+UID:48635256-208d-4db5-a3d7-978dd2072b8f
+DESCRIPTION:IT-Team_FB_IuEProf. Woelk\, M. Teichmann\, M. Sieloff\, S. Sch
+ marbeck\, J. Nowitzki\, J. Hoffmüller\, J. Dittmann-Wunderlich\, F. Bähn
+ ck
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feiertag - Tag der Deutschen Einheit
+DTSTART:20241003T083000
+DTEND:20241003T180000
+DTSTAMP:20240829T115420Z
+UID:9f3e5fe3-43c1-45e4-a0d4-b001036e98cc
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, J. Angres\, 
+ Prof. Aßmuth\, Prof. Bicakci\, C. Brauer\, Prof. Brauer\, F. Bähnck\, F.
+  Caspar\, J. Dittmann-Wunderlich\, Prof. Ehlers\, H. Eilers\, P. Farshidfa
+ r\, Prof. Finkemeyer (FB M)\, C. Glüsing\, T. Greve\, Hr. Gripp\, R. Hell
+ mund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\, J. Hoffmüller\, M. Igna
+ tov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetzek\, Prof. Kallies\, Y. Koc
+ er (FB W)\, J. Kohlmorgen\, C. Kopka\, S. Koß\, Prof. Krueger\, Prof. Leb
+ ert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Menzel\, Prof. Miel
+ ke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neumann\, J. Nowitzki\,
+  H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\, Prof. Petersen\
+ , C-P. Piontke\, Prof. Prieß\, Prof. Prochnow\, A. Raschke\, R. Raßmann\
+ , M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. Sachse\, Hr. Schma
+ gold\, S. Schmarbeck\, Prof. Schmidt-Rethmeier\, Prof. Schramm\, C. Schwat
+ lo\, Prof. Schümann\, M. Senkbeil\, M. Siegert\, M. Sieloff\, Prof. Stock
+ \, M. Teichmann\, Prof. Weber\, Prof. Wehrend\, T. Wilts\, Prof. Woelk\, P
+ rof. Wree
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Team FB IuE
+DTSTART:20241120T124500
+DTEND:20241120T141500
+DTSTAMP:20240829T115420Z
+UID:3a13aa83-e4af-45d4-876f-c6d893fcece6
+DESCRIPTION:IT-Team_FB_IuEProf. Woelk\, M. Teichmann\, M. Sieloff\, S. Sch
+ marbeck\, J. Nowitzki\, J. Hoffmüller\, J. Dittmann-Wunderlich\, F. Bähn
+ ck
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Team FB IuE
+DTSTART:20241211T124500
+DTEND:20241211T141500
+DTSTAMP:20240829T115420Z
+UID:06669e2c-bc70-4ed0-817b-dcec7424ca5f
+DESCRIPTION:IT-Team_FB_IuEProf. Woelk\, M. Teichmann\, M. Sieloff\, S. Sch
+ marbeck\, J. Nowitzki\, J. Hoffmüller\, J. Dittmann-Wunderlich\, F. Bähn
+ ck
+LOCATION:
+END:VEVENT
+END:VCALENDAR

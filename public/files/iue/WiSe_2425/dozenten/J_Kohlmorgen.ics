@@ -1,0 +1,382 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Messtechnik-ÜL-E2
+DTSTART:20240923T143000
+DTEND:20240923T174500
+DTSTAMP:20240829T115420Z
+UID:4748bc0a-f004-40c3-8881-63069d2051c3
+DESCRIPTION:C. Brauer\, J. Kohlmorgen\, M. Senkbeil
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Messtechnik-ÜL-E2
+DTSTART:20241007T143000
+DTEND:20241007T174500
+DTSTAMP:20240829T115420Z
+UID:bc388d6e-0133-49bc-a5bf-f0639a407538
+DESCRIPTION:C. Brauer\, J. Kohlmorgen\, M. Senkbeil
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Messtechnik-ÜL-E2
+DTSTART:20241021T143000
+DTEND:20241021T174500
+DTSTAMP:20240829T115420Z
+UID:05c2eb6c-0d6d-4a1d-9b14-f12816eda852
+DESCRIPTION:C. Brauer\, J. Kohlmorgen\, M. Senkbeil
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feiertag - Tag der Deutschen Einheit
+DTSTART:20241003T083000
+DTEND:20241003T180000
+DTSTAMP:20240829T115420Z
+UID:3a7b0edf-05cf-4564-b7ad-32893063ff3b
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, J. Angres\, 
+ Prof. Aßmuth\, Prof. Bicakci\, C. Brauer\, Prof. Brauer\, F. Bähnck\, F.
+  Caspar\, J. Dittmann-Wunderlich\, Prof. Ehlers\, H. Eilers\, P. Farshidfa
+ r\, Prof. Finkemeyer (FB M)\, C. Glüsing\, T. Greve\, Hr. Gripp\, R. Hell
+ mund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\, J. Hoffmüller\, M. Igna
+ tov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetzek\, Prof. Kallies\, Y. Koc
+ er (FB W)\, J. Kohlmorgen\, C. Kopka\, S. Koß\, Prof. Krueger\, Prof. Leb
+ ert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Menzel\, Prof. Miel
+ ke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neumann\, J. Nowitzki\,
+  H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\, Prof. Petersen\
+ , C-P. Piontke\, Prof. Prieß\, Prof. Prochnow\, A. Raschke\, R. Raßmann\
+ , M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. Sachse\, Hr. Schma
+ gold\, S. Schmarbeck\, Prof. Schmidt-Rethmeier\, Prof. Schramm\, C. Schwat
+ lo\, Prof. Schümann\, M. Senkbeil\, M. Siegert\, M. Sieloff\, Prof. Stock
+ \, M. Teichmann\, Prof. Weber\, Prof. Wehrend\, T. Wilts\, Prof. Woelk\, P
+ rof. Wree
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundl. Energietechnik ÜL-E2
+DTSTART:20241113T101500
+DTEND:20241113T114500
+DTSTAMP:20240829T115420Z
+UID:b019bdbc-19b7-48a0-bde8-4a67ba79bd58
+DESCRIPTION:Sem-Gr._geteiltProf. Schmidt-Rethmeier\, J. Kohlmorgen
+LOCATION:C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundl. Energietechnik ÜL-E2
+DTSTART:20241127T101500
+DTEND:20241127T114500
+DTSTAMP:20240829T115420Z
+UID:0d36fdb7-4f52-433f-9211-431d4708b67a
+DESCRIPTION:Sem-Gr._geteiltProf. Schmidt-Rethmeier\, J. Kohlmorgen
+LOCATION:C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundl. Energietechnik ÜL-E2
+DTSTART:20241211T101500
+DTEND:20241211T114500
+DTSTAMP:20240829T115420Z
+UID:a87b1d10-840b-4d5f-b9a3-0815d89de07b
+DESCRIPTION:Sem-Gr._geteiltProf. Schmidt-Rethmeier\, J. Kohlmorgen
+LOCATION:C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundl. Energietechnik ÜL-E1
+DTSTART:20241112T124500
+DTEND:20241112T141500
+DTSTAMP:20240829T115420Z
+UID:5bccaf6e-f55c-4031-8db1-8a976d71d247
+DESCRIPTION:mit_IBS! Sem-Gr._geteiltProf. Schmidt-Rethmeier\, J. Kohlmorge
+ n
+LOCATION:C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundl. Energietechnik ÜL-E1
+DTSTART:20241126T124500
+DTEND:20241126T141500
+DTSTAMP:20240829T115420Z
+UID:334e1f5a-4853-4c5a-8544-b62741bf1f6d
+DESCRIPTION:mit_IBS! Sem-Gr._geteiltProf. Schmidt-Rethmeier\, J. Kohlmorge
+ n
+LOCATION:C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundl. Energietechnik ÜL-E1
+DTSTART:20241210T124500
+DTEND:20241210T141500
+DTSTAMP:20240829T115420Z
+UID:af58bd63-3f15-4edf-b0be-368f57f5dcd3
+DESCRIPTION:mit_IBS! Sem-Gr._geteiltProf. Schmidt-Rethmeier\, J. Kohlmorge
+ n
+LOCATION:C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundl. Energietechnik ÜL-W2
+DTSTART:20241113T124500
+DTEND:20241113T141500
+DTSTAMP:20240829T115420Z
+UID:41c3b0be-8e85-4d6d-b36f-8015fca28559
+DESCRIPTION:Sem-Gr._geteiltJ. Kohlmorgen\, Prof. Schmidt-Rethmeier
+LOCATION:C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundl. Energietechnik ÜL-W2
+DTSTART:20241127T124500
+DTEND:20241127T141500
+DTSTAMP:20240829T115420Z
+UID:d2080fb9-5da8-4784-9df3-9546a4f9c372
+DESCRIPTION:Sem-Gr._geteiltJ. Kohlmorgen\, Prof. Schmidt-Rethmeier
+LOCATION:C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundl. Energietechnik ÜL-W2
+DTSTART:20241211T124500
+DTEND:20241211T141500
+DTSTAMP:20240829T115420Z
+UID:1385d725-8f46-4a82-9009-0762ded196f4
+DESCRIPTION:Sem-Gr._geteiltJ. Kohlmorgen\, Prof. Schmidt-Rethmeier
+LOCATION:C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundl. Energietechnik ÜL-W1
+DTSTART:20241112T143000
+DTEND:20241112T160000
+DTSTAMP:20240829T115420Z
+UID:07e3b5d2-8663-408f-bd0e-91879bed93e0
+DESCRIPTION:Sem-Gr._geteiltProf. Schmidt-Rethmeier\, J. Kohlmorgen
+LOCATION:C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundl. Energietechnik ÜL-W1
+DTSTART:20241126T143000
+DTEND:20241126T160000
+DTSTAMP:20240829T115420Z
+UID:bfbdcef5-d03a-4857-9ca1-a1ade34794db
+DESCRIPTION:Sem-Gr._geteiltProf. Schmidt-Rethmeier\, J. Kohlmorgen
+LOCATION:C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundl. Energietechnik ÜL-W1
+DTSTART:20241210T143000
+DTEND:20241210T160000
+DTSTAMP:20240829T115420Z
+UID:60d69890-8d82-4c2b-a0a5-62718d39bf59
+DESCRIPTION:Sem-Gr._geteiltProf. Schmidt-Rethmeier\, J. Kohlmorgen
+LOCATION:C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundl. Energietechnik ÜL-E2
+DTSTART:20241120T101500
+DTEND:20241120T114500
+DTSTAMP:20240829T115420Z
+UID:3916231e-0f70-46e7-a2f3-10a3c6ca25d7
+DESCRIPTION:Sem-Gr._geteiltProf. Schmidt-Rethmeier\, J. Kohlmorgen
+LOCATION:C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundl. Energietechnik ÜL-E2
+DTSTART:20241204T101500
+DTEND:20241204T114500
+DTSTAMP:20240829T115420Z
+UID:ad4fd260-87e2-474f-9a0d-4dc3aeb3a2e0
+DESCRIPTION:Sem-Gr._geteiltProf. Schmidt-Rethmeier\, J. Kohlmorgen
+LOCATION:C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundl. Energietechnik ÜL-E2
+DTSTART:20241218T101500
+DTEND:20241218T114500
+DTSTAMP:20240829T115420Z
+UID:ff2f3cc2-6b29-43f8-bf1c-d905ecf73fa3
+DESCRIPTION:Sem-Gr._geteiltProf. Schmidt-Rethmeier\, J. Kohlmorgen
+LOCATION:C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundl. Energietechnik ÜL-E1
+DTSTART:20241119T124500
+DTEND:20241119T141500
+DTSTAMP:20240829T115420Z
+UID:7d0b44d6-775f-46dd-84d4-4073297cc530
+DESCRIPTION:mit_IBS! Sem-Gr._geteiltProf. Schmidt-Rethmeier\, J. Kohlmorge
+ n
+LOCATION:C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundl. Energietechnik ÜL-E1
+DTSTART:20241203T124500
+DTEND:20241203T141500
+DTSTAMP:20240829T115420Z
+UID:a816320f-eaa8-4dca-82ac-920148a5b24a
+DESCRIPTION:mit_IBS! Sem-Gr._geteiltProf. Schmidt-Rethmeier\, J. Kohlmorge
+ n
+LOCATION:C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundl. Energietechnik ÜL-E1
+DTSTART:20241217T124500
+DTEND:20241217T141500
+DTSTAMP:20240829T115420Z
+UID:bde721d2-0a1f-4e75-abb1-b65487b50a94
+DESCRIPTION:mit_IBS! Sem-Gr._geteiltProf. Schmidt-Rethmeier\, J. Kohlmorge
+ n
+LOCATION:C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundl. Energietechnik ÜL-W2
+DTSTART:20241120T124500
+DTEND:20241120T141500
+DTSTAMP:20240829T115420Z
+UID:dc5b3a7e-7a01-450f-b576-4ecaf73d5cc8
+DESCRIPTION:Sem-Gr._geteiltJ. Kohlmorgen\, Prof. Schmidt-Rethmeier
+LOCATION:C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundl. Energietechnik ÜL-W2
+DTSTART:20241204T124500
+DTEND:20241204T141500
+DTSTAMP:20240829T115420Z
+UID:c8e4f9c8-3c18-42df-8af1-35f26e196fd0
+DESCRIPTION:Sem-Gr._geteiltJ. Kohlmorgen\, Prof. Schmidt-Rethmeier
+LOCATION:C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundl. Energietechnik ÜL-W2
+DTSTART:20241218T124500
+DTEND:20241218T141500
+DTSTAMP:20240829T115420Z
+UID:76cbd714-41b3-47c8-8a7e-eba603a075d4
+DESCRIPTION:Sem-Gr._geteiltJ. Kohlmorgen\, Prof. Schmidt-Rethmeier
+LOCATION:C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Messtechnik-ÜL-E2
+DTSTART:20241118T143000
+DTEND:20241118T174500
+DTSTAMP:20240829T115420Z
+UID:43e324cd-6e57-45aa-b8ca-359650edd99d
+DESCRIPTION:C. Brauer\, J. Kohlmorgen\, M. Senkbeil
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Messtechnik-ÜL-E2
+DTSTART:20241202T143000
+DTEND:20241202T174500
+DTSTAMP:20240829T115420Z
+UID:9316712d-fda3-46bd-8013-4b390c2fefcc
+DESCRIPTION:C. Brauer\, J. Kohlmorgen\, M. Senkbeil
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Messtechnik-ÜL-E2
+DTSTART:20241216T143000
+DTEND:20241216T174500
+DTSTAMP:20240829T115420Z
+UID:3b6badf7-fdbd-45d5-af29-9276d62a8c55
+DESCRIPTION:C. Brauer\, J. Kohlmorgen\, M. Senkbeil
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundl. Energietechnik ÜL-W1
+DTSTART:20241119T143000
+DTEND:20241119T160000
+DTSTAMP:20240829T115420Z
+UID:c08572e8-ad6b-477b-a940-ee0e24c4d64e
+DESCRIPTION:Sem-Gr._geteiltProf. Schmidt-Rethmeier\, J. Kohlmorgen
+LOCATION:C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundl. Energietechnik ÜL-W1
+DTSTART:20241203T143000
+DTEND:20241203T160000
+DTSTAMP:20240829T115420Z
+UID:277ddeb5-1bc9-4676-9d5d-87448da494ee
+DESCRIPTION:Sem-Gr._geteiltProf. Schmidt-Rethmeier\, J. Kohlmorgen
+LOCATION:C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundl. Energietechnik ÜL-W1
+DTSTART:20241217T143000
+DTEND:20241217T160000
+DTSTAMP:20240829T115420Z
+UID:bea90473-c06c-4ce4-b46c-d55c705815b2
+DESCRIPTION:Sem-Gr._geteiltProf. Schmidt-Rethmeier\, J. Kohlmorgen
+LOCATION:C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Messtechnik-ÜL-E1
+DTSTART:20240917T143000
+DTEND:20240917T174500
+DTSTAMP:20240829T115420Z
+UID:933a5440-e313-4448-9e06-c83b0b767393
+DESCRIPTION:Prof. Wree\, J. Kohlmorgen\, C. Brauer
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Messtechnik-ÜL-E1
+DTSTART:20241015T143000
+DTEND:20241015T174500
+DTSTAMP:20240829T115420Z
+UID:f12bda28-056c-4f74-a69b-e44df1cba9fc
+DESCRIPTION:Prof. Wree\, J. Kohlmorgen\, C. Brauer
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Messtechnik-ÜL-E1
+DTSTART:20241112T143000
+DTEND:20241112T174500
+DTSTAMP:20240829T115420Z
+UID:d8314398-785e-41f9-a056-744c35ad28af
+DESCRIPTION:Prof. Wree\, J. Kohlmorgen\, C. Brauer
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Messtechnik-ÜL-E1
+DTSTART:20241126T143000
+DTEND:20241126T174500
+DTSTAMP:20240829T115420Z
+UID:a25cf42a-c029-446b-88ac-7835c2adb418
+DESCRIPTION:Prof. Wree\, J. Kohlmorgen\, C. Brauer
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Messtechnik-ÜL-E1
+DTSTART:20241210T143000
+DTEND:20241210T174500
+DTSTAMP:20240829T115420Z
+UID:1255b4c0-0d45-447a-ba3b-cef7df3de6ed
+DESCRIPTION:Prof. Wree\, J. Kohlmorgen\, C. Brauer
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feiertag - Tag der Deutschen Einheit
+DTSTART:20241003T083000
+DTEND:20241003T180000
+DTSTAMP:20240829T115420Z
+UID:26266936-dd8e-4fed-9faf-8ae78461d33d
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, J. Angres\, 
+ Prof. Aßmuth\, Prof. Bicakci\, C. Brauer\, Prof. Brauer\, F. Bähnck\, F.
+  Caspar\, J. Dittmann-Wunderlich\, Prof. Ehlers\, H. Eilers\, P. Farshidfa
+ r\, Prof. Finkemeyer (FB M)\, C. Glüsing\, T. Greve\, Hr. Gripp\, R. Hell
+ mund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\, J. Hoffmüller\, M. Igna
+ tov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetzek\, Prof. Kallies\, Y. Koc
+ er (FB W)\, J. Kohlmorgen\, C. Kopka\, S. Koß\, Prof. Krueger\, Prof. Leb
+ ert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Menzel\, Prof. Miel
+ ke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neumann\, J. Nowitzki\,
+  H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\, Prof. Petersen\
+ , C-P. Piontke\, Prof. Prieß\, Prof. Prochnow\, A. Raschke\, R. Raßmann\
+ , M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. Sachse\, Hr. Schma
+ gold\, S. Schmarbeck\, Prof. Schmidt-Rethmeier\, Prof. Schramm\, C. Schwat
+ lo\, Prof. Schümann\, M. Senkbeil\, M. Siegert\, M. Sieloff\, Prof. Stock
+ \, M. Teichmann\, Prof. Weber\, Prof. Wehrend\, T. Wilts\, Prof. Woelk\, P
+ rof. Wree
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Messtechnik-ÜL-E1
+DTSTART:20241001T143000
+DTEND:20241001T174500
+DTSTAMP:20240829T115420Z
+UID:43bbf772-1bc0-4efe-a134-4c6809959403
+DESCRIPTION:Prof. Wree\, J. Kohlmorgen\, C. Brauer
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+END:VCALENDAR

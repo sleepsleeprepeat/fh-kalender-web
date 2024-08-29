@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Kick-off Seminar
+DTSTART:20240916T101500
+DTEND:20240916T114500
+DTSTAMP:20240829T122024Z
+UID:d583a8c2-01f0-43c6-8e27-e342f1e05153
+DESCRIPTION:Ming-7 C22-0.01Reich\, S.\, Prof. Woelk\, J. Rähse
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feiertag - Tag der Deutschen Einheit
+DTSTART:20241003T083000
+DTEND:20241003T180000
+DTSTAMP:20240829T122024Z
+UID:f9f39b2a-6b41-45db-a270-130ad55187c1
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, J. Angres\, 
+ Prof. Aßmuth\, Prof. Bicakci\, C. Brauer\, Prof. Brauer\, F. Bähnck\, F.
+  Caspar\, J. Dittmann-Wunderlich\, Prof. Ehlers\, H. Eilers\, P. Farshidfa
+ r\, Prof. Finkemeyer (FB M)\, C. Glüsing\, T. Greve\, Hr. Gripp\, R. Hell
+ mund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\, J. Hoffmüller\, M. Igna
+ tov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetzek\, Prof. Kallies\, Y. Koc
+ er (FB W)\, J. Kohlmorgen\, C. Kopka\, S. Koß\, Prof. Krueger\, Prof. Leb
+ ert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Menzel\, Prof. Miel
+ ke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neumann\, J. Nowitzki\,
+  H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\, Prof. Petersen\
+ , C-P. Piontke\, Prof. Prieß\, Prof. Prochnow\, A. Raschke\, R. Raßmann\
+ , M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. Sachse\, Hr. Schma
+ gold\, S. Schmarbeck\, Prof. Schmidt-Rethmeier\, Prof. Schramm\, C. Schwat
+ lo\, Prof. Schümann\, M. Senkbeil\, M. Siegert\, M. Sieloff\, Prof. Stock
+ \, M. Teichmann\, Prof. Weber\, Prof. Wehrend\, T. Wilts\, Prof. Woelk\, P
+ rof. Wree
+LOCATION:
+END:VEVENT
+END:VCALENDAR

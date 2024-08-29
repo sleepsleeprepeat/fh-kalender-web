@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Automatisierungs- technik-ÜL-2  (WM1)
+DTSTART:20240918T083000
+DTEND:20240918T114500
+DTSTAMP:20240829T115420Z
+UID:23b543b2-0b60-4b45-ac56-7cc4d1ba6577
+DESCRIPTION:P. Farshidfar\, C. Brauer
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automatisierungs- technik-ÜL-2  (WM1)
+DTSTART:20241016T083000
+DTEND:20241016T114500
+DTSTAMP:20240829T115420Z
+UID:356c8529-d3cc-491f-9866-1d638eac79ab
+DESCRIPTION:P. Farshidfar\, C. Brauer
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automatisierungs- technik-ÜL-2  (WM1)
+DTSTART:20241113T083000
+DTEND:20241113T114500
+DTSTAMP:20240829T115420Z
+UID:a50b0e15-3f9d-4a90-99d2-62835b5e35ea
+DESCRIPTION:P. Farshidfar\, C. Brauer
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automatisierungs- technik-ÜL-2  (WM1)
+DTSTART:20241127T083000
+DTEND:20241127T114500
+DTSTAMP:20240829T115420Z
+UID:6e2419c5-6a84-4aa5-a2b4-e38c2e629dfd
+DESCRIPTION:P. Farshidfar\, C. Brauer
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automatisierungs- technik-ÜL-2  (WM1)
+DTSTART:20241211T083000
+DTEND:20241211T114500
+DTSTAMP:20240829T115420Z
+UID:f567f682-73a1-4d55-b913-09d1dc9f55f1
+DESCRIPTION:P. Farshidfar\, C. Brauer
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automatisierungs- technik-ÜL-2  (WM1)
+DTSTART:20241002T083000
+DTEND:20241002T114500
+DTSTAMP:20240829T115420Z
+UID:d8bda6da-de8f-4452-980e-2a70afde82cc
+DESCRIPTION:P. Farshidfar\, C. Brauer
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feiertag - Tag der Deutschen Einheit
+DTSTART:20241003T083000
+DTEND:20241003T180000
+DTSTAMP:20240829T115420Z
+UID:405248cc-880e-49cb-8a13-2ef6836303bb
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, J. Angres\, 
+ Prof. Aßmuth\, Prof. Bicakci\, C. Brauer\, Prof. Brauer\, F. Bähnck\, F.
+  Caspar\, J. Dittmann-Wunderlich\, Prof. Ehlers\, H. Eilers\, P. Farshidfa
+ r\, Prof. Finkemeyer (FB M)\, C. Glüsing\, T. Greve\, Hr. Gripp\, R. Hell
+ mund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\, J. Hoffmüller\, M. Igna
+ tov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetzek\, Prof. Kallies\, Y. Koc
+ er (FB W)\, J. Kohlmorgen\, C. Kopka\, S. Koß\, Prof. Krueger\, Prof. Leb
+ ert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Menzel\, Prof. Miel
+ ke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neumann\, J. Nowitzki\,
+  H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\, Prof. Petersen\
+ , C-P. Piontke\, Prof. Prieß\, Prof. Prochnow\, A. Raschke\, R. Raßmann\
+ , M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. Sachse\, Hr. Schma
+ gold\, S. Schmarbeck\, Prof. Schmidt-Rethmeier\, Prof. Schramm\, C. Schwat
+ lo\, Prof. Schümann\, M. Senkbeil\, M. Siegert\, M. Sieloff\, Prof. Stock
+ \, M. Teichmann\, Prof. Weber\, Prof. Wehrend\, T. Wilts\, Prof. Woelk\, P
+ rof. Wree
+LOCATION:
+END:VEVENT
+END:VCALENDAR
