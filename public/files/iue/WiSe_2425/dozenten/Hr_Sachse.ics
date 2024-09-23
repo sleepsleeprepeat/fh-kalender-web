@@ -5,32 +5,32 @@ BEGIN:VEVENT
 SUMMARY:Feiertag - Tag der Deutschen Einheit
 DTSTART:20241003T083000
 DTEND:20241003T180000
-DTSTAMP:20240829T115420Z
-UID:484b3ea8-b028-4de1-b41a-5a23c812c1c4
+DTSTAMP:20240923T120116Z
+UID:2cb00166-72a1-44e7-aeed-a510184fdade
 DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, J. Angres\, 
  Prof. Aßmuth\, Prof. Bicakci\, C. Brauer\, Prof. Brauer\, F. Bähnck\, F.
-  Caspar\, J. Dittmann-Wunderlich\, Prof. Ehlers\, H. Eilers\, P. Farshidfa
- r\, Prof. Finkemeyer (FB M)\, C. Glüsing\, T. Greve\, Hr. Gripp\, R. Hell
- mund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\, J. Hoffmüller\, M. Igna
- tov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetzek\, Prof. Kallies\, Y. Koc
- er (FB W)\, J. Kohlmorgen\, C. Kopka\, S. Koß\, Prof. Krueger\, Prof. Leb
- ert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Menzel\, Prof. Miel
- ke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neumann\, J. Nowitzki\,
-  H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\, Prof. Petersen\
- , C-P. Piontke\, Prof. Prieß\, Prof. Prochnow\, A. Raschke\, R. Raßmann\
- , M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. Sachse\, Hr. Schma
- gold\, S. Schmarbeck\, Prof. Schmidt-Rethmeier\, Prof. Schramm\, C. Schwat
- lo\, Prof. Schümann\, M. Senkbeil\, M. Siegert\, M. Sieloff\, Prof. Stock
- \, M. Teichmann\, Prof. Weber\, Prof. Wehrend\, T. Wilts\, Prof. Woelk\, P
- rof. Wree
+  Caspar\, J. Dittmann-Wunderlich\, J. Dittmann-Wunderlich 2\, Prof. Ehlers
+ \, H. Eilers\, P. Farshidfar\, Prof. Finkemeyer (FB M)\, C. Glüsing\, T. 
+ Greve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann
+ \, J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetz
+ ek\, Prof. Kallies\, Y. Kocer (FB W)\, J. Kohlmorgen\, C. Kopka\, S. Koß\
+ , Prof. Krueger\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manz
+ ke\, M. Menzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Pr
+ of. Neumann\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E.
+  Petersen\, Prof. Petersen\, C-P. Piontke\, Prof. Prieß\, Prof. Prochnow\
+ , A. Raschke\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Räh
+ se\, Hr. Sachse\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeier\
+ , Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Siegert
+ \, M. Sieloff\, Prof. Stock\, M. Teichmann\, Prof. Weber\, Prof. Wehrend\,
+  T. Wilts\, Prof. Woelk\, Prof. Wree
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Windenergie (Ringvorlesung)
 DTSTART:20241127T091500
 DTEND:20241127T114500
-DTSTAMP:20240829T115420Z
-UID:24d21d5f-2a3a-405d-829b-98366c36d7b0
+DTSTAMP:20240923T120116Z
+UID:2ff35e78-21d7-43ac-955b-3270dad0638e
 DESCRIPTION:Start:_09:15UhrHr. Sachse
 LOCATION:C13-0.01
 END:VEVENT
@@ -38,8 +38,8 @@ BEGIN:VEVENT
 SUMMARY:Windenergie (Ringvorlesung)
 DTSTART:20241204T091500
 DTEND:20241204T114500
-DTSTAMP:20240829T115420Z
-UID:207caf3b-35fd-4442-b057-9f7a1b0076e6
+DTSTAMP:20240923T120116Z
+UID:4f538afd-6a34-4a17-8d4d-5b339fda59b3
 DESCRIPTION:Start:_09:15UhrHr. Sachse
 LOCATION:C13-0.01
 END:VEVENT
@@ -47,8 +47,8 @@ BEGIN:VEVENT
 SUMMARY:Windenergie (Ringvorlesung)
 DTSTART:20241211T091500
 DTEND:20241211T114500
-DTSTAMP:20240829T115420Z
-UID:d484bc9c-2ae3-43df-843e-f1e97aab3f07
+DTSTAMP:20240923T120116Z
+UID:dce67bba-cb07-4d13-bbcf-7dd7401246d2
 DESCRIPTION:Start:_09:15UhrHr. Sachse
 LOCATION:C13-0.01
 END:VEVENT
@@ -56,8 +56,8 @@ BEGIN:VEVENT
 SUMMARY:Windenergie (Ringvorlesung)
 DTSTART:20241218T091500
 DTEND:20241218T114500
-DTSTAMP:20240829T115420Z
-UID:f5d7804f-4904-4195-8b99-de85308473c8
+DTSTAMP:20240923T120116Z
+UID:fb9b58cd-fe01-41ea-98ce-97c24b3e10fc
 DESCRIPTION:Start:_09:15UhrHr. Sachse
 LOCATION:C13-0.01
 END:VEVENT

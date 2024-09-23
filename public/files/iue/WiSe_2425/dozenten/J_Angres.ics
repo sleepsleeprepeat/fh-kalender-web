@@ -5,8 +5,8 @@ BEGIN:VEVENT
 SUMMARY:BI141 Grundlagen funktionaler Programmierung
 DTSTART:20240919T143000
 DTEND:20240919T174500
-DTSTAMP:20240829T115420Z
-UID:9acb8b65-662d-462d-a0f7-01ef94f116f3
+DTSTAMP:20240923T120116Z
+UID:c2b937b8-d309-41a4-9334-aac35a5a39f0
 DESCRIPTION:J. Angres
 LOCATION:C12-2.61
 END:VEVENT
@@ -14,8 +14,8 @@ BEGIN:VEVENT
 SUMMARY:BI141 Grundlagen funktionaler Programmierung
 DTSTART:20240926T143000
 DTEND:20240926T174500
-DTSTAMP:20240829T115420Z
-UID:9874cea7-023c-4626-b40c-cb881e13a4fb
+DTSTAMP:20240923T120116Z
+UID:b0495250-7437-4391-a931-e2865ce7ce4d
 DESCRIPTION:J. Angres
 LOCATION:C12-2.61
 END:VEVENT
@@ -23,8 +23,8 @@ BEGIN:VEVENT
 SUMMARY:BI141 Grundlagen funktionaler Programmierung
 DTSTART:20241010T143000
 DTEND:20241010T174500
-DTSTAMP:20240829T115420Z
-UID:f2fb86e0-9404-456f-a897-b1f6c12da53c
+DTSTAMP:20240923T120116Z
+UID:e32dcab7-167f-45a0-a1e9-faa5e3d27bb1
 DESCRIPTION:J. Angres
 LOCATION:C12-2.61
 END:VEVENT
@@ -32,8 +32,8 @@ BEGIN:VEVENT
 SUMMARY:BI141 Grundlagen funktionaler Programmierung
 DTSTART:20241017T143000
 DTEND:20241017T174500
-DTSTAMP:20240829T115420Z
-UID:bf94e375-814f-486e-b887-8b15c6694979
+DTSTAMP:20240923T120116Z
+UID:a9d9cfaa-bb7b-4f6c-8d61-252c4ae6b6e5
 DESCRIPTION:J. Angres
 LOCATION:C12-2.61
 END:VEVENT
@@ -41,8 +41,8 @@ BEGIN:VEVENT
 SUMMARY:BI141 Grundlagen funktionaler Programmierung
 DTSTART:20241024T143000
 DTEND:20241024T174500
-DTSTAMP:20240829T115420Z
-UID:ec77e082-8a8e-4a43-b023-3c4c775672ee
+DTSTAMP:20240923T120116Z
+UID:61c4c135-f784-4118-82cb-bc8b9c78935b
 DESCRIPTION:J. Angres
 LOCATION:C12-2.61
 END:VEVENT
@@ -50,8 +50,8 @@ BEGIN:VEVENT
 SUMMARY:BI141 Grundlagen funktionaler Programmierung
 DTSTART:20241114T143000
 DTEND:20241114T174500
-DTSTAMP:20240829T115420Z
-UID:b9f69f04-b290-40a3-8b84-698dd70fc609
+DTSTAMP:20240923T120116Z
+UID:75227b85-58e2-4dd0-a8b5-fc94daf21660
 DESCRIPTION:J. Angres
 LOCATION:C12-2.61
 END:VEVENT
@@ -59,8 +59,8 @@ BEGIN:VEVENT
 SUMMARY:BI141 Grundlagen funktionaler Programmierung
 DTSTART:20241121T143000
 DTEND:20241121T174500
-DTSTAMP:20240829T115420Z
-UID:5412007e-f253-45d2-93d1-9ab86671f72f
+DTSTAMP:20240923T120116Z
+UID:8e7f0623-76e4-4e3c-848c-51e6921bb0d5
 DESCRIPTION:J. Angres
 LOCATION:C12-2.61
 END:VEVENT
@@ -68,8 +68,8 @@ BEGIN:VEVENT
 SUMMARY:BI141 Grundlagen funktionaler Programmierung
 DTSTART:20241128T143000
 DTEND:20241128T174500
-DTSTAMP:20240829T115420Z
-UID:6a983c90-29d3-46b3-a826-de3252603505
+DTSTAMP:20240923T120116Z
+UID:9dc3caed-69d5-4877-bf74-5c89c4df07c5
 DESCRIPTION:J. Angres
 LOCATION:C12-2.61
 END:VEVENT
@@ -77,8 +77,8 @@ BEGIN:VEVENT
 SUMMARY:BI141 Grundlagen funktionaler Programmierung
 DTSTART:20241205T143000
 DTEND:20241205T174500
-DTSTAMP:20240829T115420Z
-UID:65dd192c-2870-43cb-96c9-c9fb259a92da
+DTSTAMP:20240923T120116Z
+UID:bee8b62d-78af-417d-8441-02b9fba661fb
 DESCRIPTION:J. Angres
 LOCATION:C12-2.61
 END:VEVENT
@@ -86,8 +86,8 @@ BEGIN:VEVENT
 SUMMARY:BI141 Grundlagen funktionaler Programmierung
 DTSTART:20241212T143000
 DTEND:20241212T174500
-DTSTAMP:20240829T115420Z
-UID:7b6183cd-78ff-42e6-a255-d9e0d27e20be
+DTSTAMP:20240923T120116Z
+UID:6cb0ba72-b716-46b5-8b4a-73204d90e8ea
 DESCRIPTION:J. Angres
 LOCATION:C12-2.61
 END:VEVENT
@@ -95,8 +95,8 @@ BEGIN:VEVENT
 SUMMARY:BI141 Grundlagen funktionaler Programmierung
 DTSTART:20241219T143000
 DTEND:20241219T174500
-DTSTAMP:20240829T115420Z
-UID:8791a21c-7149-4ada-bc5d-8231636d9bbe
+DTSTAMP:20240923T120116Z
+UID:3b5cf721-d43d-4e96-ab80-c93d4b02291e
 DESCRIPTION:J. Angres
 LOCATION:C12-2.61
 END:VEVENT
@@ -104,24 +104,24 @@ BEGIN:VEVENT
 SUMMARY:Feiertag - Tag der Deutschen Einheit
 DTSTART:20241003T083000
 DTEND:20241003T180000
-DTSTAMP:20240829T115420Z
-UID:78a1b854-bad9-43d0-9782-545aa902dab5
+DTSTAMP:20240923T120116Z
+UID:3bbfefc9-775e-4bdf-bce3-3c44c30a8b00
 DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, J. Angres\, 
  Prof. Aßmuth\, Prof. Bicakci\, C. Brauer\, Prof. Brauer\, F. Bähnck\, F.
-  Caspar\, J. Dittmann-Wunderlich\, Prof. Ehlers\, H. Eilers\, P. Farshidfa
- r\, Prof. Finkemeyer (FB M)\, C. Glüsing\, T. Greve\, Hr. Gripp\, R. Hell
- mund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\, J. Hoffmüller\, M. Igna
- tov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetzek\, Prof. Kallies\, Y. Koc
- er (FB W)\, J. Kohlmorgen\, C. Kopka\, S. Koß\, Prof. Krueger\, Prof. Leb
- ert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Menzel\, Prof. Miel
- ke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neumann\, J. Nowitzki\,
-  H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\, Prof. Petersen\
- , C-P. Piontke\, Prof. Prieß\, Prof. Prochnow\, A. Raschke\, R. Raßmann\
- , M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. Sachse\, Hr. Schma
- gold\, S. Schmarbeck\, Prof. Schmidt-Rethmeier\, Prof. Schramm\, C. Schwat
- lo\, Prof. Schümann\, M. Senkbeil\, M. Siegert\, M. Sieloff\, Prof. Stock
- \, M. Teichmann\, Prof. Weber\, Prof. Wehrend\, T. Wilts\, Prof. Woelk\, P
- rof. Wree
+  Caspar\, J. Dittmann-Wunderlich\, J. Dittmann-Wunderlich 2\, Prof. Ehlers
+ \, H. Eilers\, P. Farshidfar\, Prof. Finkemeyer (FB M)\, C. Glüsing\, T. 
+ Greve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann
+ \, J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetz
+ ek\, Prof. Kallies\, Y. Kocer (FB W)\, J. Kohlmorgen\, C. Kopka\, S. Koß\
+ , Prof. Krueger\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manz
+ ke\, M. Menzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Pr
+ of. Neumann\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E.
+  Petersen\, Prof. Petersen\, C-P. Piontke\, Prof. Prieß\, Prof. Prochnow\
+ , A. Raschke\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Räh
+ se\, Hr. Sachse\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeier\
+ , Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Siegert
+ \, M. Sieloff\, Prof. Stock\, M. Teichmann\, Prof. Weber\, Prof. Wehrend\,
+  T. Wilts\, Prof. Woelk\, Prof. Wree
 LOCATION:
 END:VEVENT
 END:VCALENDAR

@@ -5,32 +5,32 @@ BEGIN:VEVENT
 SUMMARY:Feiertag - Tag der Deutschen Einheit
 DTSTART:20241003T083000
 DTEND:20241003T180000
-DTSTAMP:20240829T115420Z
-UID:8619503d-260b-4e34-8c6a-ab584dea6436
+DTSTAMP:20240923T120116Z
+UID:c4f4fd7b-be65-4630-973e-7e7a6fd65365
 DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, J. Angres\, 
  Prof. Aßmuth\, Prof. Bicakci\, C. Brauer\, Prof. Brauer\, F. Bähnck\, F.
-  Caspar\, J. Dittmann-Wunderlich\, Prof. Ehlers\, H. Eilers\, P. Farshidfa
- r\, Prof. Finkemeyer (FB M)\, C. Glüsing\, T. Greve\, Hr. Gripp\, R. Hell
- mund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\, J. Hoffmüller\, M. Igna
- tov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetzek\, Prof. Kallies\, Y. Koc
- er (FB W)\, J. Kohlmorgen\, C. Kopka\, S. Koß\, Prof. Krueger\, Prof. Leb
- ert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Menzel\, Prof. Miel
- ke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neumann\, J. Nowitzki\,
-  H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\, Prof. Petersen\
- , C-P. Piontke\, Prof. Prieß\, Prof. Prochnow\, A. Raschke\, R. Raßmann\
- , M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. Sachse\, Hr. Schma
- gold\, S. Schmarbeck\, Prof. Schmidt-Rethmeier\, Prof. Schramm\, C. Schwat
- lo\, Prof. Schümann\, M. Senkbeil\, M. Siegert\, M. Sieloff\, Prof. Stock
- \, M. Teichmann\, Prof. Weber\, Prof. Wehrend\, T. Wilts\, Prof. Woelk\, P
- rof. Wree
+  Caspar\, J. Dittmann-Wunderlich\, J. Dittmann-Wunderlich 2\, Prof. Ehlers
+ \, H. Eilers\, P. Farshidfar\, Prof. Finkemeyer (FB M)\, C. Glüsing\, T. 
+ Greve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann
+ \, J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetz
+ ek\, Prof. Kallies\, Y. Kocer (FB W)\, J. Kohlmorgen\, C. Kopka\, S. Koß\
+ , Prof. Krueger\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manz
+ ke\, M. Menzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Pr
+ of. Neumann\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E.
+  Petersen\, Prof. Petersen\, C-P. Piontke\, Prof. Prieß\, Prof. Prochnow\
+ , A. Raschke\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Räh
+ se\, Hr. Sachse\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeier\
+ , Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Siegert
+ \, M. Sieloff\, Prof. Stock\, M. Teichmann\, Prof. Weber\, Prof. Wehrend\,
+  T. Wilts\, Prof. Woelk\, Prof. Wree
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XFÜH  Mitarbeiterführung
 DTSTART:20241019T090000
 DTEND:20241019T170000
-DTSTAMP:20240829T115420Z
-UID:4e13952b-0df8-46c7-8c12-3ab334d8fb2e
+DTSTAMP:20240923T120116Z
+UID:bff3c4a3-c8c6-4b5f-b614-3d97567db65d
 DESCRIPTION:Prof. Krueger
 LOCATION:C22-0.01
 END:VEVENT
@@ -38,8 +38,8 @@ BEGIN:VEVENT
 SUMMARY:XFÜH  Mitarbeiterführung
 DTSTART:20241020T090000
 DTEND:20241020T170000
-DTSTAMP:20240829T115420Z
-UID:3c44333e-1d70-461c-938a-245868b8d3a5
+DTSTAMP:20240923T120116Z
+UID:4dccc345-a316-42cd-89ed-b7b199025940
 DESCRIPTION:Prof. Krueger
 LOCATION:C22-0.01
 END:VEVENT
@@ -47,8 +47,8 @@ BEGIN:VEVENT
 SUMMARY:XZEIT  Zeitmanagement
 DTSTART:20241207T090000
 DTEND:20241207T170000
-DTSTAMP:20240829T115420Z
-UID:babaad68-fe35-4548-a77d-6f9376da10e8
+DTSTAMP:20240923T120116Z
+UID:bb08d0c9-6ee8-4368-ad96-cce894104ceb
 DESCRIPTION:Prof. Krueger
 LOCATION:C22-0.01
 END:VEVENT
@@ -56,8 +56,8 @@ BEGIN:VEVENT
 SUMMARY:XZEIT  Zeitmanagement
 DTSTART:20241208T090000
 DTEND:20241208T170000
-DTSTAMP:20240829T115420Z
-UID:73a85d07-5a04-4a41-830d-60c359b4688f
+DTSTAMP:20240923T120116Z
+UID:530184b5-51a2-4d2c-a510-f724572931f1
 DESCRIPTION:Prof. Krueger
 LOCATION:C22-0.01
 END:VEVENT

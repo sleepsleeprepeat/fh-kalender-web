@@ -5,8 +5,8 @@ BEGIN:VEVENT
 SUMMARY:XGRF Gründungs- organisation
 DTSTART:20240919T083000
 DTEND:20240919T114500
-DTSTAMP:20240829T115420Z
-UID:bb6abd28-b063-477f-8620-618d1ab98335
+DTSTAMP:20240923T120116Z
+UID:6df3cca0-dd98-4918-934b-a44e3ef6fb46
 DESCRIPTION:H. Mohs
 LOCATION:C13-1.20
 END:VEVENT
@@ -14,8 +14,8 @@ BEGIN:VEVENT
 SUMMARY:XGRF Gründungs- organisation
 DTSTART:20240926T083000
 DTEND:20240926T114500
-DTSTAMP:20240829T115420Z
-UID:c6556b53-7d6c-41ca-adb0-c4b8a9298141
+DTSTAMP:20240923T120116Z
+UID:705ed1f8-33cf-4edb-89b3-43ef16a351d2
 DESCRIPTION:H. Mohs
 LOCATION:C13-1.20
 END:VEVENT
@@ -23,8 +23,8 @@ BEGIN:VEVENT
 SUMMARY:XGRF Gründungs- organisation
 DTSTART:20241010T083000
 DTEND:20241010T114500
-DTSTAMP:20240829T115420Z
-UID:5b5e8311-2408-47b4-8fb6-ab3ebeb358a3
+DTSTAMP:20240923T120116Z
+UID:d8f52204-7310-4667-b17a-bf6dfc0bff58
 DESCRIPTION:H. Mohs
 LOCATION:C13-1.20
 END:VEVENT
@@ -32,8 +32,8 @@ BEGIN:VEVENT
 SUMMARY:XGRF Gründungs- organisation
 DTSTART:20241017T083000
 DTEND:20241017T114500
-DTSTAMP:20240829T115420Z
-UID:ef9dca09-ce91-4b39-a0ae-ffa7abb07143
+DTSTAMP:20240923T120116Z
+UID:82081142-dd89-45f8-ae67-7fda2844efc9
 DESCRIPTION:H. Mohs
 LOCATION:C13-1.20
 END:VEVENT
@@ -41,8 +41,8 @@ BEGIN:VEVENT
 SUMMARY:XGRF Gründungs- organisation
 DTSTART:20241114T083000
 DTEND:20241114T114500
-DTSTAMP:20240829T115420Z
-UID:7fac51ca-ff62-41b8-9e50-ea45186020ab
+DTSTAMP:20240923T120116Z
+UID:ebabec26-bf44-4c51-ae38-93010debe720
 DESCRIPTION:H. Mohs
 LOCATION:C13-1.20
 END:VEVENT
@@ -50,8 +50,8 @@ BEGIN:VEVENT
 SUMMARY:XGRF Gründungs- organisation
 DTSTART:20241121T083000
 DTEND:20241121T114500
-DTSTAMP:20240829T115420Z
-UID:b184f1fb-94a4-4a11-b7c8-29f3c4199416
+DTSTAMP:20240923T120116Z
+UID:b223d059-bd7b-48cd-9d4b-a09659f03ca1
 DESCRIPTION:H. Mohs
 LOCATION:C13-1.20
 END:VEVENT
@@ -59,8 +59,8 @@ BEGIN:VEVENT
 SUMMARY:XGRF Gründungs- organisation
 DTSTART:20241128T083000
 DTEND:20241128T114500
-DTSTAMP:20240829T115420Z
-UID:d6aaca80-5b0e-4a70-a51d-98cd1f4cc418
+DTSTAMP:20240923T120116Z
+UID:94aa837d-2e78-48a4-89a4-e8168aa421bb
 DESCRIPTION:H. Mohs
 LOCATION:C13-1.20
 END:VEVENT
@@ -68,8 +68,8 @@ BEGIN:VEVENT
 SUMMARY:XGRF Gründungs- organisation
 DTSTART:20241205T083000
 DTEND:20241205T114500
-DTSTAMP:20240829T115420Z
-UID:271b372e-881f-41fa-b74b-bbd53ca514ba
+DTSTAMP:20240923T120116Z
+UID:9d70b08c-b6e5-49b7-b8c7-33308bfc5cb9
 DESCRIPTION:H. Mohs
 LOCATION:C13-1.20
 END:VEVENT
@@ -77,8 +77,8 @@ BEGIN:VEVENT
 SUMMARY:XGRF Gründungs- organisation
 DTSTART:20241212T083000
 DTEND:20241212T114500
-DTSTAMP:20240829T115420Z
-UID:4d813ba8-2b63-4722-b2c5-f0a8a1e50248
+DTSTAMP:20240923T120116Z
+UID:2166f4f2-f6c8-4018-8e92-02de6f2332bc
 DESCRIPTION:H. Mohs
 LOCATION:C13-1.20
 END:VEVENT
@@ -86,8 +86,8 @@ BEGIN:VEVENT
 SUMMARY:XGRF Gründungs- organisation
 DTSTART:20241219T083000
 DTEND:20241219T114500
-DTSTAMP:20240829T115420Z
-UID:0853fa31-4b14-435c-98fd-cd79a5b84c94
+DTSTAMP:20240923T120116Z
+UID:96bb0efb-c8b1-479b-93ed-975331c76d60
 DESCRIPTION:H. Mohs
 LOCATION:C13-1.20
 END:VEVENT
@@ -95,24 +95,24 @@ BEGIN:VEVENT
 SUMMARY:Feiertag - Tag der Deutschen Einheit
 DTSTART:20241003T083000
 DTEND:20241003T180000
-DTSTAMP:20240829T115420Z
-UID:2bdb2921-5bf2-4f97-9ebc-d8ccd976cd4c
+DTSTAMP:20240923T120116Z
+UID:677c1ee2-03dc-43b6-a9b1-be6065306d46
 DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, J. Angres\, 
  Prof. Aßmuth\, Prof. Bicakci\, C. Brauer\, Prof. Brauer\, F. Bähnck\, F.
-  Caspar\, J. Dittmann-Wunderlich\, Prof. Ehlers\, H. Eilers\, P. Farshidfa
- r\, Prof. Finkemeyer (FB M)\, C. Glüsing\, T. Greve\, Hr. Gripp\, R. Hell
- mund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\, J. Hoffmüller\, M. Igna
- tov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetzek\, Prof. Kallies\, Y. Koc
- er (FB W)\, J. Kohlmorgen\, C. Kopka\, S. Koß\, Prof. Krueger\, Prof. Leb
- ert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Menzel\, Prof. Miel
- ke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neumann\, J. Nowitzki\,
-  H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\, Prof. Petersen\
- , C-P. Piontke\, Prof. Prieß\, Prof. Prochnow\, A. Raschke\, R. Raßmann\
- , M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. Sachse\, Hr. Schma
- gold\, S. Schmarbeck\, Prof. Schmidt-Rethmeier\, Prof. Schramm\, C. Schwat
- lo\, Prof. Schümann\, M. Senkbeil\, M. Siegert\, M. Sieloff\, Prof. Stock
- \, M. Teichmann\, Prof. Weber\, Prof. Wehrend\, T. Wilts\, Prof. Woelk\, P
- rof. Wree
+  Caspar\, J. Dittmann-Wunderlich\, J. Dittmann-Wunderlich 2\, Prof. Ehlers
+ \, H. Eilers\, P. Farshidfar\, Prof. Finkemeyer (FB M)\, C. Glüsing\, T. 
+ Greve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann
+ \, J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetz
+ ek\, Prof. Kallies\, Y. Kocer (FB W)\, J. Kohlmorgen\, C. Kopka\, S. Koß\
+ , Prof. Krueger\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manz
+ ke\, M. Menzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Pr
+ of. Neumann\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E.
+  Petersen\, Prof. Petersen\, C-P. Piontke\, Prof. Prieß\, Prof. Prochnow\
+ , A. Raschke\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Räh
+ se\, Hr. Sachse\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeier\
+ , Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Siegert
+ \, M. Sieloff\, Prof. Stock\, M. Teichmann\, Prof. Weber\, Prof. Wehrend\,
+  T. Wilts\, Prof. Woelk\, Prof. Wree
 LOCATION:
 END:VEVENT
 END:VCALENDAR

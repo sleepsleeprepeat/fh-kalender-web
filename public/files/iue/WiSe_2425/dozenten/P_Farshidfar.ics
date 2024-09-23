@@ -5,8 +5,8 @@ BEGIN:VEVENT
 SUMMARY:Automatisierungs- technik-ÜL-2  (WM1)
 DTSTART:20240918T083000
 DTEND:20240918T114500
-DTSTAMP:20240829T115420Z
-UID:23b543b2-0b60-4b45-ac56-7cc4d1ba6577
+DTSTAMP:20240923T120116Z
+UID:ba48a14a-ab59-43a8-aea4-cc58c1d985f1
 DESCRIPTION:P. Farshidfar\, C. Brauer
 LOCATION:C12-1.25
 END:VEVENT
@@ -14,8 +14,8 @@ BEGIN:VEVENT
 SUMMARY:Automatisierungs- technik-ÜL-2  (WM1)
 DTSTART:20241016T083000
 DTEND:20241016T114500
-DTSTAMP:20240829T115420Z
-UID:356c8529-d3cc-491f-9866-1d638eac79ab
+DTSTAMP:20240923T120116Z
+UID:e3b43952-cdd4-441e-a94e-a5e0faec62ca
 DESCRIPTION:P. Farshidfar\, C. Brauer
 LOCATION:C12-1.25
 END:VEVENT
@@ -23,8 +23,8 @@ BEGIN:VEVENT
 SUMMARY:Automatisierungs- technik-ÜL-2  (WM1)
 DTSTART:20241113T083000
 DTEND:20241113T114500
-DTSTAMP:20240829T115420Z
-UID:a50b0e15-3f9d-4a90-99d2-62835b5e35ea
+DTSTAMP:20240923T120116Z
+UID:01bdd32f-b7ea-4dfa-bfd2-e8a56018738b
 DESCRIPTION:P. Farshidfar\, C. Brauer
 LOCATION:C12-1.25
 END:VEVENT
@@ -32,8 +32,8 @@ BEGIN:VEVENT
 SUMMARY:Automatisierungs- technik-ÜL-2  (WM1)
 DTSTART:20241127T083000
 DTEND:20241127T114500
-DTSTAMP:20240829T115420Z
-UID:6e2419c5-6a84-4aa5-a2b4-e38c2e629dfd
+DTSTAMP:20240923T120116Z
+UID:a4658834-9fd7-46ff-9e5e-146edded4d8a
 DESCRIPTION:P. Farshidfar\, C. Brauer
 LOCATION:C12-1.25
 END:VEVENT
@@ -41,8 +41,8 @@ BEGIN:VEVENT
 SUMMARY:Automatisierungs- technik-ÜL-2  (WM1)
 DTSTART:20241211T083000
 DTEND:20241211T114500
-DTSTAMP:20240829T115420Z
-UID:f567f682-73a1-4d55-b913-09d1dc9f55f1
+DTSTAMP:20240923T120116Z
+UID:4be9e5d5-41bd-436b-8c24-9dffc6964f9e
 DESCRIPTION:P. Farshidfar\, C. Brauer
 LOCATION:C12-1.25
 END:VEVENT
@@ -50,8 +50,8 @@ BEGIN:VEVENT
 SUMMARY:Automatisierungs- technik-ÜL-2  (WM1)
 DTSTART:20241002T083000
 DTEND:20241002T114500
-DTSTAMP:20240829T115420Z
-UID:d8bda6da-de8f-4452-980e-2a70afde82cc
+DTSTAMP:20240923T120116Z
+UID:ea780804-d445-476f-aedd-fa0320945743
 DESCRIPTION:P. Farshidfar\, C. Brauer
 LOCATION:C12-1.25
 END:VEVENT
@@ -59,24 +59,24 @@ BEGIN:VEVENT
 SUMMARY:Feiertag - Tag der Deutschen Einheit
 DTSTART:20241003T083000
 DTEND:20241003T180000
-DTSTAMP:20240829T115420Z
-UID:405248cc-880e-49cb-8a13-2ef6836303bb
+DTSTAMP:20240923T120116Z
+UID:d182b740-bcc3-493e-962d-2f3652830963
 DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, J. Angres\, 
  Prof. Aßmuth\, Prof. Bicakci\, C. Brauer\, Prof. Brauer\, F. Bähnck\, F.
-  Caspar\, J. Dittmann-Wunderlich\, Prof. Ehlers\, H. Eilers\, P. Farshidfa
- r\, Prof. Finkemeyer (FB M)\, C. Glüsing\, T. Greve\, Hr. Gripp\, R. Hell
- mund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\, J. Hoffmüller\, M. Igna
- tov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetzek\, Prof. Kallies\, Y. Koc
- er (FB W)\, J. Kohlmorgen\, C. Kopka\, S. Koß\, Prof. Krueger\, Prof. Leb
- ert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Menzel\, Prof. Miel
- ke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neumann\, J. Nowitzki\,
-  H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\, Prof. Petersen\
- , C-P. Piontke\, Prof. Prieß\, Prof. Prochnow\, A. Raschke\, R. Raßmann\
- , M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. Sachse\, Hr. Schma
- gold\, S. Schmarbeck\, Prof. Schmidt-Rethmeier\, Prof. Schramm\, C. Schwat
- lo\, Prof. Schümann\, M. Senkbeil\, M. Siegert\, M. Sieloff\, Prof. Stock
- \, M. Teichmann\, Prof. Weber\, Prof. Wehrend\, T. Wilts\, Prof. Woelk\, P
- rof. Wree
+  Caspar\, J. Dittmann-Wunderlich\, J. Dittmann-Wunderlich 2\, Prof. Ehlers
+ \, H. Eilers\, P. Farshidfar\, Prof. Finkemeyer (FB M)\, C. Glüsing\, T. 
+ Greve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann
+ \, J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetz
+ ek\, Prof. Kallies\, Y. Kocer (FB W)\, J. Kohlmorgen\, C. Kopka\, S. Koß\
+ , Prof. Krueger\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manz
+ ke\, M. Menzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Pr
+ of. Neumann\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E.
+  Petersen\, Prof. Petersen\, C-P. Piontke\, Prof. Prieß\, Prof. Prochnow\
+ , A. Raschke\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Räh
+ se\, Hr. Sachse\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeier\
+ , Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Siegert
+ \, M. Sieloff\, Prof. Stock\, M. Teichmann\, Prof. Weber\, Prof. Wehrend\,
+  T. Wilts\, Prof. Woelk\, Prof. Wree
 LOCATION:
 END:VEVENT
 END:VCALENDAR
