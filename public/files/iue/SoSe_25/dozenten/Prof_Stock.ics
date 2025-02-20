@@ -1,0 +1,271 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:BE105 Regenerative Energien
+DTSTART:20250328T124500
+DTEND:20250328T141500
+DTSTAMP:20250220T201426Z
+UID:5f787c15-536a-4c0f-bf98-f1dca6729426
+DESCRIPTION:Prof. Stock\, J. Schiwy
+LOCATION:C13-0.04
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE105 Regenerative Energien
+DTSTART:20250404T124500
+DTEND:20250404T141500
+DTSTAMP:20250220T201426Z
+UID:f37a80ec-9dec-4754-9cd3-7196a8a276af
+DESCRIPTION:Prof. Stock\, J. Schiwy
+LOCATION:C13-0.04
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-M1
+DTSTART:20250411T083000
+DTEND:20250411T114500
+DTSTAMP:20250220T201426Z
+UID:2cf11cdf-5a18-4da4-a3d3-b387dadd2062
+DESCRIPTION:A. Raschke\, Prof. Stock
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-M1
+DTSTART:20250523T083000
+DTEND:20250523T114500
+DTSTAMP:20250220T201426Z
+UID:edc00b3e-afbd-4bff-aefc-c750d24b3164
+DESCRIPTION:A. Raschke\, Prof. Stock
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE105 Regenerative Energien
+DTSTART:20250411T124500
+DTEND:20250411T141500
+DTSTAMP:20250220T201426Z
+UID:9b5d86f4-deee-4edf-8536-1745903a98dd
+DESCRIPTION:Prof. Stock\, J. Schiwy
+LOCATION:C13-0.04
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE105 Regenerative Energien
+DTSTART:20250523T124500
+DTEND:20250523T141500
+DTSTAMP:20250220T201426Z
+UID:952cca64-8d3c-4955-a275-5c73091482fd
+DESCRIPTION:Prof. Stock\, J. Schiwy
+LOCATION:C13-0.04
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-M3
+DTSTART:20250418T083000
+DTEND:20250418T114500
+DTSTAMP:20250220T201426Z
+UID:d2b0608b-f3e3-4a99-9535-90ed512e457a
+DESCRIPTION:A. Raschke\, Prof. Stock
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-M3
+DTSTART:20250530T083000
+DTEND:20250530T114500
+DTSTAMP:20250220T201426Z
+UID:0dcdfbfe-01f2-4837-950e-ebdbab8dbba9
+DESCRIPTION:A. Raschke\, Prof. Stock
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE105 Regenerative Energien
+DTSTART:20250418T124500
+DTEND:20250418T141500
+DTSTAMP:20250220T201426Z
+UID:7039f6f0-5fec-48e9-b3bc-54c87e0867c6
+DESCRIPTION:Prof. Stock\, J. Schiwy
+LOCATION:C13-0.04
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE105 Regenerative Energien
+DTSTART:20250530T124500
+DTEND:20250530T141500
+DTSTAMP:20250220T201426Z
+UID:9f584bb3-84bf-4cd7-8db7-3696c15d4b3a
+DESCRIPTION:Prof. Stock\, J. Schiwy
+LOCATION:C13-0.04
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20250425T083000
+DTEND:20250425T180000
+DTSTAMP:20250220T201426Z
+UID:1b018f4f-9cdd-42dc-9679-40effce07904
+DESCRIPTION:Karfreitag__Good_FridayM. Zupke\, C. Wurl\, P. Wrobel\, Prof. 
+ Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichman
+ n\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwatlo
+ \, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, 
+ Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßma
+ nn\, A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Peter
+ sen\, E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzk
+ i\, Prof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. 
+ Manzke\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß
+ \, C. Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, 
+ L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, 
+ J. Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, 
+ K. Hartmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. F
+ inkemeyer (FB M)\, H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittm
+ ann\, F. Caspar\, F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, 
+ Prof. Badri-Höher\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20250428T083000
+DTEND:20250428T180000
+DTSTAMP:20250220T201426Z
+UID:127e1b89-e313-408c-907a-1fc62dd45e63
+DESCRIPTION:Ostermontag__Easter_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-M3
+DTSTART:20250502T083000
+DTEND:20250502T114500
+DTSTAMP:20250220T201426Z
+UID:232fd5e1-a6b7-4f2a-9b49-6dc1efc59b26
+DESCRIPTION:A. Raschke\, Prof. Stock
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE105 Regenerative Energien
+DTSTART:20250502T124500
+DTEND:20250502T141500
+DTSTAMP:20250220T201426Z
+UID:30c6c841-3d9b-4e59-a2ea-8dcd0111ea9a
+DESCRIPTION:Prof. Stock\, J. Schiwy
+LOCATION:C13-0.04
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20250605T083000
+DTEND:20250605T180000
+DTSTAMP:20250220T201426Z
+UID:17442863-c07b-49f5-a78e-1347872b6656
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayM. Zupke\, C. Wurl\, P. Wrob
+ el\, Prof. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, 
+ M. Teichmann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, 
+ C. Schwatlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. R
+ ähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, 
+ A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\,
+  E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, P
+ rof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzk
+ e\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C.
+  Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jo
+ rswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Ho
+ ffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Ha
+ rtmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkem
+ eyer (FB M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE105 Regenerative Energien
+DTSTART:20250606T124500
+DTEND:20250606T141500
+DTSTAMP:20250220T201426Z
+UID:dcdd13e8-f5b3-4857-89aa-219d37ecea99
+DESCRIPTION:Prof. Stock\, J. Schiwy
+LOCATION:C13-0.04
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-M3
+DTSTART:20250613T101500
+DTEND:20250613T114500
+DTSTAMP:20250220T201426Z
+UID:b9ef2b5a-2403-4b14-b807-6a326640b673
+DESCRIPTION:Prof. Stock\, A. Raschke
+LOCATION:C13-1.25\, C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE105 Regenerative Energien
+DTSTART:20250613T124500
+DTEND:20250613T141500
+DTSTAMP:20250220T201426Z
+UID:d244734e-bf67-4d1e-9825-ebed7adf1ab1
+DESCRIPTION:Prof. Stock\, J. Schiwy
+LOCATION:C13-0.04
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20250616T083000
+DTEND:20250616T180000
+DTSTAMP:20250220T201426Z
+UID:c0d35f52-2899-4fcf-9ef1-9856cc8b2126
+DESCRIPTION:Pfingstmontag__Whit_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-M1
+DTSTART:20250620T083000
+DTEND:20250620T114500
+DTSTAMP:20250220T201426Z
+UID:1254267c-8843-46f2-8588-e5766895c98b
+DESCRIPTION:A. Raschke\, Prof. Stock
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE105 Regenerative Energien
+DTSTART:20250620T124500
+DTEND:20250620T141500
+DTSTAMP:20250220T201426Z
+UID:19ccbf19-0c06-4374-88b7-ac1639c8a2f0
+DESCRIPTION:Prof. Stock\, J. Schiwy
+LOCATION:C13-0.04
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-M1
+DTSTART:20250627T101500
+DTEND:20250627T114500
+DTSTAMP:20250220T201426Z
+UID:e237dd7c-3bc2-43ab-a73c-182852f275a6
+DESCRIPTION:Prof. Stock\, A. Raschke
+LOCATION:C13-1.23\, C13-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE105 Regenerative Energien
+DTSTART:20250627T124500
+DTEND:20250627T141500
+DTSTAMP:20250220T201426Z
+UID:8c428669-21e1-482d-99a2-55347e522b57
+DESCRIPTION:Prof. Stock\, J. Schiwy
+LOCATION:C13-0.04
+END:VEVENT
+END:VCALENDAR

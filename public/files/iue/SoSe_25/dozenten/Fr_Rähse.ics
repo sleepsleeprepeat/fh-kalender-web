@@ -1,0 +1,726 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Kick-Off-Seminar 2. Sem.
+DTSTART:20250324T083000
+DTEND:20250324T100000
+DTSTAMP:20250220T201426Z
+UID:2d8717ea-ee32-4d04-877a-e806f5b7173c
+DESCRIPTION:Kick-off_Seminar_2.Sem. C22-0.01Reich\, S.\, Pabst\, E.\, Mert
+ ens\, C.\, Prof. Woelk\, Fr. Rähse\, Prof. Prieß\, Prof. Kallies\, Wiege
+ rt\, R.
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agile Entwicklungs- methoden
+DTSTART:20250329T090000
+DTEND:20250329T150000
+DTSTAMP:20250220T201426Z
+UID:7a8349c8-35f2-4067-b375-259072e416ff
+DESCRIPTION:Prof. Woelk\, Fr. Rähse\, Prof. Prieß\, J. Nowitzki
+LOCATION:C18-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kick-Off-Seminar 4. Sem.
+DTSTART:20250324T124500
+DTEND:20250324T141500
+DTSTAMP:20250220T201426Z
+UID:a449b80d-5592-43aa-9782-d2300ac63c12
+DESCRIPTION:Kick-off_Seminar_4.Sem. C08-1.04Dubbert\, M.\, Prof. Woelk\, F
+ r. Rähse\, Prof. Prieß\, E. Petersen\, K. Hinkelmann\, Prof. Ehlers
+LOCATION:C08-1.04 / HS-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung
+DTSTART:20250327T143000
+DTEND:20250327T174500
+DTSTAMP:20250220T201426Z
+UID:aaad76d9-4b14-4555-81f9-8b1074d783f0
+DESCRIPTION:Fr. Rähse
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kick-Off-Seminar 6. Sem.
+DTSTART:20250327T180000
+DTEND:20250327T193000
+DTSTAMP:20250220T201426Z
+UID:9d89c41b-13a7-4d56-95e6-ead539779819
+DESCRIPTION:C13-3.02Reich\, S.\, Prof. Woelk\, Fr. Rähse
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-Ming2
+DTSTART:20250331T083000
+DTEND:20250331T114500
+DTSTAMP:20250220T201426Z
+UID:4c1ef742-c77d-4ad3-851c-64d9bd3f156f
+DESCRIPTION:Fr. Rähse
+LOCATION:C05-C0.21  SCALE-UP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agile Entwicklungs- methoden
+DTSTART:20250405T090000
+DTEND:20250405T150000
+DTSTAMP:20250220T201426Z
+UID:a9215490-a10a-4546-9083-91f77365160d
+DESCRIPTION:Prof. Woelk\, Fr. Rähse\, Prof. Prieß\, J. Nowitzki
+LOCATION:C18-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-I1
+DTSTART:20250403T101500
+DTEND:20250403T114500
+DTSTAMP:20250220T201426Z
+UID:ee6645a7-b5a3-44f4-bb33-cafb4f4659a5
+DESCRIPTION:Fr. Rähse
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-I2
+DTSTART:20250403T124500
+DTEND:20250403T141500
+DTSTAMP:20250220T201426Z
+UID:1998cf5e-cbb4-4650-9109-d5286e656982
+DESCRIPTION:Fr. Rähse
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung
+DTSTART:20250403T143000
+DTEND:20250403T174500
+DTSTAMP:20250220T201426Z
+UID:41eb20a6-7035-498f-9a94-89b55fa2d167
+DESCRIPTION:Fr. Rähse
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-Ming1
+DTSTART:20250407T083000
+DTEND:20250407T114500
+DTSTAMP:20250220T201426Z
+UID:d0fb4e65-63f3-4b32-aa89-ce3a742ea4b3
+DESCRIPTION:Fr. Rähse
+LOCATION:C05-C0.21  SCALE-UP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agile Entwicklungsme.
+DTSTART:20250410T083000
+DTEND:20250410T100000
+DTSTAMP:20250220T201426Z
+UID:add08c3e-d699-49cd-9f2f-d04192861c6f
+DESCRIPTION:J. Nowitzki\, Prof. Prieß\, Fr. Rähse\, Prof. Woelk
+LOCATION:C18-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-I1
+DTSTART:20250410T101500
+DTEND:20250410T114500
+DTSTAMP:20250220T201426Z
+UID:c06b503b-9b2d-49a7-bf1d-2dd4d989645b
+DESCRIPTION:Fr. Rähse
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-I2
+DTSTART:20250410T124500
+DTEND:20250410T141500
+DTSTAMP:20250220T201426Z
+UID:4098f8c7-3759-4794-8806-00553863f744
+DESCRIPTION:Fr. Rähse
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung
+DTSTART:20250410T143000
+DTEND:20250410T174500
+DTSTAMP:20250220T201426Z
+UID:442dbbe5-a566-4a41-a50c-4e4d98405e3c
+DESCRIPTION:Fr. Rähse
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-Ming2
+DTSTART:20250414T083000
+DTEND:20250414T114500
+DTSTAMP:20250220T201426Z
+UID:9e07307b-22ee-43a2-b029-092f95042eb1
+DESCRIPTION:Fr. Rähse
+LOCATION:C05-C0.21  SCALE-UP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-I1
+DTSTART:20250417T101500
+DTEND:20250417T114500
+DTSTAMP:20250220T201426Z
+UID:25027027-381d-4169-b66c-199b271cb95b
+DESCRIPTION:Fr. Rähse
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-I2
+DTSTART:20250417T124500
+DTEND:20250417T141500
+DTSTAMP:20250220T201426Z
+UID:414264bd-e4a0-4ae4-83b6-61a837b02b6f
+DESCRIPTION:Fr. Rähse
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung
+DTSTART:20250417T143000
+DTEND:20250417T174500
+DTSTAMP:20250220T201426Z
+UID:23431daf-cf89-4c58-88bf-2d060bb0068e
+DESCRIPTION:Fr. Rähse
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-Ming1
+DTSTART:20250421T083000
+DTEND:20250421T114500
+DTSTAMP:20250220T201426Z
+UID:978de50f-cc2f-4c1c-80ea-df40555ae035
+DESCRIPTION:Fr. Rähse
+LOCATION:C05-C0.21  SCALE-UP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agile Entwicklungsme.
+DTSTART:20250424T083000
+DTEND:20250424T100000
+DTSTAMP:20250220T201426Z
+UID:4b9edc38-6641-4a6e-b235-ebe16aaf3830
+DESCRIPTION:J. Nowitzki\, Prof. Prieß\, Fr. Rähse\, Prof. Woelk
+LOCATION:C18-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20250425T083000
+DTEND:20250425T180000
+DTSTAMP:20250220T201426Z
+UID:2671ea7d-68e0-4a09-9ff1-8b150c3c73dd
+DESCRIPTION:Karfreitag__Good_FridayM. Zupke\, C. Wurl\, P. Wrobel\, Prof. 
+ Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichman
+ n\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwatlo
+ \, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, 
+ Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßma
+ nn\, A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Peter
+ sen\, E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzk
+ i\, Prof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. 
+ Manzke\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß
+ \, C. Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, 
+ L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, 
+ J. Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, 
+ K. Hartmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. F
+ inkemeyer (FB M)\, H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittm
+ ann\, F. Caspar\, F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, 
+ Prof. Badri-Höher\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-I1
+DTSTART:20250424T101500
+DTEND:20250424T114500
+DTSTAMP:20250220T201426Z
+UID:73054a32-8540-4ace-8fd5-e702d8a01e90
+DESCRIPTION:Fr. Rähse
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-I2
+DTSTART:20250424T124500
+DTEND:20250424T141500
+DTSTAMP:20250220T201426Z
+UID:d203db2d-7f05-4bd2-915a-41b042235b74
+DESCRIPTION:Fr. Rähse
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung
+DTSTART:20250424T143000
+DTEND:20250424T174500
+DTSTAMP:20250220T201426Z
+UID:60d19508-b263-4806-ab86-a946107da236
+DESCRIPTION:Fr. Rähse
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20250428T083000
+DTEND:20250428T180000
+DTSTAMP:20250220T201426Z
+UID:8a8e633a-af40-47a6-a6ed-90ac8b1d262e
+DESCRIPTION:Ostermontag__Easter_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-I1
+DTSTART:20250501T101500
+DTEND:20250501T114500
+DTSTAMP:20250220T201426Z
+UID:f13b4f8d-9e62-4875-8bf5-823bce855f90
+DESCRIPTION:Fr. Rähse
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-I2
+DTSTART:20250501T124500
+DTEND:20250501T141500
+DTSTAMP:20250220T201426Z
+UID:4b8f48df-d36c-48c4-9f54-83c3cf8a159b
+DESCRIPTION:Fr. Rähse
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung
+DTSTART:20250501T143000
+DTEND:20250501T174500
+DTSTAMP:20250220T201426Z
+UID:c543d585-a263-4752-bcbd-e0a581173d16
+DESCRIPTION:Fr. Rähse
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-Ming1
+DTSTART:20250519T083000
+DTEND:20250519T114500
+DTSTAMP:20250220T201426Z
+UID:e9bb2cfb-7be5-435e-bd76-a5c81757b566
+DESCRIPTION:Fr. Rähse
+LOCATION:C05-C0.21  SCALE-UP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-I1
+DTSTART:20250522T101500
+DTEND:20250522T114500
+DTSTAMP:20250220T201426Z
+UID:379f481f-1b54-458c-b04d-0bdbda7439df
+DESCRIPTION:Fr. Rähse
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM Projekttag Ming
+DTSTART:20250520T124500
+DTEND:20250520T200000
+DTSTAMP:20250220T201426Z
+UID:990fb22c-4c1a-4fbb-86e5-fbbf595a68de
+DESCRIPTION:bis_20:00_UhrJ. Nowitzki\, Prof. Prieß\, Fr. Rähse\, Prof. W
+ oelk
+LOCATION:C13-2.09\, C13-1.02\, C12-3.18\, C12-2.61\, C12-1.19\, C06-1.10\,
+  C04-0.17 (IuE)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-I2
+DTSTART:20250522T124500
+DTEND:20250522T141500
+DTSTAMP:20250220T201426Z
+UID:a7776e0e-95df-4005-bc6c-f4d241d39578
+DESCRIPTION:Fr. Rähse
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-Ming2
+DTSTART:20250526T083000
+DTEND:20250526T114500
+DTSTAMP:20250220T201426Z
+UID:18bba84f-b0d0-4d5e-8d26-c0ee49251587
+DESCRIPTION:Fr. Rähse
+LOCATION:C05-C0.21  SCALE-UP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-Ming2
+DTSTART:20250609T083000
+DTEND:20250609T114500
+DTSTAMP:20250220T201426Z
+UID:f0fcd00c-79fc-4c24-9a07-9762d23497ab
+DESCRIPTION:Fr. Rähse
+LOCATION:C05-C0.21  SCALE-UP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-I1
+DTSTART:20250529T101500
+DTEND:20250529T114500
+DTSTAMP:20250220T201426Z
+UID:0adaad4e-481d-4074-85ee-5a38e4abdd4b
+DESCRIPTION:Fr. Rähse
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-I1
+DTSTART:20250612T101500
+DTEND:20250612T114500
+DTSTAMP:20250220T201426Z
+UID:09f94338-a25f-41fb-8eb4-e594969ba5e2
+DESCRIPTION:Fr. Rähse
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM Projekttag Ming
+DTSTART:20250527T124500
+DTEND:20250527T200000
+DTSTAMP:20250220T201426Z
+UID:16ccd547-3263-49bf-b659-b4a1ddd8beb3
+DESCRIPTION:bis_20:00_UhrJ. Nowitzki\, Prof. Prieß\, Fr. Rähse\, Prof. W
+ oelk
+LOCATION:C13-2.09\, C13-1.02\, C12-3.18\, C12-2.61\, C12-1.19\, C06-1.10\,
+  C04-0.17 (IuE)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM Projekttag Ming
+DTSTART:20250610T124500
+DTEND:20250610T200000
+DTSTAMP:20250220T201426Z
+UID:71e98812-a315-45b8-8af8-9579fdefea58
+DESCRIPTION:bis_20:00_UhrJ. Nowitzki\, Prof. Prieß\, Fr. Rähse\, Prof. W
+ oelk
+LOCATION:C13-2.09\, C13-1.02\, C12-3.18\, C12-2.61\, C12-1.19\, C06-1.10\,
+  C04-0.17 (IuE)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-I2
+DTSTART:20250529T124500
+DTEND:20250529T141500
+DTSTAMP:20250220T201426Z
+UID:906aaef0-18ad-4364-b909-5726759a558a
+DESCRIPTION:Fr. Rähse
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-I2
+DTSTART:20250612T124500
+DTEND:20250612T141500
+DTSTAMP:20250220T201426Z
+UID:c16fb3dd-b6af-4978-89d5-caca7d37fa62
+DESCRIPTION:Fr. Rähse
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-Ming1
+DTSTART:20250602T083000
+DTEND:20250602T114500
+DTSTAMP:20250220T201426Z
+UID:1683d743-a4c1-4d2b-8d72-8b49901d13f7
+DESCRIPTION:Fr. Rähse
+LOCATION:C05-C0.21  SCALE-UP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20250605T083000
+DTEND:20250605T180000
+DTSTAMP:20250220T201426Z
+UID:e4fe2827-1208-43dc-9f01-dae0ca0e7ebf
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayM. Zupke\, C. Wurl\, P. Wrob
+ el\, Prof. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, 
+ M. Teichmann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, 
+ C. Schwatlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. R
+ ähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, 
+ A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\,
+  E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, P
+ rof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzk
+ e\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C.
+  Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jo
+ rswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Ho
+ ffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Ha
+ rtmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkem
+ eyer (FB M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM Projekttag Ming
+DTSTART:20250603T124500
+DTEND:20250603T200000
+DTSTAMP:20250220T201426Z
+UID:c8f2915b-339a-4620-8b95-e8d720d2240a
+DESCRIPTION:bis_20:00_UhrJ. Nowitzki\, Prof. Prieß\, Fr. Rähse\, Prof. W
+ oelk
+LOCATION:C13-2.09\, C13-1.02\, C12-3.18\, C12-2.61\, C12-1.19\, C06-1.10\,
+  C04-0.17 (IuE)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20250616T083000
+DTEND:20250616T180000
+DTSTAMP:20250220T201426Z
+UID:eaee340b-cef5-445e-9f7d-3b04d29dc454
+DESCRIPTION:Pfingstmontag__Whit_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-I1
+DTSTART:20250619T101500
+DTEND:20250619T114500
+DTSTAMP:20250220T201426Z
+UID:31675d0e-f276-43f2-a462-16760986a064
+DESCRIPTION:Fr. Rähse
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM Projekttag Ming
+DTSTART:20250617T124500
+DTEND:20250617T200000
+DTSTAMP:20250220T201426Z
+UID:44e96be2-6694-46e1-8cd1-9e8492aecbcc
+DESCRIPTION:bis_20:00_UhrJ. Nowitzki\, Prof. Prieß\, Fr. Rähse\, Prof. W
+ oelk
+LOCATION:C13-2.09\, C13-1.02\, C12-3.18\, C12-2.61\, C12-1.19\, C06-1.10\,
+  C04-0.17 (IuE)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-I2
+DTSTART:20250619T124500
+DTEND:20250619T141500
+DTSTAMP:20250220T201426Z
+UID:ff7d96e4-3535-4540-848a-807c20dbc412
+DESCRIPTION:Fr. Rähse
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-Ming2
+DTSTART:20250623T083000
+DTEND:20250623T114500
+DTSTAMP:20250220T201426Z
+UID:f0217205-b577-4f7a-bc37-7a4decfc3974
+DESCRIPTION:Fr. Rähse
+LOCATION:C05-C0.21  SCALE-UP\, Abschluß- präsentation
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-I1
+DTSTART:20250626T101500
+DTEND:20250626T114500
+DTSTAMP:20250220T201426Z
+UID:cf3ed155-189a-402f-b99c-c028c82e5984
+DESCRIPTION:Fr. Rähse
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-I2
+DTSTART:20250626T124500
+DTEND:20250626T141500
+DTSTAMP:20250220T201426Z
+UID:f100a159-200f-40ab-9199-84b7573fbe1a
+DESCRIPTION:Fr. Rähse
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM+PIC Präsentation
+DTSTART:20250624T143000
+DTEND:20250624T194500
+DTSTAMP:20250220T201426Z
+UID:9975b255-8818-4920-872d-409fe3f88c58
+DESCRIPTION:Prof. Woelk\, Fr. Rähse\, Prof. Prieß\, J. Nowitzki\, Prof. 
+ Manzke
+LOCATION:C18-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objektorientierte Programmierung ÜL-Ming1
+DTSTART:20250630T083000
+DTEND:20250630T114500
+DTSTAMP:20250220T201426Z
+UID:98972eab-76f6-46e4-9267-1fcf5d4b3dbd
+DESCRIPTION:Fr. Rähse
+LOCATION:C05-C0.21  SCALE-UP\, Abschluß- präsentation
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20250428T083000
+DTEND:20250428T180000
+DTSTAMP:20250220T201426Z
+UID:1f3d4d71-24ad-4e5e-9b8d-c31ff04a6912
+DESCRIPTION:Ostermontag__Easter_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM+PIC Projekttag 1
+DTSTART:20250522T124500
+DTEND:20250522T200000
+DTSTAMP:20250220T201426Z
+UID:4c9e1712-803e-4484-9185-a376f0cdfbed
+DESCRIPTION:bis_20:00_UhrProf. Manzke\, J. Nowitzki\, Prof. Prieß\, Fr. R
+ ähse\, Prof. Woelk
+LOCATION:C13-3.24\, C13-2.01\, C13-0.24\, C12-2.73\, C12-2.72\, C12-2.62\,
+  C12-1.91
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM+PIC Projekttag 1
+DTSTART:20250529T124500
+DTEND:20250529T200000
+DTSTAMP:20250220T201426Z
+UID:dfce5c90-6150-409b-b73b-eeaeffcebf78
+DESCRIPTION:bis_20:00_UhrProf. Manzke\, J. Nowitzki\, Prof. Prieß\, Fr. R
+ ähse\, Prof. Woelk
+LOCATION:C13-3.24\, C13-2.01\, C13-0.24\, C12-2.73\, C12-2.72\, C12-2.62\,
+  C12-1.91
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM+PIC Projekttag 1
+DTSTART:20250612T124500
+DTEND:20250612T200000
+DTSTAMP:20250220T201426Z
+UID:b60d7657-a573-41a4-8bdd-ea701bbcb2fd
+DESCRIPTION:bis_20:00_UhrProf. Manzke\, J. Nowitzki\, Prof. Prieß\, Fr. R
+ ähse\, Prof. Woelk
+LOCATION:C13-3.24\, C13-2.01\, C13-0.24\, C12-2.73\, C12-2.72\, C12-2.62\,
+  C12-1.91
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM+PIC Projekttag 2
+DTSTART:20250520T143000
+DTEND:20250520T200000
+DTSTAMP:20250220T201426Z
+UID:e5d80d09-fc54-4d82-8c5b-1f77ee384bbe
+DESCRIPTION:bis_20:00_UhrProf. Woelk\, Fr. Rähse\, Prof. Prieß\, J. Nowi
+ tzki
+LOCATION:C13-3.24\, C13-2.22\, C13-2.01\, C12-2.73\, C12-2.72\, C12-2.62\,
+  C12-1.91
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM+PIC Projekttag 2
+DTSTART:20250527T143000
+DTEND:20250527T200000
+DTSTAMP:20250220T201426Z
+UID:c11bcb35-4eff-4b77-865a-2b92323b71e3
+DESCRIPTION:bis_20:00_UhrProf. Woelk\, Fr. Rähse\, Prof. Prieß\, J. Nowi
+ tzki
+LOCATION:C13-3.24\, C13-2.22\, C13-2.01\, C12-2.73\, C12-2.72\, C12-2.62\,
+  C12-1.91
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM+PIC Projekttag 2
+DTSTART:20250610T143000
+DTEND:20250610T200000
+DTSTAMP:20250220T201426Z
+UID:1b0ebdd7-93bc-4fae-916b-063d70b637ac
+DESCRIPTION:bis_20:00_UhrProf. Woelk\, Fr. Rähse\, Prof. Prieß\, J. Nowi
+ tzki
+LOCATION:C13-3.24\, C13-2.22\, C13-2.01\, C12-2.73\, C12-2.72\, C12-2.62\,
+  C12-1.91
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20250605T083000
+DTEND:20250605T180000
+DTSTAMP:20250220T201426Z
+UID:6f9eea5e-ef29-4a2f-8905-40b8aaf15004
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayM. Zupke\, C. Wurl\, P. Wrob
+ el\, Prof. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, 
+ M. Teichmann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, 
+ C. Schwatlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. R
+ ähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, 
+ A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\,
+  E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, P
+ rof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzk
+ e\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C.
+  Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jo
+ rswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Ho
+ ffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Ha
+ rtmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkem
+ eyer (FB M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM+PIC Projekttag 2
+DTSTART:20250603T143000
+DTEND:20250603T200000
+DTSTAMP:20250220T201426Z
+UID:6aa503d5-2a36-4704-a643-93bbc5d8eda9
+DESCRIPTION:bis_20:00_UhrProf. Woelk\, Fr. Rähse\, Prof. Prieß\, J. Nowi
+ tzki
+LOCATION:C13-3.24\, C13-2.22\, C13-2.01\, C12-2.73\, C12-2.72\, C12-2.62\,
+  C12-1.91
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20250616T083000
+DTEND:20250616T180000
+DTSTAMP:20250220T201426Z
+UID:a69632f7-1bfd-4ce5-8cb5-fed396510304
+DESCRIPTION:Pfingstmontag__Whit_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM+PIC Projekttag 1
+DTSTART:20250619T124500
+DTEND:20250619T200000
+DTSTAMP:20250220T201426Z
+UID:431def10-9924-4b2d-96ee-d1d965181a8f
+DESCRIPTION:bis_20:00_UhrProf. Manzke\, J. Nowitzki\, Prof. Prieß\, Fr. R
+ ähse\, Prof. Woelk
+LOCATION:C13-3.24\, C13-2.01\, C13-0.24\, C12-2.73\, C12-2.72\, C12-2.62\,
+  C12-1.91
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM+PIC Projekttag 2
+DTSTART:20250617T143000
+DTEND:20250617T200000
+DTSTAMP:20250220T201426Z
+UID:c39e5a9f-e3ca-4595-acfa-f0ccca1d9618
+DESCRIPTION:bis_20:00_UhrProf. Woelk\, Fr. Rähse\, Prof. Prieß\, J. Nowi
+ tzki
+LOCATION:C13-3.24\, C13-2.22\, C13-2.01\, C12-2.73\, C12-2.72\, C12-2.62\,
+  C12-1.91
+END:VEVENT
+END:VCALENDAR

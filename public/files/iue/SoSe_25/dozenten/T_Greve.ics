@@ -1,0 +1,208 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Advanced  C++
+DTSTART:20250326T143000
+DTEND:20250326T174500
+DTSTAMP:20250220T201425Z
+UID:d8d9614f-43e3-44fa-ad5a-c40f05fa3318
+DESCRIPTION:T. Greve
+LOCATION:C12-2.61
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced  C++
+DTSTART:20250402T143000
+DTEND:20250402T174500
+DTSTAMP:20250220T201425Z
+UID:3f34ba3f-f884-4fa2-9fd0-35a92e8df299
+DESCRIPTION:T. Greve
+LOCATION:C12-2.61
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced  C++
+DTSTART:20250409T143000
+DTEND:20250409T174500
+DTSTAMP:20250220T201425Z
+UID:58872390-7ef3-46c1-bb86-89f534f373eb
+DESCRIPTION:T. Greve
+LOCATION:C12-2.61
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced  C++
+DTSTART:20250416T143000
+DTEND:20250416T174500
+DTSTAMP:20250220T201425Z
+UID:b15752c3-edc8-4ba3-a971-2766e4674200
+DESCRIPTION:T. Greve
+LOCATION:C12-2.61
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced  C++
+DTSTART:20250521T143000
+DTEND:20250521T174500
+DTSTAMP:20250220T201425Z
+UID:c5f6d64e-0f29-49c9-a76f-d3c05b534ed7
+DESCRIPTION:T. Greve
+LOCATION:C12-2.61
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced  C++
+DTSTART:20250528T143000
+DTEND:20250528T174500
+DTSTAMP:20250220T201425Z
+UID:f9bcc338-35e7-4b94-800c-0c5998ddbfbc
+DESCRIPTION:T. Greve
+LOCATION:C12-2.61
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced  C++
+DTSTART:20250611T143000
+DTEND:20250611T174500
+DTSTAMP:20250220T201425Z
+UID:573a54c2-7f8f-48cf-a3c4-2a172a41328a
+DESCRIPTION:T. Greve
+LOCATION:C12-2.61
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced  C++
+DTSTART:20250625T143000
+DTEND:20250625T174500
+DTSTAMP:20250220T201425Z
+UID:febe59b0-6c68-47db-a689-9a7c1d10c386
+DESCRIPTION:T. Greve
+LOCATION:C12-2.61
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20250425T083000
+DTEND:20250425T180000
+DTSTAMP:20250220T201425Z
+UID:d1d73ebb-8631-46e7-9fe2-e23810fe3515
+DESCRIPTION:Karfreitag__Good_FridayM. Zupke\, C. Wurl\, P. Wrobel\, Prof. 
+ Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichman
+ n\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwatlo
+ \, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, 
+ Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßma
+ nn\, A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Peter
+ sen\, E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzk
+ i\, Prof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. 
+ Manzke\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß
+ \, C. Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, 
+ L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, 
+ J. Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, 
+ K. Hartmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. F
+ inkemeyer (FB M)\, H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittm
+ ann\, F. Caspar\, F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, 
+ Prof. Badri-Höher\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced  C++
+DTSTART:20250423T143000
+DTEND:20250423T174500
+DTSTAMP:20250220T201425Z
+UID:d413eb87-9b76-4c28-a680-baa3f125f958
+DESCRIPTION:T. Greve
+LOCATION:C12-2.61
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20250428T083000
+DTEND:20250428T180000
+DTSTAMP:20250220T201425Z
+UID:1bdaaa80-3a6a-44f4-a352-2fc814bb0ba6
+DESCRIPTION:Ostermontag__Easter_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced  C++
+DTSTART:20250430T143000
+DTEND:20250430T174500
+DTSTAMP:20250220T201425Z
+UID:e0fd0d46-7234-4fa7-bf96-0ee69a98ffbe
+DESCRIPTION:T. Greve
+LOCATION:C12-2.61
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20250605T083000
+DTEND:20250605T180000
+DTSTAMP:20250220T201425Z
+UID:74372b53-ea4a-4ffe-aff2-0ad767209a17
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayM. Zupke\, C. Wurl\, P. Wrob
+ el\, Prof. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, 
+ M. Teichmann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, 
+ C. Schwatlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. R
+ ähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, 
+ A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\,
+  E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, P
+ rof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzk
+ e\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C.
+  Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jo
+ rswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Ho
+ ffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Ha
+ rtmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkem
+ eyer (FB M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced  C++
+DTSTART:20250604T143000
+DTEND:20250604T174500
+DTSTAMP:20250220T201425Z
+UID:c9244219-446c-4e81-854b-c8be76c84ded
+DESCRIPTION:T. Greve
+LOCATION:C12-2.61
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20250616T083000
+DTEND:20250616T180000
+DTSTAMP:20250220T201425Z
+UID:9e57a445-0e1c-48d1-9255-9ef23175e9cf
+DESCRIPTION:Pfingstmontag__Whit_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced  C++
+DTSTART:20250618T143000
+DTEND:20250618T174500
+DTSTAMP:20250220T201425Z
+UID:e6e7385f-1f31-4d90-9209-8b0707f8e7be
+DESCRIPTION:T. Greve
+LOCATION:C12-2.61
+END:VEVENT
+END:VCALENDAR

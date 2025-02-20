@@ -1,0 +1,352 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:PDL+PA-Sitzung
+DTSTART:20250325T083000
+DTEND:20250325T100000
+DTSTAMP:20250220T201426Z
+UID:73422129-66fb-4c92-8ee3-f86e4df9f637
+DESCRIPTION:Prof. Wehrend\, Prof. Patz\, Prof. Luczak
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PDL+PA-Sitzung
+DTSTART:20250401T083000
+DTEND:20250401T100000
+DTSTAMP:20250220T201426Z
+UID:da8f12cb-f401-4b4b-8907-11e8689b82b7
+DESCRIPTION:Prof. Wehrend\, Prof. Patz\, Prof. Luczak
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PDL+PA-Sitzung
+DTSTART:20250408T083000
+DTEND:20250408T100000
+DTSTAMP:20250220T201426Z
+UID:8574bde2-363e-47a9-9d5e-ccf9e9d653a3
+DESCRIPTION:Prof. Wehrend\, Prof. Patz\, Prof. Luczak
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PDL+PA-Sitzung
+DTSTART:20250415T083000
+DTEND:20250415T100000
+DTSTAMP:20250220T201426Z
+UID:91824e49-44f7-408d-bed7-88706252bd0d
+DESCRIPTION:Prof. Wehrend\, Prof. Patz\, Prof. Luczak
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE136 Netzschutz und Digital. Energienetze
+DTSTART:20250326T083000
+DTEND:20250326T114500
+DTSTAMP:20250220T201426Z
+UID:2095778b-988a-4ee6-8d8c-a403a2aa47a7
+DESCRIPTION:Prof. Wehrend
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE136 Netzschutz und Digital. Energienetze
+DTSTART:20250402T083000
+DTEND:20250402T114500
+DTSTAMP:20250220T201426Z
+UID:6218df97-2a1d-43f3-8a97-a451f1f3c444
+DESCRIPTION:Prof. Wehrend
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE136 Netzschutz und Digital. Energienetze
+DTSTART:20250409T083000
+DTEND:20250409T114500
+DTSTAMP:20250220T201426Z
+UID:fc8c832c-3966-4ba9-9435-c4e2b5d51c3b
+DESCRIPTION:Prof. Wehrend
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE136 Netzschutz und Digital. Energienetze
+DTSTART:20250416T083000
+DTEND:20250416T114500
+DTSTAMP:20250220T201426Z
+UID:7cf38954-fafe-47b2-aec6-74b913df9622
+DESCRIPTION:Prof. Wehrend
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PDL+PA-Sitzung
+DTSTART:20250422T083000
+DTEND:20250422T100000
+DTSTAMP:20250220T201426Z
+UID:c857e606-b713-4b4d-a2b7-1619d0b938ca
+DESCRIPTION:Prof. Wehrend\, Prof. Patz\, Prof. Luczak
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE136 Netzschutz und Digital. Energienetze
+DTSTART:20250423T083000
+DTEND:20250423T114500
+DTSTAMP:20250220T201426Z
+UID:0affaea2-cee4-4057-a70c-65eeb487c2cc
+DESCRIPTION:Prof. Wehrend
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20250425T083000
+DTEND:20250425T180000
+DTSTAMP:20250220T201426Z
+UID:16b5f482-a88c-4333-8857-327042814b5e
+DESCRIPTION:Karfreitag__Good_FridayM. Zupke\, C. Wurl\, P. Wrobel\, Prof. 
+ Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichman
+ n\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwatlo
+ \, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, 
+ Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßma
+ nn\, A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Peter
+ sen\, E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzk
+ i\, Prof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. 
+ Manzke\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß
+ \, C. Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, 
+ L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, 
+ J. Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, 
+ K. Hartmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. F
+ inkemeyer (FB M)\, H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittm
+ ann\, F. Caspar\, F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, 
+ Prof. Badri-Höher\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20250428T083000
+DTEND:20250428T180000
+DTSTAMP:20250220T201426Z
+UID:eb86a6ed-6234-4b08-8d48-de7c2e006df5
+DESCRIPTION:Ostermontag__Easter_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PDL+PA-Sitzung
+DTSTART:20250429T083000
+DTEND:20250429T100000
+DTSTAMP:20250220T201426Z
+UID:15732679-8b8d-4f6e-a89c-dcfecad81514
+DESCRIPTION:Prof. Wehrend\, Prof. Patz\, Prof. Luczak
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE136 Netzschutz und Digital. Energienetze
+DTSTART:20250430T083000
+DTEND:20250430T114500
+DTSTAMP:20250220T201426Z
+UID:dbbb4cb4-b02c-4e8f-a643-d93ae7fe75b9
+DESCRIPTION:Prof. Wehrend
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PDL+PA-Sitzung
+DTSTART:20250520T083000
+DTEND:20250520T100000
+DTSTAMP:20250220T201426Z
+UID:8b27e668-13ab-4817-80b4-dcbaf31e7edc
+DESCRIPTION:Prof. Wehrend\, Prof. Patz\, Prof. Luczak
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PDL+PA-Sitzung
+DTSTART:20250527T083000
+DTEND:20250527T100000
+DTSTAMP:20250220T201426Z
+UID:7de41a6d-dbde-4aba-a0b2-a1df4183c9a3
+DESCRIPTION:Prof. Wehrend\, Prof. Patz\, Prof. Luczak
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PDL+PA-Sitzung
+DTSTART:20250610T083000
+DTEND:20250610T100000
+DTSTAMP:20250220T201426Z
+UID:a9499259-f1d7-49d8-8bc9-307ce872b79f
+DESCRIPTION:Prof. Wehrend\, Prof. Patz\, Prof. Luczak
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE136 Netzschutz und Digitali. Energienetze ÜL-1
+DTSTART:20250521T083000
+DTEND:20250521T114500
+DTSTAMP:20250220T201426Z
+UID:4fbfc1f5-6ac7-4e2e-bff0-54cfda3bd8d7
+DESCRIPTION:S. Schmarbeck\, Prof. Wehrend
+LOCATION:C06-0.09
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE136 Netzschutz und Digitali. Energienetze ÜL-1
+DTSTART:20250528T083000
+DTEND:20250528T114500
+DTSTAMP:20250220T201426Z
+UID:80abf9d9-0aad-4090-8340-defbb0add118
+DESCRIPTION:S. Schmarbeck\, Prof. Wehrend
+LOCATION:C06-0.09
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE136 Netzschutz und Digitali. Energienetze ÜL-1
+DTSTART:20250611T083000
+DTEND:20250611T114500
+DTSTAMP:20250220T201426Z
+UID:d1fd9477-ee7b-4145-b320-13d34b2ab9c5
+DESCRIPTION:S. Schmarbeck\, Prof. Wehrend
+LOCATION:C06-0.09
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE136 Netzschutz und Digitali. Energienetze ÜL-2
+DTSTART:20250522T083000
+DTEND:20250522T114500
+DTSTAMP:20250220T201426Z
+UID:7e54f785-25be-452c-98e9-68f9fff8bfda
+DESCRIPTION:S. Schmarbeck\, Prof. Wehrend
+LOCATION:C06-0.09
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE136 Netzschutz und Digitali. Energienetze ÜL-2
+DTSTART:20250529T083000
+DTEND:20250529T114500
+DTSTAMP:20250220T201426Z
+UID:5b0f1629-f9d1-4682-9738-ce5269575251
+DESCRIPTION:S. Schmarbeck\, Prof. Wehrend
+LOCATION:C06-0.09
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE136 Netzschutz und Digitali. Energienetze ÜL-2
+DTSTART:20250612T083000
+DTEND:20250612T114500
+DTSTAMP:20250220T201426Z
+UID:70e51214-1765-4ab5-991d-5b25bf2c3d9b
+DESCRIPTION:S. Schmarbeck\, Prof. Wehrend
+LOCATION:C06-0.09
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PDL+PA-Sitzung
+DTSTART:20250603T083000
+DTEND:20250603T100000
+DTSTAMP:20250220T201426Z
+UID:25297a49-5032-44a8-b3c9-6c2d3cf483b3
+DESCRIPTION:Prof. Wehrend\, Prof. Patz\, Prof. Luczak
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE136 Netzschutz und Digitali. Energienetze ÜL-1
+DTSTART:20250604T083000
+DTEND:20250604T114500
+DTSTAMP:20250220T201426Z
+UID:00dda552-52dd-4449-b570-a219bf50840b
+DESCRIPTION:S. Schmarbeck\, Prof. Wehrend
+LOCATION:C06-0.09
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20250605T083000
+DTEND:20250605T180000
+DTSTAMP:20250220T201426Z
+UID:14845c9d-9d34-44b0-8dc2-24f0f8b17245
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayM. Zupke\, C. Wurl\, P. Wrob
+ el\, Prof. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, 
+ M. Teichmann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, 
+ C. Schwatlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. R
+ ähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, 
+ A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\,
+  E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, P
+ rof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzk
+ e\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C.
+  Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jo
+ rswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Ho
+ ffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Ha
+ rtmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkem
+ eyer (FB M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20250616T083000
+DTEND:20250616T180000
+DTSTAMP:20250220T201426Z
+UID:78681bbd-cf9c-4ea2-9e5e-8a2e108321a6
+DESCRIPTION:Pfingstmontag__Whit_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PDL+PA-Sitzung
+DTSTART:20250617T083000
+DTEND:20250617T100000
+DTSTAMP:20250220T201426Z
+UID:f0e70356-1ebb-4368-94ab-f2b61e2ea027
+DESCRIPTION:Prof. Wehrend\, Prof. Patz\, Prof. Luczak
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE136 Netzschutz und Digitali. Energienetze ÜL-1
+DTSTART:20250618T083000
+DTEND:20250618T114500
+DTSTAMP:20250220T201426Z
+UID:91791a12-9eca-4b71-b844-87fdf40a2068
+DESCRIPTION:S. Schmarbeck\, Prof. Wehrend
+LOCATION:C06-0.09
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE136 Netzschutz und Digitali. Energienetze ÜL-2
+DTSTART:20250619T083000
+DTEND:20250619T114500
+DTSTAMP:20250220T201426Z
+UID:f328f0f6-c146-4d8c-a603-e2cb8b081547
+DESCRIPTION:S. Schmarbeck\, Prof. Wehrend
+LOCATION:C06-0.09
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PDL+PA-Sitzung
+DTSTART:20250624T083000
+DTEND:20250624T100000
+DTSTAMP:20250220T201426Z
+UID:93fc702f-2895-4d8b-9a87-4a4c1d241193
+DESCRIPTION:Prof. Wehrend\, Prof. Patz\, Prof. Luczak
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE136 Netzschutz und Digitali. Energienetze ÜL-2
+DTSTART:20250626T083000
+DTEND:20250626T114500
+DTSTAMP:20250220T201426Z
+UID:a826f985-92fd-4caa-ab91-c55d337001ac
+DESCRIPTION:S. Schmarbeck\, Prof. Wehrend
+LOCATION:C06-0.09
+END:VEVENT
+END:VCALENDAR

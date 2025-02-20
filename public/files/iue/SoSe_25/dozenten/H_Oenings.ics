@@ -1,0 +1,461 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-WM1
+DTSTART:20250328T101500
+DTEND:20250328T114500
+DTSTAMP:20250220T201425Z
+UID:a18e7e30-099d-4cc2-9b21-f2e724dc04eb
+DESCRIPTION:H. Oenings
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COCO Kompetitives Programmieren
+DTSTART:20250327T124500
+DTEND:20250327T141500
+DTSTAMP:20250220T201425Z
+UID:2b652991-6e49-451d-aa58-cd33168caa93
+DESCRIPTION:weitere_T\,_n.A.H. Oenings
+LOCATION:C12-2.61
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-Ming-5
+DTSTART:20250327T161500
+DTEND:20250327T174500
+DTSTAMP:20250220T201425Z
+UID:3b8a6c8b-4499-4129-875f-15532bfffa46
+DESCRIPTION:wiederholdende_StudierendeH. Oenings
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-WM2
+DTSTART:20250328T161500
+DTEND:20250328T174500
+DTSTAMP:20250220T201425Z
+UID:4e471034-1e5a-40a1-9e21-07d43953d8d7
+DESCRIPTION:H. Oenings
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-WM1
+DTSTART:20250411T101500
+DTEND:20250411T114500
+DTSTAMP:20250220T201425Z
+UID:59b09645-4215-432c-bdf9-43a28c00b7a9
+DESCRIPTION:H. Oenings
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-WM1
+DTSTART:20250523T101500
+DTEND:20250523T114500
+DTSTAMP:20250220T201425Z
+UID:a8239b31-ceea-4b79-8a1a-c34f6216b70a
+DESCRIPTION:H. Oenings
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-WM1
+DTSTART:20250530T101500
+DTEND:20250530T114500
+DTSTAMP:20250220T201425Z
+UID:5c6392b1-7f5d-4bda-9c50-39560984ba75
+DESCRIPTION:H. Oenings
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-WM1
+DTSTART:20250613T101500
+DTEND:20250613T114500
+DTSTAMP:20250220T201425Z
+UID:3fa161d0-55ba-476e-8b16-1cdc0880b20c
+DESCRIPTION:H. Oenings
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COCO Kompetitives Programmieren
+DTSTART:20250410T124500
+DTEND:20250410T141500
+DTSTAMP:20250220T201425Z
+UID:c2cc012e-3f12-4d42-9c77-d77a96b68b22
+DESCRIPTION:weitere_T\,_n.A.H. Oenings
+LOCATION:C12-2.61
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COCO Kompetitives Programmieren
+DTSTART:20250522T124500
+DTEND:20250522T141500
+DTSTAMP:20250220T201425Z
+UID:27a43cc9-44ed-48a3-9069-5052fa13c0c6
+DESCRIPTION:weitere_T\,_n.A.H. Oenings
+LOCATION:C12-2.61
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COCO Kompetitives Programmieren
+DTSTART:20250529T124500
+DTEND:20250529T141500
+DTSTAMP:20250220T201425Z
+UID:876178bd-7977-403b-9a05-73ecaad28d5c
+DESCRIPTION:weitere_T\,_n.A.H. Oenings
+LOCATION:C12-2.61
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COCO Kompetitives Programmieren
+DTSTART:20250612T124500
+DTEND:20250612T141500
+DTSTAMP:20250220T201425Z
+UID:6c00806f-1a70-424a-88d3-7c0fd61811b6
+DESCRIPTION:weitere_T\,_n.A.H. Oenings
+LOCATION:C12-2.61
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-Ming-5
+DTSTART:20250410T143000
+DTEND:20250410T160000
+DTSTAMP:20250220T201425Z
+UID:11e9eaa7-e1ee-43cc-931f-43ec17e9088a
+DESCRIPTION:wiederholdende_StudierendeH. Oenings
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-Ming-5
+DTSTART:20250522T143000
+DTEND:20250522T160000
+DTSTAMP:20250220T201425Z
+UID:a93613d5-9ac2-447e-9a53-21356a6bebb7
+DESCRIPTION:wiederholdende_StudierendeH. Oenings
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-Ming-5
+DTSTART:20250529T143000
+DTEND:20250529T160000
+DTSTAMP:20250220T201425Z
+UID:be824f40-c295-405e-982c-369045d19a2d
+DESCRIPTION:wiederholdende_StudierendeH. Oenings
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-Ming-5
+DTSTART:20250612T143000
+DTEND:20250612T160000
+DTSTAMP:20250220T201425Z
+UID:6664ff82-68f0-4eba-bdcc-9c6e28d577da
+DESCRIPTION:wiederholdende_StudierendeH. Oenings
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-WM2
+DTSTART:20250411T161500
+DTEND:20250411T174500
+DTSTAMP:20250220T201425Z
+UID:d8c81913-2ed3-40dc-9e2e-6073bf617e6c
+DESCRIPTION:H. Oenings
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-WM2
+DTSTART:20250523T161500
+DTEND:20250523T174500
+DTSTAMP:20250220T201425Z
+UID:7f9bd99e-a82a-4ef4-ba73-dff6a78926eb
+DESCRIPTION:H. Oenings
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-WM2
+DTSTART:20250530T161500
+DTEND:20250530T174500
+DTSTAMP:20250220T201425Z
+UID:1342283f-ef18-4e1f-9758-2840f44c093b
+DESCRIPTION:H. Oenings
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-WM2
+DTSTART:20250613T161500
+DTEND:20250613T174500
+DTSTAMP:20250220T201425Z
+UID:e92d0a57-ab31-4ac0-8bf2-38819b5e4692
+DESCRIPTION:H. Oenings
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-WM1
+DTSTART:20250418T101500
+DTEND:20250418T114500
+DTSTAMP:20250220T201425Z
+UID:069781cf-25e0-408d-969f-009adcd52725
+DESCRIPTION:H. Oenings
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-Ming-5
+DTSTART:20250417T143000
+DTEND:20250417T160000
+DTSTAMP:20250220T201425Z
+UID:7b973c0c-f405-470a-895a-d128af3d8b3e
+DESCRIPTION:wiederholdende_StudierendeH. Oenings
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-WM2
+DTSTART:20250418T161500
+DTEND:20250418T174500
+DTSTAMP:20250220T201425Z
+UID:71eb8c6d-d3bc-4662-9389-974f9c8046dc
+DESCRIPTION:H. Oenings
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20250425T083000
+DTEND:20250425T180000
+DTSTAMP:20250220T201425Z
+UID:09bb391f-ec6c-48c1-864b-d8ec9c47941d
+DESCRIPTION:Karfreitag__Good_FridayM. Zupke\, C. Wurl\, P. Wrobel\, Prof. 
+ Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichman
+ n\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwatlo
+ \, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, 
+ Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßma
+ nn\, A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Peter
+ sen\, E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzk
+ i\, Prof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. 
+ Manzke\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß
+ \, C. Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, 
+ L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, 
+ J. Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, 
+ K. Hartmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. F
+ inkemeyer (FB M)\, H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittm
+ ann\, F. Caspar\, F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, 
+ Prof. Badri-Höher\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COCO Kompetitives Programmieren
+DTSTART:20250424T124500
+DTEND:20250424T141500
+DTSTAMP:20250220T201425Z
+UID:ab45ba3b-7336-45de-a5fe-9833dc6d9380
+DESCRIPTION:weitere_T\,_n.A.H. Oenings
+LOCATION:C12-2.61
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-Ming-5
+DTSTART:20250424T143000
+DTEND:20250424T160000
+DTSTAMP:20250220T201425Z
+UID:fe7c821a-b39a-4450-881d-dd1ffb91d930
+DESCRIPTION:wiederholdende_StudierendeH. Oenings
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20250428T083000
+DTEND:20250428T180000
+DTSTAMP:20250220T201425Z
+UID:12dca5db-b9c7-47ae-bafc-ad6aa9367acb
+DESCRIPTION:Ostermontag__Easter_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-WM1
+DTSTART:20250502T101500
+DTEND:20250502T114500
+DTSTAMP:20250220T201425Z
+UID:8c40e614-cb2b-4dab-a458-3f0490dce2d6
+DESCRIPTION:H. Oenings
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COCO Kompetitives Programmieren
+DTSTART:20250501T124500
+DTEND:20250501T141500
+DTSTAMP:20250220T201425Z
+UID:4736935e-3b74-412c-a80f-0d817a215752
+DESCRIPTION:weitere_T\,_n.A.H. Oenings
+LOCATION:C12-2.61
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-Ming-5
+DTSTART:20250501T143000
+DTEND:20250501T160000
+DTSTAMP:20250220T201425Z
+UID:7d08eb5e-79cd-4695-9b97-96add5c9fcc1
+DESCRIPTION:wiederholdende_StudierendeH. Oenings
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-WM2
+DTSTART:20250502T161500
+DTEND:20250502T174500
+DTSTAMP:20250220T201425Z
+UID:dc3951bd-61c8-4123-af20-08e7cd0c2ee6
+DESCRIPTION:H. Oenings
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20250605T083000
+DTEND:20250605T180000
+DTSTAMP:20250220T201425Z
+UID:45c48529-b8fb-4bbd-9d83-73fb60671f4e
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayM. Zupke\, C. Wurl\, P. Wrob
+ el\, Prof. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, 
+ M. Teichmann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, 
+ C. Schwatlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. R
+ ähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, 
+ A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\,
+  E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, P
+ rof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzk
+ e\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C.
+  Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jo
+ rswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Ho
+ ffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Ha
+ rtmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkem
+ eyer (FB M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-WM1
+DTSTART:20250606T101500
+DTEND:20250606T114500
+DTSTAMP:20250220T201425Z
+UID:84ddffd5-5013-4e29-91b6-6c9321f22b39
+DESCRIPTION:H. Oenings
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-WM2
+DTSTART:20250606T161500
+DTEND:20250606T174500
+DTSTAMP:20250220T201425Z
+UID:d9329f2a-6bca-493f-ac7e-3697237c6a8a
+DESCRIPTION:H. Oenings
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20250616T083000
+DTEND:20250616T180000
+DTSTAMP:20250220T201425Z
+UID:37a10ad5-c29b-4ff1-b9f1-f0f99804046d
+DESCRIPTION:Pfingstmontag__Whit_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-WM1
+DTSTART:20250620T101500
+DTEND:20250620T114500
+DTSTAMP:20250220T201425Z
+UID:ac862a80-2993-4b6f-bf01-fa146d6e92b7
+DESCRIPTION:H. Oenings
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COCO Kompetitives Programmieren
+DTSTART:20250619T124500
+DTEND:20250619T141500
+DTSTAMP:20250220T201425Z
+UID:6f38ece0-425e-47dc-980e-4113db619050
+DESCRIPTION:weitere_T\,_n.A.H. Oenings
+LOCATION:C12-2.61
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-Ming-5
+DTSTART:20250619T143000
+DTEND:20250619T160000
+DTSTAMP:20250220T201425Z
+UID:370add83-9578-404a-9657-a315decc66d1
+DESCRIPTION:wiederholdende_StudierendeH. Oenings
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-WM2
+DTSTART:20250620T180000
+DTEND:20250620T193000
+DTSTAMP:20250220T201425Z
+UID:43f25acf-849e-4bb8-8682-66fb3166cc91
+DESCRIPTION:H. Oenings
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COCO Kompetitives Programmieren ÜL
+DTSTART:20250628T090000
+DTEND:20250628T190000
+DTSTAMP:20250220T201425Z
+UID:cf2288a7-afb9-44b3-8506-0f9fa03b115b
+DESCRIPTION:Termin_noch_nicht_bestätigt! German_Collegiate_Programming_Co
+ ntest_(GCPC)H. Oenings
+LOCATION:C12-2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-WM1
+DTSTART:20250627T101500
+DTEND:20250627T114500
+DTSTAMP:20250220T201425Z
+UID:bb1d2c72-238b-4103-9cdf-a314a2f887a1
+DESCRIPTION:H. Oenings
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COCO Kompetitives Programmieren
+DTSTART:20250626T124500
+DTEND:20250626T141500
+DTSTAMP:20250220T201425Z
+UID:46a48b8a-6acf-47dc-b8d4-049249e34297
+DESCRIPTION:weitere_T\,_n.A.H. Oenings
+LOCATION:C12-2.61
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-Ming-5
+DTSTART:20250626T143000
+DTEND:20250626T160000
+DTSTAMP:20250220T201425Z
+UID:8f0191b8-e706-42b0-94fd-aa319a51634f
+DESCRIPTION:wiederholdende_StudierendeH. Oenings
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken ÜL-WM2
+DTSTART:20250627T161500
+DTEND:20250627T174500
+DTSTAMP:20250220T201425Z
+UID:105f54ff-0eea-4a45-9de9-7db62ded867c
+DESCRIPTION:H. Oenings
+LOCATION:C12-2.70
+END:VEVENT
+END:VCALENDAR

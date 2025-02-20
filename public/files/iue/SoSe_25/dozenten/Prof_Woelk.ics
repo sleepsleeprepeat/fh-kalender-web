@@ -1,0 +1,669 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Agile Entwicklungsme.
+DTSTART:20250327T080000
+DTEND:20250327T093000
+DTSTAMP:20250220T201426Z
+UID:7675062f-e93f-4005-8d5f-7e9fb35f5c67
+DESCRIPTION:Beginn_08:00UhrProf. Woelk\, J. Nowitzki
+LOCATION:C18-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jour-fixe Dekanat
+DTSTART:20250324T083000
+DTEND:20250324T120000
+DTSTAMP:20250220T201426Z
+UID:00d3834d-f3ea-4e2f-a363-affc38aa3517
+DESCRIPTION:Prof. Wree\, Prof. Woelk\, Prof. Luczak
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agile Entwicklungs- methoden
+DTSTART:20250329T090000
+DTEND:20250329T150000
+DTSTAMP:20250220T201426Z
+UID:b8a3abb3-ac01-440f-8042-c1db85db0b51
+DESCRIPTION:Prof. Woelk\, Fr. Rähse\, Prof. Prieß\, J. Nowitzki
+LOCATION:C18-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kick-Off-Seminar 4. Sem.
+DTSTART:20250324T124500
+DTEND:20250324T141500
+DTSTAMP:20250220T201426Z
+UID:b13e1a2c-cd2d-486c-b24c-41639c845572
+DESCRIPTION:Kick-off_Seminar_4.Sem. C08-1.04Dubbert\, M.\, Prof. Woelk\, F
+ r. Rähse\, Prof. Prieß\, E. Petersen\, K. Hinkelmann\, Prof. Ehlers
+LOCATION:C08-1.04 / HS-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WM Extended Reality AG
+DTSTART:20250324T161500
+DTEND:20250324T193000
+DTSTAMP:20250220T201426Z
+UID:ea3bb749-68fd-402b-a44e-28ee7f339691
+DESCRIPTION:Rupert-Kruse\, P.\, Prof. Woelk
+LOCATION:C12-3.05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kick-Off-Seminar 6. Sem.
+DTSTART:20250327T180000
+DTEND:20250327T193000
+DTSTAMP:20250220T201426Z
+UID:7e850d86-4c84-4d8f-8c8a-99d8a9947795
+DESCRIPTION:C13-3.02Reich\, S.\, Prof. Woelk\, Fr. Rähse
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jour-fixe Dekanat
+DTSTART:20250331T083000
+DTEND:20250331T120000
+DTSTAMP:20250220T201426Z
+UID:7aa85461-ff98-4c16-ad0d-1668fac5b880
+DESCRIPTION:Prof. Wree\, Prof. Woelk\, Prof. Luczak
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agile Entwicklungs- methoden
+DTSTART:20250405T090000
+DTEND:20250405T150000
+DTSTAMP:20250220T201426Z
+UID:8852f8c4-563e-459a-87f0-659cbf8d7643
+DESCRIPTION:Prof. Woelk\, Fr. Rähse\, Prof. Prieß\, J. Nowitzki
+LOCATION:C18-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WM Extended Reality AG
+DTSTART:20250331T161500
+DTEND:20250331T193000
+DTSTAMP:20250220T201426Z
+UID:58b15a18-1f69-4913-af7f-4e9ba82553b4
+DESCRIPTION:Rupert-Kruse\, P.\, Prof. Woelk
+LOCATION:C12-3.05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agile Entwicklungsme.
+DTSTART:20250403T161500
+DTEND:20250403T174500
+DTSTAMP:20250220T201426Z
+UID:cb46c624-2952-4bbb-aeff-93e0c7013fcc
+DESCRIPTION:ErsatzterminJ. Nowitzki\, Prof. Woelk
+LOCATION:C02-0.07 / HS-7 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jour-fixe Dekanat
+DTSTART:20250407T083000
+DTEND:20250407T120000
+DTSTAMP:20250220T201426Z
+UID:2d341cc4-ad1f-4688-8ea4-3f39f91ea121
+DESCRIPTION:Prof. Wree\, Prof. Woelk\, Prof. Luczak
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agile Entwicklungsme.
+DTSTART:20250410T083000
+DTEND:20250410T100000
+DTSTAMP:20250220T201426Z
+UID:b97cf488-2279-4e01-90b7-cbf026b2c38b
+DESCRIPTION:J. Nowitzki\, Prof. Prieß\, Fr. Rähse\, Prof. Woelk
+LOCATION:C18-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sitzung
+DTSTART:20250409T124500
+DTEND:20250409T141500
+DTSTAMP:20250220T201426Z
+UID:9643c467-8e37-4d8c-914a-6b0bcb7beaa4
+DESCRIPTION:IT-BeauftragteProf. Woelk\, M. Teichmann\, M. Sieloff\, S. Sch
+ marbeck\, J. Nowitzki\, J. Hoffmüller\, H. Folkerts\, J. Dittmann\, F. B
+ ähnck\, C. Brauer
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WM Extended Reality AG
+DTSTART:20250407T161500
+DTEND:20250407T193000
+DTSTAMP:20250220T201426Z
+UID:a264da22-094a-46b3-a0f2-7e31c008bda3
+DESCRIPTION:Rupert-Kruse\, P.\, Prof. Woelk
+LOCATION:C12-3.05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jour-fixe Dekanat
+DTSTART:20250414T083000
+DTEND:20250414T120000
+DTSTAMP:20250220T201426Z
+UID:548c97ca-17bd-4d26-90d1-02ecc15aff1b
+DESCRIPTION:Prof. Wree\, Prof. Woelk\, Prof. Luczak
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agile Entwicklungsme.
+DTSTART:20250417T083000
+DTEND:20250417T100000
+DTSTAMP:20250220T201426Z
+UID:5b0773e2-2ad8-4b10-a8b6-57b2e9283252
+DESCRIPTION:Prof. Woelk\, J. Nowitzki
+LOCATION:C18-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WM Extended Reality AG
+DTSTART:20250414T161500
+DTEND:20250414T193000
+DTSTAMP:20250220T201426Z
+UID:4a8a0c44-19cf-481b-a917-1b3b6e9d6357
+DESCRIPTION:Rupert-Kruse\, P.\, Prof. Woelk
+LOCATION:C12-3.05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jour-fixe Dekanat
+DTSTART:20250421T083000
+DTEND:20250421T120000
+DTSTAMP:20250220T201426Z
+UID:236c0b7b-0da1-4bdd-b208-0a909ea4dc55
+DESCRIPTION:Prof. Wree\, Prof. Woelk\, Prof. Luczak
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agile Entwicklungsme.
+DTSTART:20250424T083000
+DTEND:20250424T100000
+DTSTAMP:20250220T201426Z
+UID:cfa29680-bea4-4cc9-9e48-fe83f39e252f
+DESCRIPTION:J. Nowitzki\, Prof. Prieß\, Fr. Rähse\, Prof. Woelk
+LOCATION:C18-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20250425T083000
+DTEND:20250425T180000
+DTSTAMP:20250220T201426Z
+UID:58f36a5f-66b8-438d-88ef-9495821b006b
+DESCRIPTION:Karfreitag__Good_FridayM. Zupke\, C. Wurl\, P. Wrobel\, Prof. 
+ Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichman
+ n\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwatlo
+ \, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, 
+ Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßma
+ nn\, A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Peter
+ sen\, E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzk
+ i\, Prof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. 
+ Manzke\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß
+ \, C. Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, 
+ L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, 
+ J. Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, 
+ K. Hartmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. F
+ inkemeyer (FB M)\, H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittm
+ ann\, F. Caspar\, F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, 
+ Prof. Badri-Höher\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WM Extended Reality AG
+DTSTART:20250421T161500
+DTEND:20250421T193000
+DTSTAMP:20250220T201426Z
+UID:ccd168f5-6a0f-48d6-bd5a-8f0e9f428069
+DESCRIPTION:Rupert-Kruse\, P.\, Prof. Woelk
+LOCATION:C12-3.05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agile Entwicklungsme.
+DTSTART:20250429T080000
+DTEND:20250429T100000
+DTSTAMP:20250220T201426Z
+UID:5c6a8aaa-56d2-461f-b276-e8a44d834e20
+DESCRIPTION:Start:08:00_Uhr_/_TestJ. Nowitzki\, Prof. Woelk
+LOCATION:C18-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20250428T083000
+DTEND:20250428T180000
+DTSTAMP:20250220T201426Z
+UID:55d1faf0-c371-45ba-9737-448927f36cba
+DESCRIPTION:Ostermontag__Easter_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jour-fixe Dekanat
+DTSTART:20250505T083000
+DTEND:20250505T120000
+DTSTAMP:20250220T201426Z
+UID:5c8e1d4e-30ad-45cd-8809-c5e41725e93b
+DESCRIPTION:Prof. Wree\, Prof. Woelk\, Prof. Luczak
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jour-fixe Dekanat
+DTSTART:20250512T083000
+DTEND:20250512T120000
+DTSTAMP:20250220T201426Z
+UID:ec992e24-6d83-4cf7-80a9-d48e6e9d767b
+DESCRIPTION:Prof. Wree\, Prof. Woelk\, Prof. Luczak
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jour-fixe Dekanat
+DTSTART:20250519T083000
+DTEND:20250519T120000
+DTSTAMP:20250220T201426Z
+UID:a8ad4bc1-9528-475e-8b8f-338eabc7f161
+DESCRIPTION:Prof. Wree\, Prof. Woelk\, Prof. Luczak
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM Projekttag Ming
+DTSTART:20250520T124500
+DTEND:20250520T200000
+DTSTAMP:20250220T201426Z
+UID:0c9caa6e-8789-4a2b-bd28-c5fc5a0ba34b
+DESCRIPTION:bis_20:00_UhrJ. Nowitzki\, Prof. Prieß\, Fr. Rähse\, Prof. W
+ oelk
+LOCATION:C13-2.09\, C13-1.02\, C12-3.18\, C12-2.61\, C12-1.19\, C06-1.10\,
+  C04-0.17 (IuE)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sitzung
+DTSTART:20250521T124500
+DTEND:20250521T141500
+DTSTAMP:20250220T201426Z
+UID:81826bc8-03f9-48eb-95fe-ffcef66ecc6e
+DESCRIPTION:IT-BeauftragteProf. Woelk\, M. Teichmann\, M. Sieloff\, S. Sch
+ marbeck\, J. Nowitzki\, J. Hoffmüller\, H. Folkerts\, J. Dittmann\, F. B
+ ähnck\, C. Brauer
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM+PIC Projekttag 1
+DTSTART:20250522T124500
+DTEND:20250522T200000
+DTSTAMP:20250220T201426Z
+UID:a04e866e-c746-4eae-82cd-39dc02cf4a14
+DESCRIPTION:bis_20:00_UhrProf. Manzke\, J. Nowitzki\, Prof. Prieß\, Fr. R
+ ähse\, Prof. Woelk
+LOCATION:C13-3.24\, C13-2.01\, C13-0.24\, C12-2.73\, C12-2.72\, C12-2.62\,
+  C12-1.91
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WM Extended Reality AG
+DTSTART:20250519T161500
+DTEND:20250519T193000
+DTSTAMP:20250220T201426Z
+UID:3b174f49-1225-40d0-b9b2-e60022c80c71
+DESCRIPTION:Rupert-Kruse\, P.\, Prof. Woelk
+LOCATION:C12-3.05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jour-fixe Dekanat
+DTSTART:20250526T083000
+DTEND:20250526T120000
+DTSTAMP:20250220T201426Z
+UID:2785bfa3-98e5-4646-9b02-0ef404267b0f
+DESCRIPTION:Prof. Wree\, Prof. Woelk\, Prof. Luczak
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jour-fixe Dekanat
+DTSTART:20250609T083000
+DTEND:20250609T120000
+DTSTAMP:20250220T201426Z
+UID:6295cffd-89f3-4b3e-99c2-5b257ef7429e
+DESCRIPTION:Prof. Wree\, Prof. Woelk\, Prof. Luczak
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM Projekttag Ming
+DTSTART:20250527T124500
+DTEND:20250527T200000
+DTSTAMP:20250220T201426Z
+UID:0e99a3d4-0849-4695-96d8-767f97cdd6ad
+DESCRIPTION:bis_20:00_UhrJ. Nowitzki\, Prof. Prieß\, Fr. Rähse\, Prof. W
+ oelk
+LOCATION:C13-2.09\, C13-1.02\, C12-3.18\, C12-2.61\, C12-1.19\, C06-1.10\,
+  C04-0.17 (IuE)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM Projekttag Ming
+DTSTART:20250610T124500
+DTEND:20250610T200000
+DTSTAMP:20250220T201426Z
+UID:968ce1e8-823f-4531-9e90-2563be74354b
+DESCRIPTION:bis_20:00_UhrJ. Nowitzki\, Prof. Prieß\, Fr. Rähse\, Prof. W
+ oelk
+LOCATION:C13-2.09\, C13-1.02\, C12-3.18\, C12-2.61\, C12-1.19\, C06-1.10\,
+  C04-0.17 (IuE)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM+PIC Projekttag 1
+DTSTART:20250529T124500
+DTEND:20250529T200000
+DTSTAMP:20250220T201426Z
+UID:c6edf47f-8e09-4c26-8d9e-43a29b033ec2
+DESCRIPTION:bis_20:00_UhrProf. Manzke\, J. Nowitzki\, Prof. Prieß\, Fr. R
+ ähse\, Prof. Woelk
+LOCATION:C13-3.24\, C13-2.01\, C13-0.24\, C12-2.73\, C12-2.72\, C12-2.62\,
+  C12-1.91
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM+PIC Projekttag 1
+DTSTART:20250612T124500
+DTEND:20250612T200000
+DTSTAMP:20250220T201426Z
+UID:dae279f3-373d-438c-8979-b658a84dabb2
+DESCRIPTION:bis_20:00_UhrProf. Manzke\, J. Nowitzki\, Prof. Prieß\, Fr. R
+ ähse\, Prof. Woelk
+LOCATION:C13-3.24\, C13-2.01\, C13-0.24\, C12-2.73\, C12-2.72\, C12-2.62\,
+  C12-1.91
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WM Extended Reality AG
+DTSTART:20250526T161500
+DTEND:20250526T193000
+DTSTAMP:20250220T201426Z
+UID:a20b35af-1d1d-44d0-ae78-b6c41191ddf0
+DESCRIPTION:Rupert-Kruse\, P.\, Prof. Woelk
+LOCATION:C12-3.05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WM Extended Reality AG
+DTSTART:20250609T161500
+DTEND:20250609T193000
+DTSTAMP:20250220T201426Z
+UID:87d64155-f540-4473-91f9-790338120a11
+DESCRIPTION:Rupert-Kruse\, P.\, Prof. Woelk
+LOCATION:C12-3.05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jour-fixe Dekanat
+DTSTART:20250602T083000
+DTEND:20250602T120000
+DTSTAMP:20250220T201426Z
+UID:f2d2aaca-fa11-47fc-9e2c-a944824c5103
+DESCRIPTION:Prof. Wree\, Prof. Woelk\, Prof. Luczak
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20250605T083000
+DTEND:20250605T180000
+DTSTAMP:20250220T201426Z
+UID:df56d295-9c22-471a-9079-70c8271ec357
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayM. Zupke\, C. Wurl\, P. Wrob
+ el\, Prof. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, 
+ M. Teichmann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, 
+ C. Schwatlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. R
+ ähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, 
+ A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\,
+  E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, P
+ rof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzk
+ e\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C.
+  Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jo
+ rswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Ho
+ ffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Ha
+ rtmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkem
+ eyer (FB M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM Projekttag Ming
+DTSTART:20250603T124500
+DTEND:20250603T200000
+DTSTAMP:20250220T201426Z
+UID:07db2117-d534-4d23-97cc-1af217ef3cf6
+DESCRIPTION:bis_20:00_UhrJ. Nowitzki\, Prof. Prieß\, Fr. Rähse\, Prof. W
+ oelk
+LOCATION:C13-2.09\, C13-1.02\, C12-3.18\, C12-2.61\, C12-1.19\, C06-1.10\,
+  C04-0.17 (IuE)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WM Extended Reality AG
+DTSTART:20250602T161500
+DTEND:20250602T193000
+DTSTAMP:20250220T201426Z
+UID:42e52211-bd4b-4129-85a3-802dd1fe32fe
+DESCRIPTION:Rupert-Kruse\, P.\, Prof. Woelk
+LOCATION:C12-3.05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20250616T083000
+DTEND:20250616T180000
+DTSTAMP:20250220T201426Z
+UID:ffb2e2b8-d023-4d4d-b9b0-f8169a003af0
+DESCRIPTION:Pfingstmontag__Whit_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM Projekttag Ming
+DTSTART:20250617T124500
+DTEND:20250617T200000
+DTSTAMP:20250220T201426Z
+UID:f6c4778f-9417-4b73-8aa5-40d9340a8e51
+DESCRIPTION:bis_20:00_UhrJ. Nowitzki\, Prof. Prieß\, Fr. Rähse\, Prof. W
+ oelk
+LOCATION:C13-2.09\, C13-1.02\, C12-3.18\, C12-2.61\, C12-1.19\, C06-1.10\,
+  C04-0.17 (IuE)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM+PIC Projekttag 1
+DTSTART:20250619T124500
+DTEND:20250619T200000
+DTSTAMP:20250220T201426Z
+UID:946615d8-f95b-4ea2-a13b-da91b86b360e
+DESCRIPTION:bis_20:00_UhrProf. Manzke\, J. Nowitzki\, Prof. Prieß\, Fr. R
+ ähse\, Prof. Woelk
+LOCATION:C13-3.24\, C13-2.01\, C13-0.24\, C12-2.73\, C12-2.72\, C12-2.62\,
+  C12-1.91
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jour-fixe Dekanat
+DTSTART:20250623T083000
+DTEND:20250623T120000
+DTSTAMP:20250220T201426Z
+UID:28aa9996-2dca-4845-820f-b4b630487a61
+DESCRIPTION:Prof. Wree\, Prof. Woelk\, Prof. Luczak
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sitzung
+DTSTART:20250625T124500
+DTEND:20250625T141500
+DTSTAMP:20250220T201426Z
+UID:be01e5e7-0f18-40bd-b800-538e7af874e8
+DESCRIPTION:IT-BeauftragteProf. Woelk\, M. Teichmann\, M. Sieloff\, S. Sch
+ marbeck\, J. Nowitzki\, J. Hoffmüller\, H. Folkerts\, J. Dittmann\, F. B
+ ähnck\, C. Brauer
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM+PIC Präsentation
+DTSTART:20250624T143000
+DTEND:20250624T194500
+DTSTAMP:20250220T201426Z
+UID:9c0ac9e8-a7d7-4df6-b8f2-5046266bdff9
+DESCRIPTION:Prof. Woelk\, Fr. Rähse\, Prof. Prieß\, J. Nowitzki\, Prof. 
+ Manzke
+LOCATION:C18-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WM Extended Reality AG
+DTSTART:20250623T161500
+DTEND:20250623T193000
+DTSTAMP:20250220T201426Z
+UID:8250a730-6653-4016-8ab5-7a3dcbbfa432
+DESCRIPTION:Rupert-Kruse\, P.\, Prof. Woelk
+LOCATION:C12-3.05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kick-Off-Seminar 2. Sem.
+DTSTART:20250324T083000
+DTEND:20250324T100000
+DTSTAMP:20250220T201426Z
+UID:074b2d32-3faa-4580-a6da-4eeeb4978c1c
+DESCRIPTION:Kick-off_Seminar_2.Sem. C22-0.01Reich\, S.\, Pabst\, E.\, Mert
+ ens\, C.\, Prof. Woelk\, Fr. Rähse\, Prof. Prieß\, Prof. Kallies\, Wiege
+ rt\, R.
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20250428T083000
+DTEND:20250428T180000
+DTSTAMP:20250220T201426Z
+UID:f0f82e6e-11bd-420a-8652-8c8a08fc4272
+DESCRIPTION:Ostermontag__Easter_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM+PIC Projekttag 2
+DTSTART:20250520T143000
+DTEND:20250520T200000
+DTSTAMP:20250220T201426Z
+UID:d73d221b-9132-43e1-80a5-910a923157fe
+DESCRIPTION:bis_20:00_UhrProf. Woelk\, Fr. Rähse\, Prof. Prieß\, J. Nowi
+ tzki
+LOCATION:C13-3.24\, C13-2.22\, C13-2.01\, C12-2.73\, C12-2.72\, C12-2.62\,
+  C12-1.91
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM+PIC Projekttag 2
+DTSTART:20250527T143000
+DTEND:20250527T200000
+DTSTAMP:20250220T201426Z
+UID:f91b6063-044c-46b7-82a3-d2531230690d
+DESCRIPTION:bis_20:00_UhrProf. Woelk\, Fr. Rähse\, Prof. Prieß\, J. Nowi
+ tzki
+LOCATION:C13-3.24\, C13-2.22\, C13-2.01\, C12-2.73\, C12-2.72\, C12-2.62\,
+  C12-1.91
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM+PIC Projekttag 2
+DTSTART:20250610T143000
+DTEND:20250610T200000
+DTSTAMP:20250220T201426Z
+UID:945bb803-2947-4a2e-a5b9-2168608922da
+DESCRIPTION:bis_20:00_UhrProf. Woelk\, Fr. Rähse\, Prof. Prieß\, J. Nowi
+ tzki
+LOCATION:C13-3.24\, C13-2.22\, C13-2.01\, C12-2.73\, C12-2.72\, C12-2.62\,
+  C12-1.91
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20250605T083000
+DTEND:20250605T180000
+DTSTAMP:20250220T201426Z
+UID:58d99c2a-1aa2-463c-ac55-082a94634d75
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayM. Zupke\, C. Wurl\, P. Wrob
+ el\, Prof. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, 
+ M. Teichmann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, 
+ C. Schwatlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. R
+ ähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, 
+ A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\,
+  E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, P
+ rof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzk
+ e\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C.
+  Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jo
+ rswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Ho
+ ffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Ha
+ rtmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkem
+ eyer (FB M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM+PIC Projekttag 2
+DTSTART:20250603T143000
+DTEND:20250603T200000
+DTSTAMP:20250220T201426Z
+UID:e304a9b9-8f4f-4ce2-8d52-9ddd6dd9c132
+DESCRIPTION:bis_20:00_UhrProf. Woelk\, Fr. Rähse\, Prof. Prieß\, J. Nowi
+ tzki
+LOCATION:C13-3.24\, C13-2.22\, C13-2.01\, C12-2.73\, C12-2.72\, C12-2.62\,
+  C12-1.91
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20250616T083000
+DTEND:20250616T180000
+DTSTAMP:20250220T201426Z
+UID:b625594a-b806-4721-8206-9e924137f103
+DESCRIPTION:Pfingstmontag__Whit_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEM+PIC Projekttag 2
+DTSTART:20250617T143000
+DTEND:20250617T200000
+DTSTAMP:20250220T201426Z
+UID:ca7bf2b0-c210-4ee5-a56c-8b4b6c5642d8
+DESCRIPTION:bis_20:00_UhrProf. Woelk\, Fr. Rähse\, Prof. Prieß\, J. Nowi
+ tzki
+LOCATION:C13-3.24\, C13-2.22\, C13-2.01\, C12-2.73\, C12-2.72\, C12-2.62\,
+  C12-1.91
+END:VEVENT
+END:VCALENDAR

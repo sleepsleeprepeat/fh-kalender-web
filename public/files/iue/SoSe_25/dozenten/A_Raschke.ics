@@ -1,0 +1,307 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E3
+DTSTART:20250407T083000
+DTEND:20250407T114500
+DTSTAMP:20250220T201425Z
+UID:bf8f34dd-2a07-47e7-9557-5b5532199e20
+DESCRIPTION:E. Moritz\, A. Raschke
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E3
+DTSTART:20250519T083000
+DTEND:20250519T114500
+DTSTAMP:20250220T201425Z
+UID:1e4749e8-5f23-4a64-93a3-2d534be13b03
+DESCRIPTION:E. Moritz\, A. Raschke
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-M1
+DTSTART:20250411T083000
+DTEND:20250411T114500
+DTSTAMP:20250220T201425Z
+UID:a4f5c027-3667-40fb-912a-4a0e9797d457
+DESCRIPTION:A. Raschke\, Prof. Stock
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-M1
+DTSTART:20250523T083000
+DTEND:20250523T114500
+DTSTAMP:20250220T201425Z
+UID:391ef800-846a-414c-818c-1fef88fb1daa
+DESCRIPTION:A. Raschke\, Prof. Stock
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E4W3
+DTSTART:20250414T083000
+DTEND:20250414T114500
+DTSTAMP:20250220T201425Z
+UID:3ed1d553-ea9e-494f-a7f0-b64512f13bd4
+DESCRIPTION:E. Moritz\, A. Raschke
+LOCATION:C13-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E4W3
+DTSTART:20250526T083000
+DTEND:20250526T114500
+DTSTAMP:20250220T201425Z
+UID:90f5d2ea-fa15-4808-b1c6-7de238d9dd35
+DESCRIPTION:E. Moritz\, A. Raschke
+LOCATION:C13-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E2
+DTSTART:20250416T083000
+DTEND:20250416T114500
+DTSTAMP:20250220T201425Z
+UID:f31c2652-6392-4a59-9923-be453209c952
+DESCRIPTION:A. Raschke\, E. Moritz
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E2
+DTSTART:20250528T083000
+DTEND:20250528T114500
+DTSTAMP:20250220T201425Z
+UID:bce577fd-0537-4ab9-ab7d-021fb4847b8d
+DESCRIPTION:A. Raschke\, E. Moritz
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-M3
+DTSTART:20250418T083000
+DTEND:20250418T114500
+DTSTAMP:20250220T201425Z
+UID:85b907dd-9280-44f0-9525-623e48398072
+DESCRIPTION:A. Raschke\, Prof. Stock
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-M3
+DTSTART:20250530T083000
+DTEND:20250530T114500
+DTSTAMP:20250220T201425Z
+UID:ebdb7d5f-4da8-4773-8a53-6388689faed2
+DESCRIPTION:A. Raschke\, Prof. Stock
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E3
+DTSTART:20250421T083000
+DTEND:20250421T114500
+DTSTAMP:20250220T201425Z
+UID:f9608a7d-53a8-4e2e-b45f-c26a25db3e85
+DESCRIPTION:E. Moritz\, A. Raschke
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20250425T083000
+DTEND:20250425T180000
+DTSTAMP:20250220T201425Z
+UID:e0019e22-53e1-4fc0-b69d-1c048509f42a
+DESCRIPTION:Karfreitag__Good_FridayM. Zupke\, C. Wurl\, P. Wrobel\, Prof. 
+ Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichman
+ n\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwatlo
+ \, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, 
+ Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßma
+ nn\, A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Peter
+ sen\, E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzk
+ i\, Prof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. 
+ Manzke\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß
+ \, C. Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, 
+ L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, 
+ J. Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, 
+ K. Hartmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. F
+ inkemeyer (FB M)\, H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittm
+ ann\, F. Caspar\, F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, 
+ Prof. Badri-Höher\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20250428T083000
+DTEND:20250428T180000
+DTSTAMP:20250220T201425Z
+UID:9e06999a-5dde-4865-8862-15ac55b2aba7
+DESCRIPTION:Ostermontag__Easter_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E2
+DTSTART:20250430T083000
+DTEND:20250430T114500
+DTSTAMP:20250220T201425Z
+UID:076351ec-4058-417d-8033-a73c3b84d71c
+DESCRIPTION:A. Raschke\, E. Moritz
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-M3
+DTSTART:20250502T083000
+DTEND:20250502T114500
+DTSTAMP:20250220T201425Z
+UID:bd904d26-bbb2-44da-b84c-d0766a813707
+DESCRIPTION:A. Raschke\, Prof. Stock
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E3
+DTSTART:20250602T083000
+DTEND:20250602T114500
+DTSTAMP:20250220T201425Z
+UID:0654aef8-80fe-45dd-b8ac-b0adfe41c1b4
+DESCRIPTION:E. Moritz\, A. Raschke
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20250605T083000
+DTEND:20250605T180000
+DTSTAMP:20250220T201425Z
+UID:7ec8ce57-bfcb-4950-a8bb-6ff87968fb64
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayM. Zupke\, C. Wurl\, P. Wrob
+ el\, Prof. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, 
+ M. Teichmann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, 
+ C. Schwatlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. R
+ ähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, 
+ A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\,
+  E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, P
+ rof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzk
+ e\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C.
+  Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jo
+ rswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Ho
+ ffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Ha
+ rtmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkem
+ eyer (FB M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E4W3
+DTSTART:20250609T083000
+DTEND:20250609T114500
+DTSTAMP:20250220T201425Z
+UID:7c60eed0-b093-4108-a55a-146dd9d6a96a
+DESCRIPTION:E. Moritz\, A. Raschke
+LOCATION:C13-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E2
+DTSTART:20250611T083000
+DTEND:20250611T114500
+DTSTAMP:20250220T201425Z
+UID:4d34e7fc-9bd7-47f0-ae55-84d6862a0a48
+DESCRIPTION:A. Raschke\, E. Moritz
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-M3
+DTSTART:20250613T101500
+DTEND:20250613T114500
+DTSTAMP:20250220T201425Z
+UID:7964bdf5-7c94-430e-927d-bba30662cc68
+DESCRIPTION:Prof. Stock\, A. Raschke
+LOCATION:C13-1.25\, C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20250616T083000
+DTEND:20250616T180000
+DTSTAMP:20250220T201425Z
+UID:37e6d224-4dd6-42a8-bfdf-27ab6ce1d20e
+DESCRIPTION:Pfingstmontag__Whit_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-M1
+DTSTART:20250620T083000
+DTEND:20250620T114500
+DTSTAMP:20250220T201425Z
+UID:a623c601-5c61-486f-9b41-15349291a9df
+DESCRIPTION:A. Raschke\, Prof. Stock
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E4W3
+DTSTART:20250623T083000
+DTEND:20250623T114500
+DTSTAMP:20250220T201425Z
+UID:a671150a-8771-4adf-a85e-1025644bcc0c
+DESCRIPTION:E. Moritz\, A. Raschke
+LOCATION:C13-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-E3
+DTSTART:20250625T083000
+DTEND:20250625T100000
+DTSTAMP:20250220T201425Z
+UID:43b8de46-3942-404d-a835-2149f92c5634
+DESCRIPTION:E. Moritz\, A. Raschke
+LOCATION:C13-1.25\, C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-E2
+DTSTART:20250625T101500
+DTEND:20250625T114500
+DTSTAMP:20250220T201425Z
+UID:a016226e-1ae1-485a-9f78-573f3bf44842
+DESCRIPTION:E. Moritz\, A. Raschke
+LOCATION:C13-1.25\, C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-M1
+DTSTART:20250627T101500
+DTEND:20250627T114500
+DTSTAMP:20250220T201425Z
+UID:af82a358-62d8-41b4-955b-2dfc74d6baab
+DESCRIPTION:Prof. Stock\, A. Raschke
+LOCATION:C13-1.23\, C13-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-E4W3
+DTSTART:20250626T124500
+DTEND:20250626T141500
+DTSTAMP:20250220T201425Z
+UID:57481584-0fa1-49cf-bb9b-35623fcf5f22
+DESCRIPTION:E. Moritz\, A. Raschke
+LOCATION:C13-1.25\, C13-1.23
+END:VEVENT
+END:VCALENDAR

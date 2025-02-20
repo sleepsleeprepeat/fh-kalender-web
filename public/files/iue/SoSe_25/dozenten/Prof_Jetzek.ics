@@ -1,0 +1,316 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik
+DTSTART:20250325T124500
+DTEND:20250325T141500
+DTSTAMP:20250220T201425Z
+UID:6fda03f2-b346-4307-a782-b4d3e8d80f2c
+DESCRIPTION:Prof. Jetzek
+LOCATION:C02-0.06 / HS-6 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik
+DTSTART:20250408T124500
+DTEND:20250408T141500
+DTSTAMP:20250220T201425Z
+UID:41cf5bff-fbb8-4ae7-8144-bbfdc6595ff1
+DESCRIPTION:Prof. Jetzek
+LOCATION:C02-0.06 / HS-6 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik
+DTSTART:20250520T124500
+DTEND:20250520T141500
+DTSTAMP:20250220T201425Z
+UID:caedbc14-7f71-4e34-946f-36797ee79743
+DESCRIPTION:Prof. Jetzek
+LOCATION:C02-0.06 / HS-6 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik Ü-2
+DTSTART:20250325T143000
+DTEND:20250325T160000
+DTSTAMP:20250220T201425Z
+UID:a0163aa4-c704-4b37-8ed3-bc4c090fef44
+DESCRIPTION:Prof. Jetzek
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik Ü-2
+DTSTART:20250408T143000
+DTEND:20250408T160000
+DTSTAMP:20250220T201425Z
+UID:632422c4-0263-4049-8e66-d37de083a6fe
+DESCRIPTION:Prof. Jetzek
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik Ü-2
+DTSTART:20250520T143000
+DTEND:20250520T160000
+DTSTAMP:20250220T201425Z
+UID:d08a66a0-7747-43a0-901b-cc3dc523a698
+DESCRIPTION:Prof. Jetzek
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik
+DTSTART:20250401T124500
+DTEND:20250401T141500
+DTSTAMP:20250220T201425Z
+UID:f7a15a35-6602-43db-bda5-114096819cde
+DESCRIPTION:Prof. Jetzek
+LOCATION:C02-0.06 / HS-6 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik
+DTSTART:20250415T124500
+DTEND:20250415T141500
+DTSTAMP:20250220T201425Z
+UID:1b51b9c1-c82c-42b9-bc02-eaee3db106c0
+DESCRIPTION:Prof. Jetzek
+LOCATION:C02-0.06 / HS-6 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik
+DTSTART:20250624T124500
+DTEND:20250624T141500
+DTSTAMP:20250220T201425Z
+UID:fcda42be-63fd-4d68-ab38-1e8994fd48d8
+DESCRIPTION:Prof. Jetzek
+LOCATION:C02-0.06 / HS-6 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik Ü-1
+DTSTART:20250401T143000
+DTEND:20250401T160000
+DTSTAMP:20250220T201425Z
+UID:6c92ff08-1737-46bd-98e9-585c5ad080bc
+DESCRIPTION:Prof. Jetzek
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik Ü-1
+DTSTART:20250415T143000
+DTEND:20250415T160000
+DTSTAMP:20250220T201425Z
+UID:b519198f-3ac1-4059-ae12-81bbbe01ac8f
+DESCRIPTION:Prof. Jetzek
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik Ü-1
+DTSTART:20250624T143000
+DTEND:20250624T160000
+DTSTAMP:20250220T201425Z
+UID:98b229c5-d2a0-41e1-afad-93a252c41b30
+DESCRIPTION:Prof. Jetzek
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20250425T083000
+DTEND:20250425T180000
+DTSTAMP:20250220T201425Z
+UID:065ec367-b33e-4a1c-9bd0-b3c84cc06709
+DESCRIPTION:Karfreitag__Good_FridayM. Zupke\, C. Wurl\, P. Wrobel\, Prof. 
+ Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichman
+ n\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwatlo
+ \, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, 
+ Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßma
+ nn\, A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Peter
+ sen\, E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzk
+ i\, Prof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. 
+ Manzke\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß
+ \, C. Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, 
+ L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, 
+ J. Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, 
+ K. Hartmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. F
+ inkemeyer (FB M)\, H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittm
+ ann\, F. Caspar\, F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, 
+ Prof. Badri-Höher\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik
+DTSTART:20250422T124500
+DTEND:20250422T141500
+DTSTAMP:20250220T201425Z
+UID:2e40ee2e-ad00-4bfe-97e3-e799fbaa05e9
+DESCRIPTION:Prof. Jetzek
+LOCATION:C02-0.06 / HS-6 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik Ü-2
+DTSTART:20250422T143000
+DTEND:20250422T160000
+DTSTAMP:20250220T201425Z
+UID:d34c9e1c-8754-48fc-b877-ebbaf946a1a2
+DESCRIPTION:Prof. Jetzek
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20250428T083000
+DTEND:20250428T180000
+DTSTAMP:20250220T201425Z
+UID:2f9dba57-99bf-4d28-8abb-d214d6aa6e3f
+DESCRIPTION:Ostermontag__Easter_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik
+DTSTART:20250429T124500
+DTEND:20250429T141500
+DTSTAMP:20250220T201425Z
+UID:38b61311-81c7-4670-9e8a-e5c7f4093939
+DESCRIPTION:Prof. Jetzek
+LOCATION:C02-0.06 / HS-6 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik Ü-1
+DTSTART:20250429T143000
+DTEND:20250429T160000
+DTSTAMP:20250220T201425Z
+UID:d2c2ef40-885b-4b06-9b4f-42d935d4037d
+DESCRIPTION:Prof. Jetzek
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik
+DTSTART:20250527T124500
+DTEND:20250527T141500
+DTSTAMP:20250220T201425Z
+UID:54a62d5c-c675-4265-901f-cdd18f86667c
+DESCRIPTION:Prof. Jetzek
+LOCATION:C02-0.06 / HS-6 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik Ü-1
+DTSTART:20250527T143000
+DTEND:20250527T160000
+DTSTAMP:20250220T201425Z
+UID:a48ea01d-c394-4c2d-8370-212d0f05463a
+DESCRIPTION:Prof. Jetzek
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik
+DTSTART:20250527T180000
+DTEND:20250527T193000
+DTSTAMP:20250220T201425Z
+UID:cbd6d597-47ce-4c83-8b7d-e652a972b386
+DESCRIPTION:ErsatzterminProf. Jetzek
+LOCATION:C02-0.06 / HS-6 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20250605T083000
+DTEND:20250605T180000
+DTSTAMP:20250220T201425Z
+UID:2be26d9e-83af-4dcb-9b72-567ba4830670
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayM. Zupke\, C. Wurl\, P. Wrob
+ el\, Prof. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, 
+ M. Teichmann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, 
+ C. Schwatlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. R
+ ähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, 
+ A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\,
+  E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, P
+ rof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzk
+ e\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C.
+  Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jo
+ rswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Ho
+ ffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Ha
+ rtmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkem
+ eyer (FB M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik Ü-2
+DTSTART:20250613T083000
+DTEND:20250613T100000
+DTSTAMP:20250220T201425Z
+UID:32ec2be6-bdb6-491c-bed1-6af29e041f3f
+DESCRIPTION:ErsatzterminProf. Jetzek
+LOCATION:C22-1.04
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik
+DTSTART:20250610T124500
+DTEND:20250610T141500
+DTSTAMP:20250220T201425Z
+UID:f07260ac-2f8c-4df8-b748-a0e0b63abb80
+DESCRIPTION:Prof. Jetzek
+LOCATION:C02-0.06 / HS-6 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik Ü-1
+DTSTART:20250610T143000
+DTEND:20250610T160000
+DTSTAMP:20250220T201425Z
+UID:5c67512a-7cd6-4e19-8d0d-63f1010e5f49
+DESCRIPTION:Prof. Jetzek
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20250616T083000
+DTEND:20250616T180000
+DTSTAMP:20250220T201425Z
+UID:5ae462ac-7e5a-43d5-95f7-0abaf66f1d8f
+DESCRIPTION:Pfingstmontag__Whit_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik
+DTSTART:20250617T124500
+DTEND:20250617T141500
+DTSTAMP:20250220T201425Z
+UID:d7ee33f5-f9a3-4656-9051-e272dde6a122
+DESCRIPTION:Prof. Jetzek
+LOCATION:C02-0.06 / HS-6 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik Ü-2
+DTSTART:20250617T143000
+DTEND:20250617T160000
+DTSTAMP:20250220T201425Z
+UID:e0282039-76f3-4718-8b54-c233404841bf
+DESCRIPTION:Prof. Jetzek
+LOCATION:C22-0.01
+END:VEVENT
+END:VCALENDAR

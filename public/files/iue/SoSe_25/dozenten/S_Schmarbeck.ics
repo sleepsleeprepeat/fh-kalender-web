@@ -1,0 +1,565 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:BE118 Grundlagen der stationären Netzberech.-ÜL-1
+DTSTART:20250327T124500
+DTEND:20250327T141500
+DTSTAMP:20250220T201426Z
+UID:933c7819-3f93-4287-8530-21011f00cd7d
+DESCRIPTION:Prof. Hennig\, S. Schmarbeck
+LOCATION:C06-1.17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE118 Grundlagen der stationären Netzberech.-ÜL-1
+DTSTART:20250403T124500
+DTEND:20250403T141500
+DTSTAMP:20250220T201426Z
+UID:0b9ccec5-012e-4d6e-8680-c56c5b55b2eb
+DESCRIPTION:Prof. Hennig\, S. Schmarbeck
+LOCATION:C06-1.17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE118 Grundlagen der stationären Netzberech.-ÜL-2
+DTSTART:20250327T143000
+DTEND:20250327T160000
+DTSTAMP:20250220T201426Z
+UID:166be2bc-4b3e-4005-aaf1-50e48c598e46
+DESCRIPTION:Prof. Hennig\, S. Schmarbeck
+LOCATION:C06-1.17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE118 Grundlagen der stationären Netzberech.-ÜL-2
+DTSTART:20250403T143000
+DTEND:20250403T160000
+DTSTAMP:20250220T201426Z
+UID:08d76fe3-0695-440c-a98d-baef4dbb8491
+DESCRIPTION:Prof. Hennig\, S. Schmarbeck
+LOCATION:C06-1.17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-E1
+DTSTART:20250407T083000
+DTEND:20250407T114500
+DTSTAMP:20250220T201426Z
+UID:d6957dca-8eff-435d-8a52-c89c7f492ff1
+DESCRIPTION:S. Schmarbeck\, P. Wrobel
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sitzung
+DTSTART:20250409T124500
+DTEND:20250409T141500
+DTSTAMP:20250220T201426Z
+UID:6b45368d-ab3d-47cb-be64-ace6f5d5b364
+DESCRIPTION:IT-BeauftragteProf. Woelk\, M. Teichmann\, M. Sieloff\, S. Sch
+ marbeck\, J. Nowitzki\, J. Hoffmüller\, H. Folkerts\, J. Dittmann\, F. B
+ ähnck\, C. Brauer
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE118 Grundlagen der stationären Netzberech.-ÜL-1
+DTSTART:20250410T124500
+DTEND:20250410T141500
+DTSTAMP:20250220T201426Z
+UID:16aa3651-2b9b-4204-a5db-eab8c11e19f5
+DESCRIPTION:Prof. Hennig\, S. Schmarbeck
+LOCATION:C06-1.17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE118 Grundlagen der stationären Netzberech.-ÜL-2
+DTSTART:20250410T143000
+DTEND:20250410T160000
+DTSTAMP:20250220T201426Z
+UID:6a2c182b-f050-47b4-8842-54bef4dd6f5d
+DESCRIPTION:Prof. Hennig\, S. Schmarbeck
+LOCATION:C06-1.17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-E§W2
+DTSTART:20250414T083000
+DTEND:20250414T114500
+DTSTAMP:20250220T201426Z
+UID:266b8a8f-5cfc-4bf4-bb6c-750f5a9ebd55
+DESCRIPTION:S. Schmarbeck\, P. Wrobel
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-E2
+DTSTART:20250416T124500
+DTEND:20250416T160000
+DTSTAMP:20250220T201426Z
+UID:0d1b7867-954e-4361-913f-2b3e4ccad188
+DESCRIPTION:P. Wrobel\, S. Schmarbeck
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE118 Grundlagen der stationären Netzberech.-ÜL-1
+DTSTART:20250417T124500
+DTEND:20250417T141500
+DTSTAMP:20250220T201426Z
+UID:7a2c5099-525c-4085-b7ae-2691303ab26a
+DESCRIPTION:Prof. Hennig\, S. Schmarbeck
+LOCATION:C06-1.17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE118 Grundlagen der stationären Netzberech.-ÜL-2
+DTSTART:20250417T143000
+DTEND:20250417T160000
+DTSTAMP:20250220T201426Z
+UID:9df03fce-a39d-4e66-9fe7-4c85e2961d48
+DESCRIPTION:Prof. Hennig\, S. Schmarbeck
+LOCATION:C06-1.17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-E1
+DTSTART:20250421T083000
+DTEND:20250421T114500
+DTSTAMP:20250220T201426Z
+UID:e2217ef5-7932-414c-9a86-3d776548a17c
+DESCRIPTION:S. Schmarbeck\, P. Wrobel
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20250425T083000
+DTEND:20250425T180000
+DTSTAMP:20250220T201426Z
+UID:dacc7f8f-574a-46b3-9034-83ab32d265e6
+DESCRIPTION:Karfreitag__Good_FridayM. Zupke\, C. Wurl\, P. Wrobel\, Prof. 
+ Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichman
+ n\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwatlo
+ \, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, 
+ Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßma
+ nn\, A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Peter
+ sen\, E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzk
+ i\, Prof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. 
+ Manzke\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß
+ \, C. Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, 
+ L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, 
+ J. Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, 
+ K. Hartmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. F
+ inkemeyer (FB M)\, H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittm
+ ann\, F. Caspar\, F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, 
+ Prof. Badri-Höher\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-W1
+DTSTART:20250422T124500
+DTEND:20250422T160000
+DTSTAMP:20250220T201426Z
+UID:78f26b80-3604-425a-aa55-82452f9290e1
+DESCRIPTION:P. Wrobel\, S. Schmarbeck
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE118 Grundlagen der stationären Netzberech.-ÜL-1
+DTSTART:20250424T124500
+DTEND:20250424T141500
+DTSTAMP:20250220T201426Z
+UID:6e01836f-58fe-42b5-9b6b-7d6214f300a8
+DESCRIPTION:Prof. Hennig\, S. Schmarbeck
+LOCATION:C06-1.17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE118 Grundlagen der stationären Netzberech.-ÜL-2
+DTSTART:20250424T143000
+DTEND:20250424T160000
+DTSTAMP:20250220T201426Z
+UID:4cf607e3-2dee-4959-a3c1-0be7113ebbe8
+DESCRIPTION:Prof. Hennig\, S. Schmarbeck
+LOCATION:C06-1.17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20250428T083000
+DTEND:20250428T180000
+DTSTAMP:20250220T201426Z
+UID:928b7a09-80c2-4a4f-935c-de878db5d7a0
+DESCRIPTION:Ostermontag__Easter_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-E2
+DTSTART:20250430T124500
+DTEND:20250430T160000
+DTSTAMP:20250220T201426Z
+UID:b33241c0-07e5-4b27-a54f-b866597fb58f
+DESCRIPTION:P. Wrobel\, S. Schmarbeck
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE118 Grundlagen der stationären Netzberech.-ÜL-1
+DTSTART:20250501T124500
+DTEND:20250501T141500
+DTSTAMP:20250220T201426Z
+UID:1b43ec24-0e60-43f9-9a10-19ac162cc456
+DESCRIPTION:Prof. Hennig\, S. Schmarbeck
+LOCATION:C06-1.17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE118 Grundlagen der stationären Netzberech.-ÜL-2
+DTSTART:20250501T143000
+DTEND:20250501T160000
+DTSTAMP:20250220T201426Z
+UID:58fb2882-ec95-4a5b-9589-eb71a1e8048a
+DESCRIPTION:Prof. Hennig\, S. Schmarbeck
+LOCATION:C06-1.17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-E1
+DTSTART:20250519T083000
+DTEND:20250519T114500
+DTSTAMP:20250220T201426Z
+UID:d6b93c59-7743-43d3-ba96-9729ed69bd34
+DESCRIPTION:S. Schmarbeck\, P. Wrobel
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE136 Netzschutz und Digitali. Energienetze ÜL-1
+DTSTART:20250521T083000
+DTEND:20250521T114500
+DTSTAMP:20250220T201426Z
+UID:a368a821-073f-4143-a15e-d3ea49dfcf41
+DESCRIPTION:S. Schmarbeck\, Prof. Wehrend
+LOCATION:C06-0.09
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE136 Netzschutz und Digitali. Energienetze ÜL-2
+DTSTART:20250522T083000
+DTEND:20250522T114500
+DTSTAMP:20250220T201426Z
+UID:129f75ab-ad70-4b37-9489-32ddeaf63908
+DESCRIPTION:S. Schmarbeck\, Prof. Wehrend
+LOCATION:C06-0.09
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-W1
+DTSTART:20250520T124500
+DTEND:20250520T160000
+DTSTAMP:20250220T201426Z
+UID:c4502881-40da-4935-94c9-6fcdcf609fbc
+DESCRIPTION:P. Wrobel\, S. Schmarbeck
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sitzung
+DTSTART:20250521T124500
+DTEND:20250521T141500
+DTSTAMP:20250220T201426Z
+UID:7454851f-61f3-413a-bc78-2f8d0dfd70fd
+DESCRIPTION:IT-BeauftragteProf. Woelk\, M. Teichmann\, M. Sieloff\, S. Sch
+ marbeck\, J. Nowitzki\, J. Hoffmüller\, H. Folkerts\, J. Dittmann\, F. B
+ ähnck\, C. Brauer
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE118 Grundlagen der stationären Netzberech.-ÜL-1
+DTSTART:20250522T124500
+DTEND:20250522T141500
+DTSTAMP:20250220T201426Z
+UID:1a38c0bd-2412-4240-8984-302082367cb8
+DESCRIPTION:Prof. Hennig\, S. Schmarbeck
+LOCATION:C06-1.17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE118 Grundlagen der stationären Netzberech.-ÜL-2
+DTSTART:20250522T143000
+DTEND:20250522T160000
+DTSTAMP:20250220T201426Z
+UID:8c54022b-53e4-4d67-8481-a57ec0b90230
+DESCRIPTION:Prof. Hennig\, S. Schmarbeck
+LOCATION:C06-1.17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-E§W2
+DTSTART:20250526T083000
+DTEND:20250526T114500
+DTSTAMP:20250220T201426Z
+UID:b5ba7d75-e530-46a3-9548-fd38b54b02fb
+DESCRIPTION:S. Schmarbeck\, P. Wrobel
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-E§W2
+DTSTART:20250609T083000
+DTEND:20250609T114500
+DTSTAMP:20250220T201426Z
+UID:9d0da8c0-34b7-428f-a535-d045c2cb8980
+DESCRIPTION:S. Schmarbeck\, P. Wrobel
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE136 Netzschutz und Digitali. Energienetze ÜL-1
+DTSTART:20250528T083000
+DTEND:20250528T114500
+DTSTAMP:20250220T201426Z
+UID:f5e4e469-a798-467f-82e1-e6d785bcb12b
+DESCRIPTION:S. Schmarbeck\, Prof. Wehrend
+LOCATION:C06-0.09
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE136 Netzschutz und Digitali. Energienetze ÜL-1
+DTSTART:20250611T083000
+DTEND:20250611T114500
+DTSTAMP:20250220T201426Z
+UID:bb571525-85b8-4633-bcd7-07860373ffc0
+DESCRIPTION:S. Schmarbeck\, Prof. Wehrend
+LOCATION:C06-0.09
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE136 Netzschutz und Digitali. Energienetze ÜL-2
+DTSTART:20250529T083000
+DTEND:20250529T114500
+DTSTAMP:20250220T201426Z
+UID:9c704905-23e5-40a0-a306-bb3b1fd7a5ab
+DESCRIPTION:S. Schmarbeck\, Prof. Wehrend
+LOCATION:C06-0.09
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE136 Netzschutz und Digitali. Energienetze ÜL-2
+DTSTART:20250612T083000
+DTEND:20250612T114500
+DTSTAMP:20250220T201426Z
+UID:d14391df-c8aa-4863-8b8d-091aadfe57b6
+DESCRIPTION:S. Schmarbeck\, Prof. Wehrend
+LOCATION:C06-0.09
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-E2
+DTSTART:20250528T124500
+DTEND:20250528T160000
+DTSTAMP:20250220T201426Z
+UID:bb725d72-632e-4652-8ac6-eb9e6172e01f
+DESCRIPTION:P. Wrobel\, S. Schmarbeck
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-E2
+DTSTART:20250611T124500
+DTEND:20250611T160000
+DTSTAMP:20250220T201426Z
+UID:dc4c0400-2539-4505-8c6e-d84c67dcc9fa
+DESCRIPTION:P. Wrobel\, S. Schmarbeck
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE118 Grundlagen der stationären Netzberech.-ÜL-1
+DTSTART:20250529T124500
+DTEND:20250529T141500
+DTSTAMP:20250220T201426Z
+UID:062ecae0-f725-4d30-b210-b01e6e76a11f
+DESCRIPTION:Prof. Hennig\, S. Schmarbeck
+LOCATION:C06-1.17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE118 Grundlagen der stationären Netzberech.-ÜL-1
+DTSTART:20250612T124500
+DTEND:20250612T141500
+DTSTAMP:20250220T201426Z
+UID:5a9bfc13-d741-4c8f-89db-bfe4f635c7b2
+DESCRIPTION:Prof. Hennig\, S. Schmarbeck
+LOCATION:C06-1.17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE118 Grundlagen der stationären Netzberech.-ÜL-2
+DTSTART:20250529T143000
+DTEND:20250529T160000
+DTSTAMP:20250220T201426Z
+UID:0d136edb-59c3-43fa-8485-213a5585897c
+DESCRIPTION:Prof. Hennig\, S. Schmarbeck
+LOCATION:C06-1.17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE118 Grundlagen der stationären Netzberech.-ÜL-2
+DTSTART:20250612T143000
+DTEND:20250612T160000
+DTSTAMP:20250220T201426Z
+UID:59b03c3e-5a45-47e2-b33e-f3ce73441c08
+DESCRIPTION:Prof. Hennig\, S. Schmarbeck
+LOCATION:C06-1.17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-E1
+DTSTART:20250602T083000
+DTEND:20250602T114500
+DTSTAMP:20250220T201426Z
+UID:c8bfe61a-81db-4606-af22-7d8d3d598664
+DESCRIPTION:S. Schmarbeck\, P. Wrobel
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE136 Netzschutz und Digitali. Energienetze ÜL-1
+DTSTART:20250604T083000
+DTEND:20250604T114500
+DTSTAMP:20250220T201426Z
+UID:e63b1061-7fcd-47bf-a608-9d0c862358d8
+DESCRIPTION:S. Schmarbeck\, Prof. Wehrend
+LOCATION:C06-0.09
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20250605T083000
+DTEND:20250605T180000
+DTSTAMP:20250220T201426Z
+UID:2113d6bb-c554-4453-ada0-c9f2a9d9211d
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayM. Zupke\, C. Wurl\, P. Wrob
+ el\, Prof. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, 
+ M. Teichmann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, 
+ C. Schwatlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. R
+ ähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, 
+ A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\,
+  E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, P
+ rof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzk
+ e\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C.
+  Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jo
+ rswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Ho
+ ffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Ha
+ rtmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkem
+ eyer (FB M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-W1
+DTSTART:20250603T124500
+DTEND:20250603T160000
+DTSTAMP:20250220T201426Z
+UID:b0863c04-5fef-4853-8463-e5929ab1e65c
+DESCRIPTION:P. Wrobel\, S. Schmarbeck
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20250616T083000
+DTEND:20250616T180000
+DTSTAMP:20250220T201426Z
+UID:2310d445-9110-4599-9e1e-295da0582e3b
+DESCRIPTION:Pfingstmontag__Whit_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE136 Netzschutz und Digitali. Energienetze ÜL-1
+DTSTART:20250618T083000
+DTEND:20250618T114500
+DTSTAMP:20250220T201426Z
+UID:436ce683-cb7a-4fb9-ae37-662654512a52
+DESCRIPTION:S. Schmarbeck\, Prof. Wehrend
+LOCATION:C06-0.09
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE136 Netzschutz und Digitali. Energienetze ÜL-2
+DTSTART:20250619T083000
+DTEND:20250619T114500
+DTSTAMP:20250220T201426Z
+UID:4c5d0974-33ba-4b39-be17-e798f7f39b78
+DESCRIPTION:S. Schmarbeck\, Prof. Wehrend
+LOCATION:C06-0.09
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-W1
+DTSTART:20250617T124500
+DTEND:20250617T160000
+DTSTAMP:20250220T201426Z
+UID:5d1d4601-534e-48f8-bb9b-83b3285d5697
+DESCRIPTION:P. Wrobel\, S. Schmarbeck
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE118 Grundlagen der stationären Netzberech.-ÜL-1
+DTSTART:20250619T124500
+DTEND:20250619T141500
+DTSTAMP:20250220T201426Z
+UID:75a26c1f-34a3-4092-a699-573a35379968
+DESCRIPTION:Prof. Hennig\, S. Schmarbeck
+LOCATION:C06-1.17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE118 Grundlagen der stationären Netzberech.-ÜL-2
+DTSTART:20250619T143000
+DTEND:20250619T160000
+DTSTAMP:20250220T201426Z
+UID:fbd03410-48fd-4f78-804e-a3f9af71722b
+DESCRIPTION:Prof. Hennig\, S. Schmarbeck
+LOCATION:C06-1.17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-E§W2
+DTSTART:20250623T083000
+DTEND:20250623T114500
+DTSTAMP:20250220T201426Z
+UID:ddf63dd6-2a11-4884-91c8-d0ccac7c813f
+DESCRIPTION:S. Schmarbeck\, P. Wrobel
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE136 Netzschutz und Digitali. Energienetze ÜL-2
+DTSTART:20250626T083000
+DTEND:20250626T114500
+DTSTAMP:20250220T201426Z
+UID:0661469c-0504-4476-971a-b3a760e09c8d
+DESCRIPTION:S. Schmarbeck\, Prof. Wehrend
+LOCATION:C06-0.09
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sitzung
+DTSTART:20250625T124500
+DTEND:20250625T141500
+DTSTAMP:20250220T201426Z
+UID:786d4178-6122-4290-aea8-371a77f94f21
+DESCRIPTION:IT-BeauftragteProf. Woelk\, M. Teichmann\, M. Sieloff\, S. Sch
+ marbeck\, J. Nowitzki\, J. Hoffmüller\, H. Folkerts\, J. Dittmann\, F. B
+ ähnck\, C. Brauer
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE118 Grundlagen der stationären Netzberech.-ÜL-1
+DTSTART:20250626T124500
+DTEND:20250626T141500
+DTSTAMP:20250220T201426Z
+UID:34fd2b2c-5053-4fd9-84c7-24a3c5641d45
+DESCRIPTION:Prof. Hennig\, S. Schmarbeck
+LOCATION:C06-1.17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE118 Grundlagen der stationären Netzberech.-ÜL-2
+DTSTART:20250626T143000
+DTEND:20250626T160000
+DTSTAMP:20250220T201426Z
+UID:3bc5571b-4cca-4eb6-a0c6-a554da62cc8e
+DESCRIPTION:Prof. Hennig\, S. Schmarbeck
+LOCATION:C06-1.17
+END:VEVENT
+END:VCALENDAR

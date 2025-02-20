@@ -1,0 +1,550 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Grundlagen Projektmanagement
+DTSTART:20250327T101500
+DTEND:20250327T114500
+DTSTAMP:20250220T201426Z
+UID:46478486-a310-42bd-adb5-a4ec493cb0a1
+DESCRIPTION:Prof. Schmidt- Rethmeier\, Prof. Lebert
+LOCATION:C02-0.07 / HS-7 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik
+DTSTART:20250327T124500
+DTEND:20250327T141500
+DTSTAMP:20250220T201426Z
+UID:046718b0-6523-4439-8af3-9eaad07005dd
+DESCRIPTION:Prof. Schmidt- Rethmeier
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E2
+DTSTART:20250402T101500
+DTEND:20250402T114500
+DTSTAMP:20250220T201426Z
+UID:2b33d35b-b5f3-45d8-a975-320cc94d8ce6
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E2
+DTSTART:20250416T101500
+DTEND:20250416T114500
+DTSTAMP:20250220T201426Z
+UID:393f3288-98a3-467b-8dd1-1b010bc11438
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E2
+DTSTART:20250611T101500
+DTEND:20250611T114500
+DTSTAMP:20250220T201426Z
+UID:43f6061e-04fe-426e-b022-fc38e18064b0
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen Projektmanagement
+DTSTART:20250403T101500
+DTEND:20250403T114500
+DTSTAMP:20250220T201426Z
+UID:0f593645-30a4-4b84-aab1-4167a0039c1d
+DESCRIPTION:Prof. Schmidt- Rethmeier\, Prof. Lebert
+LOCATION:C02-0.07 / HS-7 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen Projektmanagement
+DTSTART:20250417T101500
+DTEND:20250417T114500
+DTSTAMP:20250220T201426Z
+UID:c63b0f0a-8386-4a0d-801a-eb08dc256d8b
+DESCRIPTION:Prof. Schmidt- Rethmeier\, Prof. Lebert
+LOCATION:C02-0.07 / HS-7 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen Projektmanagement
+DTSTART:20250612T101500
+DTEND:20250612T114500
+DTSTAMP:20250220T201426Z
+UID:324d3ba9-594c-424f-9bb8-9f297f98af06
+DESCRIPTION:Prof. Schmidt- Rethmeier\, Prof. Lebert
+LOCATION:C02-0.07 / HS-7 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E3
+DTSTART:20250402T124500
+DTEND:20250402T141500
+DTSTAMP:20250220T201426Z
+UID:c9dbaa97-8ca1-404a-95b7-091f91181560
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E3
+DTSTART:20250416T124500
+DTEND:20250416T141500
+DTSTAMP:20250220T201426Z
+UID:b0c554da-e4d4-4f5d-a0c4-4a88a828518b
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E3
+DTSTART:20250611T124500
+DTEND:20250611T141500
+DTSTAMP:20250220T201426Z
+UID:a4f0b02e-76f7-450e-bfcf-e3ebe0d95df2
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik
+DTSTART:20250403T124500
+DTEND:20250403T141500
+DTSTAMP:20250220T201426Z
+UID:ad32a6c2-4540-4ed7-8113-18427ed7af8c
+DESCRIPTION:Prof. Schmidt- Rethmeier
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik
+DTSTART:20250417T124500
+DTEND:20250417T141500
+DTSTAMP:20250220T201426Z
+UID:8569f390-3da5-42d6-9d64-e3fb8f636094
+DESCRIPTION:Prof. Schmidt- Rethmeier
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik
+DTSTART:20250612T124500
+DTEND:20250612T141500
+DTSTAMP:20250220T201426Z
+UID:9abd5395-901c-491a-bb80-08feca4ce514
+DESCRIPTION:Prof. Schmidt- Rethmeier
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E1
+DTSTART:20250403T143000
+DTEND:20250403T160000
+DTSTAMP:20250220T201426Z
+UID:9987435b-45b8-4902-9f58-5a748e6e3f6d
+DESCRIPTION:Prof. Schmidt- Rethmeier\, J. Kohlmorgen
+LOCATION:C12-1.20\, C12-1.19\, C11-0.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E1
+DTSTART:20250417T143000
+DTEND:20250417T160000
+DTSTAMP:20250220T201426Z
+UID:e280b18a-f21e-4398-915c-0cc7258b5f4e
+DESCRIPTION:Prof. Schmidt- Rethmeier\, J. Kohlmorgen
+LOCATION:C12-1.20\, C12-1.19\, C11-0.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E1
+DTSTART:20250612T143000
+DTEND:20250612T160000
+DTSTAMP:20250220T201426Z
+UID:edfb511e-adc0-4b16-a622-57dda365fd60
+DESCRIPTION:Prof. Schmidt- Rethmeier\, J. Kohlmorgen
+LOCATION:C12-1.20\, C12-1.19\, C11-0.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E2
+DTSTART:20250409T101500
+DTEND:20250409T114500
+DTSTAMP:20250220T201426Z
+UID:9d4dca50-e1a1-45d5-afe7-742b41f5e238
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E2
+DTSTART:20250521T101500
+DTEND:20250521T114500
+DTSTAMP:20250220T201426Z
+UID:45e1b087-90a9-425f-b702-e8b1c1dbdf33
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GPM-Grundlagen Projektmanagement
+DTSTART:20250410T101500
+DTEND:20250410T121500
+DTSTAMP:20250220T201426Z
+UID:4e89c99c-137d-45c0-b44c-1bdf8d84c7b0
+DESCRIPTION:Ende:_12:15_Uhr!Prof. Schmidt- Rethmeier\, Prof. Lebert
+LOCATION:C18-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GPM-Grundlagen Projektmanagement
+DTSTART:20250522T101500
+DTEND:20250522T121500
+DTSTAMP:20250220T201426Z
+UID:07d235ec-9609-4fe1-86e3-6e7d85995d3a
+DESCRIPTION:Ende:_12:15_Uhr!Prof. Schmidt- Rethmeier\, Prof. Lebert
+LOCATION:C18-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E3
+DTSTART:20250409T124500
+DTEND:20250409T141500
+DTSTAMP:20250220T201426Z
+UID:e683a9ff-13c7-4b1a-af8d-fd52461f4a0d
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E3
+DTSTART:20250521T124500
+DTEND:20250521T141500
+DTSTAMP:20250220T201426Z
+UID:ba46e710-7a5b-4607-b516-3a583754746b
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik
+DTSTART:20250410T124500
+DTEND:20250410T141500
+DTSTAMP:20250220T201426Z
+UID:fcfb1b07-9e74-4602-98d1-947a8727f194
+DESCRIPTION:Prof. Schmidt- Rethmeier
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik
+DTSTART:20250522T124500
+DTEND:20250522T141500
+DTSTAMP:20250220T201426Z
+UID:f3144246-eb23-4cda-988f-8cca77f71d19
+DESCRIPTION:Prof. Schmidt- Rethmeier
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E1
+DTSTART:20250410T143000
+DTEND:20250410T160000
+DTSTAMP:20250220T201426Z
+UID:081170eb-595f-4ffc-9fae-a8c85aae3afb
+DESCRIPTION:Prof. Schmidt- Rethmeier\, J. Kohlmorgen
+LOCATION:C12-1.20\, C12-1.19\, C11-0.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E1
+DTSTART:20250522T143000
+DTEND:20250522T160000
+DTSTAMP:20250220T201426Z
+UID:bfacf535-a663-42a2-b04b-72590546c1e1
+DESCRIPTION:Prof. Schmidt- Rethmeier\, J. Kohlmorgen
+LOCATION:C12-1.20\, C12-1.19\, C11-0.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20250425T083000
+DTEND:20250425T180000
+DTSTAMP:20250220T201426Z
+UID:9ffe990e-b053-4894-bf9a-11caa8ce1d75
+DESCRIPTION:Karfreitag__Good_FridayM. Zupke\, C. Wurl\, P. Wrobel\, Prof. 
+ Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichman
+ n\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwatlo
+ \, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, 
+ Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßma
+ nn\, A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Peter
+ sen\, E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzk
+ i\, Prof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. 
+ Manzke\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß
+ \, C. Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, 
+ L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, 
+ J. Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, 
+ K. Hartmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. F
+ inkemeyer (FB M)\, H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittm
+ ann\, F. Caspar\, F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, 
+ Prof. Badri-Höher\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E2
+DTSTART:20250423T101500
+DTEND:20250423T114500
+DTSTAMP:20250220T201426Z
+UID:438bda26-a9da-4ecb-8fb1-93ce460207a6
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GPM-Grundlagen Projektmanagement
+DTSTART:20250424T101500
+DTEND:20250424T121500
+DTSTAMP:20250220T201426Z
+UID:ff1e90eb-f657-4c1a-a462-ed0b47443d8a
+DESCRIPTION:Ende:_12:15_Uhr!Prof. Schmidt- Rethmeier\, Prof. Lebert
+LOCATION:C18-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E3
+DTSTART:20250423T124500
+DTEND:20250423T141500
+DTSTAMP:20250220T201426Z
+UID:1cb66827-c9de-40e2-ac22-23b0eebf95fb
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik
+DTSTART:20250424T124500
+DTEND:20250424T141500
+DTSTAMP:20250220T201426Z
+UID:986ad0ed-3ea6-4529-9e0c-bd060b8ee37a
+DESCRIPTION:Prof. Schmidt- Rethmeier
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E1
+DTSTART:20250424T143000
+DTEND:20250424T160000
+DTSTAMP:20250220T201426Z
+UID:ef4ae907-bfc4-4667-a966-4a3977895b44
+DESCRIPTION:Prof. Schmidt- Rethmeier\, J. Kohlmorgen
+LOCATION:C12-1.20\, C12-1.19\, C11-0.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20250428T083000
+DTEND:20250428T180000
+DTSTAMP:20250220T201426Z
+UID:7d73ae4b-e085-42c1-a9fa-1d2eb3ef6bf5
+DESCRIPTION:Ostermontag__Easter_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E2
+DTSTART:20250430T101500
+DTEND:20250430T114500
+DTSTAMP:20250220T201426Z
+UID:0630501a-d5c0-489e-92a8-6d6e973f4c7f
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen Projektmanagement
+DTSTART:20250501T101500
+DTEND:20250501T114500
+DTSTAMP:20250220T201426Z
+UID:51012ca0-9680-4e5e-9bf5-5c5a5a8d4e68
+DESCRIPTION:Prof. Schmidt- Rethmeier\, Prof. Lebert
+LOCATION:C02-0.07 / HS-7 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E3
+DTSTART:20250430T124500
+DTEND:20250430T141500
+DTSTAMP:20250220T201426Z
+UID:7b82b188-39f0-4f61-bd69-12160c8190e2
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik
+DTSTART:20250501T124500
+DTEND:20250501T141500
+DTSTAMP:20250220T201426Z
+UID:04321162-6b87-4b48-96e1-5b0ce673c9be
+DESCRIPTION:Prof. Schmidt- Rethmeier
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E1
+DTSTART:20250501T143000
+DTEND:20250501T160000
+DTSTAMP:20250220T201426Z
+UID:638973b4-3904-4470-8234-1aa456efd786
+DESCRIPTION:Prof. Schmidt- Rethmeier\, J. Kohlmorgen
+LOCATION:C12-1.20\, C12-1.19\, C11-0.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E2
+DTSTART:20250528T101500
+DTEND:20250528T114500
+DTSTAMP:20250220T201426Z
+UID:49411942-41b5-4c0d-8d7d-622102100a02
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E3
+DTSTART:20250528T124500
+DTEND:20250528T141500
+DTSTAMP:20250220T201426Z
+UID:7ff4271f-1a38-458f-8c73-f6c62290d3f1
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik
+DTSTART:20250529T124500
+DTEND:20250529T141500
+DTSTAMP:20250220T201426Z
+UID:fa87aa62-c975-4753-b9b8-269e8a773736
+DESCRIPTION:Prof. Schmidt- Rethmeier
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E1
+DTSTART:20250529T143000
+DTEND:20250529T160000
+DTSTAMP:20250220T201426Z
+UID:2ad8f552-ceeb-4dba-aa3d-f52af9c57123
+DESCRIPTION:Prof. Schmidt- Rethmeier\, J. Kohlmorgen
+LOCATION:C12-1.20\, C12-1.19\, C11-0.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20250605T083000
+DTEND:20250605T180000
+DTSTAMP:20250220T201426Z
+UID:d3785b74-d269-4dfe-afce-d26a81c610ca
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayM. Zupke\, C. Wurl\, P. Wrob
+ el\, Prof. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, 
+ M. Teichmann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, 
+ C. Schwatlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. R
+ ähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, 
+ A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\,
+  E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, P
+ rof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzk
+ e\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C.
+  Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jo
+ rswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Ho
+ ffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Ha
+ rtmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkem
+ eyer (FB M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E2
+DTSTART:20250604T101500
+DTEND:20250604T114500
+DTSTAMP:20250220T201426Z
+UID:5a8f1130-0b82-4a62-9ca8-431befa8535c
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E3
+DTSTART:20250604T124500
+DTEND:20250604T141500
+DTSTAMP:20250220T201426Z
+UID:01e221f3-315a-4b64-96bc-312ea6ffd98e
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20250616T083000
+DTEND:20250616T180000
+DTSTAMP:20250220T201426Z
+UID:d0b0dce1-f600-419d-9efd-84a60df427e1
+DESCRIPTION:Pfingstmontag__Whit_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E2
+DTSTART:20250618T101500
+DTEND:20250618T114500
+DTSTAMP:20250220T201426Z
+UID:82fad2b9-cd8f-46ff-8b5e-cfe79fa1962f
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GPM-Grundlagen Projektmanagement
+DTSTART:20250619T101500
+DTEND:20250619T121500
+DTSTAMP:20250220T201426Z
+UID:c6acbeee-ecec-4c7b-ad16-70c864c00385
+DESCRIPTION:Ende:_12:15_Uhr!Prof. Schmidt- Rethmeier\, Prof. Lebert
+LOCATION:C18-Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E3
+DTSTART:20250618T124500
+DTEND:20250618T141500
+DTSTAMP:20250220T201426Z
+UID:1515a6f0-dcbc-42c8-ab50-16e4ebb70b03
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik
+DTSTART:20250619T124500
+DTEND:20250619T141500
+DTSTAMP:20250220T201426Z
+UID:500dbc8d-d614-45cf-9dc9-7c4321784f96
+DESCRIPTION:Prof. Schmidt- Rethmeier
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E1
+DTSTART:20250619T143000
+DTEND:20250619T160000
+DTSTAMP:20250220T201426Z
+UID:ca78ca2a-fbcc-4aaf-8b99-5f1bfed6e141
+DESCRIPTION:Prof. Schmidt- Rethmeier\, J. Kohlmorgen
+LOCATION:C12-1.20\, C12-1.19\, C11-0.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik
+DTSTART:20250626T124500
+DTEND:20250626T141500
+DTSTAMP:20250220T201426Z
+UID:a7e5c0c7-a349-482b-9c54-ba59d693ed97
+DESCRIPTION:Prof. Schmidt- Rethmeier
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E1
+DTSTART:20250626T143000
+DTEND:20250626T160000
+DTSTAMP:20250220T201426Z
+UID:89190899-350a-4920-a3a8-270a940ab363
+DESCRIPTION:Prof. Schmidt- Rethmeier\, J. Kohlmorgen
+LOCATION:C12-1.20\, C12-1.19\, C11-0.02
+END:VEVENT
+END:VCALENDAR
