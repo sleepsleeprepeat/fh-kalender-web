@@ -3,10 +3,10 @@ VERSION:2.0
 PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
 BEGIN:VEVENT
 SUMMARY:Karfreitag
-DTSTART:20250425T083000
-DTEND:20250425T180000
-DTSTAMP:20250220T201425Z
-UID:7de643d3-b3af-40ff-a5e4-ac234bfd85e2
+DTSTART:20250418T083000
+DTEND:20250418T180000
+DTSTAMP:20250222T164954Z
+UID:7e2a32a9-7be3-41fc-a8d9-ac48a053735a
 DESCRIPTION:Karfreitag__Good_FridayM. Zupke\, C. Wurl\, P. Wrobel\, Prof. 
  Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichman
  n\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwatlo
