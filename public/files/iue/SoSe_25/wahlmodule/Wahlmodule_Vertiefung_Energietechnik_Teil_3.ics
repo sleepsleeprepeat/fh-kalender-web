@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Solarenergie
+DTSTART:20250321T101500
+DTEND:20250321T133000
+DTSTAMP:20250222T165634Z
+UID:b75e22c6-6c14-4c84-9742-ae4acad29231
+DESCRIPTION:Prof. Luczak
+LOCATION:C05-C0.21  SCALE-UP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie ÜL-Einführung
+DTSTART:20250320T124500
+DTEND:20250320T141500
+DTSTAMP:20250222T165634Z
+UID:f0b6dee1-8913-4326-ad2e-cac29a3f2c09
+DESCRIPTION:E. Moritz\, M. Riedel
+LOCATION:C06-1.26\, C06-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie
+DTSTART:20250328T101500
+DTEND:20250328T133000
+DTSTAMP:20250222T165634Z
+UID:bf3aaad7-ac10-4bbd-8f52-a4becaadb50d
+DESCRIPTION:Prof. Luczak
+LOCATION:C05-C0.21  SCALE-UP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie
+DTSTART:20250411T101500
+DTEND:20250411T133000
+DTSTAMP:20250222T165634Z
+UID:bb4ab5cd-635e-4c4b-99d3-1c5322f618ed
+DESCRIPTION:Prof. Luczak
+LOCATION:C05-C0.21  SCALE-UP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie
+DTSTART:20250523T101500
+DTEND:20250523T133000
+DTSTAMP:20250222T165634Z
+UID:020e9d05-4a98-4931-95a5-1d55a9b95862
+DESCRIPTION:Prof. Luczak
+LOCATION:C05-C0.21  SCALE-UP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie
+DTSTART:20250606T101500
+DTEND:20250606T133000
+DTSTAMP:20250222T165634Z
+UID:02677ed1-3236-42f1-8ee3-a8102d2122d8
+DESCRIPTION:Prof. Luczak
+LOCATION:C05-C0.21  SCALE-UP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie ÜL-W2
+DTSTART:20250327T124500
+DTEND:20250327T141500
+DTSTAMP:20250222T165634Z
+UID:f06623a5-2cf3-4aba-8c80-932e29dda456
+DESCRIPTION:M. Riedel\, E. Moritz
+LOCATION:C06-1.26\, C06-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie ÜL-W2
+DTSTART:20250410T124500
+DTEND:20250410T141500
+DTSTAMP:20250222T165634Z
+UID:ab2f1524-32cd-4a35-8d22-39c08c80732a
+DESCRIPTION:M. Riedel\, E. Moritz
+LOCATION:C06-1.26\, C06-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie ÜL-W2
+DTSTART:20250522T124500
+DTEND:20250522T141500
+DTSTAMP:20250222T165634Z
+UID:821498e8-ab09-4875-9736-33f5838b3fcd
+DESCRIPTION:M. Riedel\, E. Moritz
+LOCATION:C06-1.26\, C06-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie ÜL-W2
+DTSTART:20250605T124500
+DTEND:20250605T141500
+DTSTAMP:20250222T165634Z
+UID:86ef7a4d-37a1-4891-9fd7-460d62fe8d43
+DESCRIPTION:M. Riedel\, E. Moritz
+LOCATION:C06-1.26\, C06-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie
+DTSTART:20250404T101500
+DTEND:20250404T133000
+DTSTAMP:20250222T165634Z
+UID:520783de-3e9c-4029-a78a-57ebbfb437f7
+DESCRIPTION:Prof. Luczak
+LOCATION:C05-C0.21  SCALE-UP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie
+DTSTART:20250516T101500
+DTEND:20250516T133000
+DTSTAMP:20250222T165634Z
+UID:98a71630-d9cc-4ef2-898e-3d7ffdd107c3
+DESCRIPTION:Prof. Luczak
+LOCATION:C05-C0.21  SCALE-UP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie
+DTSTART:20250620T101500
+DTEND:20250620T133000
+DTSTAMP:20250222T165634Z
+UID:2347bebc-6ec6-42e9-a43a-2eb8c04ecb91
+DESCRIPTION:Prof. Luczak
+LOCATION:C05-C0.21  SCALE-UP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20250418T083000
+DTEND:20250418T180000
+DTSTAMP:20250222T165634Z
+UID:a040b7a3-05d9-44fc-af71-b54942f131d6
+DESCRIPTION:Karfreitag__Good_FridayM. Zupke\, C. Wurl\, P. Wrobel\, Prof. 
+ Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichman
+ n\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwatlo
+ \, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, 
+ Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßma
+ nn\, A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Peter
+ sen\, E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzk
+ i\, Prof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. 
+ Manzke\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß
+ \, C. Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, 
+ L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, 
+ J. Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, 
+ K. Hartmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. F
+ inkemeyer (FB M)\, H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittm
+ ann\, F. Caspar\, F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, 
+ Prof. Badri-Höher\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20250421T083000
+DTEND:20250421T180000
+DTSTAMP:20250222T165634Z
+UID:5e7228ce-e5dc-4da9-bcaa-3bca601cabcf
+DESCRIPTION:Ostermontag__Easter_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie
+DTSTART:20250425T101500
+DTEND:20250425T133000
+DTSTAMP:20250222T165634Z
+UID:aed498a9-03cc-49a3-ab09-a73acc9f4e63
+DESCRIPTION:Prof. Luczak
+LOCATION:C05-C0.21  SCALE-UP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie ÜL-W2
+DTSTART:20250424T124500
+DTEND:20250424T141500
+DTSTAMP:20250222T165634Z
+UID:206527d5-1ff3-4cb1-9289-e3dafd111018
+DESCRIPTION:M. Riedel\, E. Moritz
+LOCATION:C06-1.26\, C06-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20250529T083000
+DTEND:20250529T180000
+DTSTAMP:20250222T165634Z
+UID:339d513c-fb44-4ba2-acc1-c59a108e8e0b
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayM. Zupke\, C. Wurl\, P. Wrob
+ el\, Prof. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, 
+ M. Teichmann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, 
+ C. Schwatlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. R
+ ähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, 
+ A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\,
+  E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, P
+ rof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzk
+ e\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C.
+  Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jo
+ rswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Ho
+ ffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Ha
+ rtmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkem
+ eyer (FB M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie
+DTSTART:20250530T101500
+DTEND:20250530T133000
+DTSTAMP:20250222T165634Z
+UID:3f9b2775-3a2d-4a5d-982f-ab1c937a91c5
+DESCRIPTION:Prof. Luczak
+LOCATION:C05-C0.21  SCALE-UP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20250609T083000
+DTEND:20250609T180000
+DTSTAMP:20250222T165634Z
+UID:5c878f6f-94b3-4702-80bd-9ecbe0c5c25f
+DESCRIPTION:Pfingstmontag__Whit_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie
+DTSTART:20250613T101500
+DTEND:20250613T133000
+DTSTAMP:20250222T165634Z
+UID:01aedbea-89b7-4582-a469-a16b088f69ab
+DESCRIPTION:Prof. Luczak
+LOCATION:C05-C0.21  SCALE-UP
+END:VEVENT
+END:VCALENDAR

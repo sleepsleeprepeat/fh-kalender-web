@@ -1,0 +1,433 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Masterbegrüßung MET
+DTSTART:20250311T100000
+DTEND:20250311T120000
+DTSTAMP:20250222T165634Z
+UID:06df3c30-eaea-4d74-9f60-eac085801959
+DESCRIPTION:Prof. Jacobsen
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MA3 Vektoranalysis
+DTSTART:20250317T083000
+DTEND:20250317T100000
+DTSTAMP:20250222T165634Z
+UID:4428a9cf-bdcb-4d2d-ba8f-b8e7f8adb022
+DESCRIPTION:nur_12.KWS. Herzog
+LOCATION:C13-0.04
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MA3 Vektoranalysis
+DTSTART:20250318T083000
+DTEND:20250318T100000
+DTSTAMP:20250222T165634Z
+UID:8eb8f70e-303f-45a4-a33d-6e1b86e34424
+DESCRIPTION:S. Herzog
+LOCATION:C13-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Markt der Möglichkeiten
+DTSTART:20250320T113000
+DTEND:20250320T124500
+DTSTAMP:20250222T165634Z
+UID:9c39b813-99bf-407d-b264-48b7de241b2e
+DESCRIPTION:
+LOCATION:C18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME10 Modelbild. in der elektr. Energietechn. V+Ü
+DTSTART:20250320T124500
+DTEND:20250320T160000
+DTSTAMP:20250222T165634Z
+UID:cfa79e7d-e721-406d-ab0a-343a2d12a89d
+DESCRIPTION:Prof. Schümann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MA3 Vektoranalysis
+DTSTART:20250325T083000
+DTEND:20250325T100000
+DTSTAMP:20250222T165634Z
+UID:9ae60543-f060-4098-8263-bfbb7f463da8
+DESCRIPTION:S. Herzog
+LOCATION:C13-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MA3 Vektoranalysis
+DTSTART:20250401T083000
+DTEND:20250401T100000
+DTSTAMP:20250222T165634Z
+UID:b95fcf4a-8b77-4345-946e-88120b7a6a22
+DESCRIPTION:S. Herzog
+LOCATION:C13-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MA3 Vektoranalysis
+DTSTART:20250408T083000
+DTEND:20250408T100000
+DTSTAMP:20250222T165634Z
+UID:11ade30a-65ee-4a99-8770-7759fd94f38d
+DESCRIPTION:S. Herzog
+LOCATION:C13-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MA3 Vektoranalysis
+DTSTART:20250513T083000
+DTEND:20250513T100000
+DTSTAMP:20250222T165634Z
+UID:6c996c7f-71ff-4d96-83c3-e54a93501836
+DESCRIPTION:S. Herzog
+LOCATION:C13-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MA3 Vektoranalysis
+DTSTART:20250520T083000
+DTEND:20250520T100000
+DTSTAMP:20250222T165634Z
+UID:a1426ab3-32fe-475a-a8d1-4f87c3eeee9a
+DESCRIPTION:S. Herzog
+LOCATION:C13-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MA3 Vektoranalysis
+DTSTART:20250603T083000
+DTEND:20250603T100000
+DTSTAMP:20250222T165634Z
+UID:e85bf445-7891-4159-b04f-dcf6c740bba0
+DESCRIPTION:S. Herzog
+LOCATION:C13-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MA3 Vektoranalysis
+DTSTART:20250617T083000
+DTEND:20250617T100000
+DTSTAMP:20250222T165634Z
+UID:c7972634-111b-4aca-971e-d1cfa9685b71
+DESCRIPTION:S. Herzog
+LOCATION:C13-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MA3 Vektoranalysis Ü
+DTSTART:20250325T101500
+DTEND:20250325T114500
+DTSTAMP:20250222T165634Z
+UID:22f59701-29e8-4a00-b315-c6de32b42b49
+DESCRIPTION:S. Herzog
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MA3 Vektoranalysis Ü
+DTSTART:20250401T101500
+DTEND:20250401T114500
+DTSTAMP:20250222T165634Z
+UID:da78be0a-0aae-4421-bf04-0a185065c1ec
+DESCRIPTION:S. Herzog
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MA3 Vektoranalysis Ü
+DTSTART:20250408T101500
+DTEND:20250408T114500
+DTSTAMP:20250222T165634Z
+UID:3f00e109-e279-440d-87f5-2463eb7cd641
+DESCRIPTION:S. Herzog
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MA3 Vektoranalysis Ü
+DTSTART:20250513T101500
+DTEND:20250513T114500
+DTSTAMP:20250222T165634Z
+UID:de0d70dd-2fff-46ed-83f5-7069af2dd218
+DESCRIPTION:S. Herzog
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MA3 Vektoranalysis Ü
+DTSTART:20250520T101500
+DTEND:20250520T114500
+DTSTAMP:20250222T165634Z
+UID:0202a7e5-6eae-482e-b45e-108fa47fd9eb
+DESCRIPTION:S. Herzog
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MA3 Vektoranalysis Ü
+DTSTART:20250603T101500
+DTEND:20250603T114500
+DTSTAMP:20250222T165634Z
+UID:d1213018-603f-4bed-b9fe-ce00fd6f5128
+DESCRIPTION:S. Herzog
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MA3 Vektoranalysis Ü
+DTSTART:20250617T101500
+DTEND:20250617T114500
+DTSTAMP:20250222T165634Z
+UID:40b3535b-0b1f-4637-9c8f-4e319ed57c47
+DESCRIPTION:S. Herzog
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME10 Modelbild. in der elektr. Energietechn. V+Ü
+DTSTART:20250327T124500
+DTEND:20250327T160000
+DTSTAMP:20250222T165634Z
+UID:0e02d112-7333-413a-8a87-1e87e77e4eb4
+DESCRIPTION:Prof. Schümann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME10 Modelbild. in der elektr. Energietechn. V+Ü
+DTSTART:20250403T124500
+DTEND:20250403T160000
+DTSTAMP:20250222T165634Z
+UID:cb194e73-ab70-4206-b323-ee164d81f8d7
+DESCRIPTION:Prof. Schümann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME10 Modelbild. in der elektr. Energietechn. V+Ü
+DTSTART:20250410T124500
+DTEND:20250410T160000
+DTSTAMP:20250222T165634Z
+UID:0c8604a9-e19c-4b43-9019-303ca5d4f53e
+DESCRIPTION:Prof. Schümann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME10 Modelbild. in der elektr. Energietechn. V+Ü
+DTSTART:20250515T124500
+DTEND:20250515T160000
+DTSTAMP:20250222T165634Z
+UID:17024afc-3c64-4cde-93ea-16407b2be584
+DESCRIPTION:Prof. Schümann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME10 Modelbild. in der elektr. Energietechn. V+Ü
+DTSTART:20250522T124500
+DTEND:20250522T160000
+DTSTAMP:20250222T165634Z
+UID:dc9d6fdd-fbb3-4dc7-8c44-725edacea001
+DESCRIPTION:Prof. Schümann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME10 Modelbild. in der elektr. Energietechn. V+Ü
+DTSTART:20250605T124500
+DTEND:20250605T160000
+DTSTAMP:20250222T165634Z
+UID:2909d466-83f8-4f70-9791-366a63b9581c
+DESCRIPTION:Prof. Schümann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME10 Modelbild. in der elektr. Energietechn. V+Ü
+DTSTART:20250619T124500
+DTEND:20250619T160000
+DTSTAMP:20250222T165634Z
+UID:a36a1be6-ddb5-4551-b218-c962683e8bfc
+DESCRIPTION:Prof. Schümann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MA3 Vektoranalysis
+DTSTART:20250415T083000
+DTEND:20250415T100000
+DTSTAMP:20250222T165634Z
+UID:02ccf715-1797-4395-a38a-906377ae3c2f
+DESCRIPTION:S. Herzog
+LOCATION:C13-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20250418T083000
+DTEND:20250418T180000
+DTSTAMP:20250222T165634Z
+UID:d8855a11-f015-4d0b-a050-3c5442c659c3
+DESCRIPTION:Karfreitag__Good_FridayM. Zupke\, C. Wurl\, P. Wrobel\, Prof. 
+ Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichman
+ n\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwatlo
+ \, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, 
+ Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßma
+ nn\, A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Peter
+ sen\, E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzk
+ i\, Prof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. 
+ Manzke\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß
+ \, C. Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, 
+ L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, 
+ J. Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, 
+ K. Hartmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. F
+ inkemeyer (FB M)\, H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittm
+ ann\, F. Caspar\, F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, 
+ Prof. Badri-Höher\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MA3 Vektoranalysis Ü
+DTSTART:20250415T101500
+DTEND:20250415T114500
+DTSTAMP:20250222T165634Z
+UID:aaa016f9-8483-4525-86c2-3caad85da543
+DESCRIPTION:S. Herzog
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME10 Modelbild. in der elektr. Energietechn. V+Ü
+DTSTART:20250417T124500
+DTEND:20250417T160000
+DTSTAMP:20250222T165634Z
+UID:58110f88-170f-4b82-9cf3-09012e7c92dd
+DESCRIPTION:Prof. Schümann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20250421T083000
+DTEND:20250421T180000
+DTSTAMP:20250222T165634Z
+UID:27f18a52-8512-4079-a3d0-52c043a7cad7
+DESCRIPTION:Ostermontag__Easter_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MA3 Vektoranalysis
+DTSTART:20250422T083000
+DTEND:20250422T100000
+DTSTAMP:20250222T165634Z
+UID:4942ab16-9195-48a4-a1ff-ccf54201c428
+DESCRIPTION:S. Herzog
+LOCATION:C13-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MA3 Vektoranalysis Ü
+DTSTART:20250422T101500
+DTEND:20250422T114500
+DTSTAMP:20250222T165634Z
+UID:39bf4e9c-a420-4709-a6b8-fe5eaad3a4ed
+DESCRIPTION:S. Herzog
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME10 Modelbild. in der elektr. Energietechn. V+Ü
+DTSTART:20250424T124500
+DTEND:20250424T160000
+DTSTAMP:20250222T165634Z
+UID:d6045121-2def-48ff-8cc7-7be70ec13c5c
+DESCRIPTION:Prof. Schümann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MA3 Vektoranalysis
+DTSTART:20250527T083000
+DTEND:20250527T100000
+DTSTAMP:20250222T165634Z
+UID:35280258-aacc-4324-a73d-cfdaea068585
+DESCRIPTION:S. Herzog
+LOCATION:C13-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20250529T083000
+DTEND:20250529T180000
+DTSTAMP:20250222T165634Z
+UID:dcef9582-a3fd-453f-8987-0ccb89d8e5ef
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayM. Zupke\, C. Wurl\, P. Wrob
+ el\, Prof. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, 
+ M. Teichmann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, 
+ C. Schwatlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. R
+ ähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, 
+ A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\,
+  E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, P
+ rof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzk
+ e\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C.
+  Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jo
+ rswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Ho
+ ffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Ha
+ rtmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkem
+ eyer (FB M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MA3 Vektoranalysis Ü
+DTSTART:20250527T101500
+DTEND:20250527T114500
+DTSTAMP:20250222T165634Z
+UID:28ec22bc-1b99-4b51-afff-69911c19ae26
+DESCRIPTION:S. Herzog
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20250609T083000
+DTEND:20250609T180000
+DTSTAMP:20250222T165634Z
+UID:fe02031b-411b-4bf0-a6aa-d7dd24ee6a4d
+DESCRIPTION:Pfingstmontag__Whit_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MA3 Vektoranalysis
+DTSTART:20250610T083000
+DTEND:20250610T100000
+DTSTAMP:20250222T165634Z
+UID:3782aec0-60c0-4bee-a0cd-796ee0cfe80b
+DESCRIPTION:S. Herzog
+LOCATION:C13-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MA3 Vektoranalysis Ü
+DTSTART:20250610T101500
+DTEND:20250610T114500
+DTSTAMP:20250222T165634Z
+UID:6dd52748-d085-4136-a1aa-da09bac1f952
+DESCRIPTION:S. Herzog
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME10 Modelbild. in der elektr. Energietechn. V+Ü
+DTSTART:20250612T124500
+DTEND:20250612T160000
+DTSTAMP:20250222T165634Z
+UID:381e6d5c-a759-479c-bfe4-28e681636fc3
+DESCRIPTION:Prof. Schümann
+LOCATION:C06-1.13
+END:VEVENT
+END:VCALENDAR

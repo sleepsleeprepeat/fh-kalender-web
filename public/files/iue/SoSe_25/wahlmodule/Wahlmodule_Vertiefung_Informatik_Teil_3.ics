@@ -1,0 +1,543 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Wissenschaftliches Arbeiten
+DTSTART:20250320T101500
+DTEND:20250320T114500
+DTSTAMP:20250222T165634Z
+UID:a17f4f73-cdbf-42d9-b47b-c3e0567a08c9
+DESCRIPTION:Prof. Hennig
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wissenschaftliches Arbeiten
+DTSTART:20250403T101500
+DTEND:20250403T114500
+DTSTAMP:20250222T165634Z
+UID:57f96132-81ca-4b33-8f29-0bd44d755785
+DESCRIPTION:Prof. Hennig
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wissenschaftliches Arbeiten
+DTSTART:20250515T101500
+DTEND:20250515T114500
+DTSTAMP:20250222T165634Z
+UID:cd540a96-f9b4-4a54-ad77-e81ab7c0ec03
+DESCRIPTION:Prof. Hennig
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen u. Datenstrukturen
+DTSTART:20250321T101500
+DTEND:20250321T114500
+DTSTAMP:20250222T165634Z
+UID:87a8553b-6e07-49dd-9cba-574b22282268
+DESCRIPTION:C. Kopka
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen u. Datenstrukturen
+DTSTART:20250404T101500
+DTEND:20250404T114500
+DTSTAMP:20250222T165634Z
+UID:9679f897-eb81-4165-9ad8-0e646db3aa0e
+DESCRIPTION:C. Kopka
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen u. Datenstrukturen
+DTSTART:20250516T101500
+DTEND:20250516T114500
+DTSTAMP:20250222T165634Z
+UID:b116ff33-b2f4-4721-a114-49d9f381c001
+DESCRIPTION:C. Kopka
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entwicklungsprojekt II
+DTSTART:20250320T143000
+DTEND:20250320T174500
+DTSTAMP:20250222T165634Z
+UID:3aa36e1c-ae3e-4a8c-8210-dc3c1509e1b2
+DESCRIPTION:Teilnahme_nach_Rücksprache_mit_den_LehrendenProf. Strauß\, P
+ rof. Lebert
+LOCATION:C05-1.40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entwicklungsprojekt II
+DTSTART:20250403T143000
+DTEND:20250403T174500
+DTSTAMP:20250222T165634Z
+UID:4555f5e9-952e-4c1c-8fbf-b79df188012d
+DESCRIPTION:Teilnahme_nach_Rücksprache_mit_den_LehrendenProf. Strauß\, P
+ rof. Lebert
+LOCATION:C05-1.40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entwicklungsprojekt II
+DTSTART:20250515T143000
+DTEND:20250515T174500
+DTSTAMP:20250222T165634Z
+UID:4c089777-2ca2-4edb-b954-7e70e0e00db4
+DESCRIPTION:Teilnahme_nach_Rücksprache_mit_den_LehrendenProf. Strauß\, P
+ rof. Lebert
+LOCATION:C05-1.40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wissenschaftliches Arbeiten
+DTSTART:20250327T101500
+DTEND:20250327T114500
+DTSTAMP:20250222T165634Z
+UID:91c0d35b-3934-4638-93d7-1f339c20aa4d
+DESCRIPTION:Prof. Hennig
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen u. Datenstrukturen
+DTSTART:20250328T101500
+DTEND:20250328T114500
+DTSTAMP:20250222T165634Z
+UID:662d19bc-233d-4763-b9e1-7b11425dd539
+DESCRIPTION:C. Kopka
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen Ü-I2
+DTSTART:20250328T124500
+DTEND:20250328T141500
+DTSTAMP:20250222T165634Z
+UID:7714e0a4-4d10-49cb-85d6-44f47921334a
+DESCRIPTION:C. Kopka
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entwicklungsprojekt II
+DTSTART:20250327T143000
+DTEND:20250327T174500
+DTSTAMP:20250222T165634Z
+UID:22a401bd-1931-4929-ad27-35cd1b465f63
+DESCRIPTION:Teilnahme_nach_Rücksprache_mit_den_LehrendenProf. Strauß\, P
+ rof. Lebert
+LOCATION:C05-1.40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I6 -WM+höhere Sem.
+DTSTART:20250409T083000
+DTEND:20250409T100000
+DTSTAMP:20250222T165634Z
+UID:6e651f48-8226-4a9f-910e-dd8e2cbf01f6
+DESCRIPTION:C. Kopka
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I6 -WM+höhere Sem.
+DTSTART:20250521T083000
+DTEND:20250521T100000
+DTSTAMP:20250222T165634Z
+UID:cd6e4bc5-0499-41d0-a547-dd451bcb297a
+DESCRIPTION:C. Kopka
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I6 -WM+höhere Sem.
+DTSTART:20250604T083000
+DTEND:20250604T100000
+DTSTAMP:20250222T165634Z
+UID:c5e4b17f-6f97-47f1-8600-e37e1d84f7db
+DESCRIPTION:C. Kopka
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL WM+höhere Sem.
+DTSTART:20250411T083000
+DTEND:20250411T100000
+DTSTAMP:20250222T165634Z
+UID:b61741fb-3d92-4d3f-a8eb-4b0abc5a1d21
+DESCRIPTION:C. Kopka
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL WM+höhere Sem.
+DTSTART:20250523T083000
+DTEND:20250523T100000
+DTSTAMP:20250222T165634Z
+UID:b12a1840-010d-4ffc-88ed-c3be1bd6c039
+DESCRIPTION:C. Kopka
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL WM+höhere Sem.
+DTSTART:20250606T083000
+DTEND:20250606T100000
+DTSTAMP:20250222T165634Z
+UID:5b81317d-946c-4425-ab39-b17b81c31bf2
+DESCRIPTION:C. Kopka
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen u. Datenstrukturen
+DTSTART:20250411T101500
+DTEND:20250411T114500
+DTSTAMP:20250222T165634Z
+UID:c105ac48-0929-46f3-8848-fec5813510be
+DESCRIPTION:C. Kopka
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen u. Datenstrukturen
+DTSTART:20250523T101500
+DTEND:20250523T114500
+DTSTAMP:20250222T165634Z
+UID:621bb52d-c0ef-491a-84fd-ebeff53bdadd
+DESCRIPTION:C. Kopka
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen u. Datenstrukturen
+DTSTART:20250606T101500
+DTEND:20250606T114500
+DTSTAMP:20250222T165634Z
+UID:021552be-c05f-44b7-8b84-338f73dd7608
+DESCRIPTION:C. Kopka
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wissenschaftliches Arbeiten ÜL-I4
+DTSTART:20250409T124500
+DTEND:20250409T141500
+DTSTAMP:20250222T165634Z
+UID:ee1f3218-7e31-4498-9fac-78fb4349a3fb
+DESCRIPTION:Prof. Patz
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wissenschaftliches Arbeiten ÜL-I4
+DTSTART:20250521T124500
+DTEND:20250521T141500
+DTSTAMP:20250222T165634Z
+UID:e00de643-64d8-46d3-b99c-6965a6fc8336
+DESCRIPTION:Prof. Patz
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wissenschaftliches Arbeiten ÜL-I4
+DTSTART:20250604T124500
+DTEND:20250604T141500
+DTSTAMP:20250222T165634Z
+UID:84e04e62-2507-49dc-b1e5-5a6ba0c61a95
+DESCRIPTION:Prof. Patz
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen Ü-I2
+DTSTART:20250411T124500
+DTEND:20250411T141500
+DTSTAMP:20250222T165634Z
+UID:383ec3de-0a65-4015-8371-eb62d0291040
+DESCRIPTION:C. Kopka
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen Ü-I2
+DTSTART:20250523T124500
+DTEND:20250523T141500
+DTSTAMP:20250222T165634Z
+UID:7e9a57f2-c7f9-41bb-956a-6569029b690c
+DESCRIPTION:C. Kopka
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen Ü-I2
+DTSTART:20250606T124500
+DTEND:20250606T141500
+DTSTAMP:20250222T165634Z
+UID:b55d5598-19b5-4613-801f-253a5b9b7458
+DESCRIPTION:C. Kopka
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entwicklungsprojekt II
+DTSTART:20250410T143000
+DTEND:20250410T174500
+DTSTAMP:20250222T165634Z
+UID:0b453c99-530d-4076-8ea5-c0933c44e692
+DESCRIPTION:Teilnahme_nach_Rücksprache_mit_den_LehrendenProf. Strauß\, P
+ rof. Lebert
+LOCATION:C05-1.40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entwicklungsprojekt II
+DTSTART:20250522T143000
+DTEND:20250522T174500
+DTSTAMP:20250222T165634Z
+UID:5e3e6c32-2085-409f-bb34-e6b154868ba2
+DESCRIPTION:Teilnahme_nach_Rücksprache_mit_den_LehrendenProf. Strauß\, P
+ rof. Lebert
+LOCATION:C05-1.40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entwicklungsprojekt II
+DTSTART:20250605T143000
+DTEND:20250605T174500
+DTSTAMP:20250222T165634Z
+UID:b87278ca-a539-4662-bd37-46b3329d77ca
+DESCRIPTION:Teilnahme_nach_Rücksprache_mit_den_LehrendenProf. Strauß\, P
+ rof. Lebert
+LOCATION:C05-1.40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20250418T083000
+DTEND:20250418T180000
+DTSTAMP:20250222T165634Z
+UID:60ab80f2-affd-46dd-8df6-603f52c2a003
+DESCRIPTION:Karfreitag__Good_FridayM. Zupke\, C. Wurl\, P. Wrobel\, Prof. 
+ Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichman
+ n\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwatlo
+ \, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, 
+ Fr. Rähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßma
+ nn\, A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Peter
+ sen\, E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzk
+ i\, Prof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. 
+ Manzke\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß
+ \, C. Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, 
+ L. Jorswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, 
+ J. Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, 
+ K. Hartmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. F
+ inkemeyer (FB M)\, H. Eilers\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittm
+ ann\, F. Caspar\, F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, 
+ Prof. Badri-Höher\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wissenschaftliches Arbeiten
+DTSTART:20250417T101500
+DTEND:20250417T114500
+DTSTAMP:20250222T165634Z
+UID:9e7b058e-27f4-4bc1-9397-43aeecd747ea
+DESCRIPTION:Prof. Hennig
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entwicklungsprojekt II
+DTSTART:20250417T143000
+DTEND:20250417T174500
+DTSTAMP:20250222T165634Z
+UID:b6ea0d65-e6a0-44cd-ba13-016613fc4734
+DESCRIPTION:Teilnahme_nach_Rücksprache_mit_den_LehrendenProf. Strauß\, P
+ rof. Lebert
+LOCATION:C05-1.40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20250421T083000
+DTEND:20250421T180000
+DTSTAMP:20250222T165634Z
+UID:40b9f079-17a0-4c39-81d5-c86dc29375a6
+DESCRIPTION:Ostermontag__Easter_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I6 -WM+höhere Sem.
+DTSTART:20250423T083000
+DTEND:20250423T100000
+DTSTAMP:20250222T165634Z
+UID:52836e32-d8b1-4c8f-aa48-167ca0eeed01
+DESCRIPTION:C. Kopka
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL WM+höhere Sem.
+DTSTART:20250425T083000
+DTEND:20250425T100000
+DTSTAMP:20250222T165634Z
+UID:d3ab000a-88f3-4651-9bf3-f7399cc01f46
+DESCRIPTION:C. Kopka
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen u. Datenstrukturen
+DTSTART:20250425T101500
+DTEND:20250425T114500
+DTSTAMP:20250222T165634Z
+UID:c93dafe9-ff1b-44eb-bbfe-3494474788f8
+DESCRIPTION:C. Kopka
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wissenschaftliches Arbeiten ÜL-I4
+DTSTART:20250423T124500
+DTEND:20250423T141500
+DTSTAMP:20250222T165634Z
+UID:39c4451f-f632-4324-9fe6-1a637890e0bc
+DESCRIPTION:Prof. Patz
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen Ü-I2
+DTSTART:20250425T124500
+DTEND:20250425T141500
+DTSTAMP:20250222T165634Z
+UID:faefd942-eecc-490a-8423-87a6574c58d4
+DESCRIPTION:C. Kopka
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entwicklungsprojekt II
+DTSTART:20250424T143000
+DTEND:20250424T174500
+DTSTAMP:20250222T165634Z
+UID:8f6aa9eb-c867-4c47-b518-65481c64d4be
+DESCRIPTION:Teilnahme_nach_Rücksprache_mit_den_LehrendenProf. Strauß\, P
+ rof. Lebert
+LOCATION:C05-1.40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20250529T083000
+DTEND:20250529T180000
+DTSTAMP:20250222T165634Z
+UID:b3e365f8-6894-4bf6-9063-814af52b13a4
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayM. Zupke\, C. Wurl\, P. Wrob
+ el\, Prof. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, 
+ M. Teichmann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, 
+ C. Schwatlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. R
+ ähse\, M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, 
+ A. Raschke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\,
+  E. Petersen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, P
+ rof. Neumann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzk
+ e\, G. Manske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C.
+  Kopka\, J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jo
+ rswieck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Ho
+ ffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Ha
+ rtmann\, T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkem
+ eyer (FB M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\,
+  F. Bähnck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höhe
+ r\, Prof. Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen u. Datenstrukturen
+DTSTART:20250530T101500
+DTEND:20250530T114500
+DTSTAMP:20250222T165634Z
+UID:4805b4f9-cc31-4590-b984-f33e75fbf2f7
+DESCRIPTION:C. Kopka
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20250609T083000
+DTEND:20250609T180000
+DTSTAMP:20250222T165634Z
+UID:f83bf6d6-4a35-43fd-9382-26fcd5c9d762
+DESCRIPTION:Pfingstmontag__Whit_MondayM. Zupke\, C. Wurl\, P. Wrobel\, Pro
+ f. Wree\, Prof. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teich
+ mann\, Prof. Stock\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C. Schwa
+ tlo\, Prof. Schmidt- Rethmeier\, S. Schmarbeck\, J. Schiwy\, Fr. Rähse\, 
+ M. Robinius\, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, A. Rasch
+ ke\, M. Pöpper\, Prof. Prochnow\, Prof. Prieß\, Prof. Petersen\, E. Pete
+ rsen\, Prof. Patz\, Prof. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neu
+ mann\, A. Neumann\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, G. M
+ anske\, Prof. Lüssem\, Prof. Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\,
+  J. Kohlmorgen\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\
+ , Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmülle
+ r\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\,
+  T. Greve\, C. Glüsing\, G.S. Gesell\, H. Folkerts\, Prof. Finkemeyer (FB
+  M)\, Prof. Ehlers\, Diverse Doz._FB_M\, J. Dittmann\, F. Caspar\, F. Bäh
+ nck\, Prof. Brauer\, C. Brauer\, Prof. Bicakci\, Prof. Badri-Höher\, Prof
+ . Aßmuth\, J. Angres\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wissenschaftliches Arbeiten
+DTSTART:20250612T101500
+DTEND:20250612T114500
+DTSTAMP:20250222T165634Z
+UID:36f63657-5347-4fa0-a643-670946271f9d
+DESCRIPTION:Prof. Hennig
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen u. Datenstrukturen
+DTSTART:20250613T101500
+DTEND:20250613T114500
+DTSTAMP:20250222T165634Z
+UID:f3d10d98-b254-480b-bc85-7a4f0f24f066
+DESCRIPTION:C. Kopka
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entwicklungsprojekt II
+DTSTART:20250612T143000
+DTEND:20250612T174500
+DTSTAMP:20250222T165634Z
+UID:25a934c2-1dfd-4a0a-bf02-6952034f3f51
+DESCRIPTION:Teilnahme_nach_Rücksprache_mit_den_LehrendenProf. Strauß\, P
+ rof. Lebert
+LOCATION:C05-1.40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I6 -WM+höhere Sem.
+DTSTART:20250618T083000
+DTEND:20250618T100000
+DTSTAMP:20250222T165634Z
+UID:8e11ea57-e990-48ff-9509-b22fc41ff5fb
+DESCRIPTION:C. Kopka
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL WM+höhere Sem.
+DTSTART:20250620T083000
+DTEND:20250620T100000
+DTSTAMP:20250222T165634Z
+UID:49700129-4b76-455a-835a-0b6c1a54ad2b
+DESCRIPTION:C. Kopka
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen u. Datenstrukturen
+DTSTART:20250620T101500
+DTEND:20250620T114500
+DTSTAMP:20250222T165634Z
+UID:2df5d081-f7ac-48ee-92a4-418a260d3c1d
+DESCRIPTION:C. Kopka
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wissenschaftliches Arbeiten ÜL-I4
+DTSTART:20250618T124500
+DTEND:20250618T141500
+DTSTAMP:20250222T165634Z
+UID:74539325-2019-4ea0-b530-d5d523042d02
+DESCRIPTION:Prof. Patz
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entwicklungsprojekt II
+DTSTART:20250619T143000
+DTEND:20250619T174500
+DTSTAMP:20250222T165634Z
+UID:cefe6532-9b6f-4859-8c8b-8bc6e31b1ac0
+DESCRIPTION:Teilnahme_nach_Rücksprache_mit_den_LehrendenProf. Strauß\, P
+ rof. Lebert
+LOCATION:C05-1.40
+END:VEVENT
+END:VCALENDAR
