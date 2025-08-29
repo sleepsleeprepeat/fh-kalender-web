@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:ME101 Hochspannungsnetze und Schaltanlagen
+DTSTART:20250919T101500
+DTEND:20250919T133000
+DTSTAMP:20250829T105649Z
+UID:e8fff191-7a81-420a-9107-fe0386eaffde
+DESCRIPTION:Prof. Wehrend
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME101 Hochspannungsnetze und Schaltanlagen
+DTSTART:20250926T101500
+DTEND:20250926T133000
+DTSTAMP:20250829T105649Z
+UID:1c3fb468-148e-4389-affb-2264fbf80d2c
+DESCRIPTION:Prof. Wehrend
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME101 Hochspannungsnetze und Schaltanlagen
+DTSTART:20251010T101500
+DTEND:20251010T133000
+DTSTAMP:20250829T105649Z
+UID:e0ba238e-7328-4e8d-b04e-e07a992a06bf
+DESCRIPTION:Prof. Wehrend
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME101 Hochspannungsnetze und Schaltanlagen
+DTSTART:20251017T101500
+DTEND:20251017T133000
+DTSTAMP:20250829T105649Z
+UID:2daa5172-eb1f-43c9-8ec3-4ce7f4e552fa
+DESCRIPTION:Prof. Wehrend
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME101 Hochspannungsnetze und Schaltanlagen
+DTSTART:20251024T101500
+DTEND:20251024T133000
+DTSTAMP:20250829T105649Z
+UID:05ac9e66-0ce9-4f74-842a-f0b70a4377f9
+DESCRIPTION:Prof. Wehrend
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feiertag - Tag der Deutschen Einheit
+DTSTART:20251003T083000
+DTEND:20251003T180000
+DTSTAMP:20250829T105649Z
+UID:5fcb4814-8394-4afa-aae7-3d2e8f3b3f62
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, M. Ali Algba
+ ra\, J. Angres\, Prof. Aßmuth\, Prof. Badri-Höher\, V. Baierbach\, Prof.
+  Bicakci\, Y. Bockholt\, C. Brauer\, Prof. Brauer\, F. Caspar\, J. Dittman
+ n-Wunderlich\, L. Dürrer\, L. Eggers (HiWi)\, Prof. Ehlers\, P. Farshidfa
+ r\, Prof. Finkemeyer (FB M)\, H. Folkerts\, G. Gesell\, C. Glüsing\, T. G
+ reve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\
+ , J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetze
+ k\, F. Jürgens\, Prof. Kallies\, A. Kinny\, J. Kohlmorgen\, C. Kopka\, S.
+  Koß\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Me
+ nzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neuman
+ n\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\
+ , Prof. Petersen\, Prof. Prieß\, Prof. Prochnow\, T. Prykhodko\, M. Pöpp
+ er\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. S
+ achse\, J. Schiwy\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeie
+ r\, Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Sielo
+ ff\, M. Teichmann\, M. Voß\, Prof. Weber\, T. Wegert\, Prof. Wehrend\, G.
+  Werner\, T. Wilts\, Prof. Woelk\, Prof. Wree\, V. Zylla
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME101-ÜL  Hochspannungsnetze und Schaltanlagen
+DTSTART:20251114T101500
+DTEND:20251114T133000
+DTSTAMP:20250829T105649Z
+UID:d8c2bbb3-8057-4fe7-a1af-af7700a3e07b
+DESCRIPTION:Prof. Wehrend\, S. Schmarbeck
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME101-ÜL  Hochspannungsnetze und Schaltanlagen
+DTSTART:20251121T101500
+DTEND:20251121T133000
+DTSTAMP:20250829T105649Z
+UID:70fcae6e-5446-4899-a1b3-c897067bc913
+DESCRIPTION:Prof. Wehrend\, S. Schmarbeck
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME101-ÜL  Hochspannungsnetze und Schaltanlagen
+DTSTART:20251128T101500
+DTEND:20251128T133000
+DTSTAMP:20250829T105649Z
+UID:c409930d-2140-40ed-9480-5e44942f1fe7
+DESCRIPTION:Prof. Wehrend\, S. Schmarbeck
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME101-ÜL  Hochspannungsnetze und Schaltanlagen
+DTSTART:20251205T101500
+DTEND:20251205T133000
+DTSTAMP:20250829T105649Z
+UID:e814e271-4841-4b5e-836d-5a58036da424
+DESCRIPTION:Prof. Wehrend\, S. Schmarbeck
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME101-ÜL  Hochspannungsnetze und Schaltanlagen
+DTSTART:20251212T101500
+DTEND:20251212T133000
+DTSTAMP:20250829T105649Z
+UID:014b067f-d0ae-49c3-84a3-003da32aea42
+DESCRIPTION:Prof. Wehrend\, S. Schmarbeck
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME101-ÜL  Hochspannungsnetze und Schaltanlagen
+DTSTART:20251219T101500
+DTEND:20251219T133000
+DTSTAMP:20250829T105649Z
+UID:543c623d-1ec6-443b-893b-7bb8dc367a96
+DESCRIPTION:Prof. Wehrend\, S. Schmarbeck
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+END:VCALENDAR

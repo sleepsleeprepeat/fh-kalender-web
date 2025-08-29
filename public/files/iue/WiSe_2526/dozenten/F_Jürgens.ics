@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Automatisierungstechnik ÜL-3 (WM1)
+DTSTART:20250926T083000
+DTEND:20250926T114500
+DTSTAMP:20250829T105648Z
+UID:c34346d6-806a-439c-afdd-65b20a445953
+DESCRIPTION:C. Brauer\, F. Jürgens
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automatisierungstechnik ÜL-3 (WM1)
+DTSTART:20251010T083000
+DTEND:20251010T114500
+DTSTAMP:20250829T105648Z
+UID:4c6c48b7-d229-465d-93d2-4fb7124a9d97
+DESCRIPTION:C. Brauer\, F. Jürgens
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automatisierungstechnik ÜL-3 (WM1)
+DTSTART:20251024T083000
+DTEND:20251024T114500
+DTSTAMP:20250829T105648Z
+UID:efa6c5fd-622d-4d70-8292-867f5a381fb7
+DESCRIPTION:C. Brauer\, F. Jürgens
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automatisierungstechnik ÜL-3 (WM1)
+DTSTART:20251121T083000
+DTEND:20251121T114500
+DTSTAMP:20250829T105648Z
+UID:4dacf464-b648-4b03-a389-0c29b393ef33
+DESCRIPTION:C. Brauer\, F. Jürgens
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automatisierungstechnik ÜL-3 (WM1)
+DTSTART:20251205T083000
+DTEND:20251205T114500
+DTSTAMP:20250829T105648Z
+UID:e80bd8aa-1dd1-493c-9051-87a9f7228167
+DESCRIPTION:C. Brauer\, F. Jürgens
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automatisierungstechnik ÜL-3 (WM1)
+DTSTART:20251219T083000
+DTEND:20251219T114500
+DTSTAMP:20250829T105648Z
+UID:f69d74d5-9b55-44bc-afc3-c75c9a71d3f8
+DESCRIPTION:C. Brauer\, F. Jürgens
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feiertag - Tag der Deutschen Einheit
+DTSTART:20251003T083000
+DTEND:20251003T180000
+DTSTAMP:20250829T105648Z
+UID:0aa62923-f215-4ac9-9ca7-df4f8d0d177d
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, M. Ali Algba
+ ra\, J. Angres\, Prof. Aßmuth\, Prof. Badri-Höher\, V. Baierbach\, Prof.
+  Bicakci\, Y. Bockholt\, C. Brauer\, Prof. Brauer\, F. Caspar\, J. Dittman
+ n-Wunderlich\, L. Dürrer\, L. Eggers (HiWi)\, Prof. Ehlers\, P. Farshidfa
+ r\, Prof. Finkemeyer (FB M)\, H. Folkerts\, G. Gesell\, C. Glüsing\, T. G
+ reve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\
+ , J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetze
+ k\, F. Jürgens\, Prof. Kallies\, A. Kinny\, J. Kohlmorgen\, C. Kopka\, S.
+  Koß\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Me
+ nzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neuman
+ n\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\
+ , Prof. Petersen\, Prof. Prieß\, Prof. Prochnow\, T. Prykhodko\, M. Pöpp
+ er\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. S
+ achse\, J. Schiwy\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeie
+ r\, Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Sielo
+ ff\, M. Teichmann\, M. Voß\, Prof. Weber\, T. Wegert\, Prof. Wehrend\, G.
+  Werner\, T. Wilts\, Prof. Woelk\, Prof. Wree\, V. Zylla
+LOCATION:
+END:VEVENT
+END:VCALENDAR

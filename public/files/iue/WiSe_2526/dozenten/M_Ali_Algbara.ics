@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-I4
+DTSTART:20250926T101500
+DTEND:20250926T114500
+DTSTAMP:20250829T105648Z
+UID:4830aeb1-1597-49f5-a21f-c630671d345a
+DESCRIPTION:M. Ali Algbara
+LOCATION:C13-3.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-I4
+DTSTART:20251010T101500
+DTEND:20251010T114500
+DTSTAMP:20250829T105648Z
+UID:92d13df8-0395-4121-bf93-ad1fa941bc36
+DESCRIPTION:M. Ali Algbara
+LOCATION:C13-3.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-I4
+DTSTART:20251024T101500
+DTEND:20251024T114500
+DTSTAMP:20250829T105648Z
+UID:1d401594-7275-400c-9986-9226564695b1
+DESCRIPTION:M. Ali Algbara
+LOCATION:C13-3.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-I4
+DTSTART:20251121T101500
+DTEND:20251121T114500
+DTSTAMP:20250829T105648Z
+UID:0fd159e5-bca6-4366-801a-e9e266153d7c
+DESCRIPTION:M. Ali Algbara
+LOCATION:C13-3.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-I4
+DTSTART:20251205T101500
+DTEND:20251205T114500
+DTSTAMP:20250829T105648Z
+UID:de6a318f-748d-407b-97b9-94c76f80aad3
+DESCRIPTION:M. Ali Algbara
+LOCATION:C13-3.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feiertag - Tag der Deutschen Einheit
+DTSTART:20251003T083000
+DTEND:20251003T180000
+DTSTAMP:20250829T105648Z
+UID:f7fb4a6b-9570-478f-a220-eb9195182dd5
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, M. Ali Algba
+ ra\, J. Angres\, Prof. Aßmuth\, Prof. Badri-Höher\, V. Baierbach\, Prof.
+  Bicakci\, Y. Bockholt\, C. Brauer\, Prof. Brauer\, F. Caspar\, J. Dittman
+ n-Wunderlich\, L. Dürrer\, L. Eggers (HiWi)\, Prof. Ehlers\, P. Farshidfa
+ r\, Prof. Finkemeyer (FB M)\, H. Folkerts\, G. Gesell\, C. Glüsing\, T. G
+ reve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\
+ , J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetze
+ k\, F. Jürgens\, Prof. Kallies\, A. Kinny\, J. Kohlmorgen\, C. Kopka\, S.
+  Koß\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Me
+ nzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neuman
+ n\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\
+ , Prof. Petersen\, Prof. Prieß\, Prof. Prochnow\, T. Prykhodko\, M. Pöpp
+ er\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. S
+ achse\, J. Schiwy\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeie
+ r\, Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Sielo
+ ff\, M. Teichmann\, M. Voß\, Prof. Weber\, T. Wegert\, Prof. Wehrend\, G.
+  Werner\, T. Wilts\, Prof. Woelk\, Prof. Wree\, V. Zylla
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-I3
+DTSTART:20250929T124500
+DTEND:20250929T141500
+DTSTAMP:20250829T105648Z
+UID:ca97f7f6-176d-426e-861c-227d4115180d
+DESCRIPTION:ErsatzterminM. Ali Algbara
+LOCATION:C13-0.04
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-I3
+DTSTART:20251017T101500
+DTEND:20251017T114500
+DTSTAMP:20250829T105648Z
+UID:91abf001-e01b-4e4e-a78c-2912afbda877
+DESCRIPTION:M. Ali Algbara
+LOCATION:C13-3.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-I3
+DTSTART:20251114T101500
+DTEND:20251114T114500
+DTSTAMP:20250829T105648Z
+UID:4fe9b8f9-87d6-498b-841a-35507acaae8a
+DESCRIPTION:M. Ali Algbara
+LOCATION:C13-3.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-I3
+DTSTART:20251128T101500
+DTEND:20251128T114500
+DTSTAMP:20250829T105648Z
+UID:4b3288bb-c7c1-4078-a8c4-13401b0b9b2f
+DESCRIPTION:M. Ali Algbara
+LOCATION:C13-3.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-I3
+DTSTART:20251212T101500
+DTEND:20251212T114500
+DTSTAMP:20250829T105648Z
+UID:c0bc37cc-4158-4d9a-8116-7733c32b4aab
+DESCRIPTION:M. Ali Algbara
+LOCATION:C13-3.01
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,137 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:MM119 Robot Applications
+DTSTART:20250917T143000
+DTEND:20250917T174500
+DTSTAMP:20250829T105648Z
+UID:be597c76-c3de-4ae8-a57f-76e2ed74fef1
+DESCRIPTION:Finkemeyer\, Prof. Finkemeyer (FB M)
+LOCATION:C05-0.45
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MM119 Robot Applications
+DTSTART:20250924T143000
+DTEND:20250924T174500
+DTSTAMP:20250829T105648Z
+UID:031f2169-a551-42fe-a782-b4ca86128954
+DESCRIPTION:Finkemeyer\, Prof. Finkemeyer (FB M)
+LOCATION:C05-0.45
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MM119 Robot Applications
+DTSTART:20251008T143000
+DTEND:20251008T174500
+DTSTAMP:20250829T105648Z
+UID:a1e8dd79-6ec0-4d11-b124-a3774747e26d
+DESCRIPTION:Finkemeyer\, Prof. Finkemeyer (FB M)
+LOCATION:C05-0.45
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MM119 Robot Applications
+DTSTART:20251015T143000
+DTEND:20251015T174500
+DTSTAMP:20250829T105648Z
+UID:6de68994-8ff7-4100-b692-c34e7feec4ac
+DESCRIPTION:Finkemeyer\, Prof. Finkemeyer (FB M)
+LOCATION:C05-0.45
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MM119 Robot Applications
+DTSTART:20251022T143000
+DTEND:20251022T174500
+DTSTAMP:20250829T105648Z
+UID:6a82687d-4a0b-4122-8184-2f324e80e184
+DESCRIPTION:Finkemeyer\, Prof. Finkemeyer (FB M)
+LOCATION:C05-0.45
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MM119 Robot Applications
+DTSTART:20251112T143000
+DTEND:20251112T174500
+DTSTAMP:20250829T105648Z
+UID:153741a4-7f30-43d7-81b2-295cb4624c62
+DESCRIPTION:Finkemeyer\, Prof. Finkemeyer (FB M)
+LOCATION:C05-0.45
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MM119 Robot Applications
+DTSTART:20251119T143000
+DTEND:20251119T174500
+DTSTAMP:20250829T105648Z
+UID:83f77f01-f0be-410d-ac07-f985f585c220
+DESCRIPTION:Finkemeyer\, Prof. Finkemeyer (FB M)
+LOCATION:C05-0.45
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MM119 Robot Applications
+DTSTART:20251126T143000
+DTEND:20251126T174500
+DTSTAMP:20250829T105648Z
+UID:b37e8b4e-6db6-4b5b-9fb8-78c7cd53019b
+DESCRIPTION:Finkemeyer\, Prof. Finkemeyer (FB M)
+LOCATION:C05-0.45
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MM119 Robot Applications
+DTSTART:20251203T143000
+DTEND:20251203T174500
+DTSTAMP:20250829T105648Z
+UID:ad651578-bb6d-40f6-9672-624df7aaff3a
+DESCRIPTION:Finkemeyer\, Prof. Finkemeyer (FB M)
+LOCATION:C05-0.45
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MM119 Robot Applications
+DTSTART:20251210T143000
+DTEND:20251210T174500
+DTSTAMP:20250829T105648Z
+UID:f1a514d5-99a4-43a6-86df-1398c1af3edb
+DESCRIPTION:Finkemeyer\, Prof. Finkemeyer (FB M)
+LOCATION:C05-0.45
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MM119 Robot Applications
+DTSTART:20251217T143000
+DTEND:20251217T174500
+DTSTAMP:20250829T105648Z
+UID:3377cadf-f2fe-4602-9292-958d49436bbf
+DESCRIPTION:Finkemeyer\, Prof. Finkemeyer (FB M)
+LOCATION:C05-0.45
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feiertag - Tag der Deutschen Einheit
+DTSTART:20251003T083000
+DTEND:20251003T180000
+DTSTAMP:20250829T105648Z
+UID:81ddbe5b-0e93-44dd-a960-6441706f93e7
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, M. Ali Algba
+ ra\, J. Angres\, Prof. Aßmuth\, Prof. Badri-Höher\, V. Baierbach\, Prof.
+  Bicakci\, Y. Bockholt\, C. Brauer\, Prof. Brauer\, F. Caspar\, J. Dittman
+ n-Wunderlich\, L. Dürrer\, L. Eggers (HiWi)\, Prof. Ehlers\, P. Farshidfa
+ r\, Prof. Finkemeyer (FB M)\, H. Folkerts\, G. Gesell\, C. Glüsing\, T. G
+ reve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\
+ , J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetze
+ k\, F. Jürgens\, Prof. Kallies\, A. Kinny\, J. Kohlmorgen\, C. Kopka\, S.
+  Koß\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Me
+ nzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neuman
+ n\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\
+ , Prof. Petersen\, Prof. Prieß\, Prof. Prochnow\, T. Prykhodko\, M. Pöpp
+ er\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. S
+ achse\, J. Schiwy\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeie
+ r\, Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Sielo
+ ff\, M. Teichmann\, M. Voß\, Prof. Weber\, T. Wegert\, Prof. Wehrend\, G.
+  Werner\, T. Wilts\, Prof. Woelk\, Prof. Wree\, V. Zylla
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MM119 Robot Applications
+DTSTART:20251001T143000
+DTEND:20251001T174500
+DTSTAMP:20250829T105648Z
+UID:06ea1fb7-9399-4754-942b-f744a8845889
+DESCRIPTION:Finkemeyer\, Prof. Finkemeyer (FB M)
+LOCATION:C05-0.45
+END:VEVENT
+END:VCALENDAR

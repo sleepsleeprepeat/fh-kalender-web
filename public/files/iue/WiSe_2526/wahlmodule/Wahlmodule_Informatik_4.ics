@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:BI141 Grundlagen funktionaler Programmierung
+DTSTART:20250916T143000
+DTEND:20250916T174500
+DTSTAMP:20250829T110924Z
+UID:fd9d4f9f-a493-40a8-886f-10260f1bdd5d
+DESCRIPTION:J. Angres
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI141 Grundlagen funktionaler Programmierung
+DTSTART:20250923T143000
+DTEND:20250923T174500
+DTSTAMP:20250829T110924Z
+UID:c85b3830-8424-413a-b6a4-264fa2cfa90e
+DESCRIPTION:J. Angres
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI141 Grundlagen funktionaler Programmierung
+DTSTART:20251007T143000
+DTEND:20251007T174500
+DTSTAMP:20250829T110924Z
+UID:0ff0d9d7-d3a9-4222-8121-72fd204d8ab1
+DESCRIPTION:J. Angres
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI141 Grundlagen funktionaler Programmierung
+DTSTART:20251014T143000
+DTEND:20251014T174500
+DTSTAMP:20250829T110924Z
+UID:dc57c935-135f-41f5-9f1e-32ccbc8c0a44
+DESCRIPTION:J. Angres
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI141 Grundlagen funktionaler Programmierung
+DTSTART:20251021T143000
+DTEND:20251021T174500
+DTSTAMP:20250829T110924Z
+UID:ffb3f1cf-1238-45ba-9670-81ff438b922f
+DESCRIPTION:J. Angres
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI141 Grundlagen funktionaler Programmierung
+DTSTART:20251118T143000
+DTEND:20251118T174500
+DTSTAMP:20250829T110924Z
+UID:265538a9-306a-48a4-a014-ba90b4bfe3d1
+DESCRIPTION:J. Angres
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI141 Grundlagen funktionaler Programmierung
+DTSTART:20251125T143000
+DTEND:20251125T174500
+DTSTAMP:20250829T110924Z
+UID:a1de1ffb-a1fa-4825-aad0-6fba001b1c26
+DESCRIPTION:J. Angres
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI141 Grundlagen funktionaler Programmierung
+DTSTART:20251202T143000
+DTEND:20251202T174500
+DTSTAMP:20250829T110924Z
+UID:de1502fb-e1bf-40f1-8f9d-e7e37f6e23c5
+DESCRIPTION:J. Angres
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI141 Grundlagen funktionaler Programmierung
+DTSTART:20251209T143000
+DTEND:20251209T174500
+DTSTAMP:20250829T110924Z
+UID:9faf764d-4fd8-4dce-a108-e1ee6c818bf1
+DESCRIPTION:J. Angres
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI141 Grundlagen funktionaler Programmierung
+DTSTART:20251216T143000
+DTEND:20251216T174500
+DTSTAMP:20250829T110924Z
+UID:4cd75586-caa5-47b2-badb-5bcc1f6a1b5d
+DESCRIPTION:J. Angres
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feiertag - Tag der Deutschen Einheit
+DTSTART:20251003T083000
+DTEND:20251003T180000
+DTSTAMP:20250829T110924Z
+UID:e79d8aa5-f9c9-4cae-ba8f-b2beadb51d75
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, M. Ali Algba
+ ra\, J. Angres\, Prof. Aßmuth\, Prof. Badri-Höher\, V. Baierbach\, Prof.
+  Bicakci\, Y. Bockholt\, C. Brauer\, Prof. Brauer\, F. Caspar\, J. Dittman
+ n-Wunderlich\, L. Dürrer\, L. Eggers (HiWi)\, Prof. Ehlers\, P. Farshidfa
+ r\, Prof. Finkemeyer (FB M)\, H. Folkerts\, G. Gesell\, C. Glüsing\, T. G
+ reve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\
+ , J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetze
+ k\, F. Jürgens\, Prof. Kallies\, A. Kinny\, J. Kohlmorgen\, C. Kopka\, S.
+  Koß\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Me
+ nzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neuman
+ n\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\
+ , Prof. Petersen\, Prof. Prieß\, Prof. Prochnow\, T. Prykhodko\, M. Pöpp
+ er\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. S
+ achse\, J. Schiwy\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeie
+ r\, Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Sielo
+ ff\, M. Teichmann\, M. Voß\, Prof. Weber\, T. Wegert\, Prof. Wehrend\, G.
+  Werner\, T. Wilts\, Prof. Woelk\, Prof. Wree\, V. Zylla
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI141 Grundlagen funktionaler Programmierung
+DTSTART:20250930T143000
+DTEND:20250930T174500
+DTSTAMP:20250829T110924Z
+UID:66fd576d-f3d9-4ad5-b197-d64b8c86b9ee
+DESCRIPTION:J. Angres
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:talent transfer Jobmesse
+DTSTART:20251112T090000
+DTEND:20251112T160000
+DTSTAMP:20250829T110924Z
+UID:43e8a278-ef7a-44c1-902c-ecb8ffda0990
+DESCRIPTION:09:00-16:00_Uhr
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI141 Grundlagen funktionaler Programmierung
+DTSTART:20251111T143000
+DTEND:20251111T174500
+DTSTAMP:20250829T110924Z
+UID:65cf6b88-8d2d-4112-82e4-d802a8cafeea
+DESCRIPTION:J. Angres
+LOCATION:C13-1.20
+END:VEVENT
+END:VCALENDAR

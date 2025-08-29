@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:XSPS-ÜL Speicherprogram. Steuerungen
+DTSTART:20250917T083000
+DTEND:20250917T114500
+DTSTAMP:20250829T105648Z
+UID:49d74f45-5db3-4f53-92d5-4445b8e17060
+DESCRIPTION:C. Brauer\, P. Farshidfar
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XSPS-ÜL Speicherprogram. Steuerungen
+DTSTART:20251015T083000
+DTEND:20251015T114500
+DTSTAMP:20250829T105648Z
+UID:c2a0c869-f864-44fd-b1f6-b128e3e9d3c6
+DESCRIPTION:C. Brauer\, P. Farshidfar
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XSPS-ÜL Speicherprogram. Steuerungen
+DTSTART:20251112T083000
+DTEND:20251112T114500
+DTSTAMP:20250829T105648Z
+UID:ea87bf98-c10b-469b-8774-1db32f6dbd9b
+DESCRIPTION:C. Brauer\, P. Farshidfar
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XSPS-ÜL Speicherprogram. Steuerungen
+DTSTART:20251126T083000
+DTEND:20251126T114500
+DTSTAMP:20250829T105648Z
+UID:80b56fc1-8d21-4552-a16d-a1a940a6ef36
+DESCRIPTION:C. Brauer\, P. Farshidfar
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XSPS-ÜL Speicherprogram. Steuerungen
+DTSTART:20251210T083000
+DTEND:20251210T114500
+DTSTAMP:20250829T105648Z
+UID:3db24e38-e08d-47f2-ab2f-c6cf811190e9
+DESCRIPTION:C. Brauer\, P. Farshidfar
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automatisierungstechnik ÜL-4 (WM2)
+DTSTART:20250919T083000
+DTEND:20250919T114500
+DTSTAMP:20250829T105648Z
+UID:009d14c4-8fb5-45ff-b099-a460e982d396
+DESCRIPTION:6.Termin_n.A.P. Farshidfar\, C. Brauer
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automatisierungstechnik ÜL-4 (WM2)
+DTSTART:20251017T083000
+DTEND:20251017T114500
+DTSTAMP:20250829T105648Z
+UID:dc36d0ff-e9d8-4c7b-b6b8-840f7e1dbd41
+DESCRIPTION:6.Termin_n.A.P. Farshidfar\, C. Brauer
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automatisierungstechnik ÜL-4 (WM2)
+DTSTART:20251114T083000
+DTEND:20251114T114500
+DTSTAMP:20250829T105648Z
+UID:d2619e23-a7d6-4df0-a192-b51c4e50c891
+DESCRIPTION:6.Termin_n.A.P. Farshidfar\, C. Brauer
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automatisierungstechnik ÜL-4 (WM2)
+DTSTART:20251128T083000
+DTEND:20251128T114500
+DTSTAMP:20250829T105648Z
+UID:71e3b7ed-4d7a-4171-911a-c42931443d81
+DESCRIPTION:6.Termin_n.A.P. Farshidfar\, C. Brauer
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automatisierungstechnik ÜL-4 (WM2)
+DTSTART:20251212T083000
+DTEND:20251212T114500
+DTSTAMP:20250829T105648Z
+UID:30f53a60-0c92-46a2-9a4a-352ee8f4f63b
+DESCRIPTION:6.Termin_n.A.P. Farshidfar\, C. Brauer
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XSPS-ÜL Speicherprogram. Steuerungen
+DTSTART:20251001T083000
+DTEND:20251001T114500
+DTSTAMP:20250829T105648Z
+UID:21ed8551-25c8-435c-a610-96658c2519e0
+DESCRIPTION:C. Brauer\, P. Farshidfar
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feiertag - Tag der Deutschen Einheit
+DTSTART:20251003T083000
+DTEND:20251003T180000
+DTSTAMP:20250829T105648Z
+UID:1e3bb649-6978-4c52-a7e7-5978a36019d8
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, M. Ali Algba
+ ra\, J. Angres\, Prof. Aßmuth\, Prof. Badri-Höher\, V. Baierbach\, Prof.
+  Bicakci\, Y. Bockholt\, C. Brauer\, Prof. Brauer\, F. Caspar\, J. Dittman
+ n-Wunderlich\, L. Dürrer\, L. Eggers (HiWi)\, Prof. Ehlers\, P. Farshidfa
+ r\, Prof. Finkemeyer (FB M)\, H. Folkerts\, G. Gesell\, C. Glüsing\, T. G
+ reve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\
+ , J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetze
+ k\, F. Jürgens\, Prof. Kallies\, A. Kinny\, J. Kohlmorgen\, C. Kopka\, S.
+  Koß\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Me
+ nzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neuman
+ n\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\
+ , Prof. Petersen\, Prof. Prieß\, Prof. Prochnow\, T. Prykhodko\, M. Pöpp
+ er\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. S
+ achse\, J. Schiwy\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeie
+ r\, Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Sielo
+ ff\, M. Teichmann\, M. Voß\, Prof. Weber\, T. Wegert\, Prof. Wehrend\, G.
+  Werner\, T. Wilts\, Prof. Woelk\, Prof. Wree\, V. Zylla
+LOCATION:
+END:VEVENT
+END:VCALENDAR

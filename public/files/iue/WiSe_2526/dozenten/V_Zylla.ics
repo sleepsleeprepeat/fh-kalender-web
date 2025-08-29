@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-Ming4/W1
+DTSTART:20250926T124500
+DTEND:20250926T141500
+DTSTAMP:20250829T105649Z
+UID:61f021d9-33b2-4ca1-8775-c62bac7b72cf
+DESCRIPTION:V. Zylla
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-Ming4/W1
+DTSTART:20251010T124500
+DTEND:20251010T141500
+DTSTAMP:20250829T105649Z
+UID:eeee57e6-2a34-4fe6-a175-2dc276ae1611
+DESCRIPTION:V. Zylla
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-Ming4/W1
+DTSTART:20251024T124500
+DTEND:20251024T141500
+DTSTAMP:20250829T105649Z
+UID:64eecfea-ff4e-433f-9830-6905635c6f0a
+DESCRIPTION:V. Zylla
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-Ming4/W1
+DTSTART:20251121T124500
+DTEND:20251121T141500
+DTSTAMP:20250829T105649Z
+UID:72353ad5-b6c4-4c77-866e-bec47b1ae9fe
+DESCRIPTION:V. Zylla
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-Ming4/W1
+DTSTART:20251205T124500
+DTEND:20251205T141500
+DTSTAMP:20250829T105649Z
+UID:3e1874d3-382b-40c5-891c-3496caa1e801
+DESCRIPTION:V. Zylla
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feiertag - Tag der Deutschen Einheit
+DTSTART:20251003T083000
+DTEND:20251003T180000
+DTSTAMP:20250829T105649Z
+UID:6a31ed85-8500-445e-ba4a-650f4af75bf7
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, M. Ali Algba
+ ra\, J. Angres\, Prof. Aßmuth\, Prof. Badri-Höher\, V. Baierbach\, Prof.
+  Bicakci\, Y. Bockholt\, C. Brauer\, Prof. Brauer\, F. Caspar\, J. Dittman
+ n-Wunderlich\, L. Dürrer\, L. Eggers (HiWi)\, Prof. Ehlers\, P. Farshidfa
+ r\, Prof. Finkemeyer (FB M)\, H. Folkerts\, G. Gesell\, C. Glüsing\, T. G
+ reve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\
+ , J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetze
+ k\, F. Jürgens\, Prof. Kallies\, A. Kinny\, J. Kohlmorgen\, C. Kopka\, S.
+  Koß\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Me
+ nzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neuman
+ n\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\
+ , Prof. Petersen\, Prof. Prieß\, Prof. Prochnow\, T. Prykhodko\, M. Pöpp
+ er\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. S
+ achse\, J. Schiwy\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeie
+ r\, Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Sielo
+ ff\, M. Teichmann\, M. Voß\, Prof. Weber\, T. Wegert\, Prof. Wehrend\, G.
+  Werner\, T. Wilts\, Prof. Woelk\, Prof. Wree\, V. Zylla
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-Ming3
+DTSTART:20250930T101500
+DTEND:20250930T114500
+DTSTAMP:20250829T105649Z
+UID:6b7a425f-6c31-420f-8461-354a2463454b
+DESCRIPTION:ErsatzterminV. Zylla
+LOCATION:C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-Ming3
+DTSTART:20251017T124500
+DTEND:20251017T141500
+DTSTAMP:20250829T105649Z
+UID:7382fc49-9654-4b23-96d8-e231334faa9b
+DESCRIPTION:V. Zylla
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-Ming3
+DTSTART:20251114T124500
+DTEND:20251114T141500
+DTSTAMP:20250829T105649Z
+UID:f0eb1a12-d64f-48ef-8f70-07ca2c315c45
+DESCRIPTION:V. Zylla
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-Ming3
+DTSTART:20251128T124500
+DTEND:20251128T141500
+DTSTAMP:20250829T105649Z
+UID:30318e6d-063c-494b-8045-cf2f20771550
+DESCRIPTION:V. Zylla
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-Ming3
+DTSTART:20251212T124500
+DTEND:20251212T141500
+DTSTAMP:20250829T105649Z
+UID:8ccd2d4b-f690-4a32-8b52-c57f23de95de
+DESCRIPTION:V. Zylla
+LOCATION:C13-2.01
+END:VEVENT
+END:VCALENDAR

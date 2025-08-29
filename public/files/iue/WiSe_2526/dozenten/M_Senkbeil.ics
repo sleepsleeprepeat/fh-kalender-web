@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:XECAD-ÜL-1  Elektrokonstruktion mit EPLAN
+DTSTART:20250924T083000
+DTEND:20250924T114500
+DTSTAMP:20250829T105649Z
+UID:36a6478e-9dae-4404-aba4-bd7e78bf65cd
+DESCRIPTION:M. Senkbeil\, C. Brauer
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XECAD-ÜL-1  Elektrokonstruktion mit EPLAN
+DTSTART:20251008T083000
+DTEND:20251008T114500
+DTSTAMP:20250829T105649Z
+UID:05fffb75-d022-4d81-8736-390d28bea0ef
+DESCRIPTION:M. Senkbeil\, C. Brauer
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XECAD-ÜL-1  Elektrokonstruktion mit EPLAN
+DTSTART:20251022T083000
+DTEND:20251022T114500
+DTSTAMP:20250829T105649Z
+UID:9e0794fd-c942-41e4-92aa-373590ad955a
+DESCRIPTION:M. Senkbeil\, C. Brauer
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XECAD-ÜL-1  Elektrokonstruktion mit EPLAN
+DTSTART:20251119T083000
+DTEND:20251119T114500
+DTSTAMP:20250829T105649Z
+UID:55ca5d04-7427-428d-b073-f91f36432011
+DESCRIPTION:M. Senkbeil\, C. Brauer
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XECAD-ÜL-1  Elektrokonstruktion mit EPLAN
+DTSTART:20251203T083000
+DTEND:20251203T114500
+DTSTAMP:20250829T105649Z
+UID:61822d39-cea5-4ce7-9fac-935e0a912cab
+DESCRIPTION:M. Senkbeil\, C. Brauer
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XECAD-ÜL-1  Elektrokonstruktion mit EPLAN
+DTSTART:20251217T083000
+DTEND:20251217T114500
+DTSTAMP:20250829T105649Z
+UID:dadcd473-d71c-4aee-9024-6b9736cca0ab
+DESCRIPTION:M. Senkbeil\, C. Brauer
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automatisierungstechnik ÜL-2  (WM)
+DTSTART:20250929T083000
+DTEND:20250929T114500
+DTSTAMP:20250829T105649Z
+UID:0bc8f845-d60c-4df3-a8d6-dafd25af30a0
+DESCRIPTION:6.Termin_n.A.M. Senkbeil\, C. Brauer
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feiertag - Tag der Deutschen Einheit
+DTSTART:20251003T083000
+DTEND:20251003T180000
+DTSTAMP:20250829T105649Z
+UID:1b245c3f-8ed2-4b4a-8324-2fe4195f478f
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, M. Ali Algba
+ ra\, J. Angres\, Prof. Aßmuth\, Prof. Badri-Höher\, V. Baierbach\, Prof.
+  Bicakci\, Y. Bockholt\, C. Brauer\, Prof. Brauer\, F. Caspar\, J. Dittman
+ n-Wunderlich\, L. Dürrer\, L. Eggers (HiWi)\, Prof. Ehlers\, P. Farshidfa
+ r\, Prof. Finkemeyer (FB M)\, H. Folkerts\, G. Gesell\, C. Glüsing\, T. G
+ reve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\
+ , J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetze
+ k\, F. Jürgens\, Prof. Kallies\, A. Kinny\, J. Kohlmorgen\, C. Kopka\, S.
+  Koß\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Me
+ nzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neuman
+ n\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\
+ , Prof. Petersen\, Prof. Prieß\, Prof. Prochnow\, T. Prykhodko\, M. Pöpp
+ er\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. S
+ achse\, J. Schiwy\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeie
+ r\, Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Sielo
+ ff\, M. Teichmann\, M. Voß\, Prof. Weber\, T. Wegert\, Prof. Wehrend\, G.
+  Werner\, T. Wilts\, Prof. Woelk\, Prof. Wree\, V. Zylla
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automatisierungstechnik ÜL-2  (WM)
+DTSTART:20251013T083000
+DTEND:20251013T114500
+DTSTAMP:20250829T105649Z
+UID:a32d643f-c219-4148-936f-0980d960b9bc
+DESCRIPTION:6.Termin_n.A.M. Senkbeil\, C. Brauer
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automatisierungstechnik ÜL-2  (WM)
+DTSTART:20251110T083000
+DTEND:20251110T114500
+DTSTAMP:20250829T105649Z
+UID:4b40c534-776d-4295-b6be-70d06e89d833
+DESCRIPTION:6.Termin_n.A.M. Senkbeil\, C. Brauer
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automatisierungstechnik ÜL-2  (WM)
+DTSTART:20251124T083000
+DTEND:20251124T114500
+DTSTAMP:20250829T105649Z
+UID:f7e39ea0-ecde-4501-92f2-1291b9d1634d
+DESCRIPTION:6.Termin_n.A.M. Senkbeil\, C. Brauer
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automatisierungstechnik ÜL-2  (WM)
+DTSTART:20251208T083000
+DTEND:20251208T114500
+DTSTAMP:20250829T105649Z
+UID:631e1345-ab46-4f6b-a5e0-10de89f2a912
+DESCRIPTION:6.Termin_n.A.M. Senkbeil\, C. Brauer
+LOCATION:C12-1.25
+END:VEVENT
+END:VCALENDAR

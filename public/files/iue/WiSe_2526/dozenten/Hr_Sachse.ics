@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Feiertag - Tag der Deutschen Einheit
+DTSTART:20251003T083000
+DTEND:20251003T180000
+DTSTAMP:20250829T105648Z
+UID:c86a0a0c-fd24-4077-85f2-652e6dd9dcc7
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, M. Ali Algba
+ ra\, J. Angres\, Prof. Aßmuth\, Prof. Badri-Höher\, V. Baierbach\, Prof.
+  Bicakci\, Y. Bockholt\, C. Brauer\, Prof. Brauer\, F. Caspar\, J. Dittman
+ n-Wunderlich\, L. Dürrer\, L. Eggers (HiWi)\, Prof. Ehlers\, P. Farshidfa
+ r\, Prof. Finkemeyer (FB M)\, H. Folkerts\, G. Gesell\, C. Glüsing\, T. G
+ reve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\
+ , J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetze
+ k\, F. Jürgens\, Prof. Kallies\, A. Kinny\, J. Kohlmorgen\, C. Kopka\, S.
+  Koß\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Me
+ nzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neuman
+ n\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\
+ , Prof. Petersen\, Prof. Prieß\, Prof. Prochnow\, T. Prykhodko\, M. Pöpp
+ er\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. S
+ achse\, J. Schiwy\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeie
+ r\, Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Sielo
+ ff\, M. Teichmann\, M. Voß\, Prof. Weber\, T. Wegert\, Prof. Wehrend\, G.
+  Werner\, T. Wilts\, Prof. Woelk\, Prof. Wree\, V. Zylla
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Windenergie (Ringvorlesung)
+DTSTART:20251126T090000
+DTEND:20251126T113000
+DTSTAMP:20250829T105648Z
+UID:6331e494-9265-4062-baed-0785632465da
+DESCRIPTION:Start:_09:15UhrHr. Sachse
+LOCATION:C13-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Windenergie (Ringvorlesung)
+DTSTART:20251203T090000
+DTEND:20251203T113000
+DTSTAMP:20250829T105648Z
+UID:a0138f83-5975-4910-b530-11c9b543488a
+DESCRIPTION:Start:_09:15UhrHr. Sachse
+LOCATION:C13-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Windenergie (Ringvorlesung)
+DTSTART:20251210T090000
+DTEND:20251210T113000
+DTSTAMP:20250829T105648Z
+UID:969e57b6-d455-468d-a850-2a75d5b95ab5
+DESCRIPTION:Start:_09:15UhrHr. Sachse
+LOCATION:C13-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Windenergie (Ringvorlesung)
+DTSTART:20251217T090000
+DTEND:20251217T113000
+DTSTAMP:20250829T105648Z
+UID:58e6265d-2c1b-4680-ba6b-d93f193d6e5d
+DESCRIPTION:Start:_09:15UhrHr. Sachse
+LOCATION:C13-0.01
+END:VEVENT
+END:VCALENDAR

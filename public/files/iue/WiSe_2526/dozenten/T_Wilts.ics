@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Feiertag - Tag der Deutschen Einheit
+DTSTART:20251003T083000
+DTEND:20251003T180000
+DTSTAMP:20250829T105649Z
+UID:e35a005f-ee18-47de-96dd-a24af2fcce95
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, M. Ali Algba
+ ra\, J. Angres\, Prof. Aßmuth\, Prof. Badri-Höher\, V. Baierbach\, Prof.
+  Bicakci\, Y. Bockholt\, C. Brauer\, Prof. Brauer\, F. Caspar\, J. Dittman
+ n-Wunderlich\, L. Dürrer\, L. Eggers (HiWi)\, Prof. Ehlers\, P. Farshidfa
+ r\, Prof. Finkemeyer (FB M)\, H. Folkerts\, G. Gesell\, C. Glüsing\, T. G
+ reve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\
+ , J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetze
+ k\, F. Jürgens\, Prof. Kallies\, A. Kinny\, J. Kohlmorgen\, C. Kopka\, S.
+  Koß\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Me
+ nzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neuman
+ n\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\
+ , Prof. Petersen\, Prof. Prieß\, Prof. Prochnow\, T. Prykhodko\, M. Pöpp
+ er\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. S
+ achse\, J. Schiwy\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeie
+ r\, Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Sielo
+ ff\, M. Teichmann\, M. Voß\, Prof. Weber\, T. Wegert\, Prof. Wehrend\, G.
+  Werner\, T. Wilts\, Prof. Woelk\, Prof. Wree\, V. Zylla
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MK113-ÜL  Channel Coding
+DTSTART:20251001T101500
+DTEND:20251001T114500
+DTSTAMP:20250829T105649Z
+UID:7557040d-50cb-4a08-bbb5-f109145b579f
+DESCRIPTION:T. Wilts
+LOCATION:C13-2.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MK113-ÜL  Channel Coding
+DTSTART:20251015T101500
+DTEND:20251015T114500
+DTSTAMP:20250829T105649Z
+UID:3214617d-4af5-4255-80a9-085280f3121d
+DESCRIPTION:T. Wilts
+LOCATION:C13-2.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MK113-ÜL  Channel Coding
+DTSTART:20251112T101500
+DTEND:20251112T114500
+DTSTAMP:20250829T105649Z
+UID:9b86f744-b2a0-4be7-abe0-121b420ad6c3
+DESCRIPTION:T. Wilts
+LOCATION:C13-2.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MK113-ÜL  Channel Coding
+DTSTART:20251126T101500
+DTEND:20251126T114500
+DTSTAMP:20250829T105649Z
+UID:f0b68308-1ed5-4e9f-8200-07fd236a66e6
+DESCRIPTION:T. Wilts
+LOCATION:C13-2.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MK113-ÜL  Channel Coding
+DTSTART:20251210T101500
+DTEND:20251210T114500
+DTSTAMP:20250829T105649Z
+UID:c5143f71-2083-4c77-ab65-19bd5241161b
+DESCRIPTION:T. Wilts
+LOCATION:C13-2.18
+END:VEVENT
+END:VCALENDAR

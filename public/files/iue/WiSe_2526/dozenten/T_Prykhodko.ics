@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-Ming2
+DTSTART:20250926T124500
+DTEND:20250926T141500
+DTSTAMP:20250829T105648Z
+UID:aa627e34-de59-4fbe-972b-25bc4bf4c66f
+DESCRIPTION:T. Prykhodko
+LOCATION:C13-3.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-Ming2
+DTSTART:20251010T124500
+DTEND:20251010T141500
+DTSTAMP:20250829T105648Z
+UID:7f64b977-8b58-4abd-8372-73fc82167751
+DESCRIPTION:T. Prykhodko
+LOCATION:C13-3.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-Ming2
+DTSTART:20251024T124500
+DTEND:20251024T141500
+DTSTAMP:20250829T105648Z
+UID:e3f2ba04-2473-4fa6-a053-4e22c3857d0b
+DESCRIPTION:T. Prykhodko
+LOCATION:C13-3.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-Ming2
+DTSTART:20251121T124500
+DTEND:20251121T141500
+DTSTAMP:20250829T105648Z
+UID:ebecda95-f89a-484a-8d81-772844ce40e3
+DESCRIPTION:T. Prykhodko
+LOCATION:C13-3.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-Ming2
+DTSTART:20251205T124500
+DTEND:20251205T141500
+DTSTAMP:20250829T105648Z
+UID:c98747c8-6ad3-4967-848e-779f63789038
+DESCRIPTION:T. Prykhodko
+LOCATION:C13-3.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feiertag - Tag der Deutschen Einheit
+DTSTART:20251003T083000
+DTEND:20251003T180000
+DTSTAMP:20250829T105648Z
+UID:78cbcf22-d098-4de7-8967-3054f624fde5
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, M. Ali Algba
+ ra\, J. Angres\, Prof. Aßmuth\, Prof. Badri-Höher\, V. Baierbach\, Prof.
+  Bicakci\, Y. Bockholt\, C. Brauer\, Prof. Brauer\, F. Caspar\, J. Dittman
+ n-Wunderlich\, L. Dürrer\, L. Eggers (HiWi)\, Prof. Ehlers\, P. Farshidfa
+ r\, Prof. Finkemeyer (FB M)\, H. Folkerts\, G. Gesell\, C. Glüsing\, T. G
+ reve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\
+ , J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetze
+ k\, F. Jürgens\, Prof. Kallies\, A. Kinny\, J. Kohlmorgen\, C. Kopka\, S.
+  Koß\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Me
+ nzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neuman
+ n\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\
+ , Prof. Petersen\, Prof. Prieß\, Prof. Prochnow\, T. Prykhodko\, M. Pöpp
+ er\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. S
+ achse\, J. Schiwy\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeie
+ r\, Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Sielo
+ ff\, M. Teichmann\, M. Voß\, Prof. Weber\, T. Wegert\, Prof. Wehrend\, G.
+  Werner\, T. Wilts\, Prof. Woelk\, Prof. Wree\, V. Zylla
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-Ming1
+DTSTART:20250929T161500
+DTEND:20250929T174500
+DTSTAMP:20250829T105648Z
+UID:0d3fa09c-9bc9-40cf-94f7-fa6377635bbd
+DESCRIPTION:ErsatzterminT. Prykhodko
+LOCATION:C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-Ming1
+DTSTART:20251017T124500
+DTEND:20251017T141500
+DTSTAMP:20250829T105648Z
+UID:d8e66010-5045-4b10-b619-6b0cb9984fc3
+DESCRIPTION:T. Prykhodko
+LOCATION:C13-3.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-Ming1
+DTSTART:20251114T124500
+DTEND:20251114T141500
+DTSTAMP:20250829T105648Z
+UID:a627aa81-08ef-41c7-9a67-bf8f8bfbcb5e
+DESCRIPTION:T. Prykhodko
+LOCATION:C13-3.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-Ming1
+DTSTART:20251128T124500
+DTEND:20251128T141500
+DTSTAMP:20250829T105648Z
+UID:179a52c3-5caf-4dd2-bec4-8d17a0fbdaf2
+DESCRIPTION:T. Prykhodko
+LOCATION:C13-3.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anforderungsmanagement ÜL-Ming1
+DTSTART:20251212T124500
+DTEND:20251212T141500
+DTSTAMP:20250829T105648Z
+UID:2143b8de-4b34-4423-8419-49ab3053cef6
+DESCRIPTION:T. Prykhodko
+LOCATION:C13-3.01
+END:VEVENT
+END:VCALENDAR

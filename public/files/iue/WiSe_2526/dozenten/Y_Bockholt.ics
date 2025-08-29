@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Mecha. Integration-ÜL-M2
+DTSTART:20250923T143000
+DTEND:20250923T160000
+DTSTAMP:20250829T105648Z
+UID:b9a7ecf6-a392-4780-9544-b3b61e5c696a
+DESCRIPTION:Y. Bockholt
+LOCATION:C12-4.04\, C12-3.34
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mecha. Integration-ÜL-M2
+DTSTART:20251007T143000
+DTEND:20251007T160000
+DTSTAMP:20250829T105648Z
+UID:3065a2f2-cda0-4f3f-bf1a-eca0a38fd1c5
+DESCRIPTION:Y. Bockholt
+LOCATION:C12-4.04\, C12-3.34
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mecha. Integration-ÜL-M2
+DTSTART:20251014T143000
+DTEND:20251014T160000
+DTSTAMP:20250829T105648Z
+UID:bb4be500-6223-42c5-ac39-8265e1dc3e23
+DESCRIPTION:Y. Bockholt
+LOCATION:C12-4.04\, C12-3.34
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mecha. Integration-ÜL-M2
+DTSTART:20251021T143000
+DTEND:20251021T160000
+DTSTAMP:20250829T105648Z
+UID:d6c1fecf-0e17-4d5e-b7d2-85d6ce033846
+DESCRIPTION:Y. Bockholt
+LOCATION:C12-4.04\, C12-3.34
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mecha. Integration-ÜL-M2
+DTSTART:20251111T143000
+DTEND:20251111T160000
+DTSTAMP:20250829T105648Z
+UID:b74b923b-39ab-468d-8662-2847ed27ed28
+DESCRIPTION:Y. Bockholt
+LOCATION:C12-4.04\, C12-3.34
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mecha. Integration-ÜL-M2
+DTSTART:20251118T143000
+DTEND:20251118T160000
+DTSTAMP:20250829T105648Z
+UID:1fdc9563-e1fe-401a-b0ce-c6f3aad2b613
+DESCRIPTION:Y. Bockholt
+LOCATION:C12-4.04\, C12-3.34
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mecha. Integration-ÜL-M2
+DTSTART:20251125T143000
+DTEND:20251125T160000
+DTSTAMP:20250829T105648Z
+UID:28546059-b2e8-4aa2-b6ae-625c6172d185
+DESCRIPTION:Y. Bockholt
+LOCATION:C12-4.04\, C12-3.34
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mecha. Integration-ÜL-M2
+DTSTART:20251202T143000
+DTEND:20251202T160000
+DTSTAMP:20250829T105648Z
+UID:8a2fed1c-6e45-403c-8d89-fe61362b3f7d
+DESCRIPTION:Y. Bockholt
+LOCATION:C12-4.04\, C12-3.34
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mecha. Integration-ÜL-M2
+DTSTART:20251209T143000
+DTEND:20251209T160000
+DTSTAMP:20250829T105648Z
+UID:4f93b782-5364-4109-9c00-c66471c5a160
+DESCRIPTION:Y. Bockholt
+LOCATION:C12-4.04\, C12-3.34
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feiertag - Tag der Deutschen Einheit
+DTSTART:20251003T083000
+DTEND:20251003T180000
+DTSTAMP:20250829T105648Z
+UID:13d9d3b6-4a2d-4f5c-897e-aff77bdbc798
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, M. Ali Algba
+ ra\, J. Angres\, Prof. Aßmuth\, Prof. Badri-Höher\, V. Baierbach\, Prof.
+  Bicakci\, Y. Bockholt\, C. Brauer\, Prof. Brauer\, F. Caspar\, J. Dittman
+ n-Wunderlich\, L. Dürrer\, L. Eggers (HiWi)\, Prof. Ehlers\, P. Farshidfa
+ r\, Prof. Finkemeyer (FB M)\, H. Folkerts\, G. Gesell\, C. Glüsing\, T. G
+ reve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\
+ , J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetze
+ k\, F. Jürgens\, Prof. Kallies\, A. Kinny\, J. Kohlmorgen\, C. Kopka\, S.
+  Koß\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Me
+ nzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neuman
+ n\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\
+ , Prof. Petersen\, Prof. Prieß\, Prof. Prochnow\, T. Prykhodko\, M. Pöpp
+ er\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. S
+ achse\, J. Schiwy\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeie
+ r\, Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Sielo
+ ff\, M. Teichmann\, M. Voß\, Prof. Weber\, T. Wegert\, Prof. Wehrend\, G.
+  Werner\, T. Wilts\, Prof. Woelk\, Prof. Wree\, V. Zylla
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mecha. Integration-ÜL-M2
+DTSTART:20250930T143000
+DTEND:20250930T160000
+DTSTAMP:20250829T105648Z
+UID:bf1cdf6f-623d-4ebb-9a56-3b7e499c2731
+DESCRIPTION:Y. Bockholt
+LOCATION:C12-4.04\, C12-3.34
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mecha. Integration ÜL Präsentation
+DTSTART:20251216T143000
+DTEND:20251216T174500
+DTSTAMP:20250829T105648Z
+UID:5ad519e8-400f-41aa-8e62-ca730356edd9
+DESCRIPTION:Prof. Bicakci\, Y. Bockholt
+LOCATION:C12-2.14
+END:VEVENT
+END:VCALENDAR
