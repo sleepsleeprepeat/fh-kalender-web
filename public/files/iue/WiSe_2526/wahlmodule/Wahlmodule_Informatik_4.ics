@@ -5,8 +5,8 @@ BEGIN:VEVENT
 SUMMARY:BI141 Grundlagen funktionaler Programmierung
 DTSTART:20250916T143000
 DTEND:20250916T174500
-DTSTAMP:20250829T110924Z
-UID:fd9d4f9f-a493-40a8-886f-10260f1bdd5d
+DTSTAMP:20250921T234515Z
+UID:e6f68e27-df1b-446f-82ad-531a80cf080f
 DESCRIPTION:J. Angres
 LOCATION:C13-1.20
 END:VEVENT
@@ -14,8 +14,8 @@ BEGIN:VEVENT
 SUMMARY:BI141 Grundlagen funktionaler Programmierung
 DTSTART:20250923T143000
 DTEND:20250923T174500
-DTSTAMP:20250829T110924Z
-UID:c85b3830-8424-413a-b6a4-264fa2cfa90e
+DTSTAMP:20250921T234515Z
+UID:11d92d65-bfaf-4820-ae32-586a1637973f
 DESCRIPTION:J. Angres
 LOCATION:C13-1.20
 END:VEVENT
@@ -23,8 +23,8 @@ BEGIN:VEVENT
 SUMMARY:BI141 Grundlagen funktionaler Programmierung
 DTSTART:20251007T143000
 DTEND:20251007T174500
-DTSTAMP:20250829T110924Z
-UID:0ff0d9d7-d3a9-4222-8121-72fd204d8ab1
+DTSTAMP:20250921T234515Z
+UID:dc282ec5-49d8-4b9d-912d-3be95c33b0c0
 DESCRIPTION:J. Angres
 LOCATION:C13-1.20
 END:VEVENT
@@ -32,8 +32,8 @@ BEGIN:VEVENT
 SUMMARY:BI141 Grundlagen funktionaler Programmierung
 DTSTART:20251014T143000
 DTEND:20251014T174500
-DTSTAMP:20250829T110924Z
-UID:dc57c935-135f-41f5-9f1e-32ccbc8c0a44
+DTSTAMP:20250921T234515Z
+UID:a662f44e-a3e7-40cc-9f05-6669aafd7504
 DESCRIPTION:J. Angres
 LOCATION:C13-1.20
 END:VEVENT
@@ -41,8 +41,8 @@ BEGIN:VEVENT
 SUMMARY:BI141 Grundlagen funktionaler Programmierung
 DTSTART:20251021T143000
 DTEND:20251021T174500
-DTSTAMP:20250829T110924Z
-UID:ffb3f1cf-1238-45ba-9670-81ff438b922f
+DTSTAMP:20250921T234515Z
+UID:446dbf3f-ff21-40e0-90c4-3418d244b561
 DESCRIPTION:J. Angres
 LOCATION:C13-1.20
 END:VEVENT
@@ -50,8 +50,8 @@ BEGIN:VEVENT
 SUMMARY:BI141 Grundlagen funktionaler Programmierung
 DTSTART:20251118T143000
 DTEND:20251118T174500
-DTSTAMP:20250829T110924Z
-UID:265538a9-306a-48a4-a014-ba90b4bfe3d1
+DTSTAMP:20250921T234515Z
+UID:2f1cecef-f3e3-40cb-8c18-4bde7f7c2fda
 DESCRIPTION:J. Angres
 LOCATION:C13-1.20
 END:VEVENT
@@ -59,8 +59,8 @@ BEGIN:VEVENT
 SUMMARY:BI141 Grundlagen funktionaler Programmierung
 DTSTART:20251125T143000
 DTEND:20251125T174500
-DTSTAMP:20250829T110924Z
-UID:a1de1ffb-a1fa-4825-aad0-6fba001b1c26
+DTSTAMP:20250921T234515Z
+UID:f9c6b59c-c299-4005-9a7e-dc0793eeab59
 DESCRIPTION:J. Angres
 LOCATION:C13-1.20
 END:VEVENT
@@ -68,8 +68,8 @@ BEGIN:VEVENT
 SUMMARY:BI141 Grundlagen funktionaler Programmierung
 DTSTART:20251202T143000
 DTEND:20251202T174500
-DTSTAMP:20250829T110924Z
-UID:de1502fb-e1bf-40f1-8f9d-e7e37f6e23c5
+DTSTAMP:20250921T234515Z
+UID:afb5357e-9066-4d54-b156-2948c4387286
 DESCRIPTION:J. Angres
 LOCATION:C13-1.20
 END:VEVENT
@@ -77,8 +77,8 @@ BEGIN:VEVENT
 SUMMARY:BI141 Grundlagen funktionaler Programmierung
 DTSTART:20251209T143000
 DTEND:20251209T174500
-DTSTAMP:20250829T110924Z
-UID:9faf764d-4fd8-4dce-a108-e1ee6c818bf1
+DTSTAMP:20250921T234515Z
+UID:f11ea346-be9d-43f5-9717-65d493cb3b27
 DESCRIPTION:J. Angres
 LOCATION:C13-1.20
 END:VEVENT
@@ -86,8 +86,8 @@ BEGIN:VEVENT
 SUMMARY:BI141 Grundlagen funktionaler Programmierung
 DTSTART:20251216T143000
 DTEND:20251216T174500
-DTSTAMP:20250829T110924Z
-UID:4cd75586-caa5-47b2-badb-5bcc1f6a1b5d
+DTSTAMP:20250921T234515Z
+UID:4511f9a8-48c9-4646-ad2f-0ca208567128
 DESCRIPTION:J. Angres
 LOCATION:C13-1.20
 END:VEVENT
@@ -95,33 +95,33 @@ BEGIN:VEVENT
 SUMMARY:Feiertag - Tag der Deutschen Einheit
 DTSTART:20251003T083000
 DTEND:20251003T180000
-DTSTAMP:20250829T110924Z
-UID:e79d8aa5-f9c9-4cae-ba8f-b2beadb51d75
-DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, M. Ali Algba
- ra\, J. Angres\, Prof. Aßmuth\, Prof. Badri-Höher\, V. Baierbach\, Prof.
-  Bicakci\, Y. Bockholt\, C. Brauer\, Prof. Brauer\, F. Caspar\, J. Dittman
- n-Wunderlich\, L. Dürrer\, L. Eggers (HiWi)\, Prof. Ehlers\, P. Farshidfa
- r\, Prof. Finkemeyer (FB M)\, H. Folkerts\, G. Gesell\, C. Glüsing\, T. G
- reve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\
- , J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetze
- k\, F. Jürgens\, Prof. Kallies\, A. Kinny\, J. Kohlmorgen\, C. Kopka\, S.
-  Koß\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Me
- nzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neuman
- n\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\
- , Prof. Petersen\, Prof. Prieß\, Prof. Prochnow\, T. Prykhodko\, M. Pöpp
- er\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. S
- achse\, J. Schiwy\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeie
- r\, Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Sielo
- ff\, M. Teichmann\, M. Voß\, Prof. Weber\, T. Wegert\, Prof. Wehrend\, G.
-  Werner\, T. Wilts\, Prof. Woelk\, Prof. Wree\, V. Zylla
+DTSTAMP:20250921T234515Z
+UID:c46aa4f2-d35d-432c-b450-977fbd48ba3d
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitV. Zylla\, Prof. Wree\, Pr
+ of. Woelk\, T. Wilts\, G. Werner\, Prof. Wehrend\, T. Wegert\, Prof. Weber
+ \, M. Voß\, M. Teichmann\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C
+ . Schwatlo\, Prof. Schramm\, Prof. Schmidt-Rethmeier\, S. Schmarbeck\, Hr.
+  Schmagold\, J. Schiwy\, Hr. Sachse\, J. Rähse\, T. Rixen\, Prof. Rinder\
+ , M. Riedel\, R. Raßmann\, M. Pöpper\, T. Prykhodko\, Prof. Prochnow\, P
+ rof. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, Prof. Osterwald\
+ , H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, A.\, E. Moritz\,
+  H. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof.
+  Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A. Kinny\, P
+ rof. Kallies\, F. Jürgens\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\,
+  M. Ignatov\, J. Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, 
+ R. Hellmund\, Hr. Gripp\, T. Greve\, C. Glüsing\, G. Gesell\, H. Folkerts
+ \, Prof. Finkemeyer (FB M)\, P. Farshidfar\, Prof. Ehlers\, L. Eggers (HiW
+ i)\, L. Dürrer\, J. Dittmann-Wunderlich\, F. Caspar\, Prof. Brauer\, C. B
+ rauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, V. Baierbach\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BI141 Grundlagen funktionaler Programmierung
 DTSTART:20250930T143000
 DTEND:20250930T174500
-DTSTAMP:20250829T110924Z
-UID:66fd576d-f3d9-4ad5-b197-d64b8c86b9ee
+DTSTAMP:20250921T234515Z
+UID:8606fe0d-d9e4-48a7-b6e6-564b730740cd
 DESCRIPTION:J. Angres
 LOCATION:C13-1.20
 END:VEVENT
@@ -129,8 +129,8 @@ BEGIN:VEVENT
 SUMMARY:talent transfer Jobmesse
 DTSTART:20251112T090000
 DTEND:20251112T160000
-DTSTAMP:20250829T110924Z
-UID:43e8a278-ef7a-44c1-902c-ecb8ffda0990
+DTSTAMP:20250921T234515Z
+UID:c3c32580-baf6-4a42-9285-06b4851690c0
 DESCRIPTION:09:00-16:00_Uhr
 LOCATION:
 END:VEVENT
@@ -138,8 +138,8 @@ BEGIN:VEVENT
 SUMMARY:BI141 Grundlagen funktionaler Programmierung
 DTSTART:20251111T143000
 DTEND:20251111T174500
-DTSTAMP:20250829T110924Z
-UID:65cf6b88-8d2d-4112-82e4-d802a8cafeea
+DTSTAMP:20250921T234515Z
+UID:e71ffbdb-03e7-474c-8296-be58acf966a9
 DESCRIPTION:J. Angres
 LOCATION:C13-1.20
 END:VEVENT

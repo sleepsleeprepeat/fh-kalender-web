@@ -5,8 +5,8 @@ BEGIN:VEVENT
 SUMMARY:Automatisierungstechnik ÜL-1
 DTSTART:20250922T143000
 DTEND:20250922T174500
-DTSTAMP:20250829T105648Z
-UID:e02a9b48-54a4-4830-88f4-5c44a6d13f96
+DTSTAMP:20250921T233250Z
+UID:cae827b9-51b5-407d-b72e-0a55d339053e
 DESCRIPTION:C. Brauer\, G. Gesell
 LOCATION:C12-1.25
 END:VEVENT
@@ -14,8 +14,8 @@ BEGIN:VEVENT
 SUMMARY:Automatisierungstechnik ÜL-1
 DTSTART:20251006T143000
 DTEND:20251006T174500
-DTSTAMP:20250829T105648Z
-UID:0b5d596d-2229-4ece-8df1-4a11cbca2e8d
+DTSTAMP:20250921T233250Z
+UID:d95e6c17-13a4-4911-812c-52a9261cb151
 DESCRIPTION:C. Brauer\, G. Gesell
 LOCATION:C12-1.25
 END:VEVENT
@@ -23,8 +23,8 @@ BEGIN:VEVENT
 SUMMARY:Automatisierungstechnik ÜL-1
 DTSTART:20251020T143000
 DTEND:20251020T174500
-DTSTAMP:20250829T105648Z
-UID:d52222fd-673f-4355-990f-c5b67e4ef139
+DTSTAMP:20250921T233250Z
+UID:fc9a3877-b464-4946-abef-1da7e62950c8
 DESCRIPTION:C. Brauer\, G. Gesell
 LOCATION:C12-1.25
 END:VEVENT
@@ -32,8 +32,8 @@ BEGIN:VEVENT
 SUMMARY:Automatisierungstechnik ÜL-1
 DTSTART:20251117T143000
 DTEND:20251117T174500
-DTSTAMP:20250829T105648Z
-UID:847bcbe2-b674-4f41-af84-b84f7da08f55
+DTSTAMP:20250921T233250Z
+UID:8dcd0563-9ddb-497c-9247-87cc37f2d035
 DESCRIPTION:C. Brauer\, G. Gesell
 LOCATION:C12-1.25
 END:VEVENT
@@ -41,8 +41,8 @@ BEGIN:VEVENT
 SUMMARY:Automatisierungstechnik ÜL-1
 DTSTART:20251201T143000
 DTEND:20251201T174500
-DTSTAMP:20250829T105648Z
-UID:7ac1c038-fe4b-473a-9778-e968306ade5f
+DTSTAMP:20250921T233250Z
+UID:e1b307e0-e740-41b0-8f61-e3fe85fa5ac8
 DESCRIPTION:C. Brauer\, G. Gesell
 LOCATION:C12-1.25
 END:VEVENT
@@ -50,8 +50,8 @@ BEGIN:VEVENT
 SUMMARY:Automatisierungstechnik ÜL-1
 DTSTART:20251215T143000
 DTEND:20251215T174500
-DTSTAMP:20250829T105648Z
-UID:444b4d27-b691-4088-8b59-5bcbeab5466f
+DTSTAMP:20250921T233250Z
+UID:85ad7189-8cc6-46f9-aafa-a353dc9f38de
 DESCRIPTION:C. Brauer\, G. Gesell
 LOCATION:C12-1.25
 END:VEVENT
@@ -59,25 +59,25 @@ BEGIN:VEVENT
 SUMMARY:Feiertag - Tag der Deutschen Einheit
 DTSTART:20251003T083000
 DTEND:20251003T180000
-DTSTAMP:20250829T105648Z
-UID:5a18398c-16d9-4ca9-ab5a-961454e13b03
-DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, M. Ali Algba
- ra\, J. Angres\, Prof. Aßmuth\, Prof. Badri-Höher\, V. Baierbach\, Prof.
-  Bicakci\, Y. Bockholt\, C. Brauer\, Prof. Brauer\, F. Caspar\, J. Dittman
- n-Wunderlich\, L. Dürrer\, L. Eggers (HiWi)\, Prof. Ehlers\, P. Farshidfa
- r\, Prof. Finkemeyer (FB M)\, H. Folkerts\, G. Gesell\, C. Glüsing\, T. G
- reve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\
- , J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetze
- k\, F. Jürgens\, Prof. Kallies\, A. Kinny\, J. Kohlmorgen\, C. Kopka\, S.
-  Koß\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Me
- nzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neuman
- n\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\
- , Prof. Petersen\, Prof. Prieß\, Prof. Prochnow\, T. Prykhodko\, M. Pöpp
- er\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. S
- achse\, J. Schiwy\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeie
- r\, Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Sielo
- ff\, M. Teichmann\, M. Voß\, Prof. Weber\, T. Wegert\, Prof. Wehrend\, G.
-  Werner\, T. Wilts\, Prof. Woelk\, Prof. Wree\, V. Zylla
+DTSTAMP:20250921T233250Z
+UID:45d7e11d-c273-41af-b12b-b15e0f99fcf1
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitV. Zylla\, Prof. Wree\, Pr
+ of. Woelk\, T. Wilts\, G. Werner\, Prof. Wehrend\, T. Wegert\, Prof. Weber
+ \, M. Voß\, M. Teichmann\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C
+ . Schwatlo\, Prof. Schramm\, Prof. Schmidt-Rethmeier\, S. Schmarbeck\, Hr.
+  Schmagold\, J. Schiwy\, Hr. Sachse\, J. Rähse\, T. Rixen\, Prof. Rinder\
+ , M. Riedel\, R. Raßmann\, M. Pöpper\, T. Prykhodko\, Prof. Prochnow\, P
+ rof. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, Prof. Osterwald\
+ , H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, A.\, E. Moritz\,
+  H. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof.
+  Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A. Kinny\, P
+ rof. Kallies\, F. Jürgens\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\,
+  M. Ignatov\, J. Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, 
+ R. Hellmund\, Hr. Gripp\, T. Greve\, C. Glüsing\, G. Gesell\, H. Folkerts
+ \, Prof. Finkemeyer (FB M)\, P. Farshidfar\, Prof. Ehlers\, L. Eggers (HiW
+ i)\, L. Dürrer\, J. Dittmann-Wunderlich\, F. Caspar\, Prof. Brauer\, C. B
+ rauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, V. Baierbach\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
 LOCATION:
 END:VEVENT
 END:VCALENDAR

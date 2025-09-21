@@ -5,33 +5,33 @@ BEGIN:VEVENT
 SUMMARY:Feiertag - Tag der Deutschen Einheit
 DTSTART:20251003T083000
 DTEND:20251003T180000
-DTSTAMP:20250829T105649Z
-UID:98257a1f-aa71-486d-9f74-646b0be1b2bb
-DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, M. Ali Algba
- ra\, J. Angres\, Prof. Aßmuth\, Prof. Badri-Höher\, V. Baierbach\, Prof.
-  Bicakci\, Y. Bockholt\, C. Brauer\, Prof. Brauer\, F. Caspar\, J. Dittman
- n-Wunderlich\, L. Dürrer\, L. Eggers (HiWi)\, Prof. Ehlers\, P. Farshidfa
- r\, Prof. Finkemeyer (FB M)\, H. Folkerts\, G. Gesell\, C. Glüsing\, T. G
- reve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\
- , J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetze
- k\, F. Jürgens\, Prof. Kallies\, A. Kinny\, J. Kohlmorgen\, C. Kopka\, S.
-  Koß\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Me
- nzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neuman
- n\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\
- , Prof. Petersen\, Prof. Prieß\, Prof. Prochnow\, T. Prykhodko\, M. Pöpp
- er\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. S
- achse\, J. Schiwy\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeie
- r\, Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Sielo
- ff\, M. Teichmann\, M. Voß\, Prof. Weber\, T. Wegert\, Prof. Wehrend\, G.
-  Werner\, T. Wilts\, Prof. Woelk\, Prof. Wree\, V. Zylla
+DTSTAMP:20250921T233251Z
+UID:e2f13457-56ea-4046-89c5-c238f25958d2
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitV. Zylla\, Prof. Wree\, Pr
+ of. Woelk\, T. Wilts\, G. Werner\, Prof. Wehrend\, T. Wegert\, Prof. Weber
+ \, M. Voß\, M. Teichmann\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C
+ . Schwatlo\, Prof. Schramm\, Prof. Schmidt-Rethmeier\, S. Schmarbeck\, Hr.
+  Schmagold\, J. Schiwy\, Hr. Sachse\, J. Rähse\, T. Rixen\, Prof. Rinder\
+ , M. Riedel\, R. Raßmann\, M. Pöpper\, T. Prykhodko\, Prof. Prochnow\, P
+ rof. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, Prof. Osterwald\
+ , H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, A.\, E. Moritz\,
+  H. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof.
+  Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A. Kinny\, P
+ rof. Kallies\, F. Jürgens\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\,
+  M. Ignatov\, J. Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, 
+ R. Hellmund\, Hr. Gripp\, T. Greve\, C. Glüsing\, G. Gesell\, H. Folkerts
+ \, Prof. Finkemeyer (FB M)\, P. Farshidfar\, Prof. Ehlers\, L. Eggers (HiW
+ i)\, L. Dürrer\, J. Dittmann-Wunderlich\, F. Caspar\, Prof. Brauer\, C. B
+ rauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, V. Baierbach\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rechnergestützte Messtechnik ÜL-E3
 DTSTART:20250929T124500
 DTEND:20250929T160000
-DTSTAMP:20250829T105649Z
-UID:51999a88-e485-438e-afc3-fad904a6271d
+DTSTAMP:20250921T233251Z
+UID:d6597400-d52f-4e83-9451-896d60003cb8
 DESCRIPTION:6._Termin_n.A.C. Brauer\, J. Kohlmorgen\, T. Wegert
 LOCATION:C12-2.64 / 2.65
 END:VEVENT
@@ -39,8 +39,8 @@ BEGIN:VEVENT
 SUMMARY:Rechnergestützte Messtechnik ÜL-E3
 DTSTART:20251013T124500
 DTEND:20251013T160000
-DTSTAMP:20250829T105649Z
-UID:d3b6ae89-53b2-4ece-9af2-0750ae80cf50
+DTSTAMP:20250921T233251Z
+UID:7b6198bc-c136-4c1e-98e9-954df6f24043
 DESCRIPTION:6._Termin_n.A.C. Brauer\, J. Kohlmorgen\, T. Wegert
 LOCATION:C12-2.64 / 2.65
 END:VEVENT
@@ -48,8 +48,8 @@ BEGIN:VEVENT
 SUMMARY:Rechnergestützte Messtechnik ÜL-E3
 DTSTART:20251110T124500
 DTEND:20251110T160000
-DTSTAMP:20250829T105649Z
-UID:eaa69751-eb4e-4eee-a31d-e89ef978def0
+DTSTAMP:20250921T233251Z
+UID:ebc8d812-60d3-492c-a6e7-6ab26d5b6ad4
 DESCRIPTION:6._Termin_n.A.C. Brauer\, J. Kohlmorgen\, T. Wegert
 LOCATION:C12-2.64 / 2.65
 END:VEVENT
@@ -57,8 +57,8 @@ BEGIN:VEVENT
 SUMMARY:Rechnergestützte Messtechnik ÜL-E3
 DTSTART:20251124T124500
 DTEND:20251124T160000
-DTSTAMP:20250829T105649Z
-UID:19d889d3-aa1a-4dc8-84fc-95cd2c2792fb
+DTSTAMP:20250921T233251Z
+UID:7befa2d7-420a-4cfb-82e8-bd5e0cd59999
 DESCRIPTION:6._Termin_n.A.C. Brauer\, J. Kohlmorgen\, T. Wegert
 LOCATION:C12-2.64 / 2.65
 END:VEVENT
@@ -66,8 +66,8 @@ BEGIN:VEVENT
 SUMMARY:Rechnergestützte Messtechnik ÜL-E3
 DTSTART:20251208T124500
 DTEND:20251208T160000
-DTSTAMP:20250829T105649Z
-UID:069b9bd4-1f06-4c18-becd-e9325c948e68
+DTSTAMP:20250921T233251Z
+UID:c9046700-9b1e-473d-a7b4-dbd7ca651c79
 DESCRIPTION:6._Termin_n.A.C. Brauer\, J. Kohlmorgen\, T. Wegert
 LOCATION:C12-2.64 / 2.65
 END:VEVENT

@@ -5,60 +5,33 @@ BEGIN:VEVENT
 SUMMARY:Feiertag - Tag der Deutschen Einheit
 DTSTART:20251003T083000
 DTEND:20251003T180000
-DTSTAMP:20250829T105648Z
-UID:061e0049-faa8-4060-bd5d-dad067d6925e
-DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, M. Ali Algba
- ra\, J. Angres\, Prof. Aßmuth\, Prof. Badri-Höher\, V. Baierbach\, Prof.
-  Bicakci\, Y. Bockholt\, C. Brauer\, Prof. Brauer\, F. Caspar\, J. Dittman
- n-Wunderlich\, L. Dürrer\, L. Eggers (HiWi)\, Prof. Ehlers\, P. Farshidfa
- r\, Prof. Finkemeyer (FB M)\, H. Folkerts\, G. Gesell\, C. Glüsing\, T. G
- reve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\
- , J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetze
- k\, F. Jürgens\, Prof. Kallies\, A. Kinny\, J. Kohlmorgen\, C. Kopka\, S.
-  Koß\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Me
- nzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neuman
- n\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\
- , Prof. Petersen\, Prof. Prieß\, Prof. Prochnow\, T. Prykhodko\, M. Pöpp
- er\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. S
- achse\, J. Schiwy\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeie
- r\, Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Sielo
- ff\, M. Teichmann\, M. Voß\, Prof. Weber\, T. Wegert\, Prof. Wehrend\, G.
-  Werner\, T. Wilts\, Prof. Woelk\, Prof. Wree\, V. Zylla
+DTSTAMP:20250921T233250Z
+UID:167bb024-8091-4fd2-b981-72e5a3f1596a
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitV. Zylla\, Prof. Wree\, Pr
+ of. Woelk\, T. Wilts\, G. Werner\, Prof. Wehrend\, T. Wegert\, Prof. Weber
+ \, M. Voß\, M. Teichmann\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C
+ . Schwatlo\, Prof. Schramm\, Prof. Schmidt-Rethmeier\, S. Schmarbeck\, Hr.
+  Schmagold\, J. Schiwy\, Hr. Sachse\, J. Rähse\, T. Rixen\, Prof. Rinder\
+ , M. Riedel\, R. Raßmann\, M. Pöpper\, T. Prykhodko\, Prof. Prochnow\, P
+ rof. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, Prof. Osterwald\
+ , H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, A.\, E. Moritz\,
+  H. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof.
+  Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A. Kinny\, P
+ rof. Kallies\, F. Jürgens\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\,
+  M. Ignatov\, J. Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, 
+ R. Hellmund\, Hr. Gripp\, T. Greve\, C. Glüsing\, G. Gesell\, H. Folkerts
+ \, Prof. Finkemeyer (FB M)\, P. Farshidfar\, Prof. Ehlers\, L. Eggers (HiW
+ i)\, L. Dürrer\, J. Dittmann-Wunderlich\, F. Caspar\, Prof. Brauer\, C. B
+ rauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, V. Baierbach\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
 LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen der Leistungselektronik-ÜL-E3
-DTSTART:20251111T083000
-DTEND:20251111T114500
-DTSTAMP:20250829T105648Z
-UID:60407a57-3ca1-482d-8eb0-40b7b502a20f
-DESCRIPTION:S. Schmarbeck\, Prof. Schümann
-LOCATION:C06-1.21
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen der Leistungselektronik-ÜL-E3
-DTSTART:20251125T083000
-DTEND:20251125T114500
-DTSTAMP:20250829T105648Z
-UID:41f6423a-9618-46af-84d7-260c901a3654
-DESCRIPTION:S. Schmarbeck\, Prof. Schümann
-LOCATION:C06-1.21
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen der Leistungselektronik-ÜL-E3
-DTSTART:20251209T083000
-DTEND:20251209T114500
-DTSTAMP:20250829T105648Z
-UID:50fc0ff9-cb8f-4298-9a25-f782f4da4408
-DESCRIPTION:S. Schmarbeck\, Prof. Schümann
-LOCATION:C06-1.21
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grundlagen der Leistungselektronik-ÜL-W1
 DTSTART:20251113T083000
 DTEND:20251113T114500
-DTSTAMP:20250829T105648Z
-UID:548282ef-bd04-465a-8863-45592c633f44
+DTSTAMP:20250921T233250Z
+UID:de872511-d5f5-4398-ba1c-528729838642
 DESCRIPTION:S. Schmarbeck\, R. Raßmann
 LOCATION:C06-1.21
 END:VEVENT
@@ -66,8 +39,8 @@ BEGIN:VEVENT
 SUMMARY:Grundlagen der Leistungselektronik-ÜL-W1
 DTSTART:20251127T083000
 DTEND:20251127T114500
-DTSTAMP:20250829T105648Z
-UID:f76bf2c0-30e1-4a06-b9d2-c7281a7b2e21
+DTSTAMP:20250921T233250Z
+UID:91ffd75f-bbcc-432d-a995-ac983f40387d
 DESCRIPTION:S. Schmarbeck\, R. Raßmann
 LOCATION:C06-1.21
 END:VEVENT
@@ -75,8 +48,8 @@ BEGIN:VEVENT
 SUMMARY:Grundlagen der Leistungselektronik-ÜL-W1
 DTSTART:20251211T083000
 DTEND:20251211T114500
-DTSTAMP:20250829T105648Z
-UID:191eec94-d38b-458b-b1d9-a15b13380236
+DTSTAMP:20250921T233250Z
+UID:474b2ff6-f2da-41ef-9158-d83d3f9fd64b
 DESCRIPTION:S. Schmarbeck\, R. Raßmann
 LOCATION:C06-1.21
 END:VEVENT
@@ -84,8 +57,8 @@ BEGIN:VEVENT
 SUMMARY:ME101-ÜL  Hochspannungsnetze und Schaltanlagen
 DTSTART:20251114T101500
 DTEND:20251114T133000
-DTSTAMP:20250829T105648Z
-UID:91fac710-cc44-4c63-b733-f755caa53fd4
+DTSTAMP:20250921T233250Z
+UID:a5171f86-6c94-4690-a854-728b6b3b2912
 DESCRIPTION:Prof. Wehrend\, S. Schmarbeck
 LOCATION:C12-2.64 / 2.65
 END:VEVENT
@@ -93,8 +66,8 @@ BEGIN:VEVENT
 SUMMARY:ME101-ÜL  Hochspannungsnetze und Schaltanlagen
 DTSTART:20251128T101500
 DTEND:20251128T133000
-DTSTAMP:20250829T105648Z
-UID:bd2f1e3b-2d1b-41ab-ba53-9e6a42e2b861
+DTSTAMP:20250921T233250Z
+UID:cb910ee8-b465-43a0-8001-9d2afa60914a
 DESCRIPTION:Prof. Wehrend\, S. Schmarbeck
 LOCATION:C12-2.64 / 2.65
 END:VEVENT
@@ -102,8 +75,8 @@ BEGIN:VEVENT
 SUMMARY:ME101-ÜL  Hochspannungsnetze und Schaltanlagen
 DTSTART:20251212T101500
 DTEND:20251212T133000
-DTSTAMP:20250829T105648Z
-UID:5a07d2f5-d721-41b7-92f0-9bf350a8ced3
+DTSTAMP:20250921T233250Z
+UID:da814051-c014-4b07-a43b-7dd947eb5720
 DESCRIPTION:Prof. Wehrend\, S. Schmarbeck
 LOCATION:C12-2.64 / 2.65
 END:VEVENT
@@ -111,8 +84,8 @@ BEGIN:VEVENT
 SUMMARY:Grundlagen der Leistungselektronik-ÜL-E1
 DTSTART:20251110T124500
 DTEND:20251110T160000
-DTSTAMP:20250829T105648Z
-UID:d6070e49-11be-4618-babd-591ffb528bd2
+DTSTAMP:20250921T233250Z
+UID:8d5dbc18-dd43-48fa-ba31-677938cad298
 DESCRIPTION:S. Schmarbeck\, Prof. Schümann
 LOCATION:C06-1.21
 END:VEVENT
@@ -120,8 +93,8 @@ BEGIN:VEVENT
 SUMMARY:Grundlagen der Leistungselektronik-ÜL-E1
 DTSTART:20251124T124500
 DTEND:20251124T160000
-DTSTAMP:20250829T105648Z
-UID:363d84b3-1953-48bd-afc0-46826a3ba27d
+DTSTAMP:20250921T233250Z
+UID:2642ce28-2e1d-46a3-8a05-12ec1566ef1a
 DESCRIPTION:S. Schmarbeck\, Prof. Schümann
 LOCATION:C06-1.21
 END:VEVENT
@@ -129,8 +102,8 @@ BEGIN:VEVENT
 SUMMARY:Grundlagen der Leistungselektronik-ÜL-E1
 DTSTART:20251208T124500
 DTEND:20251208T160000
-DTSTAMP:20250829T105648Z
-UID:4b9fe3be-95c8-4489-baa8-bbd49c046b8a
+DTSTAMP:20250921T233250Z
+UID:cb9236e8-f465-4750-8ad9-e0612c2e10f5
 DESCRIPTION:S. Schmarbeck\, Prof. Schümann
 LOCATION:C06-1.21
 END:VEVENT
@@ -138,8 +111,8 @@ BEGIN:VEVENT
 SUMMARY:Grundlagen der Leistungselektronik-ÜL-E2
 DTSTART:20251118T083000
 DTEND:20251118T114500
-DTSTAMP:20250829T105648Z
-UID:97c00b19-e60f-4837-95e6-8645857e9937
+DTSTAMP:20250921T233250Z
+UID:e69ef75a-8ca8-462e-8aa0-248efce45827
 DESCRIPTION:S. Schmarbeck\, Prof. Schümann
 LOCATION:C06-1.21
 END:VEVENT
@@ -147,8 +120,8 @@ BEGIN:VEVENT
 SUMMARY:Grundlagen der Leistungselektronik-ÜL-E2
 DTSTART:20251202T083000
 DTEND:20251202T114500
-DTSTAMP:20250829T105648Z
-UID:62581cc2-a4a0-4723-91cd-3904f062e281
+DTSTAMP:20250921T233250Z
+UID:738a8174-c79c-498d-bd8f-75caa6614352
 DESCRIPTION:S. Schmarbeck\, Prof. Schümann
 LOCATION:C06-1.21
 END:VEVENT
@@ -156,8 +129,8 @@ BEGIN:VEVENT
 SUMMARY:Grundlagen der Leistungselektronik-ÜL-E2
 DTSTART:20251216T083000
 DTEND:20251216T114500
-DTSTAMP:20250829T105648Z
-UID:9081957f-0376-49d6-9bc1-a87c1196cc04
+DTSTAMP:20250921T233250Z
+UID:0442eb7e-7c76-4394-90fb-a49f62c5d123
 DESCRIPTION:S. Schmarbeck\, Prof. Schümann
 LOCATION:C06-1.21
 END:VEVENT
@@ -165,8 +138,8 @@ BEGIN:VEVENT
 SUMMARY:Grundlagen der Leistungselektronik-ÜL-W2
 DTSTART:20251120T083000
 DTEND:20251120T114500
-DTSTAMP:20250829T105648Z
-UID:1765684d-6f9c-4173-916b-09de4bcb79ea
+DTSTAMP:20250921T233250Z
+UID:17cbb51e-f826-483a-bced-d229d28392e3
 DESCRIPTION:R. Raßmann\, S. Schmarbeck
 LOCATION:C06-1.21
 END:VEVENT
@@ -174,8 +147,8 @@ BEGIN:VEVENT
 SUMMARY:Grundlagen der Leistungselektronik-ÜL-W2
 DTSTART:20251204T083000
 DTEND:20251204T114500
-DTSTAMP:20250829T105648Z
-UID:ccb27ad9-7ee3-46b5-a401-24039aaab080
+DTSTAMP:20250921T233250Z
+UID:bc064ed9-5d28-4686-b37a-fbfbf6a61732
 DESCRIPTION:R. Raßmann\, S. Schmarbeck
 LOCATION:C06-1.21
 END:VEVENT
@@ -183,8 +156,8 @@ BEGIN:VEVENT
 SUMMARY:Grundlagen der Leistungselektronik-ÜL-W2
 DTSTART:20251218T083000
 DTEND:20251218T114500
-DTSTAMP:20250829T105648Z
-UID:662992b7-5397-46fe-923a-d52e5448eb82
+DTSTAMP:20250921T233250Z
+UID:007be46a-8eba-4732-a987-045c7478a63e
 DESCRIPTION:R. Raßmann\, S. Schmarbeck
 LOCATION:C06-1.21
 END:VEVENT
@@ -192,8 +165,8 @@ BEGIN:VEVENT
 SUMMARY:ME101-ÜL  Hochspannungsnetze und Schaltanlagen
 DTSTART:20251121T101500
 DTEND:20251121T133000
-DTSTAMP:20250829T105648Z
-UID:20259c6e-93b5-4141-8a31-37c2e3ede1fc
+DTSTAMP:20250921T233250Z
+UID:25a4e7cf-dbd3-40cd-9992-af7b5cda1db2
 DESCRIPTION:Prof. Wehrend\, S. Schmarbeck
 LOCATION:C12-2.64 / 2.65
 END:VEVENT
@@ -201,8 +174,8 @@ BEGIN:VEVENT
 SUMMARY:ME101-ÜL  Hochspannungsnetze und Schaltanlagen
 DTSTART:20251205T101500
 DTEND:20251205T133000
-DTSTAMP:20250829T105648Z
-UID:b9f0fba6-6c47-494b-8209-abbf424ddaaa
+DTSTAMP:20250921T233250Z
+UID:bb2a9e34-3441-436e-a0b4-5f876dbac566
 DESCRIPTION:Prof. Wehrend\, S. Schmarbeck
 LOCATION:C12-2.64 / 2.65
 END:VEVENT
@@ -210,8 +183,8 @@ BEGIN:VEVENT
 SUMMARY:ME101-ÜL  Hochspannungsnetze und Schaltanlagen
 DTSTART:20251219T101500
 DTEND:20251219T133000
-DTSTAMP:20250829T105648Z
-UID:735d3926-ec0c-4e24-90d6-5375a9a45646
+DTSTAMP:20250921T233250Z
+UID:7d5f62f8-3a68-4139-b04a-efc2ad26241f
 DESCRIPTION:Prof. Wehrend\, S. Schmarbeck
 LOCATION:C12-2.64 / 2.65
 END:VEVENT

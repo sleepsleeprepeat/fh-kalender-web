@@ -5,8 +5,8 @@ BEGIN:VEVENT
 SUMMARY:Anforderungsmanagement ÜL-Ming2
 DTSTART:20250926T124500
 DTEND:20250926T141500
-DTSTAMP:20250829T105648Z
-UID:aa627e34-de59-4fbe-972b-25bc4bf4c66f
+DTSTAMP:20250921T233250Z
+UID:49110580-e1b2-4cc5-90da-36f65402a060
 DESCRIPTION:T. Prykhodko
 LOCATION:C13-3.01
 END:VEVENT
@@ -14,8 +14,8 @@ BEGIN:VEVENT
 SUMMARY:Anforderungsmanagement ÜL-Ming2
 DTSTART:20251010T124500
 DTEND:20251010T141500
-DTSTAMP:20250829T105648Z
-UID:7f64b977-8b58-4abd-8372-73fc82167751
+DTSTAMP:20250921T233250Z
+UID:b0aa63dc-e734-4ed4-b38d-fe4e34829bb3
 DESCRIPTION:T. Prykhodko
 LOCATION:C13-3.01
 END:VEVENT
@@ -23,8 +23,8 @@ BEGIN:VEVENT
 SUMMARY:Anforderungsmanagement ÜL-Ming2
 DTSTART:20251024T124500
 DTEND:20251024T141500
-DTSTAMP:20250829T105648Z
-UID:e3f2ba04-2473-4fa6-a053-4e22c3857d0b
+DTSTAMP:20250921T233250Z
+UID:bddd7feb-c461-4549-ae20-73d0d154ae89
 DESCRIPTION:T. Prykhodko
 LOCATION:C13-3.01
 END:VEVENT
@@ -32,8 +32,8 @@ BEGIN:VEVENT
 SUMMARY:Anforderungsmanagement ÜL-Ming2
 DTSTART:20251121T124500
 DTEND:20251121T141500
-DTSTAMP:20250829T105648Z
-UID:ebecda95-f89a-484a-8d81-772844ce40e3
+DTSTAMP:20250921T233250Z
+UID:111eb115-313e-4564-9889-b01922699ee6
 DESCRIPTION:T. Prykhodko
 LOCATION:C13-3.01
 END:VEVENT
@@ -41,8 +41,8 @@ BEGIN:VEVENT
 SUMMARY:Anforderungsmanagement ÜL-Ming2
 DTSTART:20251205T124500
 DTEND:20251205T141500
-DTSTAMP:20250829T105648Z
-UID:c98747c8-6ad3-4967-848e-779f63789038
+DTSTAMP:20250921T233250Z
+UID:be8f9a45-af56-499e-b177-e5b8ebb36019
 DESCRIPTION:T. Prykhodko
 LOCATION:C13-3.01
 END:VEVENT
@@ -50,33 +50,33 @@ BEGIN:VEVENT
 SUMMARY:Feiertag - Tag der Deutschen Einheit
 DTSTART:20251003T083000
 DTEND:20251003T180000
-DTSTAMP:20250829T105648Z
-UID:78cbcf22-d098-4de7-8967-3054f624fde5
-DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, M. Ali Algba
- ra\, J. Angres\, Prof. Aßmuth\, Prof. Badri-Höher\, V. Baierbach\, Prof.
-  Bicakci\, Y. Bockholt\, C. Brauer\, Prof. Brauer\, F. Caspar\, J. Dittman
- n-Wunderlich\, L. Dürrer\, L. Eggers (HiWi)\, Prof. Ehlers\, P. Farshidfa
- r\, Prof. Finkemeyer (FB M)\, H. Folkerts\, G. Gesell\, C. Glüsing\, T. G
- reve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\
- , J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetze
- k\, F. Jürgens\, Prof. Kallies\, A. Kinny\, J. Kohlmorgen\, C. Kopka\, S.
-  Koß\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Me
- nzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neuman
- n\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\
- , Prof. Petersen\, Prof. Prieß\, Prof. Prochnow\, T. Prykhodko\, M. Pöpp
- er\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. S
- achse\, J. Schiwy\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeie
- r\, Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Sielo
- ff\, M. Teichmann\, M. Voß\, Prof. Weber\, T. Wegert\, Prof. Wehrend\, G.
-  Werner\, T. Wilts\, Prof. Woelk\, Prof. Wree\, V. Zylla
+DTSTAMP:20250921T233250Z
+UID:bf22c62c-4c3d-4617-84b5-12a3751a6cc9
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitV. Zylla\, Prof. Wree\, Pr
+ of. Woelk\, T. Wilts\, G. Werner\, Prof. Wehrend\, T. Wegert\, Prof. Weber
+ \, M. Voß\, M. Teichmann\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C
+ . Schwatlo\, Prof. Schramm\, Prof. Schmidt-Rethmeier\, S. Schmarbeck\, Hr.
+  Schmagold\, J. Schiwy\, Hr. Sachse\, J. Rähse\, T. Rixen\, Prof. Rinder\
+ , M. Riedel\, R. Raßmann\, M. Pöpper\, T. Prykhodko\, Prof. Prochnow\, P
+ rof. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, Prof. Osterwald\
+ , H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, A.\, E. Moritz\,
+  H. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof.
+  Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A. Kinny\, P
+ rof. Kallies\, F. Jürgens\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\,
+  M. Ignatov\, J. Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, 
+ R. Hellmund\, Hr. Gripp\, T. Greve\, C. Glüsing\, G. Gesell\, H. Folkerts
+ \, Prof. Finkemeyer (FB M)\, P. Farshidfar\, Prof. Ehlers\, L. Eggers (HiW
+ i)\, L. Dürrer\, J. Dittmann-Wunderlich\, F. Caspar\, Prof. Brauer\, C. B
+ rauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, V. Baierbach\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anforderungsmanagement ÜL-Ming1
 DTSTART:20250929T161500
 DTEND:20250929T174500
-DTSTAMP:20250829T105648Z
-UID:0d3fa09c-9bc9-40cf-94f7-fa6377635bbd
+DTSTAMP:20250921T233250Z
+UID:5151327a-2e27-4cce-b232-f5371eb42020
 DESCRIPTION:ErsatzterminT. Prykhodko
 LOCATION:C12-1.19
 END:VEVENT
@@ -84,8 +84,8 @@ BEGIN:VEVENT
 SUMMARY:Anforderungsmanagement ÜL-Ming1
 DTSTART:20251017T124500
 DTEND:20251017T141500
-DTSTAMP:20250829T105648Z
-UID:d8e66010-5045-4b10-b619-6b0cb9984fc3
+DTSTAMP:20250921T233250Z
+UID:877fdd61-15b7-4349-9081-6e60bb0c2748
 DESCRIPTION:T. Prykhodko
 LOCATION:C13-3.01
 END:VEVENT
@@ -93,8 +93,8 @@ BEGIN:VEVENT
 SUMMARY:Anforderungsmanagement ÜL-Ming1
 DTSTART:20251114T124500
 DTEND:20251114T141500
-DTSTAMP:20250829T105648Z
-UID:a627aa81-08ef-41c7-9a67-bf8f8bfbcb5e
+DTSTAMP:20250921T233250Z
+UID:3feb95e0-49c1-44b9-90e4-3ebae4007a4f
 DESCRIPTION:T. Prykhodko
 LOCATION:C13-3.01
 END:VEVENT
@@ -102,8 +102,8 @@ BEGIN:VEVENT
 SUMMARY:Anforderungsmanagement ÜL-Ming1
 DTSTART:20251128T124500
 DTEND:20251128T141500
-DTSTAMP:20250829T105648Z
-UID:179a52c3-5caf-4dd2-bec4-8d17a0fbdaf2
+DTSTAMP:20250921T233250Z
+UID:6b7a7c35-6c66-41b3-9c3f-249be864f1be
 DESCRIPTION:T. Prykhodko
 LOCATION:C13-3.01
 END:VEVENT
@@ -111,8 +111,8 @@ BEGIN:VEVENT
 SUMMARY:Anforderungsmanagement ÜL-Ming1
 DTSTART:20251212T124500
 DTEND:20251212T141500
-DTSTAMP:20250829T105648Z
-UID:2143b8de-4b34-4423-8419-49ab3053cef6
+DTSTAMP:20250921T233250Z
+UID:2212b9f9-ceb1-4dcc-822e-25eddced47a3
 DESCRIPTION:T. Prykhodko
 LOCATION:C13-3.01
 END:VEVENT

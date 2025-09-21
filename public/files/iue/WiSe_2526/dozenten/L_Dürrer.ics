@@ -5,8 +5,8 @@ BEGIN:VEVENT
 SUMMARY:Anforderungsmanagement ÜL-I2
 DTSTART:20250926T101500
 DTEND:20250926T114500
-DTSTAMP:20250829T105648Z
-UID:582cbb36-b0c6-46e8-9d2c-5053a2efedfd
+DTSTAMP:20250921T233250Z
+UID:b0a745a3-a995-41b5-9fd8-bd7514582a8e
 DESCRIPTION:L. Dürrer
 LOCATION:C13-3.02
 END:VEVENT
@@ -14,8 +14,8 @@ BEGIN:VEVENT
 SUMMARY:Anforderungsmanagement ÜL-I2
 DTSTART:20251010T101500
 DTEND:20251010T114500
-DTSTAMP:20250829T105648Z
-UID:a606d48e-4140-4172-bad7-ef0a7c66749a
+DTSTAMP:20250921T233250Z
+UID:9e340118-a7c5-4dc1-8b91-9e9a828db122
 DESCRIPTION:L. Dürrer
 LOCATION:C13-3.02
 END:VEVENT
@@ -23,8 +23,8 @@ BEGIN:VEVENT
 SUMMARY:Anforderungsmanagement ÜL-I2
 DTSTART:20251024T101500
 DTEND:20251024T114500
-DTSTAMP:20250829T105648Z
-UID:c3e6628f-92e5-43b6-921c-f1fac5185063
+DTSTAMP:20250921T233250Z
+UID:ebceeeca-776a-41cf-8530-f6d6f9d1535d
 DESCRIPTION:L. Dürrer
 LOCATION:C13-3.02
 END:VEVENT
@@ -32,8 +32,8 @@ BEGIN:VEVENT
 SUMMARY:Anforderungsmanagement ÜL-I2
 DTSTART:20251121T101500
 DTEND:20251121T114500
-DTSTAMP:20250829T105648Z
-UID:d0adcb8f-aaaa-44d2-9e58-c7a8548c7825
+DTSTAMP:20250921T233250Z
+UID:ff1b1261-0724-4733-bb6f-e0bfde08acd3
 DESCRIPTION:L. Dürrer
 LOCATION:C13-3.02
 END:VEVENT
@@ -41,8 +41,8 @@ BEGIN:VEVENT
 SUMMARY:Anforderungsmanagement ÜL-I2
 DTSTART:20251205T101500
 DTEND:20251205T114500
-DTSTAMP:20250829T105648Z
-UID:3229f7c7-61ff-46f7-acfb-876806a95cea
+DTSTAMP:20250921T233250Z
+UID:38134c00-3b35-47cf-8aef-c8919e69394b
 DESCRIPTION:L. Dürrer
 LOCATION:C13-3.02
 END:VEVENT
@@ -50,33 +50,33 @@ BEGIN:VEVENT
 SUMMARY:Feiertag - Tag der Deutschen Einheit
 DTSTART:20251003T083000
 DTEND:20251003T180000
-DTSTAMP:20250829T105648Z
-UID:64a9f73c-d05a-45ab-adb6-ab53d1ed0169
-DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, M. Ali Algba
- ra\, J. Angres\, Prof. Aßmuth\, Prof. Badri-Höher\, V. Baierbach\, Prof.
-  Bicakci\, Y. Bockholt\, C. Brauer\, Prof. Brauer\, F. Caspar\, J. Dittman
- n-Wunderlich\, L. Dürrer\, L. Eggers (HiWi)\, Prof. Ehlers\, P. Farshidfa
- r\, Prof. Finkemeyer (FB M)\, H. Folkerts\, G. Gesell\, C. Glüsing\, T. G
- reve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\
- , J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetze
- k\, F. Jürgens\, Prof. Kallies\, A. Kinny\, J. Kohlmorgen\, C. Kopka\, S.
-  Koß\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Me
- nzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neuman
- n\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\
- , Prof. Petersen\, Prof. Prieß\, Prof. Prochnow\, T. Prykhodko\, M. Pöpp
- er\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. S
- achse\, J. Schiwy\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeie
- r\, Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Sielo
- ff\, M. Teichmann\, M. Voß\, Prof. Weber\, T. Wegert\, Prof. Wehrend\, G.
-  Werner\, T. Wilts\, Prof. Woelk\, Prof. Wree\, V. Zylla
+DTSTAMP:20250921T233250Z
+UID:19ead721-14c0-4cca-bd47-e13f96bac94c
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitV. Zylla\, Prof. Wree\, Pr
+ of. Woelk\, T. Wilts\, G. Werner\, Prof. Wehrend\, T. Wegert\, Prof. Weber
+ \, M. Voß\, M. Teichmann\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C
+ . Schwatlo\, Prof. Schramm\, Prof. Schmidt-Rethmeier\, S. Schmarbeck\, Hr.
+  Schmagold\, J. Schiwy\, Hr. Sachse\, J. Rähse\, T. Rixen\, Prof. Rinder\
+ , M. Riedel\, R. Raßmann\, M. Pöpper\, T. Prykhodko\, Prof. Prochnow\, P
+ rof. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, Prof. Osterwald\
+ , H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, A.\, E. Moritz\,
+  H. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof.
+  Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A. Kinny\, P
+ rof. Kallies\, F. Jürgens\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\,
+  M. Ignatov\, J. Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, 
+ R. Hellmund\, Hr. Gripp\, T. Greve\, C. Glüsing\, G. Gesell\, H. Folkerts
+ \, Prof. Finkemeyer (FB M)\, P. Farshidfar\, Prof. Ehlers\, L. Eggers (HiW
+ i)\, L. Dürrer\, J. Dittmann-Wunderlich\, F. Caspar\, Prof. Brauer\, C. B
+ rauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, V. Baierbach\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anforderungsmanagement ÜL-I1
 DTSTART:20250929T124500
 DTEND:20250929T141500
-DTSTAMP:20250829T105648Z
-UID:61c14183-3338-40b7-953e-7c47829a998d
+DTSTAMP:20250921T233250Z
+UID:ae2ba9b9-e17e-43b2-b7a8-f4d1874ca4aa
 DESCRIPTION:ErsatzterminL. Dürrer
 LOCATION:C12-1.19
 END:VEVENT
@@ -84,8 +84,8 @@ BEGIN:VEVENT
 SUMMARY:Anforderungsmanagement ÜL-I1
 DTSTART:20251017T101500
 DTEND:20251017T114500
-DTSTAMP:20250829T105648Z
-UID:bad9ed83-76a8-4ae7-a879-33cfdfbfa07f
+DTSTAMP:20250921T233250Z
+UID:21ba44de-b99e-4e99-800c-368d1b2e08af
 DESCRIPTION:L. Dürrer
 LOCATION:C12-1.19
 END:VEVENT
@@ -93,8 +93,8 @@ BEGIN:VEVENT
 SUMMARY:Anforderungsmanagement ÜL-I1
 DTSTART:20251114T101500
 DTEND:20251114T114500
-DTSTAMP:20250829T105648Z
-UID:bc64075b-5c7b-4a6a-8a2b-ab1241788312
+DTSTAMP:20250921T233250Z
+UID:b7e68114-23bf-41a3-ba4d-c15f2fd50b19
 DESCRIPTION:L. Dürrer
 LOCATION:C12-1.19
 END:VEVENT
@@ -102,8 +102,8 @@ BEGIN:VEVENT
 SUMMARY:Anforderungsmanagement ÜL-I1
 DTSTART:20251128T101500
 DTEND:20251128T114500
-DTSTAMP:20250829T105648Z
-UID:5bee8d8c-a4a3-49a1-b6fb-946d36022285
+DTSTAMP:20250921T233250Z
+UID:cccf68ee-7bab-488d-b4be-4f6ed4577eb4
 DESCRIPTION:L. Dürrer
 LOCATION:C12-1.19
 END:VEVENT
@@ -111,8 +111,8 @@ BEGIN:VEVENT
 SUMMARY:Anforderungsmanagement ÜL-I1
 DTSTART:20251212T101500
 DTEND:20251212T114500
-DTSTAMP:20250829T105648Z
-UID:bdbf687d-b1d9-4377-9ab8-e3ad5ac819a7
+DTSTAMP:20250921T233250Z
+UID:021195d8-0c47-473f-8cda-cbd52ba389af
 DESCRIPTION:L. Dürrer
 LOCATION:C12-1.19
 END:VEVENT

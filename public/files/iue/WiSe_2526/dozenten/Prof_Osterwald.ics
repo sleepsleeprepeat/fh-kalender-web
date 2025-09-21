@@ -5,8 +5,8 @@ BEGIN:VEVENT
 SUMMARY:MMK11 Angew. Forschung im norddeut. Raum
 DTSTART:20250918T161500
 DTEND:20250918T174500
-DTSTAMP:20250829T105648Z
-UID:d5b691a1-5a3e-4a14-85ef-ae7621da5783
+DTSTAMP:20250921T233250Z
+UID:0079ff38-e633-406c-9e0d-6004690723e1
 DESCRIPTION:Prof. Osterwald
 LOCATION:C12-2.14
 END:VEVENT
@@ -14,8 +14,8 @@ BEGIN:VEVENT
 SUMMARY:MMK11-ÜL Angew. Forschung im norddeut. Raum
 DTSTART:20250925T143000
 DTEND:20250925T160000
-DTSTAMP:20250829T105648Z
-UID:c3540963-c7ba-434e-bf4a-c8c1c7220c83
+DTSTAMP:20250921T233250Z
+UID:02a5aa49-07c3-420f-887e-7e2674e4d109
 DESCRIPTION:Prof. Osterwald
 LOCATION:C12-2.14\, Übungen
 END:VEVENT
@@ -23,8 +23,8 @@ BEGIN:VEVENT
 SUMMARY:MMK11-ÜL Angew. Forschung im norddeut. Raum
 DTSTART:20251009T143000
 DTEND:20251009T160000
-DTSTAMP:20250829T105648Z
-UID:c6bc12c7-0d4c-4a59-a3b9-009bec151387
+DTSTAMP:20250921T233250Z
+UID:36b0255f-b07f-4ece-9898-ff10ec14c9ab
 DESCRIPTION:Prof. Osterwald
 LOCATION:C12-2.14\, Übungen
 END:VEVENT
@@ -32,8 +32,8 @@ BEGIN:VEVENT
 SUMMARY:MMK11-ÜL Angew. Forschung im norddeut. Raum
 DTSTART:20251016T143000
 DTEND:20251016T160000
-DTSTAMP:20250829T105648Z
-UID:3c29cef0-a54d-4c7a-a43b-8bc6e8da7ef6
+DTSTAMP:20250921T233250Z
+UID:cee837e1-37d5-49cc-887b-6ba9156734f7
 DESCRIPTION:Prof. Osterwald
 LOCATION:C12-2.14\, Übungen
 END:VEVENT
@@ -41,8 +41,8 @@ BEGIN:VEVENT
 SUMMARY:MMK11-ÜL Angew. Forschung im norddeut. Raum
 DTSTART:20251023T143000
 DTEND:20251023T160000
-DTSTAMP:20250829T105648Z
-UID:b0de8e2f-35c8-469b-9526-c36c26d24f9f
+DTSTAMP:20250921T233250Z
+UID:a4b34c33-ec7d-43df-844e-bb6a231dd80e
 DESCRIPTION:Prof. Osterwald
 LOCATION:C12-2.14\, Übungen
 END:VEVENT
@@ -50,8 +50,8 @@ BEGIN:VEVENT
 SUMMARY:MMK11-ÜL Angew. Forschung im norddeut. Raum
 DTSTART:20251113T143000
 DTEND:20251113T160000
-DTSTAMP:20250829T105648Z
-UID:9d227f9f-b13e-4bc4-9cd1-85bc267f7586
+DTSTAMP:20250921T233250Z
+UID:0ee79921-f693-4483-9095-b1b55ed70ef8
 DESCRIPTION:Prof. Osterwald
 LOCATION:C12-2.14\, Übungen
 END:VEVENT
@@ -59,8 +59,8 @@ BEGIN:VEVENT
 SUMMARY:MMK11-ÜL Angew. Forschung im norddeut. Raum
 DTSTART:20251120T143000
 DTEND:20251120T160000
-DTSTAMP:20250829T105648Z
-UID:ca6960b6-204a-422a-9e56-3f164361adb5
+DTSTAMP:20250921T233250Z
+UID:14d82523-b8ea-495e-b864-7dcbd473c0ea
 DESCRIPTION:Prof. Osterwald
 LOCATION:C12-2.14\, Übungen
 END:VEVENT
@@ -68,8 +68,8 @@ BEGIN:VEVENT
 SUMMARY:MMK11-ÜL Angew. Forschung im norddeut. Raum
 DTSTART:20251127T143000
 DTEND:20251127T160000
-DTSTAMP:20250829T105648Z
-UID:9453da5e-0045-46f6-b726-aab27b8a959c
+DTSTAMP:20250921T233250Z
+UID:494d8454-4013-449b-b7f2-b287353a55ab
 DESCRIPTION:Prof. Osterwald
 LOCATION:C12-2.14\, Übungen
 END:VEVENT
@@ -77,8 +77,8 @@ BEGIN:VEVENT
 SUMMARY:MMK11-ÜL Angew. Forschung im norddeut. Raum
 DTSTART:20251204T143000
 DTEND:20251204T160000
-DTSTAMP:20250829T105648Z
-UID:564400dc-ad70-42cc-b45f-ebb11c96c0a1
+DTSTAMP:20250921T233250Z
+UID:13e00e90-d558-49fc-9be4-3a297e138876
 DESCRIPTION:Prof. Osterwald
 LOCATION:C12-2.14\, Übungen
 END:VEVENT
@@ -86,8 +86,8 @@ BEGIN:VEVENT
 SUMMARY:MMK11-ÜL Angew. Forschung im norddeut. Raum
 DTSTART:20251211T143000
 DTEND:20251211T160000
-DTSTAMP:20250829T105648Z
-UID:fe93bc7c-77bc-4ee9-8e4a-7107faae364a
+DTSTAMP:20250921T233250Z
+UID:5511825f-f303-4302-9ac4-38eeed3ea034
 DESCRIPTION:Prof. Osterwald
 LOCATION:C12-2.14\, Übungen
 END:VEVENT
@@ -95,8 +95,8 @@ BEGIN:VEVENT
 SUMMARY:MMK11-ÜL Angew. Forschung im norddeut. Raum
 DTSTART:20251218T143000
 DTEND:20251218T160000
-DTSTAMP:20250829T105648Z
-UID:fce785bf-8258-49d4-a391-cdf2f22c5909
+DTSTAMP:20250921T233250Z
+UID:425f2198-f5ae-441d-a9d9-5ce0442609c7
 DESCRIPTION:Prof. Osterwald
 LOCATION:C12-2.14\, Übungen
 END:VEVENT
@@ -104,8 +104,8 @@ BEGIN:VEVENT
 SUMMARY:MMK11 Angew. Forschung im norddeut. Raum
 DTSTART:20250925T161500
 DTEND:20250925T174500
-DTSTAMP:20250829T105648Z
-UID:d5a606ee-2018-4952-a135-95b7619a8514
+DTSTAMP:20250921T233250Z
+UID:d159faa6-ac98-40bc-aad2-5d23c1318557
 DESCRIPTION:Prof. Osterwald
 LOCATION:C12-2.14
 END:VEVENT
@@ -113,8 +113,8 @@ BEGIN:VEVENT
 SUMMARY:MMK11 Angew. Forschung im norddeut. Raum
 DTSTART:20251009T161500
 DTEND:20251009T174500
-DTSTAMP:20250829T105648Z
-UID:40cfd565-f7b2-4a3f-add3-820b4f11f9dd
+DTSTAMP:20250921T233250Z
+UID:b5476a16-014c-4299-be8c-5da2ba0de89c
 DESCRIPTION:Prof. Osterwald
 LOCATION:C12-2.14
 END:VEVENT
@@ -122,8 +122,8 @@ BEGIN:VEVENT
 SUMMARY:MMK11 Angew. Forschung im norddeut. Raum
 DTSTART:20251016T161500
 DTEND:20251016T174500
-DTSTAMP:20250829T105648Z
-UID:7646200f-4b07-4604-b7de-ed226e8ebeb9
+DTSTAMP:20250921T233250Z
+UID:3e574aa9-a57e-4710-b269-0a3af86d8620
 DESCRIPTION:Prof. Osterwald
 LOCATION:C12-2.14
 END:VEVENT
@@ -131,8 +131,8 @@ BEGIN:VEVENT
 SUMMARY:MMK11 Angew. Forschung im norddeut. Raum
 DTSTART:20251023T161500
 DTEND:20251023T174500
-DTSTAMP:20250829T105648Z
-UID:264e01c2-a029-4a4d-bacd-162813cd9cec
+DTSTAMP:20250921T233250Z
+UID:0d44fe5d-add7-406a-82ce-77a16e406665
 DESCRIPTION:Prof. Osterwald
 LOCATION:C12-2.14
 END:VEVENT
@@ -140,8 +140,8 @@ BEGIN:VEVENT
 SUMMARY:MMK11 Angew. Forschung im norddeut. Raum
 DTSTART:20251113T161500
 DTEND:20251113T174500
-DTSTAMP:20250829T105648Z
-UID:36d47bdd-91ff-42e6-90f3-b8f842ccef34
+DTSTAMP:20250921T233250Z
+UID:66e48e4a-2127-435e-b94f-45d169fb67b3
 DESCRIPTION:Prof. Osterwald
 LOCATION:C12-2.14
 END:VEVENT
@@ -149,8 +149,8 @@ BEGIN:VEVENT
 SUMMARY:MMK11 Angew. Forschung im norddeut. Raum
 DTSTART:20251120T161500
 DTEND:20251120T174500
-DTSTAMP:20250829T105648Z
-UID:be7ea7bf-69a9-4afd-bd71-d133587a9dc9
+DTSTAMP:20250921T233250Z
+UID:ce2ab0d9-28bc-4b50-87fc-2ac1dd21a70a
 DESCRIPTION:Prof. Osterwald
 LOCATION:C12-2.14
 END:VEVENT
@@ -158,8 +158,8 @@ BEGIN:VEVENT
 SUMMARY:MMK11 Angew. Forschung im norddeut. Raum
 DTSTART:20251127T161500
 DTEND:20251127T174500
-DTSTAMP:20250829T105648Z
-UID:e9f14b29-f7cd-4eed-82a1-cc528909afbc
+DTSTAMP:20250921T233250Z
+UID:7b22a613-28c7-4a14-be65-f3f583df3493
 DESCRIPTION:Prof. Osterwald
 LOCATION:C12-2.14
 END:VEVENT
@@ -167,8 +167,8 @@ BEGIN:VEVENT
 SUMMARY:MMK11 Angew. Forschung im norddeut. Raum
 DTSTART:20251204T161500
 DTEND:20251204T174500
-DTSTAMP:20250829T105648Z
-UID:546760ef-9b27-4d6f-ac2f-dc8aeb016618
+DTSTAMP:20250921T233250Z
+UID:36f749b0-fea9-4b2f-9546-a7409ae99249
 DESCRIPTION:Prof. Osterwald
 LOCATION:C12-2.14
 END:VEVENT
@@ -176,8 +176,8 @@ BEGIN:VEVENT
 SUMMARY:MMK11 Angew. Forschung im norddeut. Raum
 DTSTART:20251211T161500
 DTEND:20251211T174500
-DTSTAMP:20250829T105648Z
-UID:86d17169-6dd3-4587-b4cb-7a0aa7da76cd
+DTSTAMP:20250921T233250Z
+UID:d70632ed-470c-40f5-920f-cd9359cb7363
 DESCRIPTION:Prof. Osterwald
 LOCATION:C12-2.14
 END:VEVENT
@@ -185,8 +185,8 @@ BEGIN:VEVENT
 SUMMARY:MMK11 Angew. Forschung im norddeut. Raum
 DTSTART:20251218T161500
 DTEND:20251218T174500
-DTSTAMP:20250829T105648Z
-UID:4e9de6d5-6cec-4532-ba9c-4ce5e84b9ba7
+DTSTAMP:20250921T233250Z
+UID:ed9dedcc-0f4c-4a01-bf02-166d7f937ffe
 DESCRIPTION:Prof. Osterwald
 LOCATION:C12-2.14
 END:VEVENT
@@ -194,33 +194,33 @@ BEGIN:VEVENT
 SUMMARY:Feiertag - Tag der Deutschen Einheit
 DTSTART:20251003T083000
 DTEND:20251003T180000
-DTSTAMP:20250829T105648Z
-UID:352f3264-39f9-40cc-b7f4-71befa648602
-DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, M. Ali Algba
- ra\, J. Angres\, Prof. Aßmuth\, Prof. Badri-Höher\, V. Baierbach\, Prof.
-  Bicakci\, Y. Bockholt\, C. Brauer\, Prof. Brauer\, F. Caspar\, J. Dittman
- n-Wunderlich\, L. Dürrer\, L. Eggers (HiWi)\, Prof. Ehlers\, P. Farshidfa
- r\, Prof. Finkemeyer (FB M)\, H. Folkerts\, G. Gesell\, C. Glüsing\, T. G
- reve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\
- , J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetze
- k\, F. Jürgens\, Prof. Kallies\, A. Kinny\, J. Kohlmorgen\, C. Kopka\, S.
-  Koß\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Me
- nzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neuman
- n\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\
- , Prof. Petersen\, Prof. Prieß\, Prof. Prochnow\, T. Prykhodko\, M. Pöpp
- er\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. S
- achse\, J. Schiwy\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeie
- r\, Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Sielo
- ff\, M. Teichmann\, M. Voß\, Prof. Weber\, T. Wegert\, Prof. Wehrend\, G.
-  Werner\, T. Wilts\, Prof. Woelk\, Prof. Wree\, V. Zylla
+DTSTAMP:20250921T233250Z
+UID:63065a74-3ed2-4c3b-86da-9a69d10a3d3e
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitV. Zylla\, Prof. Wree\, Pr
+ of. Woelk\, T. Wilts\, G. Werner\, Prof. Wehrend\, T. Wegert\, Prof. Weber
+ \, M. Voß\, M. Teichmann\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C
+ . Schwatlo\, Prof. Schramm\, Prof. Schmidt-Rethmeier\, S. Schmarbeck\, Hr.
+  Schmagold\, J. Schiwy\, Hr. Sachse\, J. Rähse\, T. Rixen\, Prof. Rinder\
+ , M. Riedel\, R. Raßmann\, M. Pöpper\, T. Prykhodko\, Prof. Prochnow\, P
+ rof. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, Prof. Osterwald\
+ , H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, A.\, E. Moritz\,
+  H. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof.
+  Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A. Kinny\, P
+ rof. Kallies\, F. Jürgens\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\,
+  M. Ignatov\, J. Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, 
+ R. Hellmund\, Hr. Gripp\, T. Greve\, C. Glüsing\, G. Gesell\, H. Folkerts
+ \, Prof. Finkemeyer (FB M)\, P. Farshidfar\, Prof. Ehlers\, L. Eggers (HiW
+ i)\, L. Dürrer\, J. Dittmann-Wunderlich\, F. Caspar\, Prof. Brauer\, C. B
+ rauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, V. Baierbach\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MMK11-ÜL Angew. Forschung im norddeut. Raum
 DTSTART:20251002T143000
 DTEND:20251002T160000
-DTSTAMP:20250829T105648Z
-UID:6fd5b53a-fefe-4dcc-865d-709b3b0741fd
+DTSTAMP:20250921T233250Z
+UID:8364ef25-e2f5-4edc-9938-292f89dcb76a
 DESCRIPTION:Prof. Osterwald
 LOCATION:C12-2.14\, Übungen
 END:VEVENT
@@ -228,8 +228,8 @@ BEGIN:VEVENT
 SUMMARY:MMK11 Angew. Forschung im norddeut. Raum
 DTSTART:20251002T161500
 DTEND:20251002T174500
-DTSTAMP:20250829T105648Z
-UID:886a8405-c687-470f-ac4d-1f8f557040ea
+DTSTAMP:20250921T233250Z
+UID:b8135915-45d3-4136-af6b-0eccc72034df
 DESCRIPTION:Prof. Osterwald
 LOCATION:C12-2.14
 END:VEVENT

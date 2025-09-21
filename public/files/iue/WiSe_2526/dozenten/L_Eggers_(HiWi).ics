@@ -5,8 +5,8 @@ BEGIN:VEVENT
 SUMMARY:Elektronik ÜL-M3
 DTSTART:20250929T083000
 DTEND:20250929T114500
-DTSTAMP:20250829T105648Z
-UID:d1d0840a-ea8e-4158-83a7-2c300f8e7859
+DTSTAMP:20250921T233250Z
+UID:27b08348-3a95-40fa-a2dc-8515d51ab2db
 DESCRIPTION:L. Eggers (HiWi)\, J. Dittmann-Wunderlich
 LOCATION:C13-2.23
 END:VEVENT
@@ -14,33 +14,33 @@ BEGIN:VEVENT
 SUMMARY:Feiertag - Tag der Deutschen Einheit
 DTSTART:20251003T083000
 DTEND:20251003T180000
-DTSTAMP:20250829T105648Z
-UID:2baa49c6-bc02-4bc0-a624-21599bc7e90a
-DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, M. Ali Algba
- ra\, J. Angres\, Prof. Aßmuth\, Prof. Badri-Höher\, V. Baierbach\, Prof.
-  Bicakci\, Y. Bockholt\, C. Brauer\, Prof. Brauer\, F. Caspar\, J. Dittman
- n-Wunderlich\, L. Dürrer\, L. Eggers (HiWi)\, Prof. Ehlers\, P. Farshidfa
- r\, Prof. Finkemeyer (FB M)\, H. Folkerts\, G. Gesell\, C. Glüsing\, T. G
- reve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\
- , J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetze
- k\, F. Jürgens\, Prof. Kallies\, A. Kinny\, J. Kohlmorgen\, C. Kopka\, S.
-  Koß\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Me
- nzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neuman
- n\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\
- , Prof. Petersen\, Prof. Prieß\, Prof. Prochnow\, T. Prykhodko\, M. Pöpp
- er\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. S
- achse\, J. Schiwy\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeie
- r\, Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Sielo
- ff\, M. Teichmann\, M. Voß\, Prof. Weber\, T. Wegert\, Prof. Wehrend\, G.
-  Werner\, T. Wilts\, Prof. Woelk\, Prof. Wree\, V. Zylla
+DTSTAMP:20250921T233250Z
+UID:460e2393-005c-4b55-8904-ced62200cc02
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitV. Zylla\, Prof. Wree\, Pr
+ of. Woelk\, T. Wilts\, G. Werner\, Prof. Wehrend\, T. Wegert\, Prof. Weber
+ \, M. Voß\, M. Teichmann\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C
+ . Schwatlo\, Prof. Schramm\, Prof. Schmidt-Rethmeier\, S. Schmarbeck\, Hr.
+  Schmagold\, J. Schiwy\, Hr. Sachse\, J. Rähse\, T. Rixen\, Prof. Rinder\
+ , M. Riedel\, R. Raßmann\, M. Pöpper\, T. Prykhodko\, Prof. Prochnow\, P
+ rof. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, Prof. Osterwald\
+ , H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, A.\, E. Moritz\,
+  H. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof.
+  Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A. Kinny\, P
+ rof. Kallies\, F. Jürgens\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\,
+  M. Ignatov\, J. Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, 
+ R. Hellmund\, Hr. Gripp\, T. Greve\, C. Glüsing\, G. Gesell\, H. Folkerts
+ \, Prof. Finkemeyer (FB M)\, P. Farshidfar\, Prof. Ehlers\, L. Eggers (HiW
+ i)\, L. Dürrer\, J. Dittmann-Wunderlich\, F. Caspar\, Prof. Brauer\, C. B
+ rauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, V. Baierbach\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik ÜL-W1M4
 DTSTART:20251007T143000
 DTEND:20251007T174500
-DTSTAMP:20250829T105648Z
-UID:95d369df-a259-412b-bde8-5b97e6db3b41
+DTSTAMP:20250921T233250Z
+UID:01b9bcbd-0266-4f57-a619-652d14fdf7ba
 DESCRIPTION:Gr._Me4_wird_aufgeteiltJ. Dittmann-Wunderlich\, L. Eggers (HiW
  i)
 LOCATION:C13-2.23
@@ -49,8 +49,8 @@ BEGIN:VEVENT
 SUMMARY:Elektronik ÜL-W1M4
 DTSTART:20251021T143000
 DTEND:20251021T174500
-DTSTAMP:20250829T105648Z
-UID:1a2dabb7-0602-4ca5-82fe-be11bc7d8666
+DTSTAMP:20250921T233250Z
+UID:8e466a36-785c-4bae-8833-5b785b1ad1ae
 DESCRIPTION:Gr._Me4_wird_aufgeteiltJ. Dittmann-Wunderlich\, L. Eggers (HiW
  i)
 LOCATION:C13-2.23
@@ -59,8 +59,8 @@ BEGIN:VEVENT
 SUMMARY:Elektronik ÜL-W1M4
 DTSTART:20251118T143000
 DTEND:20251118T174500
-DTSTAMP:20250829T105648Z
-UID:ee381e49-8e29-464c-97b2-8662554aa76e
+DTSTAMP:20250921T233250Z
+UID:0145d5db-9238-4fcc-8cef-43da506bbe56
 DESCRIPTION:Gr._Me4_wird_aufgeteiltJ. Dittmann-Wunderlich\, L. Eggers (HiW
  i)
 LOCATION:C13-2.23
@@ -69,8 +69,8 @@ BEGIN:VEVENT
 SUMMARY:Elektronik ÜL-W1M4
 DTSTART:20251202T143000
 DTEND:20251202T174500
-DTSTAMP:20250829T105648Z
-UID:68f51094-94af-4de3-88f3-6f9eb88a07c3
+DTSTAMP:20250921T233250Z
+UID:a91ba447-c0ff-41a6-8153-2fe0be59d53c
 DESCRIPTION:Gr._Me4_wird_aufgeteiltJ. Dittmann-Wunderlich\, L. Eggers (HiW
  i)
 LOCATION:C13-2.23
@@ -79,8 +79,8 @@ BEGIN:VEVENT
 SUMMARY:Elektronik ÜL-M3
 DTSTART:20251013T083000
 DTEND:20251013T114500
-DTSTAMP:20250829T105648Z
-UID:198301ef-980a-421d-9d52-d6beaf42a63b
+DTSTAMP:20250921T233250Z
+UID:083fa6a1-ed19-4921-b7e3-61cd23c65971
 DESCRIPTION:L. Eggers (HiWi)\, J. Dittmann-Wunderlich
 LOCATION:C13-2.23
 END:VEVENT
@@ -88,8 +88,8 @@ BEGIN:VEVENT
 SUMMARY:Elektronik ÜL-M3
 DTSTART:20251110T083000
 DTEND:20251110T114500
-DTSTAMP:20250829T105648Z
-UID:a4d05869-e0e3-422c-9df4-8a2da62a6af3
+DTSTAMP:20250921T233250Z
+UID:d3ea0f8d-9ea6-44f7-ab27-8a2e7838c784
 DESCRIPTION:L. Eggers (HiWi)\, J. Dittmann-Wunderlich
 LOCATION:C13-2.23
 END:VEVENT
@@ -97,8 +97,8 @@ BEGIN:VEVENT
 SUMMARY:Elektronik ÜL-M3
 DTSTART:20251124T083000
 DTEND:20251124T114500
-DTSTAMP:20250829T105648Z
-UID:56e4937d-656f-43a5-aec9-37e6541515b8
+DTSTAMP:20250921T233250Z
+UID:d4631c36-b074-493a-b3ff-33ad0f3e0977
 DESCRIPTION:L. Eggers (HiWi)\, J. Dittmann-Wunderlich
 LOCATION:C13-2.23
 END:VEVENT
@@ -106,8 +106,8 @@ BEGIN:VEVENT
 SUMMARY:Elektronik ÜL-M3
 DTSTART:20251208T101500
 DTEND:20251208T114500
-DTSTAMP:20250829T105648Z
-UID:cf76cd63-87a1-43f7-8b41-0c0a7585462f
+DTSTAMP:20250921T233250Z
+UID:5a7dd945-67f8-4917-8154-16c908b55012
 DESCRIPTION:L. Eggers (HiWi)\, J. Dittmann-Wunderlich
 LOCATION:C13-2.23
 END:VEVENT
@@ -115,8 +115,8 @@ BEGIN:VEVENT
 SUMMARY:Elektronik ÜL-W1M4
 DTSTART:20251216T143000
 DTEND:20251216T160000
-DTSTAMP:20250829T105648Z
-UID:7fe56aa4-08c8-4d25-ad46-e340cfdde8b2
+DTSTAMP:20250921T233250Z
+UID:9f025473-e543-4e10-bd5a-3078305b902c
 DESCRIPTION:Gr._Me4_wird_aufgeteiltJ. Dittmann-Wunderlich\, L. Eggers (HiW
  i)
 LOCATION:C13-2.23

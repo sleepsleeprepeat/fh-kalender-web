@@ -2,127 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
 BEGIN:VEVENT
-SUMMARY:XGRF Gründungsorganisation
-DTSTART:20250918T083000
-DTEND:20250918T114500
-DTSTAMP:20250829T105648Z
-UID:4e5cf0fe-157f-463a-8fa1-6cba4b593b4d
-DESCRIPTION:H. Mohs
-LOCATION:C13-1.20
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:XGRF Gründungsorganisation
-DTSTART:20250925T083000
-DTEND:20250925T114500
-DTSTAMP:20250829T105648Z
-UID:716f960b-4059-4792-84dc-17f684c561b7
-DESCRIPTION:H. Mohs
-LOCATION:C13-1.20
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:XGRF Gründungsorganisation
-DTSTART:20251009T083000
-DTEND:20251009T114500
-DTSTAMP:20250829T105648Z
-UID:4c6062cf-4979-4a9e-855e-e0dd2fb03a0b
-DESCRIPTION:H. Mohs
-LOCATION:C13-1.20
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:XGRF Gründungsorganisation
-DTSTART:20251016T083000
-DTEND:20251016T114500
-DTSTAMP:20250829T105648Z
-UID:94e025ca-62d6-406b-a090-d6c7cea3e04c
-DESCRIPTION:H. Mohs
-LOCATION:C13-1.20
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:XGRF Gründungsorganisation
-DTSTART:20251113T083000
-DTEND:20251113T114500
-DTSTAMP:20250829T105648Z
-UID:d5d4f8bc-8aac-421f-8016-47400b0b7a6b
-DESCRIPTION:H. Mohs
-LOCATION:C13-1.20
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:XGRF Gründungsorganisation
-DTSTART:20251120T083000
-DTEND:20251120T114500
-DTSTAMP:20250829T105648Z
-UID:7ef75202-9b27-4db6-b872-fd8b3fe63238
-DESCRIPTION:H. Mohs
-LOCATION:C13-1.20
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:XGRF Gründungsorganisation
-DTSTART:20251127T083000
-DTEND:20251127T114500
-DTSTAMP:20250829T105648Z
-UID:fe1dfa0f-b474-4d71-a97c-add333654250
-DESCRIPTION:H. Mohs
-LOCATION:C13-1.20
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:XGRF Gründungsorganisation
-DTSTART:20251204T083000
-DTEND:20251204T114500
-DTSTAMP:20250829T105648Z
-UID:972b82a7-04b5-455f-90cd-5a0185c22da8
-DESCRIPTION:H. Mohs
-LOCATION:C13-1.20
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:XGRF Gründungsorganisation
-DTSTART:20251211T083000
-DTEND:20251211T114500
-DTSTAMP:20250829T105648Z
-UID:6210c409-4ab5-48d7-813f-c95bbc1ae1c1
-DESCRIPTION:H. Mohs
-LOCATION:C13-1.20
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:XGRF Gründungsorganisation
-DTSTART:20251218T083000
-DTEND:20251218T114500
-DTSTAMP:20250829T105648Z
-UID:96b0e135-ce2c-4a0c-ae1c-d6b5143c9a34
-DESCRIPTION:H. Mohs
-LOCATION:C13-1.20
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:XGRF Gründungsorganisation
-DTSTART:20251002T083000
-DTEND:20251002T114500
-DTSTAMP:20250829T105648Z
-UID:43f994a3-b015-46dc-b15f-beea66a80aa2
-DESCRIPTION:H. Mohs
-LOCATION:C13-1.20
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Feiertag - Tag der Deutschen Einheit
 DTSTART:20251003T083000
 DTEND:20251003T180000
-DTSTAMP:20250829T105648Z
-UID:0e1812e3-cd95-4213-9c16-8b4cf6f24dbc
-DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, M. Ali Algba
- ra\, J. Angres\, Prof. Aßmuth\, Prof. Badri-Höher\, V. Baierbach\, Prof.
-  Bicakci\, Y. Bockholt\, C. Brauer\, Prof. Brauer\, F. Caspar\, J. Dittman
- n-Wunderlich\, L. Dürrer\, L. Eggers (HiWi)\, Prof. Ehlers\, P. Farshidfa
- r\, Prof. Finkemeyer (FB M)\, H. Folkerts\, G. Gesell\, C. Glüsing\, T. G
- reve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\
- , J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetze
- k\, F. Jürgens\, Prof. Kallies\, A. Kinny\, J. Kohlmorgen\, C. Kopka\, S.
-  Koß\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Me
- nzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neuman
- n\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\
- , Prof. Petersen\, Prof. Prieß\, Prof. Prochnow\, T. Prykhodko\, M. Pöpp
- er\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. S
- achse\, J. Schiwy\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeie
- r\, Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Sielo
- ff\, M. Teichmann\, M. Voß\, Prof. Weber\, T. Wegert\, Prof. Wehrend\, G.
-  Werner\, T. Wilts\, Prof. Woelk\, Prof. Wree\, V. Zylla
+DTSTAMP:20250921T233250Z
+UID:25e47117-f4f2-4549-a0e4-ba86d65d94c9
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitV. Zylla\, Prof. Wree\, Pr
+ of. Woelk\, T. Wilts\, G. Werner\, Prof. Wehrend\, T. Wegert\, Prof. Weber
+ \, M. Voß\, M. Teichmann\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C
+ . Schwatlo\, Prof. Schramm\, Prof. Schmidt-Rethmeier\, S. Schmarbeck\, Hr.
+  Schmagold\, J. Schiwy\, Hr. Sachse\, J. Rähse\, T. Rixen\, Prof. Rinder\
+ , M. Riedel\, R. Raßmann\, M. Pöpper\, T. Prykhodko\, Prof. Prochnow\, P
+ rof. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, Prof. Osterwald\
+ , H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, A.\, E. Moritz\,
+  H. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof.
+  Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A. Kinny\, P
+ rof. Kallies\, F. Jürgens\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\,
+  M. Ignatov\, J. Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, 
+ R. Hellmund\, Hr. Gripp\, T. Greve\, C. Glüsing\, G. Gesell\, H. Folkerts
+ \, Prof. Finkemeyer (FB M)\, P. Farshidfar\, Prof. Ehlers\, L. Eggers (HiW
+ i)\, L. Dürrer\, J. Dittmann-Wunderlich\, F. Caspar\, Prof. Brauer\, C. B
+ rauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, V. Baierbach\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
 LOCATION:
 END:VEVENT
 END:VCALENDAR

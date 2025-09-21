@@ -5,8 +5,8 @@ BEGIN:VEVENT
 SUMMARY:XECAD-ÜL-1  Elektrokonstruktion mit EPLAN
 DTSTART:20250924T083000
 DTEND:20250924T114500
-DTSTAMP:20250829T105649Z
-UID:36a6478e-9dae-4404-aba4-bd7e78bf65cd
+DTSTAMP:20250921T233250Z
+UID:3469b17e-bb2d-4f3d-a585-6a96a4fbeb59
 DESCRIPTION:M. Senkbeil\, C. Brauer
 LOCATION:C12-1.25
 END:VEVENT
@@ -14,8 +14,8 @@ BEGIN:VEVENT
 SUMMARY:XECAD-ÜL-1  Elektrokonstruktion mit EPLAN
 DTSTART:20251008T083000
 DTEND:20251008T114500
-DTSTAMP:20250829T105649Z
-UID:05fffb75-d022-4d81-8736-390d28bea0ef
+DTSTAMP:20250921T233250Z
+UID:d655faeb-3df6-49e0-9d4f-39dd53d50720
 DESCRIPTION:M. Senkbeil\, C. Brauer
 LOCATION:C12-1.25
 END:VEVENT
@@ -23,8 +23,8 @@ BEGIN:VEVENT
 SUMMARY:XECAD-ÜL-1  Elektrokonstruktion mit EPLAN
 DTSTART:20251022T083000
 DTEND:20251022T114500
-DTSTAMP:20250829T105649Z
-UID:9e0794fd-c942-41e4-92aa-373590ad955a
+DTSTAMP:20250921T233250Z
+UID:d93ab1cf-7be4-4ecc-8201-b2d6c8fd9a1c
 DESCRIPTION:M. Senkbeil\, C. Brauer
 LOCATION:C12-1.25
 END:VEVENT
@@ -32,8 +32,8 @@ BEGIN:VEVENT
 SUMMARY:XECAD-ÜL-1  Elektrokonstruktion mit EPLAN
 DTSTART:20251119T083000
 DTEND:20251119T114500
-DTSTAMP:20250829T105649Z
-UID:55ca5d04-7427-428d-b073-f91f36432011
+DTSTAMP:20250921T233250Z
+UID:4ebd80de-14d9-47c3-acd3-e13c6e723daa
 DESCRIPTION:M. Senkbeil\, C. Brauer
 LOCATION:C12-1.25
 END:VEVENT
@@ -41,8 +41,8 @@ BEGIN:VEVENT
 SUMMARY:XECAD-ÜL-1  Elektrokonstruktion mit EPLAN
 DTSTART:20251203T083000
 DTEND:20251203T114500
-DTSTAMP:20250829T105649Z
-UID:61822d39-cea5-4ce7-9fac-935e0a912cab
+DTSTAMP:20250921T233250Z
+UID:6cc27a1d-4fc2-4522-8385-3e59b593c337
 DESCRIPTION:M. Senkbeil\, C. Brauer
 LOCATION:C12-1.25
 END:VEVENT
@@ -50,8 +50,8 @@ BEGIN:VEVENT
 SUMMARY:XECAD-ÜL-1  Elektrokonstruktion mit EPLAN
 DTSTART:20251217T083000
 DTEND:20251217T114500
-DTSTAMP:20250829T105649Z
-UID:dadcd473-d71c-4aee-9024-6b9736cca0ab
+DTSTAMP:20250921T233250Z
+UID:e40c8149-bc17-4b9c-bf2d-e395bd993bf1
 DESCRIPTION:M. Senkbeil\, C. Brauer
 LOCATION:C12-1.25
 END:VEVENT
@@ -59,8 +59,8 @@ BEGIN:VEVENT
 SUMMARY:Automatisierungstechnik ÜL-2  (WM)
 DTSTART:20250929T083000
 DTEND:20250929T114500
-DTSTAMP:20250829T105649Z
-UID:0bc8f845-d60c-4df3-a8d6-dafd25af30a0
+DTSTAMP:20250921T233250Z
+UID:543e4a98-c7b1-4f88-9049-3e5dc19c6552
 DESCRIPTION:6.Termin_n.A.M. Senkbeil\, C. Brauer
 LOCATION:C12-1.25
 END:VEVENT
@@ -68,33 +68,33 @@ BEGIN:VEVENT
 SUMMARY:Feiertag - Tag der Deutschen Einheit
 DTSTART:20251003T083000
 DTEND:20251003T180000
-DTSTAMP:20250829T105649Z
-UID:1b245c3f-8ed2-4b4a-8324-2fe4195f478f
-DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, M. Ali Algba
- ra\, J. Angres\, Prof. Aßmuth\, Prof. Badri-Höher\, V. Baierbach\, Prof.
-  Bicakci\, Y. Bockholt\, C. Brauer\, Prof. Brauer\, F. Caspar\, J. Dittman
- n-Wunderlich\, L. Dürrer\, L. Eggers (HiWi)\, Prof. Ehlers\, P. Farshidfa
- r\, Prof. Finkemeyer (FB M)\, H. Folkerts\, G. Gesell\, C. Glüsing\, T. G
- reve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\
- , J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetze
- k\, F. Jürgens\, Prof. Kallies\, A. Kinny\, J. Kohlmorgen\, C. Kopka\, S.
-  Koß\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Me
- nzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neuman
- n\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\
- , Prof. Petersen\, Prof. Prieß\, Prof. Prochnow\, T. Prykhodko\, M. Pöpp
- er\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. S
- achse\, J. Schiwy\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeie
- r\, Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Sielo
- ff\, M. Teichmann\, M. Voß\, Prof. Weber\, T. Wegert\, Prof. Wehrend\, G.
-  Werner\, T. Wilts\, Prof. Woelk\, Prof. Wree\, V. Zylla
+DTSTAMP:20250921T233250Z
+UID:eacc20f4-d7eb-4d23-abe1-586ef82a8385
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitV. Zylla\, Prof. Wree\, Pr
+ of. Woelk\, T. Wilts\, G. Werner\, Prof. Wehrend\, T. Wegert\, Prof. Weber
+ \, M. Voß\, M. Teichmann\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C
+ . Schwatlo\, Prof. Schramm\, Prof. Schmidt-Rethmeier\, S. Schmarbeck\, Hr.
+  Schmagold\, J. Schiwy\, Hr. Sachse\, J. Rähse\, T. Rixen\, Prof. Rinder\
+ , M. Riedel\, R. Raßmann\, M. Pöpper\, T. Prykhodko\, Prof. Prochnow\, P
+ rof. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, Prof. Osterwald\
+ , H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, A.\, E. Moritz\,
+  H. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof.
+  Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A. Kinny\, P
+ rof. Kallies\, F. Jürgens\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\,
+  M. Ignatov\, J. Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, 
+ R. Hellmund\, Hr. Gripp\, T. Greve\, C. Glüsing\, G. Gesell\, H. Folkerts
+ \, Prof. Finkemeyer (FB M)\, P. Farshidfar\, Prof. Ehlers\, L. Eggers (HiW
+ i)\, L. Dürrer\, J. Dittmann-Wunderlich\, F. Caspar\, Prof. Brauer\, C. B
+ rauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, V. Baierbach\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Automatisierungstechnik ÜL-2  (WM)
 DTSTART:20251013T083000
 DTEND:20251013T114500
-DTSTAMP:20250829T105649Z
-UID:a32d643f-c219-4148-936f-0980d960b9bc
+DTSTAMP:20250921T233250Z
+UID:bdc0ce14-5719-4806-86c9-ac50046b2426
 DESCRIPTION:6.Termin_n.A.M. Senkbeil\, C. Brauer
 LOCATION:C12-1.25
 END:VEVENT
@@ -102,8 +102,8 @@ BEGIN:VEVENT
 SUMMARY:Automatisierungstechnik ÜL-2  (WM)
 DTSTART:20251110T083000
 DTEND:20251110T114500
-DTSTAMP:20250829T105649Z
-UID:4b40c534-776d-4295-b6be-70d06e89d833
+DTSTAMP:20250921T233250Z
+UID:9817d932-b2ce-47a1-b299-96f2fc7c5653
 DESCRIPTION:6.Termin_n.A.M. Senkbeil\, C. Brauer
 LOCATION:C12-1.25
 END:VEVENT
@@ -111,8 +111,8 @@ BEGIN:VEVENT
 SUMMARY:Automatisierungstechnik ÜL-2  (WM)
 DTSTART:20251124T083000
 DTEND:20251124T114500
-DTSTAMP:20250829T105649Z
-UID:f7e39ea0-ecde-4501-92f2-1291b9d1634d
+DTSTAMP:20250921T233250Z
+UID:65cfe47b-fb56-425a-a692-87f4b24cb724
 DESCRIPTION:6.Termin_n.A.M. Senkbeil\, C. Brauer
 LOCATION:C12-1.25
 END:VEVENT
@@ -120,8 +120,8 @@ BEGIN:VEVENT
 SUMMARY:Automatisierungstechnik ÜL-2  (WM)
 DTSTART:20251208T083000
 DTEND:20251208T114500
-DTSTAMP:20250829T105649Z
-UID:631e1345-ab46-4f6b-a5e0-10de89f2a912
+DTSTAMP:20250921T233250Z
+UID:2ffbc1d7-0e49-487b-aa4d-3ea250004b24
 DESCRIPTION:6.Termin_n.A.M. Senkbeil\, C. Brauer
 LOCATION:C12-1.25
 END:VEVENT

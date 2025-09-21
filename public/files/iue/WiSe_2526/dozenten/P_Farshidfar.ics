@@ -5,8 +5,8 @@ BEGIN:VEVENT
 SUMMARY:XSPS-ÜL Speicherprogram. Steuerungen
 DTSTART:20250917T083000
 DTEND:20250917T114500
-DTSTAMP:20250829T105648Z
-UID:49d74f45-5db3-4f53-92d5-4445b8e17060
+DTSTAMP:20250921T233250Z
+UID:b942ffc9-3bb5-4094-a132-f6c9713537d5
 DESCRIPTION:C. Brauer\, P. Farshidfar
 LOCATION:C12-1.25
 END:VEVENT
@@ -14,8 +14,8 @@ BEGIN:VEVENT
 SUMMARY:XSPS-ÜL Speicherprogram. Steuerungen
 DTSTART:20251015T083000
 DTEND:20251015T114500
-DTSTAMP:20250829T105648Z
-UID:c2a0c869-f864-44fd-b1f6-b128e3e9d3c6
+DTSTAMP:20250921T233250Z
+UID:55ad3815-b630-464f-8c92-17fdf39a27ae
 DESCRIPTION:C. Brauer\, P. Farshidfar
 LOCATION:C12-1.25
 END:VEVENT
@@ -23,8 +23,8 @@ BEGIN:VEVENT
 SUMMARY:XSPS-ÜL Speicherprogram. Steuerungen
 DTSTART:20251112T083000
 DTEND:20251112T114500
-DTSTAMP:20250829T105648Z
-UID:ea87bf98-c10b-469b-8774-1db32f6dbd9b
+DTSTAMP:20250921T233250Z
+UID:5ac75ffb-ea50-40e5-8054-4e8c7d848297
 DESCRIPTION:C. Brauer\, P. Farshidfar
 LOCATION:C12-1.25
 END:VEVENT
@@ -32,8 +32,8 @@ BEGIN:VEVENT
 SUMMARY:XSPS-ÜL Speicherprogram. Steuerungen
 DTSTART:20251126T083000
 DTEND:20251126T114500
-DTSTAMP:20250829T105648Z
-UID:80b56fc1-8d21-4552-a16d-a1a940a6ef36
+DTSTAMP:20250921T233250Z
+UID:b0ebdf62-0d1b-4c6d-a7bb-a1a29bfd8ffe
 DESCRIPTION:C. Brauer\, P. Farshidfar
 LOCATION:C12-1.25
 END:VEVENT
@@ -41,8 +41,8 @@ BEGIN:VEVENT
 SUMMARY:XSPS-ÜL Speicherprogram. Steuerungen
 DTSTART:20251210T083000
 DTEND:20251210T114500
-DTSTAMP:20250829T105648Z
-UID:3db24e38-e08d-47f2-ab2f-c6cf811190e9
+DTSTAMP:20250921T233250Z
+UID:bad3c11c-8272-4ac3-970c-ae5f367f9856
 DESCRIPTION:C. Brauer\, P. Farshidfar
 LOCATION:C12-1.25
 END:VEVENT
@@ -50,8 +50,8 @@ BEGIN:VEVENT
 SUMMARY:Automatisierungstechnik ÜL-4 (WM2)
 DTSTART:20250919T083000
 DTEND:20250919T114500
-DTSTAMP:20250829T105648Z
-UID:009d14c4-8fb5-45ff-b099-a460e982d396
+DTSTAMP:20250921T233250Z
+UID:c3ec265c-e4d0-4b08-8451-541321e27a9b
 DESCRIPTION:6.Termin_n.A.P. Farshidfar\, C. Brauer
 LOCATION:C12-1.25
 END:VEVENT
@@ -59,8 +59,8 @@ BEGIN:VEVENT
 SUMMARY:Automatisierungstechnik ÜL-4 (WM2)
 DTSTART:20251017T083000
 DTEND:20251017T114500
-DTSTAMP:20250829T105648Z
-UID:dc36d0ff-e9d8-4c7b-b6b8-840f7e1dbd41
+DTSTAMP:20250921T233250Z
+UID:8ee0da05-fef7-4071-ac4a-a26bc703b65a
 DESCRIPTION:6.Termin_n.A.P. Farshidfar\, C. Brauer
 LOCATION:C12-1.25
 END:VEVENT
@@ -68,8 +68,8 @@ BEGIN:VEVENT
 SUMMARY:Automatisierungstechnik ÜL-4 (WM2)
 DTSTART:20251114T083000
 DTEND:20251114T114500
-DTSTAMP:20250829T105648Z
-UID:d2619e23-a7d6-4df0-a192-b51c4e50c891
+DTSTAMP:20250921T233250Z
+UID:dcb757b5-5cc6-4544-af79-ead51de992e0
 DESCRIPTION:6.Termin_n.A.P. Farshidfar\, C. Brauer
 LOCATION:C12-1.25
 END:VEVENT
@@ -77,8 +77,8 @@ BEGIN:VEVENT
 SUMMARY:Automatisierungstechnik ÜL-4 (WM2)
 DTSTART:20251128T083000
 DTEND:20251128T114500
-DTSTAMP:20250829T105648Z
-UID:71e3b7ed-4d7a-4171-911a-c42931443d81
+DTSTAMP:20250921T233250Z
+UID:41ad5147-7cf5-4cd1-b0f6-2dafd2b7a2a5
 DESCRIPTION:6.Termin_n.A.P. Farshidfar\, C. Brauer
 LOCATION:C12-1.25
 END:VEVENT
@@ -86,8 +86,8 @@ BEGIN:VEVENT
 SUMMARY:Automatisierungstechnik ÜL-4 (WM2)
 DTSTART:20251212T083000
 DTEND:20251212T114500
-DTSTAMP:20250829T105648Z
-UID:30f53a60-0c92-46a2-9a4a-352ee8f4f63b
+DTSTAMP:20250921T233250Z
+UID:9ddf5a34-25bc-4ee3-96e2-32538c4723fd
 DESCRIPTION:6.Termin_n.A.P. Farshidfar\, C. Brauer
 LOCATION:C12-1.25
 END:VEVENT
@@ -95,8 +95,8 @@ BEGIN:VEVENT
 SUMMARY:XSPS-ÜL Speicherprogram. Steuerungen
 DTSTART:20251001T083000
 DTEND:20251001T114500
-DTSTAMP:20250829T105648Z
-UID:21ed8551-25c8-435c-a610-96658c2519e0
+DTSTAMP:20250921T233250Z
+UID:b5daf11b-8e0d-4a7a-8469-b28a3954ef74
 DESCRIPTION:C. Brauer\, P. Farshidfar
 LOCATION:C12-1.25
 END:VEVENT
@@ -104,25 +104,25 @@ BEGIN:VEVENT
 SUMMARY:Feiertag - Tag der Deutschen Einheit
 DTSTART:20251003T083000
 DTEND:20251003T180000
-DTSTAMP:20250829T105648Z
-UID:1e3bb649-6978-4c52-a7e7-5978a36019d8
-DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, M. Ali Algba
- ra\, J. Angres\, Prof. Aßmuth\, Prof. Badri-Höher\, V. Baierbach\, Prof.
-  Bicakci\, Y. Bockholt\, C. Brauer\, Prof. Brauer\, F. Caspar\, J. Dittman
- n-Wunderlich\, L. Dürrer\, L. Eggers (HiWi)\, Prof. Ehlers\, P. Farshidfa
- r\, Prof. Finkemeyer (FB M)\, H. Folkerts\, G. Gesell\, C. Glüsing\, T. G
- reve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\
- , J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetze
- k\, F. Jürgens\, Prof. Kallies\, A. Kinny\, J. Kohlmorgen\, C. Kopka\, S.
-  Koß\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Me
- nzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neuman
- n\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\
- , Prof. Petersen\, Prof. Prieß\, Prof. Prochnow\, T. Prykhodko\, M. Pöpp
- er\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. S
- achse\, J. Schiwy\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeie
- r\, Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Sielo
- ff\, M. Teichmann\, M. Voß\, Prof. Weber\, T. Wegert\, Prof. Wehrend\, G.
-  Werner\, T. Wilts\, Prof. Woelk\, Prof. Wree\, V. Zylla
+DTSTAMP:20250921T233250Z
+UID:27071620-2957-4d88-b2be-0f18dfc9ff6a
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitV. Zylla\, Prof. Wree\, Pr
+ of. Woelk\, T. Wilts\, G. Werner\, Prof. Wehrend\, T. Wegert\, Prof. Weber
+ \, M. Voß\, M. Teichmann\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C
+ . Schwatlo\, Prof. Schramm\, Prof. Schmidt-Rethmeier\, S. Schmarbeck\, Hr.
+  Schmagold\, J. Schiwy\, Hr. Sachse\, J. Rähse\, T. Rixen\, Prof. Rinder\
+ , M. Riedel\, R. Raßmann\, M. Pöpper\, T. Prykhodko\, Prof. Prochnow\, P
+ rof. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, Prof. Osterwald\
+ , H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, A.\, E. Moritz\,
+  H. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof.
+  Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A. Kinny\, P
+ rof. Kallies\, F. Jürgens\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\,
+  M. Ignatov\, J. Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, 
+ R. Hellmund\, Hr. Gripp\, T. Greve\, C. Glüsing\, G. Gesell\, H. Folkerts
+ \, Prof. Finkemeyer (FB M)\, P. Farshidfar\, Prof. Ehlers\, L. Eggers (HiW
+ i)\, L. Dürrer\, J. Dittmann-Wunderlich\, F. Caspar\, Prof. Brauer\, C. B
+ rauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, V. Baierbach\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
 LOCATION:
 END:VEVENT
 END:VCALENDAR

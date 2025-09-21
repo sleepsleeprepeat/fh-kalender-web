@@ -5,8 +5,8 @@ BEGIN:VEVENT
 SUMMARY:XREC Rechtslehre
 DTSTART:20250916T161500
 DTEND:20250916T174500
-DTSTAMP:20250829T105648Z
-UID:448e2e02-121c-405e-94b8-937fa3b17e59
+DTSTAMP:20250921T233250Z
+UID:975c61bf-9da9-4970-b465-116648ff4e6c
 DESCRIPTION:Prof. Petersen
 LOCATION:C22-0.01
 END:VEVENT
@@ -14,8 +14,8 @@ BEGIN:VEVENT
 SUMMARY:XREC Rechtslehre
 DTSTART:20250923T161500
 DTEND:20250923T174500
-DTSTAMP:20250829T105648Z
-UID:f02f9299-c273-496c-b027-bb2d20107085
+DTSTAMP:20250921T233250Z
+UID:45890568-e48e-461e-87c1-bd0720406d0d
 DESCRIPTION:Prof. Petersen
 LOCATION:C22-0.01
 END:VEVENT
@@ -23,8 +23,8 @@ BEGIN:VEVENT
 SUMMARY:XREC Rechtslehre
 DTSTART:20251007T161500
 DTEND:20251007T174500
-DTSTAMP:20250829T105648Z
-UID:050ba26b-3fc7-4649-b761-b8abb5cacfe9
+DTSTAMP:20250921T233250Z
+UID:eb85f69a-550b-449d-bfc7-25123241e8c1
 DESCRIPTION:Prof. Petersen
 LOCATION:C22-0.01
 END:VEVENT
@@ -32,8 +32,8 @@ BEGIN:VEVENT
 SUMMARY:XREC Rechtslehre
 DTSTART:20251014T161500
 DTEND:20251014T174500
-DTSTAMP:20250829T105648Z
-UID:c8e9a0a5-9493-4a74-8b7e-ca751a7211e9
+DTSTAMP:20250921T233250Z
+UID:14a61176-c846-48ed-b0e2-b5859ddc4452
 DESCRIPTION:Prof. Petersen
 LOCATION:C22-0.01
 END:VEVENT
@@ -41,8 +41,8 @@ BEGIN:VEVENT
 SUMMARY:XREC Rechtslehre
 DTSTART:20251021T161500
 DTEND:20251021T174500
-DTSTAMP:20250829T105648Z
-UID:44203604-2567-4240-a799-b6b2d017b24c
+DTSTAMP:20250921T233250Z
+UID:ff228b47-6812-4fcb-b238-b3cbab0568b5
 DESCRIPTION:Prof. Petersen
 LOCATION:C22-0.01
 END:VEVENT
@@ -50,8 +50,8 @@ BEGIN:VEVENT
 SUMMARY:XREC Rechtslehre
 DTSTART:20251111T161500
 DTEND:20251111T174500
-DTSTAMP:20250829T105648Z
-UID:31eb31d6-b587-4fea-b670-e713ff99e80d
+DTSTAMP:20250921T233250Z
+UID:e50ab2bd-6ce4-4d2d-a1d4-906483cc57d8
 DESCRIPTION:Prof. Petersen
 LOCATION:C22-0.01
 END:VEVENT
@@ -59,8 +59,8 @@ BEGIN:VEVENT
 SUMMARY:XREC Rechtslehre
 DTSTART:20251118T161500
 DTEND:20251118T174500
-DTSTAMP:20250829T105648Z
-UID:c31fabdb-441b-4425-8c2a-356d10ebe866
+DTSTAMP:20250921T233250Z
+UID:0aea1008-75eb-44b4-ab57-bf7b5e8e4a6a
 DESCRIPTION:Prof. Petersen
 LOCATION:C22-0.01
 END:VEVENT
@@ -68,8 +68,8 @@ BEGIN:VEVENT
 SUMMARY:XREC Rechtslehre
 DTSTART:20251125T161500
 DTEND:20251125T174500
-DTSTAMP:20250829T105648Z
-UID:7fd60b95-242b-4e31-baf5-89060c8b79f8
+DTSTAMP:20250921T233250Z
+UID:992b179f-9a5e-4171-aed0-235e4f093019
 DESCRIPTION:Prof. Petersen
 LOCATION:C22-0.01
 END:VEVENT
@@ -77,8 +77,8 @@ BEGIN:VEVENT
 SUMMARY:XREC Rechtslehre
 DTSTART:20251202T161500
 DTEND:20251202T174500
-DTSTAMP:20250829T105648Z
-UID:a4dad5e5-6899-417f-99cb-37640f98f4be
+DTSTAMP:20250921T233250Z
+UID:04c61be1-91ab-4050-b2c6-4c976135cb83
 DESCRIPTION:Prof. Petersen
 LOCATION:C22-0.01
 END:VEVENT
@@ -86,8 +86,8 @@ BEGIN:VEVENT
 SUMMARY:XREC Rechtslehre
 DTSTART:20251209T161500
 DTEND:20251209T174500
-DTSTAMP:20250829T105648Z
-UID:3e714851-7b60-4d92-bb76-1653892161ce
+DTSTAMP:20250921T233250Z
+UID:104885b1-f373-4b06-8561-517fea83aa3c
 DESCRIPTION:Prof. Petersen
 LOCATION:C22-0.01
 END:VEVENT
@@ -95,8 +95,8 @@ BEGIN:VEVENT
 SUMMARY:XREC Rechtslehre
 DTSTART:20251216T161500
 DTEND:20251216T174500
-DTSTAMP:20250829T105648Z
-UID:38519edd-383a-44ba-b49a-80fe454102c0
+DTSTAMP:20250921T233250Z
+UID:be6a77c5-95e1-49ab-bb29-595eedbfb436
 DESCRIPTION:Prof. Petersen
 LOCATION:C22-0.01
 END:VEVENT
@@ -104,33 +104,33 @@ BEGIN:VEVENT
 SUMMARY:Feiertag - Tag der Deutschen Einheit
 DTSTART:20251003T083000
 DTEND:20251003T180000
-DTSTAMP:20250829T105648Z
-UID:1d9a585d-9191-475a-a05c-2ec99f30df80
-DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, M. Ali Algba
- ra\, J. Angres\, Prof. Aßmuth\, Prof. Badri-Höher\, V. Baierbach\, Prof.
-  Bicakci\, Y. Bockholt\, C. Brauer\, Prof. Brauer\, F. Caspar\, J. Dittman
- n-Wunderlich\, L. Dürrer\, L. Eggers (HiWi)\, Prof. Ehlers\, P. Farshidfa
- r\, Prof. Finkemeyer (FB M)\, H. Folkerts\, G. Gesell\, C. Glüsing\, T. G
- reve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\
- , J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetze
- k\, F. Jürgens\, Prof. Kallies\, A. Kinny\, J. Kohlmorgen\, C. Kopka\, S.
-  Koß\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Me
- nzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neuman
- n\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\
- , Prof. Petersen\, Prof. Prieß\, Prof. Prochnow\, T. Prykhodko\, M. Pöpp
- er\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. S
- achse\, J. Schiwy\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeie
- r\, Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Sielo
- ff\, M. Teichmann\, M. Voß\, Prof. Weber\, T. Wegert\, Prof. Wehrend\, G.
-  Werner\, T. Wilts\, Prof. Woelk\, Prof. Wree\, V. Zylla
+DTSTAMP:20250921T233250Z
+UID:539af6e1-481e-428c-a07d-547217ff3e0c
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitV. Zylla\, Prof. Wree\, Pr
+ of. Woelk\, T. Wilts\, G. Werner\, Prof. Wehrend\, T. Wegert\, Prof. Weber
+ \, M. Voß\, M. Teichmann\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C
+ . Schwatlo\, Prof. Schramm\, Prof. Schmidt-Rethmeier\, S. Schmarbeck\, Hr.
+  Schmagold\, J. Schiwy\, Hr. Sachse\, J. Rähse\, T. Rixen\, Prof. Rinder\
+ , M. Riedel\, R. Raßmann\, M. Pöpper\, T. Prykhodko\, Prof. Prochnow\, P
+ rof. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, Prof. Osterwald\
+ , H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, A.\, E. Moritz\,
+  H. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof.
+  Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A. Kinny\, P
+ rof. Kallies\, F. Jürgens\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\,
+  M. Ignatov\, J. Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, 
+ R. Hellmund\, Hr. Gripp\, T. Greve\, C. Glüsing\, G. Gesell\, H. Folkerts
+ \, Prof. Finkemeyer (FB M)\, P. Farshidfar\, Prof. Ehlers\, L. Eggers (HiW
+ i)\, L. Dürrer\, J. Dittmann-Wunderlich\, F. Caspar\, Prof. Brauer\, C. B
+ rauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, V. Baierbach\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XREC Rechtslehre
 DTSTART:20250930T161500
 DTEND:20250930T174500
-DTSTAMP:20250829T105648Z
-UID:b1a9168a-6403-49c3-81b0-8d07969b7c67
+DTSTAMP:20250921T233250Z
+UID:315aadc3-cde1-4903-a9c0-1b72960b9f4c
 DESCRIPTION:Prof. Petersen
 LOCATION:C22-0.01
 END:VEVENT

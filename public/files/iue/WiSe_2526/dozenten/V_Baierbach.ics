@@ -5,8 +5,8 @@ BEGIN:VEVENT
 SUMMARY:Programmieren Turorium
 DTSTART:20250915T161500
 DTEND:20250915T174500
-DTSTAMP:20250829T105648Z
-UID:b7c49ba1-adcf-40d5-a471-115510e4478e
+DTSTAMP:20250921T233250Z
+UID:5751cd60-7541-4d7c-a017-b0e86ccf2e42
 DESCRIPTION:V. Baierbach
 LOCATION:C13-0.04
 END:VEVENT
@@ -14,8 +14,8 @@ BEGIN:VEVENT
 SUMMARY:Programmieren Turorium
 DTSTART:20250922T161500
 DTEND:20250922T174500
-DTSTAMP:20250829T105648Z
-UID:ddcf43f0-8850-41e1-b982-c62bc65a6bef
+DTSTAMP:20250921T233250Z
+UID:1f79b522-6a69-4546-9364-2e5da867e226
 DESCRIPTION:V. Baierbach
 LOCATION:C13-0.04
 END:VEVENT
@@ -23,8 +23,8 @@ BEGIN:VEVENT
 SUMMARY:Programmieren Turorium
 DTSTART:20251006T161500
 DTEND:20251006T174500
-DTSTAMP:20250829T105648Z
-UID:5dd68f39-6153-442a-b29d-a8fb1c532a1b
+DTSTAMP:20250921T233250Z
+UID:c4743f7a-b79c-41ed-80d6-a039177d3601
 DESCRIPTION:V. Baierbach
 LOCATION:C13-0.04
 END:VEVENT
@@ -32,8 +32,8 @@ BEGIN:VEVENT
 SUMMARY:Programmieren Turorium
 DTSTART:20251013T161500
 DTEND:20251013T174500
-DTSTAMP:20250829T105648Z
-UID:c58025ad-2cda-450f-abbf-c7918e704e32
+DTSTAMP:20250921T233250Z
+UID:55cff387-ec36-4524-b790-0e302a000da3
 DESCRIPTION:V. Baierbach
 LOCATION:C13-0.04
 END:VEVENT
@@ -41,8 +41,8 @@ BEGIN:VEVENT
 SUMMARY:Programmieren Turorium
 DTSTART:20251020T161500
 DTEND:20251020T174500
-DTSTAMP:20250829T105648Z
-UID:92ca3e67-bf49-427b-bd4d-9b6de296ad69
+DTSTAMP:20250921T233250Z
+UID:08db25df-42c9-4d78-9a1e-ecbdb094f7d4
 DESCRIPTION:V. Baierbach
 LOCATION:C13-0.04
 END:VEVENT
@@ -50,8 +50,8 @@ BEGIN:VEVENT
 SUMMARY:Programmieren Turorium
 DTSTART:20251110T161500
 DTEND:20251110T174500
-DTSTAMP:20250829T105648Z
-UID:a37312a3-2823-4d6e-bb8d-bcf8b1e07852
+DTSTAMP:20250921T233250Z
+UID:1a164b19-11fb-4408-9932-d3309ad937ee
 DESCRIPTION:V. Baierbach
 LOCATION:C13-0.04
 END:VEVENT
@@ -59,8 +59,8 @@ BEGIN:VEVENT
 SUMMARY:Programmieren Turorium
 DTSTART:20251117T161500
 DTEND:20251117T174500
-DTSTAMP:20250829T105648Z
-UID:4eb9a445-67c3-45a7-8e9e-f10c892bd5f0
+DTSTAMP:20250921T233250Z
+UID:791ebd5b-7695-4057-a136-b45dda1bad10
 DESCRIPTION:V. Baierbach
 LOCATION:C13-0.04
 END:VEVENT
@@ -68,8 +68,8 @@ BEGIN:VEVENT
 SUMMARY:Programmieren Turorium
 DTSTART:20251124T161500
 DTEND:20251124T174500
-DTSTAMP:20250829T105648Z
-UID:4a374cc0-c916-4e3a-815f-a71137f26369
+DTSTAMP:20250921T233250Z
+UID:efc44515-9c04-4dba-80ee-545939575e9f
 DESCRIPTION:V. Baierbach
 LOCATION:C13-0.04
 END:VEVENT
@@ -77,8 +77,8 @@ BEGIN:VEVENT
 SUMMARY:Programmieren Turorium
 DTSTART:20251201T161500
 DTEND:20251201T174500
-DTSTAMP:20250829T105648Z
-UID:c4843547-5acd-4438-a2c4-2ddc8d07de4d
+DTSTAMP:20250921T233250Z
+UID:1035b1b8-0982-4dff-991d-63cf7669a1d7
 DESCRIPTION:V. Baierbach
 LOCATION:C13-0.04
 END:VEVENT
@@ -86,8 +86,8 @@ BEGIN:VEVENT
 SUMMARY:Programmieren Turorium
 DTSTART:20251208T161500
 DTEND:20251208T174500
-DTSTAMP:20250829T105648Z
-UID:3581bc31-400e-4068-969c-73f75ef50c37
+DTSTAMP:20250921T233250Z
+UID:03bf4569-cb94-4cd9-8888-61dd6e9676ae
 DESCRIPTION:V. Baierbach
 LOCATION:C13-0.04
 END:VEVENT
@@ -95,8 +95,8 @@ BEGIN:VEVENT
 SUMMARY:Programmieren Turorium
 DTSTART:20251215T161500
 DTEND:20251215T174500
-DTSTAMP:20250829T105648Z
-UID:53cc317a-e64e-49da-9e79-6c072213e6cc
+DTSTAMP:20250921T233250Z
+UID:d39ee63a-61c5-4ae6-aada-cd26986dec29
 DESCRIPTION:V. Baierbach
 LOCATION:C13-0.04
 END:VEVENT
@@ -104,33 +104,33 @@ BEGIN:VEVENT
 SUMMARY:Feiertag - Tag der Deutschen Einheit
 DTSTART:20251003T083000
 DTEND:20251003T180000
-DTSTAMP:20250829T105648Z
-UID:fefcc077-efeb-4b95-80f1-f62c98b81875
-DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, M. Ali Algba
- ra\, J. Angres\, Prof. Aßmuth\, Prof. Badri-Höher\, V. Baierbach\, Prof.
-  Bicakci\, Y. Bockholt\, C. Brauer\, Prof. Brauer\, F. Caspar\, J. Dittman
- n-Wunderlich\, L. Dürrer\, L. Eggers (HiWi)\, Prof. Ehlers\, P. Farshidfa
- r\, Prof. Finkemeyer (FB M)\, H. Folkerts\, G. Gesell\, C. Glüsing\, T. G
- reve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\
- , J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetze
- k\, F. Jürgens\, Prof. Kallies\, A. Kinny\, J. Kohlmorgen\, C. Kopka\, S.
-  Koß\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Me
- nzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neuman
- n\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\
- , Prof. Petersen\, Prof. Prieß\, Prof. Prochnow\, T. Prykhodko\, M. Pöpp
- er\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. S
- achse\, J. Schiwy\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeie
- r\, Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Sielo
- ff\, M. Teichmann\, M. Voß\, Prof. Weber\, T. Wegert\, Prof. Wehrend\, G.
-  Werner\, T. Wilts\, Prof. Woelk\, Prof. Wree\, V. Zylla
+DTSTAMP:20250921T233250Z
+UID:627fbd46-a884-4441-9273-1728f6369f5c
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitV. Zylla\, Prof. Wree\, Pr
+ of. Woelk\, T. Wilts\, G. Werner\, Prof. Wehrend\, T. Wegert\, Prof. Weber
+ \, M. Voß\, M. Teichmann\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C
+ . Schwatlo\, Prof. Schramm\, Prof. Schmidt-Rethmeier\, S. Schmarbeck\, Hr.
+  Schmagold\, J. Schiwy\, Hr. Sachse\, J. Rähse\, T. Rixen\, Prof. Rinder\
+ , M. Riedel\, R. Raßmann\, M. Pöpper\, T. Prykhodko\, Prof. Prochnow\, P
+ rof. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, Prof. Osterwald\
+ , H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, A.\, E. Moritz\,
+  H. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof.
+  Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A. Kinny\, P
+ rof. Kallies\, F. Jürgens\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\,
+  M. Ignatov\, J. Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, 
+ R. Hellmund\, Hr. Gripp\, T. Greve\, C. Glüsing\, G. Gesell\, H. Folkerts
+ \, Prof. Finkemeyer (FB M)\, P. Farshidfar\, Prof. Ehlers\, L. Eggers (HiW
+ i)\, L. Dürrer\, J. Dittmann-Wunderlich\, F. Caspar\, Prof. Brauer\, C. B
+ rauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, V. Baierbach\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programmieren Turorium
 DTSTART:20250929T180000
 DTEND:20250929T193000
-DTSTAMP:20250829T105648Z
-UID:85010f29-9d6a-4107-b240-4efb9a489382
+DTSTAMP:20250921T233250Z
+UID:a6b7ff4a-afec-498e-9d04-da8187d11df6
 DESCRIPTION:nur_40.KWV. Baierbach
 LOCATION:C13-0.04
 END:VEVENT

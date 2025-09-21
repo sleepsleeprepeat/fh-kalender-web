@@ -5,33 +5,33 @@ BEGIN:VEVENT
 SUMMARY:Feiertag - Tag der Deutschen Einheit
 DTSTART:20251003T083000
 DTEND:20251003T180000
-DTSTAMP:20250829T105648Z
-UID:c86a0a0c-fd24-4077-85f2-652e6dd9dcc7
-DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitProf. Acker\, M. Ali Algba
- ra\, J. Angres\, Prof. Aßmuth\, Prof. Badri-Höher\, V. Baierbach\, Prof.
-  Bicakci\, Y. Bockholt\, C. Brauer\, Prof. Brauer\, F. Caspar\, J. Dittman
- n-Wunderlich\, L. Dürrer\, L. Eggers (HiWi)\, Prof. Ehlers\, P. Farshidfa
- r\, Prof. Finkemeyer (FB M)\, H. Folkerts\, G. Gesell\, C. Glüsing\, T. G
- reve\, Hr. Gripp\, R. Hellmund\, Prof. Hennig\, S. Herzog\, K. Hinkelmann\
- , J. Hoffmüller\, M. Ignatov\, Prof. Immel\, Prof. Jacobsen\, Prof. Jetze
- k\, F. Jürgens\, Prof. Kallies\, A. Kinny\, J. Kohlmorgen\, C. Kopka\, S.
-  Koß\, Prof. Lebert\, Prof. Luczak\, Prof. Lüssem\, Prof. Manzke\, M. Me
- nzel\, Prof. Mielke\, H. Mohs\, E. Moritz\, A. Neumann\, A.\, Prof. Neuman
- n\, J. Nowitzki\, H. Oenings\, Prof. Osterwald\, Prof. Patz\, E. Petersen\
- , Prof. Petersen\, Prof. Prieß\, Prof. Prochnow\, T. Prykhodko\, M. Pöpp
- er\, R. Raßmann\, M. Riedel\, Prof. Rinder\, T. Rixen\, J. Rähse\, Hr. S
- achse\, J. Schiwy\, Hr. Schmagold\, S. Schmarbeck\, Prof. Schmidt-Rethmeie
- r\, Prof. Schramm\, C. Schwatlo\, Prof. Schümann\, M. Senkbeil\, M. Sielo
- ff\, M. Teichmann\, M. Voß\, Prof. Weber\, T. Wegert\, Prof. Wehrend\, G.
-  Werner\, T. Wilts\, Prof. Woelk\, Prof. Wree\, V. Zylla
+DTSTAMP:20250921T233250Z
+UID:91f4e32b-9357-456d-8916-0c1b5d61fae4
+DESCRIPTION:Feiertag_-_Tag_der_Deutschen_EinheitV. Zylla\, Prof. Wree\, Pr
+ of. Woelk\, T. Wilts\, G. Werner\, Prof. Wehrend\, T. Wegert\, Prof. Weber
+ \, M. Voß\, M. Teichmann\, M. Sieloff\, M. Senkbeil\, Prof. Schümann\, C
+ . Schwatlo\, Prof. Schramm\, Prof. Schmidt-Rethmeier\, S. Schmarbeck\, Hr.
+  Schmagold\, J. Schiwy\, Hr. Sachse\, J. Rähse\, T. Rixen\, Prof. Rinder\
+ , M. Riedel\, R. Raßmann\, M. Pöpper\, T. Prykhodko\, Prof. Prochnow\, P
+ rof. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, Prof. Osterwald\
+ , H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, A.\, E. Moritz\,
+  H. Mohs\, Prof. Mielke\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof.
+  Luczak\, Prof. Lebert\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A. Kinny\, P
+ rof. Kallies\, F. Jürgens\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\,
+  M. Ignatov\, J. Hoffmüller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, 
+ R. Hellmund\, Hr. Gripp\, T. Greve\, C. Glüsing\, G. Gesell\, H. Folkerts
+ \, Prof. Finkemeyer (FB M)\, P. Farshidfar\, Prof. Ehlers\, L. Eggers (HiW
+ i)\, L. Dürrer\, J. Dittmann-Wunderlich\, F. Caspar\, Prof. Brauer\, C. B
+ rauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, V. Baierbach\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Windenergie (Ringvorlesung)
 DTSTART:20251126T090000
 DTEND:20251126T113000
-DTSTAMP:20250829T105648Z
-UID:6331e494-9265-4062-baed-0785632465da
+DTSTAMP:20250921T233250Z
+UID:3d48b857-3caf-4bee-a6e8-f8c035b0a355
 DESCRIPTION:Start:_09:15UhrHr. Sachse
 LOCATION:C13-0.01
 END:VEVENT
@@ -39,8 +39,8 @@ BEGIN:VEVENT
 SUMMARY:Windenergie (Ringvorlesung)
 DTSTART:20251203T090000
 DTEND:20251203T113000
-DTSTAMP:20250829T105648Z
-UID:a0138f83-5975-4910-b530-11c9b543488a
+DTSTAMP:20250921T233250Z
+UID:bffc2a84-8cc5-4674-bb01-16a4bf782927
 DESCRIPTION:Start:_09:15UhrHr. Sachse
 LOCATION:C13-0.01
 END:VEVENT
@@ -48,8 +48,8 @@ BEGIN:VEVENT
 SUMMARY:Windenergie (Ringvorlesung)
 DTSTART:20251210T090000
 DTEND:20251210T113000
-DTSTAMP:20250829T105648Z
-UID:969e57b6-d455-468d-a850-2a75d5b95ab5
+DTSTAMP:20250921T233250Z
+UID:b8e60f11-3b0c-4fba-866e-9f88eecd7889
 DESCRIPTION:Start:_09:15UhrHr. Sachse
 LOCATION:C13-0.01
 END:VEVENT
@@ -57,8 +57,8 @@ BEGIN:VEVENT
 SUMMARY:Windenergie (Ringvorlesung)
 DTSTART:20251217T090000
 DTEND:20251217T113000
-DTSTAMP:20250829T105648Z
-UID:58e6265d-2c1b-4680-ba6b-d93f193d6e5d
+DTSTAMP:20250921T233250Z
+UID:78e87ee3-6b66-4da4-8c98-b195120087f5
 DESCRIPTION:Start:_09:15UhrHr. Sachse
 LOCATION:C13-0.01
 END:VEVENT
