@@ -1,0 +1,487 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Orientierungsmodul VL/ÜL E
+DTSTART:20260317T083000
+DTEND:20260317T114500
+DTSTAMP:20260218T212500Z
+UID:96d6fb57-daa2-4b7e-8416-147004c98332
+DESCRIPTION:Prof. Acker\, J. Hoffmüller\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orientierungsmodul VL/ÜL E
+DTSTART:20260318T083000
+DTEND:20260318T100000
+DTSTAMP:20260218T212500Z
+UID:26396f24-d62a-4feb-a664-a017f3850e9e
+DESCRIPTION:Prof. Acker\, J. Hoffmüller\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mikrocontrollertechnik ÜL-W1
+DTSTART:20260318T101500
+DTEND:20260318T133000
+DTSTAMP:20260218T212500Z
+UID:aa92e664-7ffa-4510-a812-603837e5fb82
+DESCRIPTION:J. Hoffmüller\, Prof. Patz
+LOCATION:C13-3.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mikrocontrollertechnik ÜL-E1
+DTSTART:20260317T124500
+DTEND:20260317T160000
+DTSTAMP:20260218T212500Z
+UID:e27e2542-f887-48b5-a0c1-ce3ebae39f56
+DESCRIPTION:Prof. Patz\, J. Hoffmüller
+LOCATION:C13-3.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orientierungsmodul VL/ÜL E
+DTSTART:20260317T161500
+DTEND:20260317T174500
+DTSTAMP:20260218T212500Z
+UID:d61da845-cae5-49eb-b7d2-7eeb79a72835
+DESCRIPTION:Prof. Acker\, J. Hoffmüller
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orientierungsmodul VL/ÜL E
+DTSTART:20260324T083000
+DTEND:20260324T114500
+DTSTAMP:20260218T212500Z
+UID:e7e4e669-3d10-4d93-a3ba-2deb3cc41e81
+DESCRIPTION:Prof. Acker\, J. Hoffmüller\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orientierungsmodul VL/ÜL E
+DTSTART:20260325T083000
+DTEND:20260325T100000
+DTSTAMP:20260218T212500Z
+UID:8cec358a-b29d-4e69-b688-dd8cfa00b6ee
+DESCRIPTION:Prof. Acker\, J. Hoffmüller\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orientierungsmodul VL/ÜL E
+DTSTART:20260325T101500
+DTEND:20260325T114500
+DTSTAMP:20260218T212500Z
+UID:4cf45d99-dbde-48e6-b7a6-a63444488f86
+DESCRIPTION:Prof. Acker\, J. Hoffmüller\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mikrocontrollertechnik ÜL-E2
+DTSTART:20260324T124500
+DTEND:20260324T160000
+DTSTAMP:20260218T212500Z
+UID:01002d1e-7553-443e-894b-b99720879a21
+DESCRIPTION:C. Schwatlo\, J. Hoffmüller
+LOCATION:C13-3.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orientierungsmodul VL/ÜL E
+DTSTART:20260325T124500
+DTEND:20260325T141500
+DTSTAMP:20260218T212500Z
+UID:126e4bcd-29fd-4b72-a41f-bc8a00ad5ac0
+DESCRIPTION:Prof. Acker\, J. Hoffmüller\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Softwareentwicklung für Ingenieurwissenschaften 2 ÜL-E1
+DTSTART:20260330T083000
+DTEND:20260330T114500
+DTSTAMP:20260218T212500Z
+UID:ad6e10c5-6609-49f9-a7fd-c82ddb0b5c4f
+DESCRIPTION:J. Hoffmüller\, Prof. Acker
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20260403T083000
+DTEND:20260403T180000
+DTSTAMP:20260218T212500Z
+UID:eab4de79-7480-4748-a138-3eade0e31811
+DESCRIPTION:Karfreitag__Good_FridayP. Wrobel\, Prof. Wree\, Prof. Woelk\, 
+ G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, Prof
+ . Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. 
+ Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Rixen
+ \, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prieß\
+ , Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Osterwa
+ ld\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\, E
+ . Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. Luc
+ zak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A.
+  Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Prof. 
+ Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. Hann
+ es\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H. Fo
+ lkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof. B
+ rauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-Hö
+ her\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mikrocontrollertechnik ÜL-W1
+DTSTART:20260401T101500
+DTEND:20260401T133000
+DTSTAMP:20260218T212500Z
+UID:cc0e4f3d-bd54-46a2-8dab-697642ffb1bb
+DESCRIPTION:J. Hoffmüller\, Prof. Patz
+LOCATION:C13-3.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mikrocontrollertechnik ÜL-E1
+DTSTART:20260331T124500
+DTEND:20260331T160000
+DTSTAMP:20260218T212500Z
+UID:5da971f0-41a8-4fcc-abbd-4186fedfa280
+DESCRIPTION:Prof. Patz\, J. Hoffmüller
+LOCATION:C13-3.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20260406T083000
+DTEND:20260406T180000
+DTSTAMP:20260218T212500Z
+UID:db79749f-1e6e-47e1-b75d-52d4f3afe7f0
+DESCRIPTION:Ostermontag__Easter_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Softwareentwicklung für Ingenieurwissenschaften 2 ÜL-E2W
+DTSTART:20260408T101500
+DTEND:20260408T133000
+DTSTAMP:20260218T212500Z
+UID:390687e8-cdef-4c28-bb92-f969a6351f39
+DESCRIPTION:J. Hoffmüller\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mikrocontrollertechnik ÜL-E2
+DTSTART:20260407T124500
+DTEND:20260407T160000
+DTSTAMP:20260218T212500Z
+UID:12e5dd66-9a7d-4ed1-8562-59829de95051
+DESCRIPTION:C. Schwatlo\, J. Hoffmüller
+LOCATION:C13-3.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Softwareentwicklung für Ingenieurwissenschaften 2 ÜL-E1
+DTSTART:20260413T083000
+DTEND:20260413T114500
+DTSTAMP:20260218T212500Z
+UID:4667445c-7961-44eb-af74-2ee9bca9fb25
+DESCRIPTION:J. Hoffmüller\, Prof. Acker
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Softwareentwicklung für Ingenieurwissenschaften 2 ÜL-E1
+DTSTART:20260608T083000
+DTEND:20260608T114500
+DTSTAMP:20260218T212500Z
+UID:e16e9912-4c8a-480b-b5a4-70d46a20dbdd
+DESCRIPTION:J. Hoffmüller\, Prof. Acker
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E3
+DTSTART:20260414T083000
+DTEND:20260414T114500
+DTSTAMP:20260218T212500Z
+UID:da255281-b6cc-4717-af32-440dd5edf21f
+DESCRIPTION:J. Hoffmüller\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E3
+DTSTART:20260609T083000
+DTEND:20260609T114500
+DTSTAMP:20260218T212500Z
+UID:bd4d4a8b-3292-491b-a085-400c7d3ab1c8
+DESCRIPTION:J. Hoffmüller\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mikrocontrollertechnik ÜL-W1
+DTSTART:20260415T101500
+DTEND:20260415T133000
+DTSTAMP:20260218T212500Z
+UID:d6e90dde-3a8f-41a2-bd96-df030dd6e8c6
+DESCRIPTION:J. Hoffmüller\, Prof. Patz
+LOCATION:C13-3.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mikrocontrollertechnik ÜL-W1
+DTSTART:20260610T101500
+DTEND:20260610T133000
+DTSTAMP:20260218T212500Z
+UID:6846393a-0946-49a3-9257-11cdddb97cb9
+DESCRIPTION:J. Hoffmüller\, Prof. Patz
+LOCATION:C13-3.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mikrocontrollertechnik ÜL-E1
+DTSTART:20260414T124500
+DTEND:20260414T160000
+DTSTAMP:20260218T212500Z
+UID:e463a504-9fb5-43e4-b3a8-e0e100892957
+DESCRIPTION:Prof. Patz\, J. Hoffmüller
+LOCATION:C13-3.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mikrocontrollertechnik ÜL-E1
+DTSTART:20260609T124500
+DTEND:20260609T160000
+DTSTAMP:20260218T212500Z
+UID:6629d4c3-b876-4cea-9dbb-dc6217c774b5
+DESCRIPTION:Prof. Patz\, J. Hoffmüller
+LOCATION:C13-3.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Softwareentwicklung für Ingenieurwissenschaften 2 ÜL-E2W
+DTSTART:20260422T101500
+DTEND:20260422T133000
+DTSTAMP:20260218T212500Z
+UID:d9f39e16-39a6-4b30-8845-5cb077796e11
+DESCRIPTION:J. Hoffmüller\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Softwareentwicklung für Ingenieurwissenschaften 2 ÜL-E2W
+DTSTART:20260520T101500
+DTEND:20260520T133000
+DTSTAMP:20260218T212500Z
+UID:5b9c6db9-0987-475b-8f19-5964923f675b
+DESCRIPTION:J. Hoffmüller\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Softwareentwicklung für Ingenieurwissenschaften 2 ÜL-E2W
+DTSTART:20260603T101500
+DTEND:20260603T133000
+DTSTAMP:20260218T212500Z
+UID:e8186e29-e527-4f81-9df5-0df360edcea4
+DESCRIPTION:J. Hoffmüller\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Softwareentwicklung für Ingenieurwissenschaften 2 ÜL-E2W
+DTSTART:20260617T101500
+DTEND:20260617T133000
+DTSTAMP:20260218T212500Z
+UID:af1f7de4-562f-472e-befe-f4adb7b07869
+DESCRIPTION:J. Hoffmüller\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E2
+DTSTART:20260420T124500
+DTEND:20260420T160000
+DTSTAMP:20260218T212500Z
+UID:0fe6f814-ef39-4ec6-a2c5-e97c84b0de39
+DESCRIPTION:J. Hoffmüller\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E2
+DTSTART:20260518T124500
+DTEND:20260518T160000
+DTSTAMP:20260218T212500Z
+UID:233170fc-a09d-4877-b89d-856af880ca87
+DESCRIPTION:J. Hoffmüller\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E2
+DTSTART:20260601T124500
+DTEND:20260601T160000
+DTSTAMP:20260218T212500Z
+UID:2d23b742-d9fd-4d1a-af2c-069251420291
+DESCRIPTION:J. Hoffmüller\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E2
+DTSTART:20260615T124500
+DTEND:20260615T160000
+DTSTAMP:20260218T212500Z
+UID:da039cec-1189-4fdb-8568-ff1154347202
+DESCRIPTION:J. Hoffmüller\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mikrocontrollertechnik ÜL-E2
+DTSTART:20260421T124500
+DTEND:20260421T160000
+DTSTAMP:20260218T212500Z
+UID:0d078a56-0f65-4d2a-970c-bf0e542d26c3
+DESCRIPTION:C. Schwatlo\, J. Hoffmüller
+LOCATION:C13-3.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mikrocontrollertechnik ÜL-E2
+DTSTART:20260519T124500
+DTEND:20260519T160000
+DTSTAMP:20260218T212500Z
+UID:3975411b-1bfb-4316-85bd-94ff51dd4467
+DESCRIPTION:C. Schwatlo\, J. Hoffmüller
+LOCATION:C13-3.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mikrocontrollertechnik ÜL-E2
+DTSTART:20260602T124500
+DTEND:20260602T160000
+DTSTAMP:20260218T212500Z
+UID:9192da28-20dc-4fde-a962-a2cab55d8256
+DESCRIPTION:C. Schwatlo\, J. Hoffmüller
+LOCATION:C13-3.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mikrocontrollertechnik ÜL-E2
+DTSTART:20260616T124500
+DTEND:20260616T160000
+DTSTAMP:20260218T212500Z
+UID:ac75552b-b8f9-42a2-888c-b048ffde4f90
+DESCRIPTION:C. Schwatlo\, J. Hoffmüller
+LOCATION:C13-3.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Softwareentwicklung für Ingenieurwissenschaften 2 ÜL-E1
+DTSTART:20260511T083000
+DTEND:20260511T114500
+DTSTAMP:20260218T212500Z
+UID:735fdc8a-5e90-46ba-966a-b716aeefaf3c
+DESCRIPTION:J. Hoffmüller\, Prof. Acker
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E3
+DTSTART:20260512T083000
+DTEND:20260512T114500
+DTSTAMP:20260218T212500Z
+UID:0f9287bc-d810-462e-a344-a9a6eef40fc7
+DESCRIPTION:J. Hoffmüller\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20260514T083000
+DTEND:20260514T180000
+DTSTAMP:20260218T212500Z
+UID:3bc5f2d7-4893-42f3-bf33-8293e28bae8f
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayP. Wrobel\, Prof. Wree\, Pro
+ f. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sie
+ loff\, Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Reth
+ meier\, S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius
+ \, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Pr
+ of. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Pr
+ of. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H.
+  Mücke\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\
+ , Prof. Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohl
+ morgen\, A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswie
+ ck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmü
+ ller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartman
+ n\, L. Hannes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavri
+ lov\, H. Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspa
+ r\, Prof. Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof
+ . Badri-Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mikrocontrollertechnik ÜL-W1
+DTSTART:20260513T101500
+DTEND:20260513T133000
+DTSTAMP:20260218T212500Z
+UID:3e9a1f90-bd78-4d27-a2f7-fff1ea1c7a3a
+DESCRIPTION:J. Hoffmüller\, Prof. Patz
+LOCATION:C13-3.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mikrocontrollertechnik ÜL-E1
+DTSTART:20260512T124500
+DTEND:20260512T160000
+DTSTAMP:20260218T212500Z
+UID:53c37e9d-afa5-4d80-a3b7-b2bf5f33351a
+DESCRIPTION:Prof. Patz\, J. Hoffmüller
+LOCATION:C13-3.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20260525T083000
+DTEND:20260525T180000
+DTSTAMP:20260218T212500Z
+UID:d88c1e20-a9cd-4e28-9421-22ee1406171b
+DESCRIPTION:Pfingstmontag__Whit_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E3
+DTSTART:20260526T083000
+DTEND:20260526T114500
+DTSTAMP:20260218T212500Z
+UID:75ef557e-5be4-4490-9b9e-99723a303ba1
+DESCRIPTION:J. Hoffmüller\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mikrocontrollertechnik ÜL-W1
+DTSTART:20260527T101500
+DTEND:20260527T133000
+DTSTAMP:20260218T212500Z
+UID:c0e850a1-3e80-461f-bb29-d3124fab60e6
+DESCRIPTION:J. Hoffmüller\, Prof. Patz
+LOCATION:C13-3.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mikrocontrollertechnik ÜL-E1
+DTSTART:20260526T124500
+DTEND:20260526T160000
+DTSTAMP:20260218T212500Z
+UID:a8078257-aba0-497a-a4b6-3bb0eeade620
+DESCRIPTION:Prof. Patz\, J. Hoffmüller
+LOCATION:C13-3.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Softwareentwicklung für Ingenieurwissenschaften 2 ÜL-E1
+DTSTART:20260529T124500
+DTEND:20260529T160000
+DTSTAMP:20260218T212500Z
+UID:2239cef7-5f28-4c45-b1e3-6216c68a47c4
+DESCRIPTION:ErsatzterminJ. Hoffmüller\, Prof. Acker
+LOCATION:C13-3.18
+END:VEVENT
+END:VCALENDAR

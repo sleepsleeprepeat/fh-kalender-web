@@ -1,0 +1,289 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Wirtschaftsrecht
+DTSTART:20260316T124500
+DTEND:20260316T141500
+DTSTAMP:20260218T212500Z
+UID:5f1c2158-e679-4fb8-a9e8-8a7449200fca
+DESCRIPTION:Prof. Petersen
+LOCATION:C12-2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wirtschaftsrecht
+DTSTART:20260323T124500
+DTEND:20260323T141500
+DTSTAMP:20260218T212500Z
+UID:c60acf70-6eaa-4cda-aa35-0fc6b01d8191
+DESCRIPTION:Prof. Petersen
+LOCATION:C12-2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wirtschaftsrecht
+DTSTART:20260413T124500
+DTEND:20260413T141500
+DTSTAMP:20260218T212500Z
+UID:c3f891d1-0906-4e11-a084-35407bc632ee
+DESCRIPTION:Prof. Petersen
+LOCATION:C12-2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wirtschaftsrecht
+DTSTART:20260420T124500
+DTEND:20260420T141500
+DTSTAMP:20260218T212500Z
+UID:da1f6fc5-8492-434a-9a7b-a2ed77b83563
+DESCRIPTION:Prof. Petersen
+LOCATION:C12-2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wirtschaftsrecht
+DTSTART:20260518T124500
+DTEND:20260518T141500
+DTSTAMP:20260218T212500Z
+UID:5fbab0ec-ce68-457a-ae5b-59bfe1cbd16e
+DESCRIPTION:Prof. Petersen
+LOCATION:C12-2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wirtschaftsrecht
+DTSTART:20260601T124500
+DTEND:20260601T141500
+DTSTAMP:20260218T212500Z
+UID:bb81042e-1b75-4fdb-9725-6109eeae5de7
+DESCRIPTION:Prof. Petersen
+LOCATION:C12-2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wirtschaftsrecht
+DTSTART:20260608T124500
+DTEND:20260608T141500
+DTSTAMP:20260218T212500Z
+UID:c485ef8d-aa76-4deb-ad02-3cda27f92da2
+DESCRIPTION:Prof. Petersen
+LOCATION:C12-2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wirtschaftsrecht
+DTSTART:20260615T124500
+DTEND:20260615T141500
+DTSTAMP:20260218T212500Z
+UID:36b6481d-9ccf-483b-a492-9594063bd16f
+DESCRIPTION:Prof. Petersen
+LOCATION:C12-2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wirtschaftsrecht
+DTSTART:20260319T124500
+DTEND:20260319T141500
+DTSTAMP:20260218T212500Z
+UID:c61e0014-0b22-475d-8591-7527cc6383ff
+DESCRIPTION:Prof. Petersen
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wirtschaftsrecht
+DTSTART:20260326T124500
+DTEND:20260326T141500
+DTSTAMP:20260218T212500Z
+UID:3fbfcc7c-4527-47ec-bc97-19624c57113f
+DESCRIPTION:Prof. Petersen
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wirtschaftsrecht
+DTSTART:20260416T124500
+DTEND:20260416T141500
+DTSTAMP:20260218T212500Z
+UID:0dee7d47-166b-444a-89e6-e3c918c63a9d
+DESCRIPTION:Prof. Petersen
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wirtschaftsrecht
+DTSTART:20260423T124500
+DTEND:20260423T141500
+DTSTAMP:20260218T212500Z
+UID:8b206f73-37d3-4b1f-82b9-3985301c395a
+DESCRIPTION:Prof. Petersen
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wirtschaftsrecht
+DTSTART:20260521T124500
+DTEND:20260521T141500
+DTSTAMP:20260218T212500Z
+UID:c71b0e94-b863-40d8-9b9d-a089e77b5299
+DESCRIPTION:Prof. Petersen
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wirtschaftsrecht
+DTSTART:20260604T124500
+DTEND:20260604T141500
+DTSTAMP:20260218T212500Z
+UID:ecd370bc-44eb-42dd-a599-97d460fba3c7
+DESCRIPTION:Prof. Petersen
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wirtschaftsrecht
+DTSTART:20260611T124500
+DTEND:20260611T141500
+DTSTAMP:20260218T212500Z
+UID:38dbd2a9-0e24-4749-a12a-d61180f95e58
+DESCRIPTION:Prof. Petersen
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wirtschaftsrecht
+DTSTART:20260618T124500
+DTEND:20260618T141500
+DTSTAMP:20260218T212500Z
+UID:0e960d48-9e4e-475f-a522-084b70657513
+DESCRIPTION:Prof. Petersen
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20260403T083000
+DTEND:20260403T180000
+DTSTAMP:20260218T212500Z
+UID:c1f39d51-0bf7-4905-a187-fe9f0dfc62d8
+DESCRIPTION:Karfreitag__Good_FridayP. Wrobel\, Prof. Wree\, Prof. Woelk\, 
+ G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, Prof
+ . Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. 
+ Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Rixen
+ \, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prieß\
+ , Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Osterwa
+ ld\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\, E
+ . Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. Luc
+ zak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A.
+  Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Prof. 
+ Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. Hann
+ es\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H. Fo
+ lkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof. B
+ rauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-Hö
+ her\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wirtschaftsrecht
+DTSTART:20260330T124500
+DTEND:20260330T141500
+DTSTAMP:20260218T212500Z
+UID:28489875-563c-42f2-81c3-34e814831ab6
+DESCRIPTION:Prof. Petersen
+LOCATION:C12-2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wirtschaftsrecht
+DTSTART:20260402T124500
+DTEND:20260402T141500
+DTSTAMP:20260218T212500Z
+UID:9b5192db-0e9c-4258-b111-b5cfe860ebdf
+DESCRIPTION:Prof. Petersen
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20260406T083000
+DTEND:20260406T180000
+DTSTAMP:20260218T212500Z
+UID:cc462cfb-a885-4dd9-9cb2-afa1bc5302d0
+DESCRIPTION:Ostermontag__Easter_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wirtschaftsrecht
+DTSTART:20260409T124500
+DTEND:20260409T141500
+DTSTAMP:20260218T212500Z
+UID:8a2c1a5d-ca99-4801-bedd-b2efd03c1be9
+DESCRIPTION:Prof. Petersen
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20260514T083000
+DTEND:20260514T180000
+DTSTAMP:20260218T212500Z
+UID:3f46ecfa-4c33-418e-86f2-70c66ed1404d
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayP. Wrobel\, Prof. Wree\, Pro
+ f. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sie
+ loff\, Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Reth
+ meier\, S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius
+ \, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Pr
+ of. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Pr
+ of. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H.
+  Mücke\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\
+ , Prof. Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohl
+ morgen\, A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswie
+ ck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmü
+ ller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartman
+ n\, L. Hannes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavri
+ lov\, H. Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspa
+ r\, Prof. Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof
+ . Badri-Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wirtschaftsrecht
+DTSTART:20260511T124500
+DTEND:20260511T141500
+DTSTAMP:20260218T212500Z
+UID:947c2f2b-e9cb-4d70-8a58-d1dc832975e5
+DESCRIPTION:Prof. Petersen
+LOCATION:C12-2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20260525T083000
+DTEND:20260525T180000
+DTSTAMP:20260218T212500Z
+UID:ef998e77-9dfa-4c61-b632-812f83fc894d
+DESCRIPTION:Pfingstmontag__Whit_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wirtschaftsrecht
+DTSTART:20260528T124500
+DTEND:20260528T141500
+DTSTAMP:20260218T212500Z
+UID:4626abe0-d3d8-4e8e-a592-a1494f2ae188
+DESCRIPTION:Prof. Petersen
+LOCATION:C13-3.02
+END:VEVENT
+END:VCALENDAR

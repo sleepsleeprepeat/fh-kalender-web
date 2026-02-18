@@ -1,0 +1,109 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Kick-Off-Seminar 6. Sem.
+DTSTART:20260316T124500
+DTEND:20260316T141500
+DTSTAMP:20260218T213846Z
+UID:020272b6-376f-47e9-82c3-972503adb01b
+DESCRIPTION:Prof. Woelk
+LOCATION:C02-0.12 / HS-12 SG
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20260403T083000
+DTEND:20260403T180000
+DTSTAMP:20260218T213846Z
+UID:92c3a7ec-d011-4f67-a5eb-a29e7aafbf9c
+DESCRIPTION:Karfreitag__Good_FridayP. Wrobel\, Prof. Wree\, Prof. Woelk\, 
+ G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, Prof
+ . Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. 
+ Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Rixen
+ \, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prieß\
+ , Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Osterwa
+ ld\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\, E
+ . Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. Luc
+ zak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A.
+  Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Prof. 
+ Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. Hann
+ es\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H. Fo
+ lkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof. B
+ rauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-Hö
+ her\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20260406T083000
+DTEND:20260406T180000
+DTSTAMP:20260218T213846Z
+UID:92f49d31-5760-495b-aac7-847710764a8f
+DESCRIPTION:Ostermontag__Easter_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20260514T083000
+DTEND:20260514T180000
+DTSTAMP:20260218T213846Z
+UID:94d27a2b-c7b4-4b7b-8ad5-3bc2dd52a3ae
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayP. Wrobel\, Prof. Wree\, Pro
+ f. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sie
+ loff\, Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Reth
+ meier\, S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius
+ \, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Pr
+ of. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Pr
+ of. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H.
+  Mücke\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\
+ , Prof. Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohl
+ morgen\, A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswie
+ ck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmü
+ ller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartman
+ n\, L. Hannes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavri
+ lov\, H. Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspa
+ r\, Prof. Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof
+ . Badri-Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20260525T083000
+DTEND:20260525T180000
+DTSTAMP:20260218T213846Z
+UID:25581959-c0d2-4b2c-be4a-e3bbe88084a0
+DESCRIPTION:Pfingstmontag__Whit_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+END:VCALENDAR

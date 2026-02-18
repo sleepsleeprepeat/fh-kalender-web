@@ -1,0 +1,388 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Ubiquitous Computing & Media-ÜL
+DTSTART:20260319T101500
+DTEND:20260319T114500
+DTSTAMP:20260218T212500Z
+UID:04713e39-d2e9-4c53-82dd-b2642957dfb2
+DESCRIPTION:C13-1.13/1.20S. Koß\, Prof. Manzke\, J. Nowitzki
+LOCATION:C13-1.13\, C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ubiquitous Computing & Media-ÜL
+DTSTART:20260416T101500
+DTEND:20260416T114500
+DTSTAMP:20260218T212500Z
+UID:cee1c8fb-55c3-4c39-a5d5-2bebdc8ad7de
+DESCRIPTION:C13-1.13/1.20S. Koß\, Prof. Manzke\, J. Nowitzki
+LOCATION:C13-1.13\, C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ubiquitous Computing & Media-ÜL
+DTSTART:20260618T101500
+DTEND:20260618T114500
+DTSTAMP:20260218T212500Z
+UID:0b09fe8d-23be-4d09-8131-0fe8a6c79f0e
+DESCRIPTION:C13-1.13/1.20S. Koß\, Prof. Manzke\, J. Nowitzki
+LOCATION:C13-1.13\, C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web-Anwendung ÜL-Ming3
+DTSTART:20260323T083000
+DTEND:20260323T100000
+DTSTAMP:20260218T212500Z
+UID:a5426e83-36c5-44cb-8f7d-31bd4223704a
+DESCRIPTION:S. Koß
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web-Anwendung ÜL-Ming3
+DTSTART:20260420T083000
+DTEND:20260420T100000
+DTSTAMP:20260218T212500Z
+UID:ecd5a095-3dc8-4578-a5d9-c46f0d6854c5
+DESCRIPTION:S. Koß
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web-Anwendung ÜL-Ming3
+DTSTART:20260518T083000
+DTEND:20260518T100000
+DTSTAMP:20260218T212500Z
+UID:688b0998-60c7-4f7f-b9e9-0e0098dfcce7
+DESCRIPTION:S. Koß
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web-Anwendung ÜL-Ming3
+DTSTART:20260601T083000
+DTEND:20260601T100000
+DTSTAMP:20260218T212500Z
+UID:8621f0d2-4111-41d5-bfa6-62cc4bcb62f3
+DESCRIPTION:S. Koß
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web-Anwendung ÜL-Ming3
+DTSTART:20260608T083000
+DTEND:20260608T100000
+DTSTAMP:20260218T212500Z
+UID:7152b1b7-6afe-4d6e-9bbb-19dda20b9c7f
+DESCRIPTION:S. Koß
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web-Anwendung ÜL-Ming2
+DTSTART:20260327T083000
+DTEND:20260327T100000
+DTSTAMP:20260218T212500Z
+UID:93c252d1-6a0f-4ddf-a5cb-5618bd6592bf
+DESCRIPTION:S. Koß
+LOCATION:C13-3.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web-Anwendung ÜL-Ming2
+DTSTART:20260424T083000
+DTEND:20260424T100000
+DTSTAMP:20260218T212500Z
+UID:5de13617-c3fd-459d-bea3-2bd8e89a2697
+DESCRIPTION:S. Koß
+LOCATION:C13-3.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web-Anwendung ÜL-Ming2
+DTSTART:20260522T083000
+DTEND:20260522T100000
+DTSTAMP:20260218T212500Z
+UID:9fa71faa-8c22-4862-be62-738337d8cd99
+DESCRIPTION:S. Koß
+LOCATION:C13-3.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web-Anwendung ÜL-Ming2
+DTSTART:20260605T083000
+DTEND:20260605T100000
+DTSTAMP:20260218T212500Z
+UID:ae78639e-9c04-43a7-b745-5fd38684d508
+DESCRIPTION:S. Koß
+LOCATION:C13-3.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web-Anwendung ÜL-Ming2
+DTSTART:20260612T083000
+DTEND:20260612T100000
+DTSTAMP:20260218T212500Z
+UID:caa22988-9253-4b31-b5a7-4d2c075188a6
+DESCRIPTION:S. Koß
+LOCATION:C13-3.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web-Anwendung ÜL-I1
+DTSTART:20260324T101500
+DTEND:20260324T114500
+DTSTAMP:20260218T212500Z
+UID:7d655a5c-1693-420f-9e86-555dfadcc4dd
+DESCRIPTION:S. Koß
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web-Anwendung ÜL-I1
+DTSTART:20260421T101500
+DTEND:20260421T114500
+DTSTAMP:20260218T212500Z
+UID:a67a95e3-c88a-4c35-917c-14ab27e5dc4a
+DESCRIPTION:S. Koß
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web-Anwendung ÜL-I1
+DTSTART:20260519T101500
+DTEND:20260519T114500
+DTSTAMP:20260218T212500Z
+UID:2609e487-b292-4d12-abe2-c64e00e3a1bb
+DESCRIPTION:S. Koß
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web-Anwendung ÜL-I1
+DTSTART:20260602T101500
+DTEND:20260602T114500
+DTSTAMP:20260218T212500Z
+UID:35bb5203-0cfa-41ff-b9e1-b65b78a99a8e
+DESCRIPTION:S. Koß
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web-Anwendung ÜL-I1
+DTSTART:20260609T101500
+DTEND:20260609T114500
+DTSTAMP:20260218T212500Z
+UID:43efa134-58cd-4920-ba04-5256592f250f
+DESCRIPTION:S. Koß
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ubiquitous Computing & Media-ÜL
+DTSTART:20260326T101500
+DTEND:20260326T114500
+DTSTAMP:20260218T212500Z
+UID:0766c0a4-1a2f-46a0-b0a2-3d2c48602efd
+DESCRIPTION:C13-1.13/1.20S. Koß\, Prof. Manzke\, J. Nowitzki
+LOCATION:C13-1.13\, C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ubiquitous Computing & Media-ÜL
+DTSTART:20260423T101500
+DTEND:20260423T114500
+DTSTAMP:20260218T212500Z
+UID:1b14627a-22a5-47ab-a12b-ffdc2e8912c7
+DESCRIPTION:C13-1.13/1.20S. Koß\, Prof. Manzke\, J. Nowitzki
+LOCATION:C13-1.13\, C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ubiquitous Computing & Media-ÜL
+DTSTART:20260521T101500
+DTEND:20260521T114500
+DTSTAMP:20260218T212500Z
+UID:f38d0d14-471c-4ceb-9faa-19e62f27d4f4
+DESCRIPTION:C13-1.13/1.20S. Koß\, Prof. Manzke\, J. Nowitzki
+LOCATION:C13-1.13\, C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ubiquitous Computing & Media-ÜL
+DTSTART:20260604T101500
+DTEND:20260604T114500
+DTSTAMP:20260218T212500Z
+UID:c0096616-618e-48f4-9583-a0fd26abbc47
+DESCRIPTION:C13-1.13/1.20S. Koß\, Prof. Manzke\, J. Nowitzki
+LOCATION:C13-1.13\, C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ubiquitous Computing & Media-ÜL
+DTSTART:20260611T101500
+DTEND:20260611T114500
+DTSTAMP:20260218T212500Z
+UID:e6674e43-9e6e-4f08-8d2b-6f064564d3a8
+DESCRIPTION:C13-1.13/1.20S. Koß\, Prof. Manzke\, J. Nowitzki
+LOCATION:C13-1.13\, C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20260403T083000
+DTEND:20260403T180000
+DTSTAMP:20260218T212500Z
+UID:2cdf3fde-ef12-43ec-a37e-0e5120c62804
+DESCRIPTION:Karfreitag__Good_FridayP. Wrobel\, Prof. Wree\, Prof. Woelk\, 
+ G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, Prof
+ . Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. 
+ Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Rixen
+ \, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prieß\
+ , Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Osterwa
+ ld\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\, E
+ . Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. Luc
+ zak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A.
+  Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Prof. 
+ Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. Hann
+ es\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H. Fo
+ lkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof. B
+ rauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-Hö
+ her\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ubiquitous Computing & Media-ÜL
+DTSTART:20260402T101500
+DTEND:20260402T114500
+DTSTAMP:20260218T212500Z
+UID:5373d53e-d711-4fc8-a5ba-f2842bc740f5
+DESCRIPTION:C13-1.13/1.20S. Koß\, Prof. Manzke\, J. Nowitzki
+LOCATION:C13-1.13\, C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20260406T083000
+DTEND:20260406T180000
+DTSTAMP:20260218T212500Z
+UID:0978d7f3-b7de-4ed9-b3bd-6a43f80885e3
+DESCRIPTION:Ostermontag__Easter_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web-Anwendung ÜL-Ming2
+DTSTART:20260410T083000
+DTEND:20260410T100000
+DTSTAMP:20260218T212500Z
+UID:ddf04eed-34d8-430e-a83e-a25697589f31
+DESCRIPTION:S. Koß
+LOCATION:C13-3.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web-Anwendung ÜL-I1
+DTSTART:20260407T101500
+DTEND:20260407T114500
+DTSTAMP:20260218T212500Z
+UID:bb1953bb-ad37-4857-9263-dfade3297a94
+DESCRIPTION:S. Koß
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ubiquitous Computing & Media-ÜL
+DTSTART:20260409T101500
+DTEND:20260409T114500
+DTSTAMP:20260218T212500Z
+UID:f20d0e0b-ad9b-40e5-bb99-86e8c7ed31c2
+DESCRIPTION:C13-1.13/1.20S. Koß\, Prof. Manzke\, J. Nowitzki
+LOCATION:C13-1.13\, C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web-Anwendung ÜL-Ming3
+DTSTART:20260410T101500
+DTEND:20260410T114500
+DTSTAMP:20260218T212500Z
+UID:45e0fea1-a490-4684-a804-52b5ea8e7064
+DESCRIPTION:ErsatzterminS. Koß
+LOCATION:C13-3.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web-Anwendung ÜL-Ming3
+DTSTART:20260511T083000
+DTEND:20260511T100000
+DTSTAMP:20260218T212500Z
+UID:a2a115c9-8b1d-427b-bf01-19e5033567a6
+DESCRIPTION:S. Koß
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20260514T083000
+DTEND:20260514T180000
+DTSTAMP:20260218T212500Z
+UID:0934c8ac-7f3e-4044-a130-0c9ef1724710
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayP. Wrobel\, Prof. Wree\, Pro
+ f. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sie
+ loff\, Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Reth
+ meier\, S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius
+ \, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Pr
+ of. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Pr
+ of. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H.
+  Mücke\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\
+ , Prof. Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohl
+ morgen\, A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswie
+ ck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmü
+ ller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartman
+ n\, L. Hannes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavri
+ lov\, H. Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspa
+ r\, Prof. Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof
+ . Badri-Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web-Anwendung ÜL-Ming2
+DTSTART:20260515T083000
+DTEND:20260515T100000
+DTSTAMP:20260218T212500Z
+UID:88db37c5-babb-4519-97cf-1d14125cda02
+DESCRIPTION:S. Koß
+LOCATION:C13-3.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web-Anwendung ÜL-I1
+DTSTART:20260512T101500
+DTEND:20260512T114500
+DTSTAMP:20260218T212500Z
+UID:bbe73660-29dc-4db0-9928-bbf18441370a
+DESCRIPTION:S. Koß
+LOCATION:C13-2.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20260525T083000
+DTEND:20260525T180000
+DTSTAMP:20260218T212500Z
+UID:90754b25-1ca4-4544-a662-ff7ba7492bc4
+DESCRIPTION:Pfingstmontag__Whit_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ubiquitous Computing & Media-ÜL
+DTSTART:20260528T101500
+DTEND:20260528T114500
+DTSTAMP:20260218T212500Z
+UID:ee88ebb9-7a3f-4afc-893b-d7558f9028f7
+DESCRIPTION:C13-1.13/1.20S. Koß\, Prof. Manzke\, J. Nowitzki
+LOCATION:C13-1.13\, C13-1.20
+END:VEVENT
+END:VCALENDAR

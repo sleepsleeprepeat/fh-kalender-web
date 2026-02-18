@@ -1,0 +1,577 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Werkzeuge f.d. Ingwis.
+DTSTART:20260319T101500
+DTEND:20260319T114500
+DTSTAMP:20260218T213846Z
+UID:f096a8f0-b349-4c69-a692-491045df07ed
+DESCRIPTION:Prof. Immel
+LOCATION:C12-2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Testen von Software
+DTSTART:20260316T124500
+DTEND:20260316T141500
+DTSTAMP:20260218T213846Z
+UID:e0a7035b-78e5-4789-8598-150a5e29bcc2
+DESCRIPTION:Prof. Lüssem
+LOCATION:C02-0.06 / HS-6 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entwicklungsprojekt II
+DTSTART:20260316T143000
+DTEND:20260316T174500
+DTSTAMP:20260218T213846Z
+UID:4b4c5bdb-b675-4e00-87b0-164949d69042
+DESCRIPTION:Teilnahme_nach_Rücksprache_mit_den_LehrendenProf. Lebert
+LOCATION:C05-1.40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Werkzeuge f.d. Ingwis. ÜL-W3
+DTSTART:20260325T083000
+DTEND:20260325T100000
+DTSTAMP:20260218T213846Z
+UID:5198aac2-0c34-4222-903d-9f561ffcef3d
+DESCRIPTION:M. Ali Algbara
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Werkzeuge f.d. Ingwis. ÜL-W3
+DTSTART:20260415T083000
+DTEND:20260415T100000
+DTSTAMP:20260218T213846Z
+UID:60e951f8-f3b9-4f06-9f28-ec6fcb16d0bd
+DESCRIPTION:M. Ali Algbara
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Werkzeuge f.d. Ingwis. ÜL-W3
+DTSTART:20260422T083000
+DTEND:20260422T100000
+DTSTAMP:20260218T213846Z
+UID:9c32182f-fa5d-4609-98ea-2c4aa96900a8
+DESCRIPTION:M. Ali Algbara
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Werkzeuge f.d. Ingwis.
+DTSTART:20260326T101500
+DTEND:20260326T114500
+DTSTAMP:20260218T213846Z
+UID:10bfe803-1cdb-4b3e-a9a1-e0de26d475c3
+DESCRIPTION:Prof. Immel
+LOCATION:C12-2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Werkzeuge f.d. Ingwis.
+DTSTART:20260416T101500
+DTEND:20260416T114500
+DTSTAMP:20260218T213846Z
+UID:40a65d7f-dd85-449e-b146-40210178b069
+DESCRIPTION:Prof. Immel
+LOCATION:C12-2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Werkzeuge f.d. Ingwis.
+DTSTART:20260423T101500
+DTEND:20260423T114500
+DTSTAMP:20260218T213846Z
+UID:331676e0-79bc-46aa-9fd0-3c111069ff4c
+DESCRIPTION:Prof. Immel
+LOCATION:C12-2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Testen von Software-ÜL-I6
+DTSTART:20260327T101500
+DTEND:20260327T114500
+DTSTAMP:20260218T213846Z
+UID:d6b928b0-7864-4369-805e-56b549ac5160
+DESCRIPTION:E. Petersen
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Testen von Software-ÜL-I6
+DTSTART:20260417T101500
+DTEND:20260417T114500
+DTSTAMP:20260218T213846Z
+UID:9460d330-e27c-44d1-877f-891d7916af68
+DESCRIPTION:E. Petersen
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Testen von Software-ÜL-I6
+DTSTART:20260424T101500
+DTEND:20260424T114500
+DTSTAMP:20260218T213846Z
+UID:ec42ffe9-1314-4a1e-ad8c-4587e7a51153
+DESCRIPTION:E. Petersen
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Testen von Software
+DTSTART:20260323T124500
+DTEND:20260323T141500
+DTSTAMP:20260218T213846Z
+UID:786776cb-5146-4bba-a87c-575f528b95f2
+DESCRIPTION:Prof. Lüssem
+LOCATION:C02-0.06 / HS-6 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Testen von Software
+DTSTART:20260413T124500
+DTEND:20260413T141500
+DTSTAMP:20260218T213846Z
+UID:65a29f71-731e-4f9e-992e-236fc7079ea1
+DESCRIPTION:Prof. Lüssem
+LOCATION:C02-0.06 / HS-6 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Testen von Software
+DTSTART:20260420T124500
+DTEND:20260420T141500
+DTSTAMP:20260218T213846Z
+UID:e6bf76c1-df21-4ec9-ba8e-151637a23846
+DESCRIPTION:Prof. Lüssem
+LOCATION:C02-0.06 / HS-6 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entwicklungsprojekt II
+DTSTART:20260323T143000
+DTEND:20260323T174500
+DTSTAMP:20260218T213846Z
+UID:29ad004d-6026-45b0-bfa7-4a4c3068d673
+DESCRIPTION:Teilnahme_nach_Rücksprache_mit_den_LehrendenProf. Lebert
+LOCATION:C05-1.40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entwicklungsprojekt II
+DTSTART:20260413T143000
+DTEND:20260413T174500
+DTSTAMP:20260218T213846Z
+UID:a6750f3f-69f3-4542-b56d-43d0a02fcbcf
+DESCRIPTION:Teilnahme_nach_Rücksprache_mit_den_LehrendenProf. Lebert
+LOCATION:C05-1.40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entwicklungsprojekt II
+DTSTART:20260420T143000
+DTEND:20260420T174500
+DTSTAMP:20260218T213846Z
+UID:5e8d37fb-0d5c-40e0-bd1e-97cf0a1431a7
+DESCRIPTION:Teilnahme_nach_Rücksprache_mit_den_LehrendenProf. Lebert
+LOCATION:C05-1.40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Werkzeuge f.d. Ingwis. ÜL-W3
+DTSTART:20260401T083000
+DTEND:20260401T100000
+DTSTAMP:20260218T213846Z
+UID:2f9997bc-054a-4020-8496-84f759c07a70
+DESCRIPTION:M. Ali Algbara
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20260403T083000
+DTEND:20260403T180000
+DTSTAMP:20260218T213846Z
+UID:0d9318da-c2f1-43fe-a6f1-e2c984cf953f
+DESCRIPTION:Karfreitag__Good_FridayP. Wrobel\, Prof. Wree\, Prof. Woelk\, 
+ G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, Prof
+ . Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. 
+ Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Rixen
+ \, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prieß\
+ , Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Osterwa
+ ld\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\, E
+ . Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. Luc
+ zak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A.
+  Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Prof. 
+ Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. Hann
+ es\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H. Fo
+ lkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof. B
+ rauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-Hö
+ her\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Werkzeuge f.d. Ingwis.
+DTSTART:20260402T101500
+DTEND:20260402T114500
+DTSTAMP:20260218T213846Z
+UID:a2bcfddb-38d8-45df-8bea-594316ed94f4
+DESCRIPTION:Prof. Immel
+LOCATION:C12-2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Testen von Software
+DTSTART:20260330T124500
+DTEND:20260330T141500
+DTSTAMP:20260218T213846Z
+UID:c87a2602-e54c-4dc5-8d77-d412413224e3
+DESCRIPTION:Prof. Lüssem
+LOCATION:C02-0.06 / HS-6 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entwicklungsprojekt II
+DTSTART:20260330T143000
+DTEND:20260330T174500
+DTSTAMP:20260218T213846Z
+UID:f4f8bc5d-ced4-4243-a6af-ebe3e60a7ea5
+DESCRIPTION:Teilnahme_nach_Rücksprache_mit_den_LehrendenProf. Lebert
+LOCATION:C05-1.40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20260406T083000
+DTEND:20260406T180000
+DTSTAMP:20260218T213846Z
+UID:262b08cd-3c07-4752-a6ca-39a6c845fbbd
+DESCRIPTION:Ostermontag__Easter_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Werkzeuge f.d. Ingwis. ÜL-W3
+DTSTART:20260408T083000
+DTEND:20260408T100000
+DTSTAMP:20260218T213846Z
+UID:f4a991eb-dc67-436c-b213-fd979016d5b1
+DESCRIPTION:M. Ali Algbara
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Werkzeuge f.d. Ingwis.
+DTSTART:20260409T101500
+DTEND:20260409T114500
+DTSTAMP:20260218T213846Z
+UID:42fb9437-1ae1-4225-98cd-2b5594ca5441
+DESCRIPTION:Prof. Immel
+LOCATION:C12-2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Testen von Software-ÜL-I6
+DTSTART:20260410T101500
+DTEND:20260410T114500
+DTSTAMP:20260218T213846Z
+UID:6c6aafcb-6ca9-4a5a-bc7b-3deaee2a682d
+DESCRIPTION:E. Petersen
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Werkzeuge f.d. Ingwis. ÜL-W3
+DTSTART:20260513T083000
+DTEND:20260513T100000
+DTSTAMP:20260218T213846Z
+UID:e34201d4-cf74-47a2-ae2a-29dc0830c233
+DESCRIPTION:Prof. Weber
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20260514T083000
+DTEND:20260514T180000
+DTSTAMP:20260218T213846Z
+UID:bd28bb88-b33e-4b7c-a5f4-8890e54ed9fc
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayP. Wrobel\, Prof. Wree\, Pro
+ f. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sie
+ loff\, Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Reth
+ meier\, S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius
+ \, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Pr
+ of. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Pr
+ of. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H.
+  Mücke\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\
+ , Prof. Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohl
+ morgen\, A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswie
+ ck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmü
+ ller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartman
+ n\, L. Hannes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavri
+ lov\, H. Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspa
+ r\, Prof. Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof
+ . Badri-Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Testen von Software-ÜL-I6
+DTSTART:20260515T101500
+DTEND:20260515T114500
+DTSTAMP:20260218T213846Z
+UID:06e04c98-0ffc-46ca-ab22-6bdb3563440e
+DESCRIPTION:E. Petersen
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Testen von Software
+DTSTART:20260511T124500
+DTEND:20260511T141500
+DTSTAMP:20260218T213846Z
+UID:acf458bc-66ca-4880-b01c-4a2140f442a5
+DESCRIPTION:Prof. Lüssem
+LOCATION:C02-0.06 / HS-6 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entwicklungsprojekt II
+DTSTART:20260511T143000
+DTEND:20260511T174500
+DTSTAMP:20260218T213846Z
+UID:39cfbd1b-b3f7-4a90-8b1c-a6f3e389c013
+DESCRIPTION:Teilnahme_nach_Rücksprache_mit_den_LehrendenProf. Lebert
+LOCATION:C05-1.40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Werkzeuge f.d. Ingwis.
+DTSTART:20260512T161500
+DTEND:20260512T174500
+DTSTAMP:20260218T213846Z
+UID:dd2f71e8-052e-4cc6-a186-075857844613
+DESCRIPTION:nur_20.KWProf. Weber
+LOCATION:C12-2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Werkzeuge f.d. Ingwis. ÜL-W3
+DTSTART:20260520T083000
+DTEND:20260520T100000
+DTSTAMP:20260218T213846Z
+UID:1de91d90-719d-4934-9479-553a497f8e2a
+DESCRIPTION:Prof. Weber
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Werkzeuge f.d. Ingwis. ÜL-W3
+DTSTART:20260603T083000
+DTEND:20260603T100000
+DTSTAMP:20260218T213846Z
+UID:c70a998f-fd88-405e-9239-226a5581eb3c
+DESCRIPTION:Prof. Weber
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Werkzeuge f.d. Ingwis. ÜL-W3
+DTSTART:20260610T083000
+DTEND:20260610T100000
+DTSTAMP:20260218T213846Z
+UID:6a2f05ae-57ce-4b94-8dcb-c5fce122dc4f
+DESCRIPTION:Prof. Weber
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Werkzeuge f.d. Ingwis. ÜL-W3
+DTSTART:20260617T083000
+DTEND:20260617T100000
+DTSTAMP:20260218T213846Z
+UID:73af14f8-c5b3-4151-ba77-453dab6a2bdf
+DESCRIPTION:Prof. Weber
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Werkzeuge f.d. Ingwis.
+DTSTART:20260521T101500
+DTEND:20260521T114500
+DTSTAMP:20260218T213846Z
+UID:bec6cb6d-6604-4733-a157-565985cecb9c
+DESCRIPTION:Prof. Weber
+LOCATION:C12-2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Werkzeuge f.d. Ingwis.
+DTSTART:20260604T101500
+DTEND:20260604T114500
+DTSTAMP:20260218T213846Z
+UID:6bcde02b-6e96-4b69-bb2e-0cdd1dd19224
+DESCRIPTION:Prof. Weber
+LOCATION:C12-2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Werkzeuge f.d. Ingwis.
+DTSTART:20260611T101500
+DTEND:20260611T114500
+DTSTAMP:20260218T213846Z
+UID:c309cb05-7a93-48e2-b2d2-724cabbafb09
+DESCRIPTION:Prof. Weber
+LOCATION:C12-2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Werkzeuge f.d. Ingwis.
+DTSTART:20260618T101500
+DTEND:20260618T114500
+DTSTAMP:20260218T213846Z
+UID:a2b78994-f0d1-436d-b873-269866d83d49
+DESCRIPTION:Prof. Weber
+LOCATION:C12-2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Testen von Software-ÜL-I6
+DTSTART:20260522T101500
+DTEND:20260522T114500
+DTSTAMP:20260218T213846Z
+UID:0c021cfe-3e1a-478a-bc8f-b435652b87ea
+DESCRIPTION:E. Petersen
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Testen von Software-ÜL-I6
+DTSTART:20260605T101500
+DTEND:20260605T114500
+DTSTAMP:20260218T213846Z
+UID:5bf39197-96b7-406e-9483-06b2946b8f68
+DESCRIPTION:E. Petersen
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Testen von Software-ÜL-I6
+DTSTART:20260612T101500
+DTEND:20260612T114500
+DTSTAMP:20260218T213846Z
+UID:76497010-5eb4-423c-9af9-7f7090e39d1c
+DESCRIPTION:E. Petersen
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Testen von Software-ÜL-I6
+DTSTART:20260619T101500
+DTEND:20260619T114500
+DTSTAMP:20260218T213846Z
+UID:373d0a4f-79c4-4b0c-ae41-c83a995b8289
+DESCRIPTION:E. Petersen
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Testen von Software
+DTSTART:20260518T124500
+DTEND:20260518T141500
+DTSTAMP:20260218T213846Z
+UID:f6e25165-879e-4a12-9dc1-09a0e57d0fde
+DESCRIPTION:Prof. Lüssem
+LOCATION:C02-0.06 / HS-6 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Testen von Software
+DTSTART:20260601T124500
+DTEND:20260601T141500
+DTSTAMP:20260218T213846Z
+UID:9520ba82-ebb4-48b2-9bae-4ad998963243
+DESCRIPTION:Prof. Lüssem
+LOCATION:C02-0.06 / HS-6 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Testen von Software
+DTSTART:20260608T124500
+DTEND:20260608T141500
+DTSTAMP:20260218T213846Z
+UID:c5deb245-ddda-48ea-aeeb-2d52a56e19f9
+DESCRIPTION:Prof. Lüssem
+LOCATION:C02-0.06 / HS-6 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Testen von Software
+DTSTART:20260615T124500
+DTEND:20260615T141500
+DTSTAMP:20260218T213846Z
+UID:bbc01fe9-50ba-4b3c-b5ff-e60116bcb432
+DESCRIPTION:Prof. Lüssem
+LOCATION:C02-0.06 / HS-6 IuE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entwicklungsprojekt II
+DTSTART:20260518T143000
+DTEND:20260518T174500
+DTSTAMP:20260218T213846Z
+UID:0728cc09-9367-43be-afe5-2695c6cf0a2c
+DESCRIPTION:Teilnahme_nach_Rücksprache_mit_den_LehrendenProf. Lebert
+LOCATION:C05-1.40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entwicklungsprojekt II
+DTSTART:20260601T143000
+DTEND:20260601T174500
+DTSTAMP:20260218T213846Z
+UID:2da4ee9c-aaf0-4ae6-95c1-e9531442d162
+DESCRIPTION:Teilnahme_nach_Rücksprache_mit_den_LehrendenProf. Lebert
+LOCATION:C05-1.40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entwicklungsprojekt II
+DTSTART:20260608T143000
+DTEND:20260608T174500
+DTSTAMP:20260218T213846Z
+UID:268457c4-1492-4f59-bd8a-4bbb1610d867
+DESCRIPTION:Teilnahme_nach_Rücksprache_mit_den_LehrendenProf. Lebert
+LOCATION:C05-1.40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entwicklungsprojekt II
+DTSTART:20260615T143000
+DTEND:20260615T174500
+DTSTAMP:20260218T213846Z
+UID:6a3e24dc-1971-4fb2-9bd6-2ff35902abd6
+DESCRIPTION:Teilnahme_nach_Rücksprache_mit_den_LehrendenProf. Lebert
+LOCATION:C05-1.40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20260525T083000
+DTEND:20260525T180000
+DTSTAMP:20260218T213846Z
+UID:2c07cf52-e650-4dc6-8597-29cc2c0d5430
+DESCRIPTION:Pfingstmontag__Whit_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Werkzeuge f.d. Ingwis. ÜL-W3
+DTSTART:20260527T083000
+DTEND:20260527T100000
+DTSTAMP:20260218T213846Z
+UID:84a6ff9b-a0cd-4170-a541-28867c40c40b
+DESCRIPTION:Prof. Weber
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rechnergestützte Werkzeuge f.d. Ingwis.
+DTSTART:20260528T101500
+DTEND:20260528T114500
+DTSTAMP:20260218T213846Z
+UID:3b0bf8b2-15ef-4f7d-92d5-dc14068b991e
+DESCRIPTION:Prof. Weber
+LOCATION:C12-2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Testen von Software-ÜL-I6
+DTSTART:20260529T101500
+DTEND:20260529T114500
+DTSTAMP:20260218T213846Z
+UID:1889853b-666c-4f6b-b5fd-af625fac5559
+DESCRIPTION:E. Petersen
+LOCATION:C13-1.20
+END:VEVENT
+END:VCALENDAR

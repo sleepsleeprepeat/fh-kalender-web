@@ -1,0 +1,523 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Schulbesuch Toni Jensen
+DTSTART:20260310T083000
+DTEND:20260310T141500
+DTSTAMP:20260218T212500Z
+UID:d15e413d-45b0-400f-86af-33211e6b34c6
+DESCRIPTION:K. Hartmann
+LOCATION:C13-0.24\, C13-0.25\, C13-0.26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurinformatik
+DTSTART:20260316T083000
+DTEND:20260316T114500
+DTSTAMP:20260218T212500Z
+UID:53eeebc1-ed43-48eb-b194-b27b9104f945
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schulbesuch Toni Jensen
+DTSTART:20260317T083000
+DTEND:20260317T141500
+DTSTAMP:20260218T212500Z
+UID:0f903489-93a8-45f0-a159-173c5d14bdd4
+DESCRIPTION:K. Hartmann
+LOCATION:C13-0.24\, C13-0.25\, C13-0.26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurinformatik
+DTSTART:20260316T124500
+DTEND:20260316T160000
+DTSTAMP:20260218T212500Z
+UID:2b67d63c-21cd-4b33-8080-f961c986b44c
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Roberta Projekt
+DTSTART:20260318T161500
+DTEND:20260318T174500
+DTSTAMP:20260218T212500Z
+UID:e11f345b-8c68-43b3-af0e-8ea3f44e86e2
+DESCRIPTION:K. Hartmann
+LOCATION:C13-0.24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurinformatik
+DTSTART:20260323T083000
+DTEND:20260323T114500
+DTSTAMP:20260218T212500Z
+UID:475d6aee-cdc9-4db2-8426-ee5782fa19fc
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurinformatik
+DTSTART:20260504T083000
+DTEND:20260504T114500
+DTSTAMP:20260218T212500Z
+UID:5bb35bcd-ed9f-478c-b390-4710eb8f1406
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schulbesuch Toni Jensen
+DTSTART:20260324T083000
+DTEND:20260324T141500
+DTSTAMP:20260218T212500Z
+UID:c336849e-b3a8-4fcb-980c-07058801ca93
+DESCRIPTION:K. Hartmann
+LOCATION:C13-0.24\, C13-0.25\, C13-0.26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schulbesuch Toni Jensen
+DTSTART:20260505T083000
+DTEND:20260505T141500
+DTSTAMP:20260218T212500Z
+UID:f8db0ec2-d634-478f-812b-14ff1f534451
+DESCRIPTION:K. Hartmann
+LOCATION:C13-0.24\, C13-0.25\, C13-0.26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurinformatik
+DTSTART:20260323T124500
+DTEND:20260323T160000
+DTSTAMP:20260218T212500Z
+UID:3b133985-96e9-462f-9575-3fbf3e290ab6
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurinformatik
+DTSTART:20260504T124500
+DTEND:20260504T160000
+DTSTAMP:20260218T212500Z
+UID:5db1cc56-9081-46ac-9634-fa339495d382
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurinformatik
+DTSTART:20260330T083000
+DTEND:20260330T114500
+DTSTAMP:20260218T212500Z
+UID:fb0143e2-cfe8-4dcf-ad68-97e31bf34e1a
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schulbesuch Toni Jensen
+DTSTART:20260331T083000
+DTEND:20260331T141500
+DTSTAMP:20260218T212500Z
+UID:fee3c70b-24ed-469f-9f5e-7671bc314e4e
+DESCRIPTION:K. Hartmann
+LOCATION:C13-0.24\, C13-0.25\, C13-0.26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20260403T083000
+DTEND:20260403T180000
+DTSTAMP:20260218T212500Z
+UID:24d6cb78-1c49-47c2-873d-a9959fe7fd2b
+DESCRIPTION:Karfreitag__Good_FridayP. Wrobel\, Prof. Wree\, Prof. Woelk\, 
+ G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, Prof
+ . Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. 
+ Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Rixen
+ \, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prieß\
+ , Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Osterwa
+ ld\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\, E
+ . Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. Luc
+ zak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A.
+  Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Prof. 
+ Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. Hann
+ es\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H. Fo
+ lkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof. B
+ rauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-Hö
+ her\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurinformatik
+DTSTART:20260330T124500
+DTEND:20260330T160000
+DTSTAMP:20260218T212500Z
+UID:a6f7d152-a0f9-45b8-8fa1-8ecacd5e15d4
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20260406T083000
+DTEND:20260406T180000
+DTSTAMP:20260218T212500Z
+UID:276e61bb-460c-4dc8-a421-0ffb7f8e4c08
+DESCRIPTION:Ostermontag__Easter_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schulbesuch Toni Jensen
+DTSTART:20260407T083000
+DTEND:20260407T141500
+DTSTAMP:20260218T212500Z
+UID:027ba845-4af5-43ca-a522-9504576140fd
+DESCRIPTION:K. Hartmann
+LOCATION:C13-0.24\, C13-0.25\, C13-0.26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik und Messtech. ÜL-Ming2
+DTSTART:20260409T101500
+DTEND:20260409T114500
+DTSTAMP:20260218T212500Z
+UID:f8641d90-59e3-431f-8c42-f54199747854
+DESCRIPTION:K. Hartmann\, J. Jürgens
+LOCATION:C13-0.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik und Messtech. ÜL-Ming1
+DTSTART:20260407T143000
+DTEND:20260407T160000
+DTSTAMP:20260218T212500Z
+UID:8c03859f-a255-4bdb-ac2c-f5ba1528514d
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C13-0.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurinformatik
+DTSTART:20260413T083000
+DTEND:20260413T114500
+DTSTAMP:20260218T212500Z
+UID:94230e21-965c-43a2-aa9e-c1723714ad04
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schulbesuch Toni Jensen
+DTSTART:20260414T083000
+DTEND:20260414T141500
+DTSTAMP:20260218T212500Z
+UID:85cca7d5-e653-491b-b590-a26e5e0c7493
+DESCRIPTION:K. Hartmann
+LOCATION:C13-0.24\, C13-0.25\, C13-0.26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik und Messtech. ÜL-Ming3
+DTSTART:20260417T083000
+DTEND:20260417T100000
+DTSTAMP:20260218T212500Z
+UID:a8a16ce4-dcd7-4b19-a3b1-a0035a76be5d
+DESCRIPTION:K. Hartmann\, J. Jürgens
+LOCATION:C13-0.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurinformatik
+DTSTART:20260413T124500
+DTEND:20260413T160000
+DTSTAMP:20260218T212500Z
+UID:4e0153e6-cdf5-48a8-b0cb-1123d781aee4
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurinformatik
+DTSTART:20260420T083000
+DTEND:20260420T114500
+DTSTAMP:20260218T212500Z
+UID:3526f474-bc0e-4ecd-9db2-1b4ff249b377
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurinformatik
+DTSTART:20260518T083000
+DTEND:20260518T114500
+DTSTAMP:20260218T212500Z
+UID:ac9d7846-2f2f-4f65-adff-65e7eb6667ba
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schulbesuch Toni Jensen
+DTSTART:20260421T083000
+DTEND:20260421T141500
+DTSTAMP:20260218T212500Z
+UID:d727425e-41cd-4cde-b75e-26a2b31b5841
+DESCRIPTION:K. Hartmann
+LOCATION:C13-0.24\, C13-0.25\, C13-0.26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schulbesuch Toni Jensen
+DTSTART:20260519T083000
+DTEND:20260519T141500
+DTSTAMP:20260218T212500Z
+UID:374900ab-5a5b-4da0-af35-848f2ac73e69
+DESCRIPTION:K. Hartmann
+LOCATION:C13-0.24\, C13-0.25\, C13-0.26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik und Messtech. ÜL-Ming2
+DTSTART:20260423T101500
+DTEND:20260423T114500
+DTSTAMP:20260218T212500Z
+UID:2e2b80a2-abaa-414e-963f-004a21595072
+DESCRIPTION:K. Hartmann\, J. Jürgens
+LOCATION:C13-0.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik und Messtech. ÜL-Ming2
+DTSTART:20260521T101500
+DTEND:20260521T114500
+DTSTAMP:20260218T212500Z
+UID:cc501b81-c35b-4a21-a3e3-29e6cf57264d
+DESCRIPTION:K. Hartmann\, J. Jürgens
+LOCATION:C13-0.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurinformatik
+DTSTART:20260420T124500
+DTEND:20260420T160000
+DTSTAMP:20260218T212500Z
+UID:e66a1088-1ac7-446b-8b13-6cbf3beed70d
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurinformatik
+DTSTART:20260518T124500
+DTEND:20260518T160000
+DTSTAMP:20260218T212500Z
+UID:5bcce991-71bd-4f7c-a541-cb50041028de
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik und Messtech. ÜL-Ming1
+DTSTART:20260421T143000
+DTEND:20260421T160000
+DTSTAMP:20260218T212500Z
+UID:7b22603a-5aa8-4307-9c28-fdd4fde8ce43
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C13-0.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik und Messtech. ÜL-Ming1
+DTSTART:20260519T143000
+DTEND:20260519T160000
+DTSTAMP:20260218T212500Z
+UID:812f0421-d786-45c9-98f2-9e9248c23309
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C13-0.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurinformatik
+DTSTART:20260427T083000
+DTEND:20260427T114500
+DTSTAMP:20260218T212500Z
+UID:6373d74d-9b15-497e-b23b-5016383a8d64
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurinformatik
+DTSTART:20260615T083000
+DTEND:20260615T114500
+DTSTAMP:20260218T212500Z
+UID:4245adbc-6dd9-47c9-971f-38019afadfe9
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurinformatik
+DTSTART:20260427T124500
+DTEND:20260427T160000
+DTSTAMP:20260218T212500Z
+UID:b36d9062-66e6-4ec2-92e4-9155373a35a2
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurinformatik
+DTSTART:20260615T124500
+DTEND:20260615T160000
+DTSTAMP:20260218T212500Z
+UID:b58fd39e-cdca-4aaf-8b57-d656efb3aaa7
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurinformatik
+DTSTART:20260511T083000
+DTEND:20260511T114500
+DTSTAMP:20260218T212500Z
+UID:bedbbf92-199a-4857-bdb3-5fb2beaf0caf
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schulbesuch Toni Jensen
+DTSTART:20260512T083000
+DTEND:20260512T141500
+DTSTAMP:20260218T212500Z
+UID:206f7b26-4fee-41fc-ae1a-949ff30fda6a
+DESCRIPTION:K. Hartmann
+LOCATION:C13-0.24\, C13-0.25\, C13-0.26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20260514T083000
+DTEND:20260514T180000
+DTSTAMP:20260218T212500Z
+UID:ee4c4557-4c1d-4042-85ac-8889ab4740f9
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayP. Wrobel\, Prof. Wree\, Pro
+ f. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sie
+ loff\, Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Reth
+ meier\, S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius
+ \, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Pr
+ of. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Pr
+ of. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H.
+  Mücke\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\
+ , Prof. Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohl
+ morgen\, A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswie
+ ck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmü
+ ller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartman
+ n\, L. Hannes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavri
+ lov\, H. Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspa
+ r\, Prof. Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof
+ . Badri-Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik und Messtech. ÜL-Ming3
+DTSTART:20260515T083000
+DTEND:20260515T100000
+DTSTAMP:20260218T212500Z
+UID:4e817ffb-c36d-4a1a-994a-36fa2adcb1e4
+DESCRIPTION:K. Hartmann\, J. Jürgens
+LOCATION:C13-0.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurinformatik
+DTSTART:20260511T124500
+DTEND:20260511T160000
+DTSTAMP:20260218T212500Z
+UID:f5d48c6f-206d-4834-882b-305d6f7a7748
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20260525T083000
+DTEND:20260525T180000
+DTSTAMP:20260218T212500Z
+UID:a38a1a45-de36-490f-8e7b-1392e5f82342
+DESCRIPTION:Pfingstmontag__Whit_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik und Messtech. ÜL-Ming3
+DTSTART:20260529T083000
+DTEND:20260529T100000
+DTSTAMP:20260218T212500Z
+UID:313e5e2d-f6ab-4d1e-b0f9-34a9713cc279
+DESCRIPTION:K. Hartmann\, J. Jürgens
+LOCATION:C13-0.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurinformatik
+DTSTART:20260601T083000
+DTEND:20260601T114500
+DTSTAMP:20260218T212500Z
+UID:b1faa04a-e134-472f-ba3e-645b523a88f1
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik und Messtech. ÜL-Ming2
+DTSTART:20260604T101500
+DTEND:20260604T114500
+DTSTAMP:20260218T212500Z
+UID:34260520-cee0-4970-8978-4caaa765cd7b
+DESCRIPTION:K. Hartmann\, J. Jürgens
+LOCATION:C13-0.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurinformatik
+DTSTART:20260601T124500
+DTEND:20260601T160000
+DTSTAMP:20260218T212500Z
+UID:1b76cde8-69d0-4569-97a0-5c24001c1d72
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik und Messtech. ÜL-Ming1
+DTSTART:20260602T143000
+DTEND:20260602T160000
+DTSTAMP:20260218T212500Z
+UID:2d665030-a0aa-4218-b266-7a777d96e19e
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C13-0.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurinformatik
+DTSTART:20260608T083000
+DTEND:20260608T114500
+DTSTAMP:20260218T212500Z
+UID:942ab800-2dbc-4168-9b39-ccdf37538af8
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik und Messtech. ÜL-Ming3
+DTSTART:20260612T083000
+DTEND:20260612T100000
+DTSTAMP:20260218T212500Z
+UID:0c5f418c-9e04-4362-a7e1-56fcff6d698e
+DESCRIPTION:K. Hartmann\, J. Jürgens
+LOCATION:C13-0.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurinformatik
+DTSTART:20260608T124500
+DTEND:20260608T160000
+DTSTAMP:20260218T212500Z
+UID:32aff485-c297-440f-9ce1-3e003a48f206
+DESCRIPTION:J. Jürgens\, K. Hartmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+END:VCALENDAR

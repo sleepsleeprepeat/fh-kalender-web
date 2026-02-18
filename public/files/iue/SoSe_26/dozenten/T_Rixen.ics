@@ -1,0 +1,433 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Konstruktionslehre ÜL-3
+DTSTART:20260318T143000
+DTEND:20260318T160000
+DTSTAMP:20260218T212500Z
+UID:45bcfbff-3fcd-436b-b654-27775032cd5a
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konstruktionslehre ÜL-3
+DTSTART:20260325T143000
+DTEND:20260325T160000
+DTSTAMP:20260218T212500Z
+UID:fcc7568d-6509-4a88-a213-c7641f7ca137
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konstruktionslehre ÜL-3
+DTSTART:20260422T143000
+DTEND:20260422T160000
+DTSTAMP:20260218T212500Z
+UID:0fa70ca6-3012-4f97-8be1-8dea9417022d
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konstruktionslehre ÜL-3
+DTSTART:20260520T143000
+DTEND:20260520T160000
+DTSTAMP:20260218T212500Z
+UID:0a1e82fc-bf3c-40a0-b245-86da00f932d0
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konstruktionslehre ÜL-3
+DTSTART:20260603T143000
+DTEND:20260603T160000
+DTSTAMP:20260218T212500Z
+UID:e4d221f8-02c0-49c2-9adf-d37607a8b5e9
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konstruktionslehre ÜL-3
+DTSTART:20260610T143000
+DTEND:20260610T160000
+DTSTAMP:20260218T212500Z
+UID:debe952f-26c5-4015-bdad-fe3edcf5203b
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konstruktionslehre ÜL-3
+DTSTART:20260617T143000
+DTEND:20260617T160000
+DTSTAMP:20260218T212500Z
+UID:cc04e124-4325-4337-a827-6bf16fbfa158
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XCAD Erste Schritte ÜL-1
+DTSTART:20260319T143000
+DTEND:20260319T160000
+DTSTAMP:20260218T212500Z
+UID:37b0060d-7c2b-438f-a755-13a4a4c1a64e
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XCAD Erste Schritte ÜL-1
+DTSTART:20260326T143000
+DTEND:20260326T160000
+DTSTAMP:20260218T212500Z
+UID:16c5d837-7979-4d5a-9b78-091814662780
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XCAD Erste Schritte ÜL-1
+DTSTART:20260423T143000
+DTEND:20260423T160000
+DTSTAMP:20260218T212500Z
+UID:919594f0-4abd-4d84-98ea-43339ca2bf0e
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XCAD Erste Schritte ÜL-1
+DTSTART:20260521T143000
+DTEND:20260521T160000
+DTSTAMP:20260218T212500Z
+UID:2927873f-ff36-4289-85c0-525b670354c7
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XCAD Erste Schritte ÜL-1
+DTSTART:20260604T143000
+DTEND:20260604T160000
+DTSTAMP:20260218T212500Z
+UID:da9f461a-0a37-465e-9202-c0def09dbdd0
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XCAD Erste Schritte ÜL-1
+DTSTART:20260611T143000
+DTEND:20260611T160000
+DTSTAMP:20260218T212500Z
+UID:58dddf38-7094-4c27-9f91-53811327174a
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XCAD Erste Schritte ÜL-1
+DTSTART:20260618T143000
+DTEND:20260618T160000
+DTSTAMP:20260218T212500Z
+UID:a64238f1-93ae-47a3-a7e5-72eb57c964e7
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XCAD Erste Schritte ÜL-2
+DTSTART:20260319T161500
+DTEND:20260319T174500
+DTSTAMP:20260218T212500Z
+UID:c5855b28-c5d8-47c8-935e-2bec0a39653b
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XCAD Erste Schritte ÜL-2
+DTSTART:20260326T161500
+DTEND:20260326T174500
+DTSTAMP:20260218T212500Z
+UID:38cf1db5-4782-44be-ad6a-59610acccab4
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XCAD Erste Schritte ÜL-2
+DTSTART:20260423T161500
+DTEND:20260423T174500
+DTSTAMP:20260218T212500Z
+UID:28599058-8cf7-46e6-a046-975c46fb083a
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XCAD Erste Schritte ÜL-2
+DTSTART:20260521T161500
+DTEND:20260521T174500
+DTSTAMP:20260218T212500Z
+UID:a314e27c-e2ee-4bd6-ae0c-bf6253c6a96a
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XCAD Erste Schritte ÜL-2
+DTSTART:20260604T161500
+DTEND:20260604T174500
+DTSTAMP:20260218T212500Z
+UID:ec737d7c-0dfb-4613-8eb9-6d64638e1015
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XCAD Erste Schritte ÜL-2
+DTSTART:20260611T161500
+DTEND:20260611T174500
+DTSTAMP:20260218T212500Z
+UID:a3c53aec-4a0d-46a0-a425-a3fb46c91588
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XCAD Erste Schritte ÜL-2
+DTSTART:20260618T161500
+DTEND:20260618T174500
+DTSTAMP:20260218T212500Z
+UID:a435b1c9-aa03-42bf-975f-ff0b170ec1b9
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20260403T083000
+DTEND:20260403T180000
+DTSTAMP:20260218T212500Z
+UID:4a2280ba-2cf6-41a9-840e-73a8a019147c
+DESCRIPTION:Karfreitag__Good_FridayP. Wrobel\, Prof. Wree\, Prof. Woelk\, 
+ G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, Prof
+ . Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. 
+ Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Rixen
+ \, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prieß\
+ , Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Osterwa
+ ld\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\, E
+ . Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. Luc
+ zak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A.
+  Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Prof. 
+ Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. Hann
+ es\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H. Fo
+ lkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof. B
+ rauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-Hö
+ her\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konstruktionslehre ÜL-3
+DTSTART:20260401T143000
+DTEND:20260401T160000
+DTSTAMP:20260218T212500Z
+UID:1f89c5ee-374d-4b43-8105-318e6390ba95
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XCAD Erste Schritte ÜL-1
+DTSTART:20260402T143000
+DTEND:20260402T160000
+DTSTAMP:20260218T212500Z
+UID:66f6fd83-7866-403f-b198-e0e02f8b7273
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BM103 Mikrosystemtech.-ÜL
+DTSTART:20260401T161500
+DTEND:20260401T174500
+DTSTAMP:20260218T212500Z
+UID:493ed3ef-d54c-4ac6-b479-753a57cd1e09
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XCAD Erste Schritte ÜL-2
+DTSTART:20260402T161500
+DTEND:20260402T174500
+DTSTAMP:20260218T212500Z
+UID:786c897a-436e-4b86-a758-3044c368d818
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20260406T083000
+DTEND:20260406T180000
+DTSTAMP:20260218T212500Z
+UID:ffcc18d3-32bb-45cf-ae74-92de8248f147
+DESCRIPTION:Ostermontag__Easter_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konstruktionslehre ÜL-3
+DTSTART:20260408T143000
+DTEND:20260408T160000
+DTSTAMP:20260218T212500Z
+UID:bb67da1b-09a2-4199-a972-dbc3ef229d5f
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XCAD Erste Schritte ÜL-1
+DTSTART:20260409T143000
+DTEND:20260409T160000
+DTSTAMP:20260218T212500Z
+UID:26656aef-440e-48f5-ba8f-41d1e0779745
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BM103 Mikrosystemtech.-ÜL
+DTSTART:20260408T161500
+DTEND:20260408T174500
+DTSTAMP:20260218T212500Z
+UID:09b1c116-ef28-47c2-8c17-e4a0ae5f8434
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XCAD Erste Schritte ÜL-2
+DTSTART:20260409T161500
+DTEND:20260409T174500
+DTSTAMP:20260218T212500Z
+UID:45ec3b7e-53b5-4424-a74e-5c9f72f010e7
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konstruktionslehre ÜL-3
+DTSTART:20260415T143000
+DTEND:20260415T160000
+DTSTAMP:20260218T212500Z
+UID:a2bb0e94-aa36-4e6d-a5c9-98fa0c1bb71d
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XCAD Erste Schritte ÜL-1
+DTSTART:20260416T143000
+DTEND:20260416T160000
+DTSTAMP:20260218T212500Z
+UID:041ccd37-d02c-4b05-9f1a-9c1910e8f97f
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BM103 Mikrosystemtech.-ÜL
+DTSTART:20260415T161500
+DTEND:20260415T174500
+DTSTAMP:20260218T212500Z
+UID:38c723a9-9531-4d9a-a2e2-0501e1042fe9
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XCAD Erste Schritte ÜL-2
+DTSTART:20260416T161500
+DTEND:20260416T174500
+DTSTAMP:20260218T212500Z
+UID:b910913d-034d-412f-b67e-2a2fdad1e632
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20260514T083000
+DTEND:20260514T180000
+DTSTAMP:20260218T212500Z
+UID:9c527301-aff7-41dd-b9a5-92e58d16f2df
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayP. Wrobel\, Prof. Wree\, Pro
+ f. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sie
+ loff\, Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Reth
+ meier\, S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius
+ \, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Pr
+ of. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Pr
+ of. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H.
+  Mücke\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\
+ , Prof. Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohl
+ morgen\, A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswie
+ ck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmü
+ ller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartman
+ n\, L. Hannes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavri
+ lov\, H. Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspa
+ r\, Prof. Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof
+ . Badri-Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konstruktionslehre ÜL-3
+DTSTART:20260513T143000
+DTEND:20260513T160000
+DTSTAMP:20260218T212500Z
+UID:79d63d97-d35a-47bc-a283-08c8614f365d
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20260525T083000
+DTEND:20260525T180000
+DTSTAMP:20260218T212500Z
+UID:e1c6178e-87bb-48dc-a4c5-b2f00c381c1f
+DESCRIPTION:Pfingstmontag__Whit_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konstruktionslehre ÜL-3
+DTSTART:20260527T143000
+DTEND:20260527T160000
+DTSTAMP:20260218T212500Z
+UID:3118bad9-599f-4023-b027-756075b94a20
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XCAD Erste Schritte ÜL-1
+DTSTART:20260528T143000
+DTEND:20260528T160000
+DTSTAMP:20260218T212500Z
+UID:db72b05e-36c6-46ea-94a2-8d6dc0abee7c
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XCAD Erste Schritte ÜL-2
+DTSTART:20260528T161500
+DTEND:20260528T174500
+DTSTAMP:20260218T212500Z
+UID:f3992efb-a5c2-417f-812e-96183580c483
+DESCRIPTION:T. Rixen
+LOCATION:C12-2.63
+END:VEVENT
+END:VCALENDAR

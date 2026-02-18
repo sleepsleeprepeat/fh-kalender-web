@@ -1,0 +1,244 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20260403T083000
+DTEND:20260403T180000
+DTSTAMP:20260218T212500Z
+UID:9c8d4e66-f58c-4178-88e8-5ef47dba63cc
+DESCRIPTION:Karfreitag__Good_FridayP. Wrobel\, Prof. Wree\, Prof. Woelk\, 
+ G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, Prof
+ . Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. 
+ Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Rixen
+ \, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prieß\
+ , Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Osterwa
+ ld\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\, E
+ . Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. Luc
+ zak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A.
+  Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Prof. 
+ Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. Hann
+ es\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H. Fo
+ lkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof. B
+ rauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-Hö
+ her\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20260406T083000
+DTEND:20260406T180000
+DTSTAMP:20260218T212500Z
+UID:7b0f6c9d-07ae-4d51-aea4-3179386b63c9
+DESCRIPTION:Ostermontag__Easter_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-W2
+DTSTART:20260408T083000
+DTEND:20260408T114500
+DTSTAMP:20260218T212500Z
+UID:c6d8d47f-8c82-4b88-9127-3fc541d30f56
+DESCRIPTION:P. Wrobel\, S. Schmarbeck
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-E1
+DTSTART:20260413T101500
+DTEND:20260413T133000
+DTSTAMP:20260218T212500Z
+UID:c874c21f-1b14-498e-b177-170c170ec6a0
+DESCRIPTION:P. Wrobel\, S. Schmarbeck\, J. Schiwy
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-E1
+DTSTART:20260608T101500
+DTEND:20260608T133000
+DTSTAMP:20260218T212500Z
+UID:5434456e-20ab-472b-84e2-c884fc84a59a
+DESCRIPTION:P. Wrobel\, S. Schmarbeck\, J. Schiwy
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-W1
+DTSTART:20260420T083000
+DTEND:20260420T114500
+DTSTAMP:20260218T212500Z
+UID:29383a8b-3b4c-485f-8056-3b87c3c02eaa
+DESCRIPTION:P. Wrobel\, S. Schmarbeck\, J. Schiwy
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-W1
+DTSTART:20260518T083000
+DTEND:20260518T114500
+DTSTAMP:20260218T212500Z
+UID:881ee269-34d8-4a84-a598-08cf5d2f9c37
+DESCRIPTION:P. Wrobel\, S. Schmarbeck\, J. Schiwy
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-W1
+DTSTART:20260601T083000
+DTEND:20260601T114500
+DTSTAMP:20260218T212500Z
+UID:5e086a18-7bd5-4a4a-9a7d-13209b5246e1
+DESCRIPTION:P. Wrobel\, S. Schmarbeck\, J. Schiwy
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-W2
+DTSTART:20260422T083000
+DTEND:20260422T114500
+DTSTAMP:20260218T212500Z
+UID:a6992b37-35d9-452c-a7e7-1c5af54d9af1
+DESCRIPTION:P. Wrobel\, S. Schmarbeck
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-W2
+DTSTART:20260520T083000
+DTEND:20260520T114500
+DTSTAMP:20260218T212500Z
+UID:83527312-d02f-4805-bd16-b8638e749a83
+DESCRIPTION:P. Wrobel\, S. Schmarbeck
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-W2
+DTSTART:20260603T083000
+DTEND:20260603T114500
+DTSTAMP:20260218T212500Z
+UID:9d84b6f5-138e-46ce-9685-f5e6febaedd5
+DESCRIPTION:P. Wrobel\, S. Schmarbeck
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-E2
+DTSTART:20260420T124500
+DTEND:20260420T160000
+DTSTAMP:20260218T212500Z
+UID:903391e9-aa4a-4688-ad2c-ae3151ae23c8
+DESCRIPTION:P. Wrobel\, S. Schmarbeck\, J. Schiwy
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-E2
+DTSTART:20260518T124500
+DTEND:20260518T160000
+DTSTAMP:20260218T212500Z
+UID:c72d3657-d579-4a44-a5f1-0c695e796857
+DESCRIPTION:P. Wrobel\, S. Schmarbeck\, J. Schiwy
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-E2
+DTSTART:20260601T124500
+DTEND:20260601T160000
+DTSTAMP:20260218T212500Z
+UID:1ac2f213-b453-402c-8c08-8414bab528ea
+DESCRIPTION:P. Wrobel\, S. Schmarbeck\, J. Schiwy
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20260514T083000
+DTEND:20260514T180000
+DTSTAMP:20260218T212500Z
+UID:6afe53d9-0086-48d9-a43e-98278d6dce68
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayP. Wrobel\, Prof. Wree\, Pro
+ f. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sie
+ loff\, Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Reth
+ meier\, S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius
+ \, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Pr
+ of. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Pr
+ of. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H.
+  Mücke\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\
+ , Prof. Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohl
+ morgen\, A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswie
+ ck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmü
+ ller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartman
+ n\, L. Hannes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavri
+ lov\, H. Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspa
+ r\, Prof. Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof
+ . Badri-Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-E1
+DTSTART:20260511T101500
+DTEND:20260511T133000
+DTSTAMP:20260218T212500Z
+UID:5ed11c9e-392d-4ecc-a1ee-ac867acc7504
+DESCRIPTION:P. Wrobel\, S. Schmarbeck\, J. Schiwy
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20260525T083000
+DTEND:20260525T180000
+DTSTAMP:20260218T212500Z
+UID:884c2737-dcab-4926-a19b-6f56d131367c
+DESCRIPTION:Pfingstmontag__Whit_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-W1
+DTSTART:20260615T083000
+DTEND:20260615T114500
+DTSTAMP:20260218T212500Z
+UID:2b1f1e27-3784-46d9-8496-402892f2b5bf
+DESCRIPTION:P. Wrobel\, S. Schmarbeck\, J. Schiwy
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-E1
+DTSTART:20260616T083000
+DTEND:20260616T114500
+DTSTAMP:20260218T212500Z
+UID:f4e331da-edbe-4625-8a24-aba6bfe603c9
+DESCRIPTION:ErsatzterminJ. Schiwy\, S. Schmarbeck\, P. Wrobel
+LOCATION:C06-0.16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrische Maschinen ÜL-E2
+DTSTART:20260615T124500
+DTEND:20260615T160000
+DTSTAMP:20260218T212500Z
+UID:c6926bd9-c781-4195-b1c5-89dbf891d5bb
+DESCRIPTION:P. Wrobel\, S. Schmarbeck\, J. Schiwy
+LOCATION:C06-0.16
+END:VEVENT
+END:VCALENDAR

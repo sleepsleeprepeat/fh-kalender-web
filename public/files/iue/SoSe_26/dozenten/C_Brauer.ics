@@ -1,0 +1,442 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:BE131 Automatisierungs- technik-2 ÜL-2
+DTSTART:20260319T101500
+DTEND:20260319T133000
+DTSTAMP:20260218T212500Z
+UID:857eda10-2866-429f-bcc2-0ccc9be97d51
+DESCRIPTION:1_Lab-Termin_n.o.C. Brauer\, H. Mücke
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE131 Automatisierungs- technik-2 ÜL-1
+DTSTART:20260326T101500
+DTEND:20260326T133000
+DTSTAMP:20260218T212500Z
+UID:9e0f8f9a-be2f-401b-b5e1-fd85f7484949
+DESCRIPTION:C. Brauer\, J. Haase
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME121 Kompl. Systeme Automatisierungste. ÜL-1
+DTSTART:20260323T124500
+DTEND:20260323T160000
+DTSTAMP:20260218T212500Z
+UID:3c322685-bd32-4219-8f94-8b0d6a277e2f
+DESCRIPTION:1_Lab-Termin_n.A.C. Brauer\, Prof. Wree
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20260403T083000
+DTEND:20260403T180000
+DTSTAMP:20260218T212500Z
+UID:bdf4d716-606f-4432-a983-d1482fbf95e2
+DESCRIPTION:Karfreitag__Good_FridayP. Wrobel\, Prof. Wree\, Prof. Woelk\, 
+ G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, Prof
+ . Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. 
+ Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Rixen
+ \, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prieß\
+ , Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Osterwa
+ ld\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\, E
+ . Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. Luc
+ zak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A.
+  Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Prof. 
+ Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. Hann
+ es\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H. Fo
+ lkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof. B
+ rauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-Hö
+ her\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE131 Automatisierungs- technik-2 ÜL-2
+DTSTART:20260402T101500
+DTEND:20260402T133000
+DTSTAMP:20260218T212500Z
+UID:463df9f8-8405-405b-8968-423408f73d74
+DESCRIPTION:1_Lab-Termin_n.o.C. Brauer\, H. Mücke
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME121 Kompl. Systeme Automatisierungste. ÜL-2
+DTSTART:20260330T124500
+DTEND:20260330T160000
+DTSTAMP:20260218T212500Z
+UID:f46cdc77-4c83-48b8-a6f4-49638b6dbda2
+DESCRIPTION:C. Brauer\, Prof. Wree
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20260406T083000
+DTEND:20260406T180000
+DTSTAMP:20260218T212500Z
+UID:c63a4888-125b-4221-af9c-2c32a4fecdc3
+DESCRIPTION:Ostermontag__Easter_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik ÜL-E2
+DTSTART:20260408T083000
+DTEND:20260408T114500
+DTSTAMP:20260218T212500Z
+UID:2bd556d2-32f4-4aad-945b-b17231777a08
+DESCRIPTION:C. Brauer\, J. Kohlmorgen\, J. Schlüter
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE131 Automatisierungs- technik-2 ÜL-1
+DTSTART:20260409T101500
+DTEND:20260409T133000
+DTSTAMP:20260218T212500Z
+UID:eb3018fd-2a4d-4adb-bac5-07537ce584fc
+DESCRIPTION:C. Brauer\, J. Haase
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik ÜL-E3
+DTSTART:20260407T124500
+DTEND:20260407T160000
+DTSTAMP:20260218T212500Z
+UID:142d76b0-bd37-4c3b-8203-1b0d6d91dea4
+DESCRIPTION:A. Falckenhain\, C. Brauer
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik ÜL-W1
+DTSTART:20260413T083000
+DTEND:20260413T114500
+DTSTAMP:20260218T212500Z
+UID:2261d757-1554-496a-9134-fa6a90d71d2a
+DESCRIPTION:C. Brauer\, J. Kohlmorgen
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik ÜL-W2
+DTSTART:20260415T083000
+DTEND:20260415T114500
+DTSTAMP:20260218T212500Z
+UID:57eeda00-339f-421b-ac08-854921ba41f5
+DESCRIPTION:J. Schlüter\, C. Brauer
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE131 Automatisierungs- technik-2 ÜL-2
+DTSTART:20260416T101500
+DTEND:20260416T133000
+DTSTAMP:20260218T212500Z
+UID:a8d637f6-b395-4361-ad5b-7b7e6a8e61fc
+DESCRIPTION:1_Lab-Termin_n.o.C. Brauer\, H. Mücke
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME121 Kompl. Systeme Automatisierungste. ÜL-2
+DTSTART:20260413T124500
+DTEND:20260413T160000
+DTSTAMP:20260218T212500Z
+UID:d7f403b9-777b-46b7-a4ef-543c35f5e3d5
+DESCRIPTION:C. Brauer\, Prof. Wree
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME121 Kompl. Systeme Automatisierungste. ÜL-1
+DTSTART:20260416T143000
+DTEND:20260416T174500
+DTSTAMP:20260218T212500Z
+UID:0e5114d5-d221-4882-a48c-7d180aa95ace
+DESCRIPTION:ErsatzterminC. Brauer\, Prof. Wree
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik ÜL-E4W
+DTSTART:20260420T083000
+DTEND:20260420T114500
+DTSTAMP:20260218T212500Z
+UID:d0f7cd16-f511-4c9c-b3a9-3161ebb66cbb
+DESCRIPTION:J. Kohlmorgen\, A. Falckenhain\, C. Brauer
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik ÜL-E4W
+DTSTART:20260601T083000
+DTEND:20260601T114500
+DTSTAMP:20260218T212500Z
+UID:b91ac095-fe8a-4155-a09c-be929e8f888c
+DESCRIPTION:J. Kohlmorgen\, A. Falckenhain\, C. Brauer
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik ÜL-E2
+DTSTART:20260422T083000
+DTEND:20260422T114500
+DTSTAMP:20260218T212500Z
+UID:78371d38-c0c2-4d49-b537-6c3d3a7cc2fa
+DESCRIPTION:C. Brauer\, J. Kohlmorgen\, J. Schlüter
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik ÜL-E2
+DTSTART:20260603T083000
+DTEND:20260603T114500
+DTSTAMP:20260218T212500Z
+UID:949428ea-e4e5-4a3e-b3b1-4ba289f00d52
+DESCRIPTION:C. Brauer\, J. Kohlmorgen\, J. Schlüter
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE131 Automatisierungs- technik-2 ÜL-1
+DTSTART:20260423T101500
+DTEND:20260423T133000
+DTSTAMP:20260218T212500Z
+UID:93e787c9-78cf-407e-a09b-3ed43d563e4e
+DESCRIPTION:C. Brauer\, J. Haase
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE131 Automatisierungs- technik-2 ÜL-1
+DTSTART:20260604T101500
+DTEND:20260604T133000
+DTSTAMP:20260218T212500Z
+UID:bce7d63d-c6a0-47fc-8f9c-2e1d211c8c69
+DESCRIPTION:C. Brauer\, J. Haase
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME121 Kompl. Systeme Automatisierungste. ÜL-1
+DTSTART:20260420T124500
+DTEND:20260420T160000
+DTSTAMP:20260218T212500Z
+UID:a57c3896-d1e1-45a7-95db-ac819938b362
+DESCRIPTION:1_Lab-Termin_n.A.C. Brauer\, Prof. Wree
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME121 Kompl. Systeme Automatisierungste. ÜL-1
+DTSTART:20260601T124500
+DTEND:20260601T160000
+DTSTAMP:20260218T212500Z
+UID:8b43dbdc-72e0-4151-ba7c-be71258606cb
+DESCRIPTION:1_Lab-Termin_n.A.C. Brauer\, Prof. Wree
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik ÜL-E3
+DTSTART:20260421T124500
+DTEND:20260421T160000
+DTSTAMP:20260218T212500Z
+UID:78f6e7c4-3b7d-4ddf-b731-f0b7368e1dc7
+DESCRIPTION:A. Falckenhain\, C. Brauer
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik ÜL-E3
+DTSTART:20260602T124500
+DTEND:20260602T160000
+DTSTAMP:20260218T212500Z
+UID:c644b954-8cd6-404b-89be-7d371bc822bb
+DESCRIPTION:A. Falckenhain\, C. Brauer
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik ÜL-W1
+DTSTART:20260511T083000
+DTEND:20260511T114500
+DTSTAMP:20260218T212500Z
+UID:19c2bc40-2185-4fa0-9d21-f30856d71d5a
+DESCRIPTION:C. Brauer\, J. Kohlmorgen
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik ÜL-W2
+DTSTART:20260513T083000
+DTEND:20260513T114500
+DTSTAMP:20260218T212500Z
+UID:84202c96-5211-4128-97b3-02d970b40e17
+DESCRIPTION:J. Schlüter\, C. Brauer
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20260514T083000
+DTEND:20260514T180000
+DTSTAMP:20260218T212500Z
+UID:03eb675a-a673-4262-af80-cd7e13fff5a3
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayP. Wrobel\, Prof. Wree\, Pro
+ f. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sie
+ loff\, Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Reth
+ meier\, S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius
+ \, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Pr
+ of. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Pr
+ of. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H.
+  Mücke\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\
+ , Prof. Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohl
+ morgen\, A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswie
+ ck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmü
+ ller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartman
+ n\, L. Hannes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavri
+ lov\, H. Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspa
+ r\, Prof. Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof
+ . Badri-Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME121 Kompl. Systeme Automatisierungste. ÜL-2
+DTSTART:20260511T124500
+DTEND:20260511T160000
+DTSTAMP:20260218T212500Z
+UID:18c21020-0337-47af-ba52-b3bdf9fa52f4
+DESCRIPTION:C. Brauer\, Prof. Wree
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik ÜL-E4W
+DTSTART:20260518T083000
+DTEND:20260518T114500
+DTSTAMP:20260218T212500Z
+UID:9468b6e3-3701-4431-b7be-775680fe7aff
+DESCRIPTION:J. Kohlmorgen\, A. Falckenhain\, C. Brauer
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE131 Automatisierungs- technik-2 ÜL-1
+DTSTART:20260521T101500
+DTEND:20260521T133000
+DTSTAMP:20260218T212500Z
+UID:0784c18a-a604-4872-b14c-4988cc98f7c5
+DESCRIPTION:C. Brauer\, J. Haase
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME121 Kompl. Systeme Automatisierungste. ÜL-1
+DTSTART:20260518T124500
+DTEND:20260518T160000
+DTSTAMP:20260218T212500Z
+UID:0ec4c221-4db2-44f3-95a8-8403a84cf61b
+DESCRIPTION:1_Lab-Termin_n.A.C. Brauer\, Prof. Wree
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20260525T083000
+DTEND:20260525T180000
+DTSTAMP:20260218T212500Z
+UID:69bb223d-dfb9-46c1-8572-ab70964f1a1f
+DESCRIPTION:Pfingstmontag__Whit_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE131 Automatisierungs- technik-2 ÜL-2
+DTSTART:20260528T101500
+DTEND:20260528T133000
+DTSTAMP:20260218T212500Z
+UID:9de7d53b-8039-4c34-8d87-679329330ea1
+DESCRIPTION:1_Lab-Termin_n.o.C. Brauer\, H. Mücke
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME121 Kompl. Systeme Automatisierungste. ÜL-2
+DTSTART:20260528T143000
+DTEND:20260528T174500
+DTSTAMP:20260218T212500Z
+UID:10adf7c8-a88b-409b-b1bc-f2422e1996dd
+DESCRIPTION:ErsatzterminC. Brauer\, Prof. Wree
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik ÜL-W1
+DTSTART:20260608T083000
+DTEND:20260608T114500
+DTSTAMP:20260218T212500Z
+UID:76659b8e-4c78-47bd-b6a3-d732e015b996
+DESCRIPTION:C. Brauer\, J. Kohlmorgen
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik ÜL-W2
+DTSTART:20260610T083000
+DTEND:20260610T114500
+DTSTAMP:20260218T212500Z
+UID:76479b2b-f38a-4816-b6eb-e80fdd2c263d
+DESCRIPTION:J. Schlüter\, C. Brauer
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE131 Automatisierungs- technik-2 ÜL-2
+DTSTART:20260611T101500
+DTEND:20260611T133000
+DTSTAMP:20260218T212500Z
+UID:d063ed75-cd18-4150-8014-7314f8677321
+DESCRIPTION:1_Lab-Termin_n.o.C. Brauer\, H. Mücke
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME121 Kompl. Systeme Automatisierungste. ÜL-2
+DTSTART:20260608T124500
+DTEND:20260608T160000
+DTSTAMP:20260218T212500Z
+UID:906765c0-c78a-487c-baa9-8d948e77f12e
+DESCRIPTION:C. Brauer\, Prof. Wree
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE131 Automatisierungs- technik-2 ÜL-1
+DTSTART:20260618T101500
+DTEND:20260618T133000
+DTSTAMP:20260218T212500Z
+UID:96816286-1f94-487d-b4bd-cb97bd533ea2
+DESCRIPTION:C. Brauer\, J. Haase
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME121 Kompl. Systeme Automatisierungste. ÜL-1
+DTSTART:20260615T124500
+DTEND:20260615T160000
+DTSTAMP:20260218T212500Z
+UID:5c883529-f3aa-48d6-a95c-ec9472112ac0
+DESCRIPTION:1_Lab-Termin_n.A.C. Brauer\, Prof. Wree
+LOCATION:C12-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME121 Kompl. Systeme Automatisierungste. ÜL-2
+DTSTART:20260618T143000
+DTEND:20260618T174500
+DTSTAMP:20260218T212500Z
+UID:99a7d5f9-8f5f-4e4c-80af-57623abbef4a
+DESCRIPTION:ErsatzterminC. Brauer\, Prof. Wree
+LOCATION:C12-1.25
+END:VEVENT
+END:VCALENDAR

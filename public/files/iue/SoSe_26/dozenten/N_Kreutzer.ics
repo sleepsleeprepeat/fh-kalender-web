@@ -1,0 +1,298 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-W1
+DTSTART:20260323T101500
+DTEND:20260323T114500
+DTSTAMP:20260218T212500Z
+UID:dbdf963e-b132-488b-a228-6275217f7c27
+DESCRIPTION:N. Kreutzer
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-W1
+DTSTART:20260413T101500
+DTEND:20260413T114500
+DTSTAMP:20260218T212500Z
+UID:728a76b6-6def-4893-a90b-827f20114819
+DESCRIPTION:N. Kreutzer
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-W1
+DTSTART:20260420T101500
+DTEND:20260420T114500
+DTSTAMP:20260218T212500Z
+UID:b1ea3458-dcb1-4c68-806e-74769a2fd92a
+DESCRIPTION:N. Kreutzer
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-W1
+DTSTART:20260518T101500
+DTEND:20260518T114500
+DTSTAMP:20260218T212500Z
+UID:366f959d-e2b9-47fb-8650-f4e4f8058b43
+DESCRIPTION:N. Kreutzer
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-W1
+DTSTART:20260601T101500
+DTEND:20260601T114500
+DTSTAMP:20260218T212500Z
+UID:e6ec78e6-8fa6-4e82-bc43-3e12a048877d
+DESCRIPTION:N. Kreutzer
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-W1
+DTSTART:20260608T101500
+DTEND:20260608T114500
+DTSTAMP:20260218T212500Z
+UID:8d579d7c-9f48-4b74-be2d-6b5b9807d171
+DESCRIPTION:N. Kreutzer
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-W1
+DTSTART:20260615T101500
+DTEND:20260615T114500
+DTSTAMP:20260218T212500Z
+UID:52102da6-6733-48e6-aad5-527bb1e800ff
+DESCRIPTION:N. Kreutzer
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-M1
+DTSTART:20260327T124500
+DTEND:20260327T141500
+DTSTAMP:20260218T212500Z
+UID:64dc84b2-4196-480d-9b18-b6d2bf02e975
+DESCRIPTION:N. Kreutzer
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-M1
+DTSTART:20260417T124500
+DTEND:20260417T141500
+DTSTAMP:20260218T212500Z
+UID:d2f0088d-0e54-40c3-a614-2ea20ca89829
+DESCRIPTION:N. Kreutzer
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-M1
+DTSTART:20260424T124500
+DTEND:20260424T141500
+DTSTAMP:20260218T212500Z
+UID:6d9c97a7-9785-4135-bcca-cf27b4517275
+DESCRIPTION:N. Kreutzer
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-M1
+DTSTART:20260522T124500
+DTEND:20260522T141500
+DTSTAMP:20260218T212500Z
+UID:53331683-a851-4e3d-b80f-9f47654dc245
+DESCRIPTION:N. Kreutzer
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-M1
+DTSTART:20260605T124500
+DTEND:20260605T141500
+DTSTAMP:20260218T212500Z
+UID:52b9aa92-5b06-42e8-9a70-259e5b51def7
+DESCRIPTION:N. Kreutzer
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-M1
+DTSTART:20260612T124500
+DTEND:20260612T141500
+DTSTAMP:20260218T212500Z
+UID:42436e27-dfd0-4a9c-8b47-d3a385372230
+DESCRIPTION:N. Kreutzer
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-M1
+DTSTART:20260619T124500
+DTEND:20260619T141500
+DTSTAMP:20260218T212500Z
+UID:b1df718d-a48a-40e1-8ce5-4eb9ed092a78
+DESCRIPTION:N. Kreutzer
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20260403T083000
+DTEND:20260403T180000
+DTSTAMP:20260218T212500Z
+UID:a7f359fb-6ddb-459a-89b6-b367a8bb2be5
+DESCRIPTION:Karfreitag__Good_FridayP. Wrobel\, Prof. Wree\, Prof. Woelk\, 
+ G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, Prof
+ . Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. 
+ Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Rixen
+ \, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prieß\
+ , Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Osterwa
+ ld\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\, E
+ . Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. Luc
+ zak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A.
+  Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Prof. 
+ Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. Hann
+ es\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H. Fo
+ lkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof. B
+ rauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-Hö
+ her\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-W1
+DTSTART:20260330T101500
+DTEND:20260330T114500
+DTSTAMP:20260218T212500Z
+UID:93f8e9ee-baef-4642-9076-ef49e8900e4e
+DESCRIPTION:N. Kreutzer
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-M1
+DTSTART:20260330T161500
+DTEND:20260330T174500
+DTSTAMP:20260218T212500Z
+UID:60f3a742-87c7-420f-81da-681c26a20a1f
+DESCRIPTION:ErsatzterminN. Kreutzer
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20260406T083000
+DTEND:20260406T180000
+DTSTAMP:20260218T212500Z
+UID:46d4a9d9-0415-4bc0-be8d-0c9e66098601
+DESCRIPTION:Ostermontag__Easter_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-M1
+DTSTART:20260410T124500
+DTEND:20260410T141500
+DTSTAMP:20260218T212500Z
+UID:432e121a-8e53-4e32-8610-47e49e89b45c
+DESCRIPTION:N. Kreutzer
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-W1
+DTSTART:20260410T161500
+DTEND:20260410T174500
+DTSTAMP:20260218T212500Z
+UID:b1d57a3d-9868-4313-b40a-7581f6f6d612
+DESCRIPTION:ErsatzterminN. Kreutzer
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20260514T083000
+DTEND:20260514T180000
+DTSTAMP:20260218T212500Z
+UID:763d5ef6-1184-469b-b370-6ec5fc5b205d
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayP. Wrobel\, Prof. Wree\, Pro
+ f. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sie
+ loff\, Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Reth
+ meier\, S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius
+ \, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Pr
+ of. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Pr
+ of. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H.
+  Mücke\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\
+ , Prof. Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohl
+ morgen\, A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswie
+ ck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmü
+ ller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartman
+ n\, L. Hannes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavri
+ lov\, H. Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspa
+ r\, Prof. Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof
+ . Badri-Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-W1
+DTSTART:20260511T101500
+DTEND:20260511T114500
+DTSTAMP:20260218T212500Z
+UID:5ba89e42-18ce-4236-a122-f0a3ac8ad816
+DESCRIPTION:N. Kreutzer
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-M1
+DTSTART:20260515T124500
+DTEND:20260515T141500
+DTSTAMP:20260218T212500Z
+UID:db5ec843-5bd2-47aa-af65-d9bc08cdabbe
+DESCRIPTION:N. Kreutzer
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20260525T083000
+DTEND:20260525T180000
+DTSTAMP:20260218T212500Z
+UID:fa337d0b-55c5-45be-bd14-2476d3e6c481
+DESCRIPTION:Pfingstmontag__Whit_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-M1
+DTSTART:20260529T124500
+DTEND:20260529T141500
+DTSTAMP:20260218T212500Z
+UID:df1b6093-2cb7-4368-854d-9170933e436f
+DESCRIPTION:N. Kreutzer
+LOCATION:C22-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-W1
+DTSTART:20260529T161500
+DTEND:20260529T174500
+DTSTAMP:20260218T212500Z
+UID:0f956721-65db-436a-a7ce-71c3e5abaf92
+DESCRIPTION:ErsatzterminN. Kreutzer
+LOCATION:C22-0.01
+END:VEVENT
+END:VCALENDAR

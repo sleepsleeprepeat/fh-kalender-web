@@ -1,0 +1,334 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-M1 Einf.
+DTSTART:20260319T143000
+DTEND:20260319T160000
+DTSTAMP:20260218T212500Z
+UID:76c0fd62-fd10-4009-84c4-db51fde9cf4c
+DESCRIPTION:Prof. Brauer\, M. Sieloff
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-M2
+DTSTART:20260330T083000
+DTEND:20260330T114500
+DTSTAMP:20260218T212500Z
+UID:4430a423-d7ad-4034-a467-c8545a45ad61
+DESCRIPTION:J. Dittmann\, M. Sieloff
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20260403T083000
+DTEND:20260403T180000
+DTSTAMP:20260218T212500Z
+UID:972401a7-7435-4ae2-95c4-0637560b556b
+DESCRIPTION:Karfreitag__Good_FridayP. Wrobel\, Prof. Wree\, Prof. Woelk\, 
+ G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, Prof
+ . Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. 
+ Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Rixen
+ \, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prieß\
+ , Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Osterwa
+ ld\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\, E
+ . Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. Luc
+ zak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A.
+  Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Prof. 
+ Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. Hann
+ es\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H. Fo
+ lkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof. B
+ rauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-Hö
+ her\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E1
+DTSTART:20260330T124500
+DTEND:20260330T160000
+DTSTAMP:20260218T212500Z
+UID:b66314b5-eef5-4c21-92ba-903cebbd40ff
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-M1
+DTSTART:20260402T143000
+DTEND:20260402T174500
+DTSTAMP:20260218T212500Z
+UID:4770ab9a-8090-449a-b3c4-684933e3dad6
+DESCRIPTION:Prof. Brauer\, M. Sieloff
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20260406T083000
+DTEND:20260406T180000
+DTSTAMP:20260218T212500Z
+UID:14300c89-e23e-4f01-a201-04f3c6f4ca68
+DESCRIPTION:Ostermontag__Easter_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E4W
+DTSTART:20260408T083000
+DTEND:20260408T114500
+DTSTAMP:20260218T212500Z
+UID:3189be39-22eb-4a5f-a166-f1a8d669fd15
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-M2
+DTSTART:20260413T083000
+DTEND:20260413T114500
+DTSTAMP:20260218T212500Z
+UID:ff889131-320c-4591-bfc6-636b395510b1
+DESCRIPTION:J. Dittmann\, M. Sieloff
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-M3
+DTSTART:20260415T083000
+DTEND:20260415T114500
+DTSTAMP:20260218T212500Z
+UID:5a827a22-efc9-48ac-a732-5eb6a76471a7
+DESCRIPTION:J. Dittmann\, M. Sieloff
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E1
+DTSTART:20260413T124500
+DTEND:20260413T160000
+DTSTAMP:20260218T212500Z
+UID:b8f2c655-662a-47f8-a749-6dce127380ec
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-M1
+DTSTART:20260416T143000
+DTEND:20260416T160000
+DTSTAMP:20260218T212500Z
+UID:4636dbcb-9f37-40f5-b68e-00c251c3ac09
+DESCRIPTION:16.KWProf. Brauer\, M. Sieloff
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-M1
+DTSTART:20260420T083000
+DTEND:20260420T114500
+DTSTAMP:20260218T212500Z
+UID:d055fd56-327e-41d3-9988-462990ed24e4
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-M1
+DTSTART:20260601T083000
+DTEND:20260601T114500
+DTSTAMP:20260218T212500Z
+UID:ee7bf267-2702-41fd-84c9-94af8ed53bbf
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E4W
+DTSTART:20260422T083000
+DTEND:20260422T114500
+DTSTAMP:20260218T212500Z
+UID:0f2c7db1-0514-442f-a527-8e23880b4537
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E4W
+DTSTART:20260603T083000
+DTEND:20260603T114500
+DTSTAMP:20260218T212500Z
+UID:6df88ff5-11d3-4808-862c-b076b60b377c
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-M2
+DTSTART:20260511T083000
+DTEND:20260511T114500
+DTSTAMP:20260218T212500Z
+UID:18f8c6ae-e03c-4988-b57d-caa90fc48bfb
+DESCRIPTION:J. Dittmann\, M. Sieloff
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-M3
+DTSTART:20260513T083000
+DTEND:20260513T114500
+DTSTAMP:20260218T212500Z
+UID:0a1c54ed-8ab5-406e-849e-1bf3011d03be
+DESCRIPTION:J. Dittmann\, M. Sieloff
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20260514T083000
+DTEND:20260514T180000
+DTSTAMP:20260218T212500Z
+UID:cbeaf331-e976-4235-9fbb-2ccb093930ee
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayP. Wrobel\, Prof. Wree\, Pro
+ f. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sie
+ loff\, Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Reth
+ meier\, S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius
+ \, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Pr
+ of. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Pr
+ of. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H.
+  Mücke\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\
+ , Prof. Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohl
+ morgen\, A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswie
+ ck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmü
+ ller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartman
+ n\, L. Hannes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavri
+ lov\, H. Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspa
+ r\, Prof. Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof
+ . Badri-Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E1
+DTSTART:20260511T124500
+DTEND:20260511T160000
+DTSTAMP:20260218T212500Z
+UID:be6a056a-8094-4875-bdb6-fab021a358a3
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-M1
+DTSTART:20260518T083000
+DTEND:20260518T114500
+DTSTAMP:20260218T212500Z
+UID:60835739-9bfc-4c65-9b86-ab29f5829820
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E4W
+DTSTART:20260520T083000
+DTEND:20260520T114500
+DTSTAMP:20260218T212500Z
+UID:9b5ec527-219a-432d-9a06-90250c38ea8c
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-M1
+DTSTART:20260521T161500
+DTEND:20260521T174500
+DTSTAMP:20260218T212500Z
+UID:b98eb60b-ee4a-43ae-8323-027d02b7de84
+DESCRIPTION:21.KWProf. Brauer\, M. Sieloff
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20260525T083000
+DTEND:20260525T180000
+DTSTAMP:20260218T212500Z
+UID:d3674267-e379-439d-88ed-757f49165bdb
+DESCRIPTION:Pfingstmontag__Whit_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-M3
+DTSTART:20260527T083000
+DTEND:20260527T114500
+DTSTAMP:20260218T212500Z
+UID:d367abce-0531-48fc-89ab-d7acc40d7d31
+DESCRIPTION:J. Dittmann\, M. Sieloff
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-M1
+DTSTART:20260528T143000
+DTEND:20260528T174500
+DTSTAMP:20260218T212500Z
+UID:dc16d44f-c2c8-4cdb-9aa9-da53ffda555f
+DESCRIPTION:Prof. Brauer\, M. Sieloff
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-M2
+DTSTART:20260608T083000
+DTEND:20260608T114500
+DTSTAMP:20260218T212500Z
+UID:46f8508f-2724-49a1-bca6-8627e68f1f91
+DESCRIPTION:J. Dittmann\, M. Sieloff
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-M3
+DTSTART:20260610T083000
+DTEND:20260610T114500
+DTSTAMP:20260218T212500Z
+UID:79882cc2-cff2-49ad-81e1-e6bf255d49a6
+DESCRIPTION:J. Dittmann\, M. Sieloff
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E1
+DTSTART:20260608T124500
+DTEND:20260608T160000
+DTSTAMP:20260218T212500Z
+UID:d56774cd-01e7-444a-8eec-b7008af444fc
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-M1
+DTSTART:20260611T143000
+DTEND:20260611T160000
+DTSTAMP:20260218T212500Z
+UID:3649cf9d-85e4-4d64-bc6a-51d438181512
+DESCRIPTION:Prof. Brauer\, M. Sieloff
+LOCATION:C13-1.23\, C13-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-M1
+DTSTART:20260615T083000
+DTEND:20260615T114500
+DTSTAMP:20260218T212500Z
+UID:5b43fddb-b910-4fed-88cc-ee4fea3c396d
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+END:VCALENDAR

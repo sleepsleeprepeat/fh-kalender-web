@@ -1,0 +1,298 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:BP2 Perspektiven Berufspädagogik
+DTSTART:20260319T101500
+DTEND:20260319T114500
+DTSTAMP:20260218T213846Z
+UID:ad64929b-fde6-48da-993e-08a86d17ee20
+DESCRIPTION:Modulanmeldung_FB_MHawel
+LOCATION:C12-2.43\, C12-1.43
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BP2 Perspektiven Berufspädagogik
+DTSTART:20260416T101500
+DTEND:20260416T114500
+DTSTAMP:20260218T213846Z
+UID:80c27ab5-aab6-4793-ab92-4920f2d4d63a
+DESCRIPTION:Modulanmeldung_FB_MHawel
+LOCATION:C12-2.43\, C12-1.43
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BP2 Perspektiven Berufspädagogik
+DTSTART:20260611T101500
+DTEND:20260611T114500
+DTSTAMP:20260218T213846Z
+UID:d17aafb9-b020-497b-8206-f42f19ac3997
+DESCRIPTION:Modulanmeldung_FB_MHawel
+LOCATION:C12-2.43\, C12-1.43
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wissenschaftliches Arbeiten
+DTSTART:20260319T143000
+DTEND:20260319T160000
+DTSTAMP:20260218T213846Z
+UID:ff5609b3-dfac-4e44-a8e2-f0e30cc1dc11
+DESCRIPTION:Prof. Hennig
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wissenschaftliches Arbeiten
+DTSTART:20260416T143000
+DTEND:20260416T160000
+DTSTAMP:20260218T213846Z
+UID:7a5018c9-9561-4702-8452-930188c4bb8d
+DESCRIPTION:Prof. Hennig
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wissenschaftliches Arbeiten
+DTSTART:20260611T143000
+DTEND:20260611T160000
+DTSTAMP:20260218T213846Z
+UID:1eb3c5ca-7455-4f33-8235-11606a39e48e
+DESCRIPTION:Prof. Hennig
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BP2 Perspektiven Berufspädagogik
+DTSTART:20260326T101500
+DTEND:20260326T114500
+DTSTAMP:20260218T213846Z
+UID:2fe31492-75f9-4195-9ed9-ba3b5335d573
+DESCRIPTION:Modulanmeldung_FB_MHawel
+LOCATION:C12-2.43\, C12-1.43
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BP2 Perspektiven Berufspädagogik
+DTSTART:20260423T101500
+DTEND:20260423T114500
+DTSTAMP:20260218T213846Z
+UID:ed2fd0bd-44b7-424f-8bb1-87862682a33c
+DESCRIPTION:Modulanmeldung_FB_MHawel
+LOCATION:C12-2.43\, C12-1.43
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BP2 Perspektiven Berufspädagogik
+DTSTART:20260521T101500
+DTEND:20260521T114500
+DTSTAMP:20260218T213846Z
+UID:713af026-2aac-4f31-a7e6-32d77813c69f
+DESCRIPTION:Modulanmeldung_FB_MHawel
+LOCATION:C12-2.43\, C12-1.43
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BP2 Perspektiven Berufspädagogik
+DTSTART:20260604T101500
+DTEND:20260604T114500
+DTSTAMP:20260218T213846Z
+UID:b690ea63-d9b2-4d2f-a0ab-7c82e059d6c7
+DESCRIPTION:Modulanmeldung_FB_MHawel
+LOCATION:C12-2.43\, C12-1.43
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BP2 Perspektiven Berufspädagogik
+DTSTART:20260618T101500
+DTEND:20260618T114500
+DTSTAMP:20260218T213846Z
+UID:17155771-017c-4904-aac2-d4ea96b8d4ee
+DESCRIPTION:Modulanmeldung_FB_MHawel
+LOCATION:C12-2.43\, C12-1.43
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wissenschaftliches Arbeiten ÜL-I4
+DTSTART:20260326T161500
+DTEND:20260326T174500
+DTSTAMP:20260218T213846Z
+UID:1b3a408b-bd65-4b89-8457-e7f0ff8f1b0c
+DESCRIPTION:H. Oenings
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wissenschaftliches Arbeiten ÜL-I4
+DTSTART:20260423T161500
+DTEND:20260423T174500
+DTSTAMP:20260218T213846Z
+UID:bd53a380-2d6d-4a02-aa55-1919d61db1fa
+DESCRIPTION:H. Oenings
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wissenschaftliches Arbeiten ÜL-I4
+DTSTART:20260521T161500
+DTEND:20260521T174500
+DTSTAMP:20260218T213846Z
+UID:e0223e33-e360-49ce-bd98-c85b6574525a
+DESCRIPTION:H. Oenings
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wissenschaftliches Arbeiten ÜL-I4
+DTSTART:20260604T161500
+DTEND:20260604T174500
+DTSTAMP:20260218T213846Z
+UID:f84020c1-f652-47cf-be53-6f5249a4e48c
+DESCRIPTION:H. Oenings
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wissenschaftliches Arbeiten ÜL-I4
+DTSTART:20260618T161500
+DTEND:20260618T174500
+DTSTAMP:20260218T213846Z
+UID:0bb1e8de-f685-4ebd-9a19-13cf8f84c8d1
+DESCRIPTION:H. Oenings
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20260403T083000
+DTEND:20260403T180000
+DTSTAMP:20260218T213846Z
+UID:32562b2f-8e3c-4df9-a45c-32db45cc5e28
+DESCRIPTION:Karfreitag__Good_FridayP. Wrobel\, Prof. Wree\, Prof. Woelk\, 
+ G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, Prof
+ . Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. 
+ Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Rixen
+ \, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prieß\
+ , Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Osterwa
+ ld\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\, E
+ . Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. Luc
+ zak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A.
+  Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Prof. 
+ Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. Hann
+ es\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H. Fo
+ lkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof. B
+ rauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-Hö
+ her\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BP2 Perspektiven Berufspädagogik
+DTSTART:20260402T101500
+DTEND:20260402T114500
+DTSTAMP:20260218T213846Z
+UID:dcbbcf0e-303c-48ae-8bd9-59e0c11fcfd4
+DESCRIPTION:Modulanmeldung_FB_MHawel
+LOCATION:C12-2.43\, C12-1.43
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wissenschaftliches Arbeiten
+DTSTART:20260402T143000
+DTEND:20260402T160000
+DTSTAMP:20260218T213846Z
+UID:6a4619e7-810a-44c1-beb2-84d7c3f19522
+DESCRIPTION:Prof. Hennig
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20260406T083000
+DTEND:20260406T180000
+DTSTAMP:20260218T213846Z
+UID:62d1a722-5b5f-4991-b81a-826b90d1b292
+DESCRIPTION:Ostermontag__Easter_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BP2 Perspektiven Berufspädagogik
+DTSTART:20260409T101500
+DTEND:20260409T114500
+DTSTAMP:20260218T213846Z
+UID:322c889f-f8c2-4a0c-a7f6-02cc2e0a17f3
+DESCRIPTION:Modulanmeldung_FB_MHawel
+LOCATION:C12-2.43\, C12-1.43
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wissenschaftliches Arbeiten ÜL-I4
+DTSTART:20260409T161500
+DTEND:20260409T174500
+DTSTAMP:20260218T213846Z
+UID:bb7172fc-c742-4f0c-a4d7-d437a0c31d7d
+DESCRIPTION:H. Oenings
+LOCATION:C13-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20260514T083000
+DTEND:20260514T180000
+DTSTAMP:20260218T213846Z
+UID:0ea74a91-eae2-4d20-a684-0576cbf8cd19
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayP. Wrobel\, Prof. Wree\, Pro
+ f. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sie
+ loff\, Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Reth
+ meier\, S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius
+ \, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Pr
+ of. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Pr
+ of. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H.
+  Mücke\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\
+ , Prof. Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohl
+ morgen\, A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswie
+ ck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmü
+ ller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartman
+ n\, L. Hannes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavri
+ lov\, H. Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspa
+ r\, Prof. Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof
+ . Badri-Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20260525T083000
+DTEND:20260525T180000
+DTSTAMP:20260218T213846Z
+UID:ebe56421-f25d-4c55-b620-2f0ba013c433
+DESCRIPTION:Pfingstmontag__Whit_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BP2 Perspektiven Berufspädagogik
+DTSTART:20260528T101500
+DTEND:20260528T114500
+DTSTAMP:20260218T213846Z
+UID:bf2ef28f-1217-4075-9fc5-b4b4f8bf63ce
+DESCRIPTION:Modulanmeldung_FB_MHawel
+LOCATION:C12-2.43\, C12-1.43
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wissenschaftliches Arbeiten
+DTSTART:20260528T143000
+DTEND:20260528T160000
+DTSTAMP:20260218T213846Z
+UID:7a17af4b-ca66-422d-bcf8-c4c84635b3ce
+DESCRIPTION:Prof. Hennig
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+END:VCALENDAR

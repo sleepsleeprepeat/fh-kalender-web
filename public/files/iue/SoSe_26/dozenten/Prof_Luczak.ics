@@ -1,0 +1,271 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Jour-fixe Dekanat
+DTSTART:20260316T083000
+DTEND:20260316T120000
+DTSTAMP:20260218T212500Z
+UID:7cd0b6e6-539e-427d-8c24-57d2fa062a29
+DESCRIPTION:Prof. Luczak\, Prof. Woelk\, Prof. Wree
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jour-fixe Dekanat
+DTSTART:20260323T083000
+DTEND:20260323T120000
+DTSTAMP:20260218T212500Z
+UID:e4dcd6e8-b7d6-40e7-8633-b4db3b39f7dc
+DESCRIPTION:Prof. Luczak\, Prof. Woelk\, Prof. Wree
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jour-fixe Dekanat
+DTSTART:20260413T083000
+DTEND:20260413T120000
+DTSTAMP:20260218T212500Z
+UID:62fbdc91-f1ae-4caf-a5f8-51f663921401
+DESCRIPTION:Prof. Luczak\, Prof. Woelk\, Prof. Wree
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jour-fixe Dekanat
+DTSTART:20260420T083000
+DTEND:20260420T120000
+DTSTAMP:20260218T212500Z
+UID:14805e60-1aa5-4e46-85af-4e3d95de6d95
+DESCRIPTION:Prof. Luczak\, Prof. Woelk\, Prof. Wree
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jour-fixe Dekanat
+DTSTART:20260518T083000
+DTEND:20260518T120000
+DTSTAMP:20260218T212500Z
+UID:9ca4def9-aedf-434e-a72d-809b80248063
+DESCRIPTION:Prof. Luczak\, Prof. Woelk\, Prof. Wree
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jour-fixe Dekanat
+DTSTART:20260601T083000
+DTEND:20260601T120000
+DTSTAMP:20260218T212500Z
+UID:33c2cca0-dfbd-4387-8329-db9f2a0233d8
+DESCRIPTION:Prof. Luczak\, Prof. Woelk\, Prof. Wree
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jour-fixe Dekanat
+DTSTART:20260615T083000
+DTEND:20260615T120000
+DTSTAMP:20260218T212500Z
+UID:647ba293-9cb5-4235-af52-bbf4587fcbac
+DESCRIPTION:Prof. Luczak\, Prof. Woelk\, Prof. Wree
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Energiewende Überblick und Herausforderungen
+DTSTART:20260320T124500
+DTEND:20260320T160000
+DTSTAMP:20260218T212500Z
+UID:2b4a143b-06fc-4ffe-b827-da411db96b26
+DESCRIPTION:Prof. Luczak
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Energiewende Überblick und Herausforderungen
+DTSTART:20260327T124500
+DTEND:20260327T160000
+DTSTAMP:20260218T212500Z
+UID:30a5cd9e-0f43-4339-b769-1cc9905c1f45
+DESCRIPTION:Prof. Luczak
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Energiewende Überblick und Herausforderungen
+DTSTART:20260417T124500
+DTEND:20260417T160000
+DTSTAMP:20260218T212500Z
+UID:8cc10b30-054a-40ba-aeee-b53dc26efab5
+DESCRIPTION:Prof. Luczak
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Energiewende Überblick und Herausforderungen
+DTSTART:20260424T124500
+DTEND:20260424T160000
+DTSTAMP:20260218T212500Z
+UID:550b1895-dcce-4684-8894-0856911cf32d
+DESCRIPTION:Prof. Luczak
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Energiewende Überblick und Herausforderungen
+DTSTART:20260522T124500
+DTEND:20260522T160000
+DTSTAMP:20260218T212500Z
+UID:b01e5c1e-66b1-48ad-a0c8-991b38407f73
+DESCRIPTION:Prof. Luczak
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Energiewende Überblick und Herausforderungen
+DTSTART:20260605T124500
+DTEND:20260605T160000
+DTSTAMP:20260218T212500Z
+UID:0d99b98a-94db-4804-aa61-2189bf456df6
+DESCRIPTION:Prof. Luczak
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Energiewende Überblick und Herausforderungen
+DTSTART:20260619T124500
+DTEND:20260619T160000
+DTSTAMP:20260218T212500Z
+UID:19a46df0-252d-498f-8b0f-32a28e258828
+DESCRIPTION:Prof. Luczak
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jour-fixe Dekanat
+DTSTART:20260330T083000
+DTEND:20260330T120000
+DTSTAMP:20260218T212500Z
+UID:4b473999-08ac-4d20-89b8-5ba41efca6be
+DESCRIPTION:Prof. Luczak\, Prof. Woelk\, Prof. Wree
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20260403T083000
+DTEND:20260403T180000
+DTSTAMP:20260218T212500Z
+UID:3625ccd3-1598-41c2-a268-7a77fcaff7da
+DESCRIPTION:Karfreitag__Good_FridayP. Wrobel\, Prof. Wree\, Prof. Woelk\, 
+ G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, Prof
+ . Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. 
+ Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Rixen
+ \, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prieß\
+ , Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Osterwa
+ ld\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\, E
+ . Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. Luc
+ zak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A.
+  Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Prof. 
+ Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. Hann
+ es\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H. Fo
+ lkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof. B
+ rauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-Hö
+ her\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20260406T083000
+DTEND:20260406T180000
+DTSTAMP:20260218T212500Z
+UID:8a514c47-0523-4e07-95ae-2ce5b545c50c
+DESCRIPTION:Ostermontag__Easter_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Energiewende Überblick und Herausforderungen
+DTSTART:20260410T124500
+DTEND:20260410T160000
+DTSTAMP:20260218T212500Z
+UID:4b6e8301-aabd-4ed7-a6f6-cf7452f06178
+DESCRIPTION:Prof. Luczak
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jour-fixe Dekanat
+DTSTART:20260511T083000
+DTEND:20260511T120000
+DTSTAMP:20260218T212500Z
+UID:de593bec-0f79-4fe7-99b6-61ccf72921a4
+DESCRIPTION:Prof. Luczak\, Prof. Woelk\, Prof. Wree
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20260514T083000
+DTEND:20260514T180000
+DTSTAMP:20260218T212500Z
+UID:f47e9f25-5c63-44de-9234-966b1580d8f6
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayP. Wrobel\, Prof. Wree\, Pro
+ f. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sie
+ loff\, Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Reth
+ meier\, S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius
+ \, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Pr
+ of. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Pr
+ of. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H.
+  Mücke\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\
+ , Prof. Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohl
+ morgen\, A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswie
+ ck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmü
+ ller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartman
+ n\, L. Hannes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavri
+ lov\, H. Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspa
+ r\, Prof. Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof
+ . Badri-Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20260525T083000
+DTEND:20260525T180000
+DTSTAMP:20260218T212500Z
+UID:1a8d7c80-1a6f-4e3d-b0a5-8e22fbf864ce
+DESCRIPTION:Pfingstmontag__Whit_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Energiewende Überblick und Herausforderungen
+DTSTART:20260529T124500
+DTEND:20260529T160000
+DTSTAMP:20260218T212500Z
+UID:24b92c72-38cd-466c-af36-00e2a633451d
+DESCRIPTION:Prof. Luczak
+LOCATION:C08-0.01 / HS-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jour-fixe Dekanat
+DTSTART:20260608T083000
+DTEND:20260608T120000
+DTSTAMP:20260218T212500Z
+UID:217be4e4-991a-4843-b520-b50a92e6de77
+DESCRIPTION:Prof. Luczak\, Prof. Woelk\, Prof. Wree
+LOCATION:
+END:VEVENT
+END:VCALENDAR

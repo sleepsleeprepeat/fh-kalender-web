@@ -1,0 +1,397 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:BI127 Sicherheit in Netzwerken
+DTSTART:20260320T083000
+DTEND:20260320T100000
+DTSTAMP:20260218T212500Z
+UID:d536cfc8-2516-4a22-8599-a7a950a3e2f0
+DESCRIPTION:F. Caspar
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI127 Sicherheit in Netzwerken
+DTSTART:20260327T083000
+DTEND:20260327T100000
+DTSTAMP:20260218T212500Z
+UID:132e9466-83da-4ea3-bbe0-8e9ceda9ffc9
+DESCRIPTION:F. Caspar
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI127 Sicherheit in Netzwerken
+DTSTART:20260417T083000
+DTEND:20260417T100000
+DTSTAMP:20260218T212500Z
+UID:9fedf4da-00b6-4775-b39b-f530413a616e
+DESCRIPTION:F. Caspar
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI127 Sicherheit in Netzwerken
+DTSTART:20260424T083000
+DTEND:20260424T100000
+DTSTAMP:20260218T212500Z
+UID:5aacfb3c-4bff-4d10-862f-c52ee79de5b6
+DESCRIPTION:F. Caspar
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI127 Sicherheit in Netzwerken
+DTSTART:20260522T083000
+DTEND:20260522T100000
+DTSTAMP:20260218T212500Z
+UID:c1f87aaa-e867-4ee8-a078-b7ade2d0ba29
+DESCRIPTION:F. Caspar
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI127 Sicherheit in Netzwerken
+DTSTART:20260605T083000
+DTEND:20260605T100000
+DTSTAMP:20260218T212500Z
+UID:498abe22-15f6-4f67-97e2-d9eed73984e6
+DESCRIPTION:F. Caspar
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI127 Sicherheit in Netzwerken
+DTSTART:20260612T083000
+DTEND:20260612T100000
+DTSTAMP:20260218T212500Z
+UID:7ecb2b89-88d8-4f58-9870-9b715a703def
+DESCRIPTION:F. Caspar
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI127 Sicherheit in Netzwerken
+DTSTART:20260619T083000
+DTEND:20260619T100000
+DTSTAMP:20260218T212500Z
+UID:be083e85-c7ed-4ef5-a04a-dc4ef9e444dc
+DESCRIPTION:F. Caspar
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI127 Sicherheit in Netzwerken ÜL
+DTSTART:20260320T101500
+DTEND:20260320T114500
+DTSTAMP:20260218T212500Z
+UID:d1fb277d-703a-438e-8734-cafb41a37a6e
+DESCRIPTION:F. Caspar
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI127 Sicherheit in Netzwerken ÜL
+DTSTART:20260327T101500
+DTEND:20260327T114500
+DTSTAMP:20260218T212500Z
+UID:c88020d9-5c1f-478b-8a7a-9e97f31849e4
+DESCRIPTION:F. Caspar
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI127 Sicherheit in Netzwerken ÜL
+DTSTART:20260417T101500
+DTEND:20260417T114500
+DTSTAMP:20260218T212500Z
+UID:643ad813-8ad8-420e-9251-5af8524a58cd
+DESCRIPTION:F. Caspar
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI127 Sicherheit in Netzwerken ÜL
+DTSTART:20260424T101500
+DTEND:20260424T114500
+DTSTAMP:20260218T212500Z
+UID:7ba02406-3416-487f-9397-86fb9f6d7b92
+DESCRIPTION:F. Caspar
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI127 Sicherheit in Netzwerken ÜL
+DTSTART:20260522T101500
+DTEND:20260522T114500
+DTSTAMP:20260218T212500Z
+UID:e1d1df73-9325-4369-bdd7-2ad15f1bc6c3
+DESCRIPTION:F. Caspar
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI127 Sicherheit in Netzwerken ÜL
+DTSTART:20260605T101500
+DTEND:20260605T114500
+DTSTAMP:20260218T212500Z
+UID:2221f12f-d82b-4d52-ad12-886115d02c1a
+DESCRIPTION:F. Caspar
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI127 Sicherheit in Netzwerken ÜL
+DTSTART:20260612T101500
+DTEND:20260612T114500
+DTSTAMP:20260218T212500Z
+UID:a2129a8e-d27a-443b-9882-dfe0ca82163e
+DESCRIPTION:F. Caspar
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI127 Sicherheit in Netzwerken ÜL
+DTSTART:20260619T101500
+DTEND:20260619T114500
+DTSTAMP:20260218T212500Z
+UID:0080d2a1-486a-49c2-9d23-1aecb39ee230
+DESCRIPTION:F. Caspar
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Network Systems and Security
+DTSTART:20260320T124500
+DTEND:20260320T160000
+DTSTAMP:20260218T212500Z
+UID:951d1c80-c810-4638-bf73-73982898e18e
+DESCRIPTION:F. Caspar
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Network Systems and Security
+DTSTART:20260327T124500
+DTEND:20260327T160000
+DTSTAMP:20260218T212500Z
+UID:f9d45062-f769-4de4-991a-0be1270d8364
+DESCRIPTION:F. Caspar
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Network Systems and Security
+DTSTART:20260417T124500
+DTEND:20260417T160000
+DTSTAMP:20260218T212500Z
+UID:8571f454-938c-4400-9a3b-24bc4bbe4edc
+DESCRIPTION:F. Caspar
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Network Systems and Security
+DTSTART:20260424T124500
+DTEND:20260424T160000
+DTSTAMP:20260218T212500Z
+UID:e148b222-f584-4ba9-9c4b-e16379c058d1
+DESCRIPTION:F. Caspar
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Network Systems and Security
+DTSTART:20260522T124500
+DTEND:20260522T160000
+DTSTAMP:20260218T212500Z
+UID:73d6d827-9046-4da0-abaa-53338b7132b9
+DESCRIPTION:F. Caspar
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Network Systems and Security
+DTSTART:20260605T124500
+DTEND:20260605T160000
+DTSTAMP:20260218T212500Z
+UID:3bb1595c-15a1-4879-875a-cb3c2b1d972c
+DESCRIPTION:F. Caspar
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Network Systems and Security
+DTSTART:20260612T124500
+DTEND:20260612T160000
+DTSTAMP:20260218T212500Z
+UID:e49e7709-975a-43ec-86b0-78439a418270
+DESCRIPTION:F. Caspar
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Network Systems and Security
+DTSTART:20260619T124500
+DTEND:20260619T160000
+DTSTAMP:20260218T212500Z
+UID:1685212a-69d3-4478-8f90-b69c15aed9f0
+DESCRIPTION:F. Caspar
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20260403T083000
+DTEND:20260403T180000
+DTSTAMP:20260218T212500Z
+UID:ad11dd66-d431-487f-b23d-28039fd10a13
+DESCRIPTION:Karfreitag__Good_FridayP. Wrobel\, Prof. Wree\, Prof. Woelk\, 
+ G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, Prof
+ . Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. 
+ Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Rixen
+ \, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prieß\
+ , Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Osterwa
+ ld\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\, E
+ . Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. Luc
+ zak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A.
+  Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Prof. 
+ Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. Hann
+ es\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H. Fo
+ lkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof. B
+ rauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-Hö
+ her\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20260406T083000
+DTEND:20260406T180000
+DTSTAMP:20260218T212500Z
+UID:67ea2879-82ae-4520-9724-a062476fb3f0
+DESCRIPTION:Ostermontag__Easter_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI127 Sicherheit in Netzwerken
+DTSTART:20260410T083000
+DTEND:20260410T100000
+DTSTAMP:20260218T212500Z
+UID:b184d482-a6d9-404d-82c8-4e362aacd409
+DESCRIPTION:F. Caspar
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI127 Sicherheit in Netzwerken ÜL
+DTSTART:20260410T101500
+DTEND:20260410T114500
+DTSTAMP:20260218T212500Z
+UID:ff704a6a-5a99-4d8a-9079-5dceca383972
+DESCRIPTION:F. Caspar
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Network Systems and Security
+DTSTART:20260410T124500
+DTEND:20260410T160000
+DTSTAMP:20260218T212500Z
+UID:aaa3bea5-7a3a-46dc-9b96-03258abb7a71
+DESCRIPTION:F. Caspar
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20260514T083000
+DTEND:20260514T180000
+DTSTAMP:20260218T212500Z
+UID:daa35b12-b452-4d06-ab33-45e7cfad8749
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayP. Wrobel\, Prof. Wree\, Pro
+ f. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sie
+ loff\, Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Reth
+ meier\, S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius
+ \, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Pr
+ of. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Pr
+ of. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H.
+  Mücke\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\
+ , Prof. Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohl
+ morgen\, A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswie
+ ck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmü
+ ller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartman
+ n\, L. Hannes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavri
+ lov\, H. Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspa
+ r\, Prof. Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof
+ . Badri-Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI127 Sicherheit in Netzwerken
+DTSTART:20260515T083000
+DTEND:20260515T100000
+DTSTAMP:20260218T212500Z
+UID:73560869-e482-4281-b2fd-af199391a9ac
+DESCRIPTION:F. Caspar
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI127 Sicherheit in Netzwerken ÜL
+DTSTART:20260515T101500
+DTEND:20260515T114500
+DTSTAMP:20260218T212500Z
+UID:8fcf8e74-e3c9-4452-9c31-51c0e7ec046b
+DESCRIPTION:F. Caspar
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Network Systems and Security
+DTSTART:20260515T124500
+DTEND:20260515T160000
+DTSTAMP:20260218T212500Z
+UID:5c645b77-a3d9-45ff-8217-12fbb98f2abc
+DESCRIPTION:F. Caspar
+LOCATION:C12-2.70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20260525T083000
+DTEND:20260525T180000
+DTSTAMP:20260218T212500Z
+UID:be0e32f8-8702-495d-82c5-e90a2e48ae5c
+DESCRIPTION:Pfingstmontag__Whit_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI127 Sicherheit in Netzwerken
+DTSTART:20260529T083000
+DTEND:20260529T100000
+DTSTAMP:20260218T212500Z
+UID:173c956c-ef4d-4572-8e57-37ecd7bd01b9
+DESCRIPTION:F. Caspar
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BI127 Sicherheit in Netzwerken ÜL
+DTSTART:20260529T101500
+DTEND:20260529T114500
+DTSTAMP:20260218T212500Z
+UID:f1203e8a-f500-4948-9819-b33fde4aeed0
+DESCRIPTION:F. Caspar
+LOCATION:C13-3.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Network Systems and Security
+DTSTART:20260529T124500
+DTEND:20260529T160000
+DTSTAMP:20260218T212500Z
+UID:08424e91-5614-44dc-9460-9ec3a53e2705
+DESCRIPTION:F. Caspar
+LOCATION:C12-2.70
+END:VEVENT
+END:VCALENDAR

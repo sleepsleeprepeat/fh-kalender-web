@@ -1,0 +1,586 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Orientierungsmodul VL/ÜL E
+DTSTART:20260317T083000
+DTEND:20260317T114500
+DTSTAMP:20260218T212500Z
+UID:dba3d82c-bc4d-497b-ba8e-8784feffbf42
+DESCRIPTION:Prof. Acker\, J. Hoffmüller\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orientierungsmodul VL/ÜL E
+DTSTART:20260318T083000
+DTEND:20260318T100000
+DTSTAMP:20260218T212500Z
+UID:e42e57c5-b832-419c-9fdf-8897455b461f
+DESCRIPTION:Prof. Acker\, J. Hoffmüller\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orientierungsmodul VL/ÜL E
+DTSTART:20260318T101500
+DTEND:20260318T114500
+DTSTAMP:20260218T212500Z
+UID:2a775f53-afc2-4b61-aab8-097d8bc00fb9
+DESCRIPTION:Prof. Acker\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orientierungsmodul VL/ÜL E
+DTSTART:20260318T124500
+DTEND:20260318T141500
+DTSTAMP:20260218T212500Z
+UID:462a27be-6c8e-40dd-ba1a-0495590ea038
+DESCRIPTION:Prof. Acker\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orientierungsmodul VL/ÜL E
+DTSTART:20260317T143000
+DTEND:20260317T160000
+DTSTAMP:20260218T212500Z
+UID:979bd3b9-88e9-4d48-b1e4-8dc4d1ec0ca7
+DESCRIPTION:Prof. Acker\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orientierungsmodul VL/ÜL E
+DTSTART:20260324T083000
+DTEND:20260324T114500
+DTSTAMP:20260218T212500Z
+UID:f7c99530-41fd-4edb-9f94-4a73b5e36ebe
+DESCRIPTION:Prof. Acker\, J. Hoffmüller\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orientierungsmodul VL/ÜL E
+DTSTART:20260325T083000
+DTEND:20260325T100000
+DTSTAMP:20260218T212500Z
+UID:e76a591f-5ff9-4c90-8ac0-4521b2b911ee
+DESCRIPTION:Prof. Acker\, J. Hoffmüller\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orientierungsmodul VL/ÜL E
+DTSTART:20260325T101500
+DTEND:20260325T114500
+DTSTAMP:20260218T212500Z
+UID:f4333128-1634-4563-b91b-9c5e4f928207
+DESCRIPTION:Prof. Acker\, J. Hoffmüller\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mikrocontrollertechnik ÜL-E2
+DTSTART:20260324T124500
+DTEND:20260324T160000
+DTSTAMP:20260218T212500Z
+UID:38e48aa0-e407-43a0-9c1e-eeca2d0aede0
+DESCRIPTION:C. Schwatlo\, J. Hoffmüller
+LOCATION:C13-3.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orientierungsmodul VL/ÜL E
+DTSTART:20260325T124500
+DTEND:20260325T141500
+DTSTAMP:20260218T212500Z
+UID:d6198e23-6ab4-453b-abcb-a04c6b8499b6
+DESCRIPTION:Prof. Acker\, J. Hoffmüller\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schaltungsentwicklung ÜL-2
+DTSTART:20260330T083000
+DTEND:20260330T114500
+DTSTAMP:20260218T212500Z
+UID:c0496fd3-2583-4559-b6f8-1032f60a9316
+DESCRIPTION:C. Schwatlo\, Prof. Patz
+LOCATION:C13-2.23\, C13-2.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced Application Programming ÜL-1
+DTSTART:20260331T083000
+DTEND:20260331T114500
+DTSTAMP:20260218T212500Z
+UID:f8c015a5-7dd3-4a63-9a28-415404a2ba12
+DESCRIPTION:C. Schwatlo\, Prof. Acker
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20260403T083000
+DTEND:20260403T180000
+DTSTAMP:20260218T212500Z
+UID:a73656fe-f662-4ddb-9fe1-cf95f03d251a
+DESCRIPTION:Karfreitag__Good_FridayP. Wrobel\, Prof. Wree\, Prof. Woelk\, 
+ G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, Prof
+ . Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. 
+ Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Rixen
+ \, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prieß\
+ , Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Osterwa
+ ld\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\, E
+ . Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. Luc
+ zak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A.
+  Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Prof. 
+ Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. Hann
+ es\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H. Fo
+ lkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof. B
+ rauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-Hö
+ her\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20260406T083000
+DTEND:20260406T180000
+DTSTAMP:20260218T212500Z
+UID:480097ca-27e8-41da-a60a-f949f3ff2971
+DESCRIPTION:Ostermontag__Easter_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced Application Programming ÜL-3
+DTSTART:20260407T083000
+DTEND:20260407T114500
+DTSTAMP:20260218T212500Z
+UID:b513e58b-339d-47ad-af0d-4dada04b3632
+DESCRIPTION:Prof. Acker\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced Application Programming ÜL-2
+DTSTART:20260410T083000
+DTEND:20260410T114500
+DTSTAMP:20260218T212500Z
+UID:c31287a6-f107-4325-b4e6-5b1b083d9286
+DESCRIPTION:Prof. Acker\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Softwareentwicklung für Ingenieurwissenschaften 2 ÜL-E2W
+DTSTART:20260408T101500
+DTEND:20260408T133000
+DTSTAMP:20260218T212500Z
+UID:66d620d3-ebe7-4851-a05d-ecfc7d5fd187
+DESCRIPTION:J. Hoffmüller\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mikrocontrollertechnik ÜL-E2
+DTSTART:20260407T124500
+DTEND:20260407T160000
+DTSTAMP:20260218T212500Z
+UID:c6ac27ba-a097-4fd1-9928-952d253a867a
+DESCRIPTION:C. Schwatlo\, J. Hoffmüller
+LOCATION:C13-3.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Informationstechnik 2 ÜL-1
+DTSTART:20260410T124500
+DTEND:20260410T160000
+DTSTAMP:20260218T212500Z
+UID:2d2eb440-03ec-421a-aecc-76e47d360fb6
+DESCRIPTION:Prof. Badri-Höher\, C. Schwatlo
+LOCATION:C13-2.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schaltungsentwicklung ÜL-2
+DTSTART:20260413T083000
+DTEND:20260413T114500
+DTSTAMP:20260218T212500Z
+UID:0dc26497-679f-42d3-ae6b-53dfb4bd9402
+DESCRIPTION:C. Schwatlo\, Prof. Patz
+LOCATION:C13-2.23\, C13-2.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced Application Programming ÜL-1
+DTSTART:20260414T083000
+DTEND:20260414T114500
+DTSTAMP:20260218T212500Z
+UID:269556f6-3d88-4c89-b469-2a8852a3d1c1
+DESCRIPTION:C. Schwatlo\, Prof. Acker
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MMK10 Systemtheorie ÜL
+DTSTART:20260413T124500
+DTEND:20260413T160000
+DTSTAMP:20260218T212500Z
+UID:c29c69dd-f891-4b63-b374-4f26ef06891b
+DESCRIPTION:C. Schwatlo
+LOCATION:C13-2.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Informationstechnik 2 ÜL-2
+DTSTART:20260414T124500
+DTEND:20260414T160000
+DTSTAMP:20260218T212500Z
+UID:b2e8bcde-07ca-4703-8287-76e637070628
+DESCRIPTION:Prof. Badri-Höher\, C. Schwatlo
+LOCATION:C13-2.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schaltungsentwicklung ÜL-1
+DTSTART:20260420T083000
+DTEND:20260420T114500
+DTSTAMP:20260218T212500Z
+UID:1c9cdd28-745b-4df4-9f9d-36bb3efb1fe8
+DESCRIPTION:Prof. Patz\, C. Schwatlo
+LOCATION:C13-2.19\, C13-2.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schaltungsentwicklung ÜL-1
+DTSTART:20260601T083000
+DTEND:20260601T114500
+DTSTAMP:20260218T212500Z
+UID:3dcb90fd-5dd6-45d5-85e2-529adab98016
+DESCRIPTION:Prof. Patz\, C. Schwatlo
+LOCATION:C13-2.19\, C13-2.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced Application Programming ÜL-3
+DTSTART:20260421T083000
+DTEND:20260421T114500
+DTSTAMP:20260218T212500Z
+UID:be9f8eb8-0283-440e-9a16-a23c5a9ec49b
+DESCRIPTION:Prof. Acker\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced Application Programming ÜL-3
+DTSTART:20260602T083000
+DTEND:20260602T114500
+DTSTAMP:20260218T212500Z
+UID:9b32b139-43cd-4c06-adfb-e19c75f84d5b
+DESCRIPTION:Prof. Acker\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced Application Programming ÜL-2
+DTSTART:20260424T083000
+DTEND:20260424T114500
+DTSTAMP:20260218T212500Z
+UID:7378bcb1-70e2-43dc-9e7f-a89b7652f678
+DESCRIPTION:Prof. Acker\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced Application Programming ÜL-2
+DTSTART:20260605T083000
+DTEND:20260605T114500
+DTSTAMP:20260218T212500Z
+UID:e9211ae5-ab48-4402-afca-cb149b655ee8
+DESCRIPTION:Prof. Acker\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Softwareentwicklung für Ingenieurwissenschaften 2 ÜL-E2W
+DTSTART:20260422T101500
+DTEND:20260422T133000
+DTSTAMP:20260218T212500Z
+UID:8616d85f-b58d-4a4d-84c7-b22087b21fb6
+DESCRIPTION:J. Hoffmüller\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Softwareentwicklung für Ingenieurwissenschaften 2 ÜL-E2W
+DTSTART:20260603T101500
+DTEND:20260603T133000
+DTSTAMP:20260218T212500Z
+UID:d87c0a98-5649-445c-8f21-21ad77d17ff5
+DESCRIPTION:J. Hoffmüller\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mikrocontrollertechnik ÜL-E2
+DTSTART:20260421T124500
+DTEND:20260421T160000
+DTSTAMP:20260218T212500Z
+UID:de655314-0ad2-46a1-873a-479637854b00
+DESCRIPTION:C. Schwatlo\, J. Hoffmüller
+LOCATION:C13-3.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mikrocontrollertechnik ÜL-E2
+DTSTART:20260602T124500
+DTEND:20260602T160000
+DTSTAMP:20260218T212500Z
+UID:c594d2b4-d723-4ecc-879f-c45c0c80717a
+DESCRIPTION:C. Schwatlo\, J. Hoffmüller
+LOCATION:C13-3.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Informationstechnik 2 ÜL-1
+DTSTART:20260424T124500
+DTEND:20260424T160000
+DTSTAMP:20260218T212500Z
+UID:b1372d5b-7a71-4fc3-b95b-eb4400a23f7f
+DESCRIPTION:Prof. Badri-Höher\, C. Schwatlo
+LOCATION:C13-2.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Informationstechnik 2 ÜL-1
+DTSTART:20260605T124500
+DTEND:20260605T160000
+DTSTAMP:20260218T212500Z
+UID:6d20e998-0aad-45e5-bd8b-95ea6081191c
+DESCRIPTION:Prof. Badri-Höher\, C. Schwatlo
+LOCATION:C13-2.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schaltungsentwicklung ÜL-2
+DTSTART:20260511T083000
+DTEND:20260511T114500
+DTSTAMP:20260218T212500Z
+UID:9ec86d85-ff79-489f-bc73-affa08d0f8cc
+DESCRIPTION:C. Schwatlo\, Prof. Patz
+LOCATION:C13-2.23\, C13-2.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced Application Programming ÜL-1
+DTSTART:20260512T083000
+DTEND:20260512T114500
+DTSTAMP:20260218T212500Z
+UID:91799188-0cd7-44e4-82f9-6a0b1c16cd4c
+DESCRIPTION:C. Schwatlo\, Prof. Acker
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20260514T083000
+DTEND:20260514T180000
+DTSTAMP:20260218T212500Z
+UID:e0f5bb98-7508-4573-b7cc-d9563a686669
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayP. Wrobel\, Prof. Wree\, Pro
+ f. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sie
+ loff\, Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Reth
+ meier\, S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius
+ \, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Pr
+ of. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Pr
+ of. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H.
+  Mücke\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\
+ , Prof. Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohl
+ morgen\, A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswie
+ ck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmü
+ ller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartman
+ n\, L. Hannes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavri
+ lov\, H. Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspa
+ r\, Prof. Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof
+ . Badri-Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Informationstechnik 2 ÜL-2
+DTSTART:20260512T124500
+DTEND:20260512T160000
+DTSTAMP:20260218T212500Z
+UID:0f428d6d-24bf-42f5-aa81-7fab1f12c96a
+DESCRIPTION:Prof. Badri-Höher\, C. Schwatlo
+LOCATION:C13-2.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schaltungsentwicklung ÜL-1
+DTSTART:20260518T083000
+DTEND:20260518T114500
+DTSTAMP:20260218T212500Z
+UID:384ccbcc-260c-4e11-8627-513229007345
+DESCRIPTION:Prof. Patz\, C. Schwatlo
+LOCATION:C13-2.19\, C13-2.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced Application Programming ÜL-3
+DTSTART:20260519T083000
+DTEND:20260519T114500
+DTSTAMP:20260218T212500Z
+UID:b07f1530-2050-42d6-9c9a-72a2f1ad3f91
+DESCRIPTION:Prof. Acker\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced Application Programming ÜL-2
+DTSTART:20260522T083000
+DTEND:20260522T114500
+DTSTAMP:20260218T212500Z
+UID:a636f1c7-65bb-4460-bd3c-a36acff2b009
+DESCRIPTION:Prof. Acker\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Softwareentwicklung für Ingenieurwissenschaften 2 ÜL-E2W
+DTSTART:20260520T101500
+DTEND:20260520T133000
+DTSTAMP:20260218T212500Z
+UID:0d7f662c-6712-4876-8346-18aa35b719c2
+DESCRIPTION:J. Hoffmüller\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MMK10 Systemtheorie ÜL
+DTSTART:20260518T124500
+DTEND:20260518T160000
+DTSTAMP:20260218T212500Z
+UID:1a843039-fb4a-4bbc-9e6d-0632c18ed5f8
+DESCRIPTION:C. Schwatlo
+LOCATION:C13-2.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mikrocontrollertechnik ÜL-E2
+DTSTART:20260519T124500
+DTEND:20260519T160000
+DTSTAMP:20260218T212500Z
+UID:7ce3ba4c-c702-47a8-8d48-a10c52deb2c9
+DESCRIPTION:C. Schwatlo\, J. Hoffmüller
+LOCATION:C13-3.22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Informationstechnik 2 ÜL-1
+DTSTART:20260522T124500
+DTEND:20260522T160000
+DTSTAMP:20260218T212500Z
+UID:2265b30a-abb9-4c2c-aca0-72d18099a231
+DESCRIPTION:Prof. Badri-Höher\, C. Schwatlo
+LOCATION:C13-2.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20260525T083000
+DTEND:20260525T180000
+DTSTAMP:20260218T212500Z
+UID:f53014eb-95c9-443a-8c15-d22e6fcd07ef
+DESCRIPTION:Pfingstmontag__Whit_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced Application Programming ÜL-1
+DTSTART:20260526T083000
+DTEND:20260526T114500
+DTSTAMP:20260218T212500Z
+UID:86a14d24-ed95-4b8c-aec1-55365d1fa519
+DESCRIPTION:C. Schwatlo\, Prof. Acker
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Informationstechnik 2 ÜL-2
+DTSTART:20260526T124500
+DTEND:20260526T160000
+DTSTAMP:20260218T212500Z
+UID:03c73506-6b9f-437c-89af-547d8b9eca41
+DESCRIPTION:Prof. Badri-Höher\, C. Schwatlo
+LOCATION:C13-2.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schaltungsentwicklung ÜL-2
+DTSTART:20260608T083000
+DTEND:20260608T114500
+DTSTAMP:20260218T212500Z
+UID:af62fdf0-a065-47d2-92a2-70ee2b4e3c2c
+DESCRIPTION:C. Schwatlo\, Prof. Patz
+LOCATION:C13-2.23\, C13-2.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced Application Programming ÜL-1
+DTSTART:20260609T083000
+DTEND:20260609T114500
+DTSTAMP:20260218T212500Z
+UID:436bf8d7-246e-489a-a849-bf776153c8a4
+DESCRIPTION:C. Schwatlo\, Prof. Acker
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Informationstechnik 2 ÜL-2
+DTSTART:20260609T124500
+DTEND:20260609T160000
+DTSTAMP:20260218T212500Z
+UID:f7992157-bca0-4a2c-a7a6-a697a731ff93
+DESCRIPTION:Prof. Badri-Höher\, C. Schwatlo
+LOCATION:C13-2.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schaltungsentwicklung ÜL-1
+DTSTART:20260615T083000
+DTEND:20260615T114500
+DTSTAMP:20260218T212500Z
+UID:1178a22e-feff-458f-9e9b-61d8ab3caf33
+DESCRIPTION:Prof. Patz\, C. Schwatlo
+LOCATION:C13-2.19\, C13-2.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced Application Programming ÜL-3
+DTSTART:20260616T083000
+DTEND:20260616T114500
+DTSTAMP:20260218T212500Z
+UID:9e89f9d4-edfd-4fec-a681-1848801d439d
+DESCRIPTION:Prof. Acker\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced Application Programming ÜL-2
+DTSTART:20260619T083000
+DTEND:20260619T114500
+DTSTAMP:20260218T212500Z
+UID:7c96add9-447a-4368-b8f6-31e1a3ca7a12
+DESCRIPTION:Prof. Acker\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Softwareentwicklung für Ingenieurwissenschaften 2 ÜL-E2W
+DTSTART:20260617T101500
+DTEND:20260617T133000
+DTSTAMP:20260218T212500Z
+UID:f888d69f-dae1-4f80-bf64-87787db154c2
+DESCRIPTION:J. Hoffmüller\, C. Schwatlo
+LOCATION:C13-3.18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MMK10 Systemtheorie ÜL
+DTSTART:20260615T124500
+DTEND:20260615T160000
+DTSTAMP:20260218T212500Z
+UID:306ff9cb-ab6a-48be-8dac-35250b6e3a46
+DESCRIPTION:C. Schwatlo
+LOCATION:C13-2.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mikrocontrollertechnik ÜL-E2
+DTSTART:20260616T124500
+DTEND:20260616T160000
+DTSTAMP:20260218T212500Z
+UID:e6522491-df7d-4d45-82f4-0904801ab00b
+DESCRIPTION:C. Schwatlo\, J. Hoffmüller
+LOCATION:C13-3.22
+END:VEVENT
+END:VCALENDAR

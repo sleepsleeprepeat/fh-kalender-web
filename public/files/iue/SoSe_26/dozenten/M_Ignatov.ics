@@ -1,0 +1,325 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I2
+DTSTART:20260327T124500
+DTEND:20260327T141500
+DTSTAMP:20260218T212500Z
+UID:19bb39fc-abfb-4623-821b-855d83c347fc
+DESCRIPTION:M. Ignatov
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I4
+DTSTART:20260327T143000
+DTEND:20260327T160000
+DTSTAMP:20260218T212500Z
+UID:4b8f12dd-d114-42d9-9f88-9320de780931
+DESCRIPTION:M. Ignatov
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I5
+DTSTART:20260327T161500
+DTEND:20260327T174500
+DTSTAMP:20260218T212500Z
+UID:ff8e8c65-3105-44e9-b53d-91603df1d21e
+DESCRIPTION:M. Ignatov
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20260403T083000
+DTEND:20260403T180000
+DTSTAMP:20260218T212500Z
+UID:1513a236-0df4-4556-8e6c-5136942ab988
+DESCRIPTION:Karfreitag__Good_FridayP. Wrobel\, Prof. Wree\, Prof. Woelk\, 
+ G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, Prof
+ . Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. 
+ Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Rixen
+ \, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prieß\
+ , Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Osterwa
+ ld\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\, E
+ . Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. Luc
+ zak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A.
+  Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Prof. 
+ Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. Hann
+ es\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H. Fo
+ lkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof. B
+ rauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-Hö
+ her\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20260406T083000
+DTEND:20260406T180000
+DTSTAMP:20260218T212500Z
+UID:95d2bcc4-ca16-484b-aac9-2dc132c774e0
+DESCRIPTION:Ostermontag__Easter_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I1
+DTSTART:20260410T124500
+DTEND:20260410T141500
+DTSTAMP:20260218T212500Z
+UID:f641c007-425a-4947-8041-12c3a5b8178b
+DESCRIPTION:M. Ignatov
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I3
+DTSTART:20260410T143000
+DTEND:20260410T160000
+DTSTAMP:20260218T212500Z
+UID:ceb62413-2395-4a68-8d7e-feb75264b297
+DESCRIPTION:M. Ignatov
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I5
+DTSTART:20260410T161500
+DTEND:20260410T174500
+DTSTAMP:20260218T212500Z
+UID:02d4b76f-337c-4b23-ae8c-8a9f366a5e26
+DESCRIPTION:M. Ignatov
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I2
+DTSTART:20260417T124500
+DTEND:20260417T141500
+DTSTAMP:20260218T212500Z
+UID:def69856-72e4-470b-adab-74208e1fb114
+DESCRIPTION:M. Ignatov
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I2
+DTSTART:20260612T124500
+DTEND:20260612T141500
+DTSTAMP:20260218T212500Z
+UID:6bc83c73-09a5-4445-919f-1cc90faf9eb0
+DESCRIPTION:M. Ignatov
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I4
+DTSTART:20260417T143000
+DTEND:20260417T160000
+DTSTAMP:20260218T212500Z
+UID:a99037c9-625b-4d77-9590-33a28416715f
+DESCRIPTION:M. Ignatov
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I4
+DTSTART:20260612T143000
+DTEND:20260612T160000
+DTSTAMP:20260218T212500Z
+UID:9e6e220c-088a-44a6-919d-a77e97bb2c81
+DESCRIPTION:M. Ignatov
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I1
+DTSTART:20260424T124500
+DTEND:20260424T141500
+DTSTAMP:20260218T212500Z
+UID:1329412b-c853-40c0-8bb7-70f5b52895e7
+DESCRIPTION:M. Ignatov
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I1
+DTSTART:20260522T124500
+DTEND:20260522T141500
+DTSTAMP:20260218T212500Z
+UID:951d73e9-feba-4bb4-a623-6761cecdee3f
+DESCRIPTION:M. Ignatov
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I1
+DTSTART:20260605T124500
+DTEND:20260605T141500
+DTSTAMP:20260218T212500Z
+UID:825e7e92-9a79-4653-b2ef-69a9b8379c6c
+DESCRIPTION:M. Ignatov
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I3
+DTSTART:20260424T143000
+DTEND:20260424T160000
+DTSTAMP:20260218T212500Z
+UID:18c830da-9fd5-4c84-a17f-f3d2e3d9b8fa
+DESCRIPTION:M. Ignatov
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I3
+DTSTART:20260522T143000
+DTEND:20260522T160000
+DTSTAMP:20260218T212500Z
+UID:14feeb62-f2ae-4ce6-9447-68d07f83bda2
+DESCRIPTION:M. Ignatov
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I3
+DTSTART:20260605T143000
+DTEND:20260605T160000
+DTSTAMP:20260218T212500Z
+UID:75a1c083-ec02-465e-8b8e-5e7a4e32cf64
+DESCRIPTION:M. Ignatov
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I5
+DTSTART:20260424T161500
+DTEND:20260424T174500
+DTSTAMP:20260218T212500Z
+UID:1a86b6da-ba47-43d3-ae09-d2dcaa8059b2
+DESCRIPTION:M. Ignatov
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I5
+DTSTART:20260522T161500
+DTEND:20260522T174500
+DTSTAMP:20260218T212500Z
+UID:d1d4b303-f89e-4ef7-a734-318aad69e044
+DESCRIPTION:M. Ignatov
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I5
+DTSTART:20260605T161500
+DTEND:20260605T174500
+DTSTAMP:20260218T212500Z
+UID:c60bd122-ff75-4d85-9001-a11c414e38cb
+DESCRIPTION:M. Ignatov
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20260514T083000
+DTEND:20260514T180000
+DTSTAMP:20260218T212500Z
+UID:fb96aa8c-096a-4bc2-83b3-f715f2822626
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayP. Wrobel\, Prof. Wree\, Pro
+ f. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sie
+ loff\, Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Reth
+ meier\, S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius
+ \, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Pr
+ of. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Pr
+ of. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H.
+  Mücke\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\
+ , Prof. Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohl
+ morgen\, A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswie
+ ck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmü
+ ller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartman
+ n\, L. Hannes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavri
+ lov\, H. Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspa
+ r\, Prof. Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof
+ . Badri-Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I2
+DTSTART:20260515T124500
+DTEND:20260515T141500
+DTSTAMP:20260218T212500Z
+UID:b5386bfa-4cae-4437-98fe-9feb8aff1065
+DESCRIPTION:M. Ignatov
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I4
+DTSTART:20260515T143000
+DTEND:20260515T160000
+DTSTAMP:20260218T212500Z
+UID:25db39aa-915c-484a-afc5-72312071053c
+DESCRIPTION:M. Ignatov
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20260525T083000
+DTEND:20260525T180000
+DTSTAMP:20260218T212500Z
+UID:eca53d25-8d2b-4e95-a39c-781e66d99c5e
+DESCRIPTION:Pfingstmontag__Whit_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I2
+DTSTART:20260529T124500
+DTEND:20260529T141500
+DTSTAMP:20260218T212500Z
+UID:b0deaa36-8784-4b7c-9d4a-df42d2ddd28d
+DESCRIPTION:M. Ignatov
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I4
+DTSTART:20260529T143000
+DTEND:20260529T160000
+DTSTAMP:20260218T212500Z
+UID:9c69a501-c83a-41d6-aff0-c3972b6956ac
+DESCRIPTION:M. Ignatov
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I1
+DTSTART:20260619T124500
+DTEND:20260619T141500
+DTSTAMP:20260218T212500Z
+UID:71bb568b-2eaa-4016-ad32-8a1e2da709f8
+DESCRIPTION:M. Ignatov
+LOCATION:C12-2.69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmen-u. Datenstrukturen ÜL-I3
+DTSTART:20260619T143000
+DTEND:20260619T160000
+DTSTAMP:20260218T212500Z
+UID:32f4c1af-d45f-4562-ae74-ef5061e9d844
+DESCRIPTION:M. Ignatov
+LOCATION:C12-2.69
+END:VEVENT
+END:VCALENDAR

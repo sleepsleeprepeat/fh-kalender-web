@@ -1,0 +1,487 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Solarenergie ÜL-Einführung
+DTSTART:20260316T083000
+DTEND:20260316T100000
+DTSTAMP:20260218T212500Z
+UID:cbc359b8-d07f-484c-b4de-d3817149671e
+DESCRIPTION:M. Riedel\, E. Moritz
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie ÜL-W1
+DTSTART:20260318T083000
+DTEND:20260318T100000
+DTSTAMP:20260218T212500Z
+UID:0dd6de27-067d-4e6b-9adc-64144d1fad69
+DESCRIPTION:M. Riedel\, E. Moritz
+LOCATION:C06-1.26\, C06-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-E2 Einf.
+DTSTART:20260316T101500
+DTEND:20260316T114500
+DTSTAMP:20260218T212500Z
+UID:f2a499de-7b47-433c-a8d3-7105137bde48
+DESCRIPTION:J. Dittmann\, A. Kinny\, E. Moritz
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-E4 Einf.
+DTSTART:20260317T101500
+DTEND:20260317T114500
+DTSTAMP:20260218T212500Z
+UID:6cd0ee55-eeb4-400c-8327-36692a968d16
+DESCRIPTION:J. Dittmann\, A. Kinny\, E. Moritz
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie ÜL-3 WM
+DTSTART:20260326T083000
+DTEND:20260326T100000
+DTSTAMP:20260218T212500Z
+UID:8b667653-110e-4418-bafa-25646dc67888
+DESCRIPTION:M. Riedel\, E. Moritz
+LOCATION:C06-1.26\, C06-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie ÜL-W2
+DTSTART:20260323T101500
+DTEND:20260323T114500
+DTSTAMP:20260218T212500Z
+UID:e0c92d7b-8680-4cdf-82e3-1b0216675b7c
+DESCRIPTION:M. Riedel\, E. Moritz
+LOCATION:C06-1.26\, C06-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-E3 Einf.
+DTSTART:20260324T101500
+DTEND:20260324T114500
+DTSTAMP:20260218T212500Z
+UID:40ee1442-a3e8-424b-9c49-566fbaebe0f9
+DESCRIPTION:J. Dittmann\, A. Kinny\, E. Moritz
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-E1 Einf.
+DTSTART:20260323T124500
+DTEND:20260323T141500
+DTSTAMP:20260218T212500Z
+UID:97113be2-a2a7-44c2-8cdd-e80daec782d5
+DESCRIPTION:J. Dittmann\, A. Kinny\, E. Moritz
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E4
+DTSTART:20260331T083000
+DTEND:20260331T114500
+DTSTAMP:20260218T212500Z
+UID:8cd85e70-adda-465b-920e-709124716861
+DESCRIPTION:E. Moritz\, A. Kinny
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie ÜL-W1
+DTSTART:20260401T083000
+DTEND:20260401T100000
+DTSTAMP:20260218T212500Z
+UID:6a1cd77d-949f-4f87-aeda-17221392e136
+DESCRIPTION:M. Riedel\, E. Moritz
+LOCATION:C06-1.26\, C06-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20260403T083000
+DTEND:20260403T180000
+DTSTAMP:20260218T212500Z
+UID:b11b4ef3-8a66-4030-b9ab-71cc866a91ba
+DESCRIPTION:Karfreitag__Good_FridayP. Wrobel\, Prof. Wree\, Prof. Woelk\, 
+ G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, Prof
+ . Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. 
+ Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Rixen
+ \, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prieß\
+ , Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Osterwa
+ ld\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\, E
+ . Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. Luc
+ zak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A.
+  Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Prof. 
+ Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. Hann
+ es\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H. Fo
+ lkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof. B
+ rauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-Hö
+ her\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E2
+DTSTART:20260330T101500
+DTEND:20260330T133000
+DTSTAMP:20260218T212500Z
+UID:baa35bf4-98e8-4707-b159-ca87f9210dfc
+DESCRIPTION:A. Kinny\, E. Moritz
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie ÜL-W2
+DTSTART:20260401T101500
+DTEND:20260401T114500
+DTSTAMP:20260218T212500Z
+UID:d1f4abcd-0639-4c6b-b297-62e695505f6b
+DESCRIPTION:ErsatzterminM. Riedel\, E. Moritz
+LOCATION:C06-1.26\, C06-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20260406T083000
+DTEND:20260406T180000
+DTSTAMP:20260218T212500Z
+UID:67d84578-3e97-45bf-abf8-680255ad749e
+DESCRIPTION:Ostermontag__Easter_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E3
+DTSTART:20260407T083000
+DTEND:20260407T114500
+DTSTAMP:20260218T212500Z
+UID:14068fb9-28e5-4c1b-b0d7-1d97fa806c7d
+DESCRIPTION:E. Moritz\, A. Kinny
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie ÜL-3 WM
+DTSTART:20260409T083000
+DTEND:20260409T100000
+DTSTAMP:20260218T212500Z
+UID:b0d4b3bd-4f08-4169-ac49-a6085d8ca1e0
+DESCRIPTION:M. Riedel\, E. Moritz
+LOCATION:C06-1.26\, C06-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E1
+DTSTART:20260409T143000
+DTEND:20260409T174500
+DTSTAMP:20260218T212500Z
+UID:fe9902b7-59d6-4d62-abfd-b1b7fc462118
+DESCRIPTION:ErsatzterminA. Kinny\, E. Moritz
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E4
+DTSTART:20260414T083000
+DTEND:20260414T114500
+DTSTAMP:20260218T212500Z
+UID:a20e21de-a326-4f6c-b5c9-4df8d2ae7571
+DESCRIPTION:E. Moritz\, A. Kinny
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie ÜL-W1
+DTSTART:20260415T083000
+DTEND:20260415T100000
+DTSTAMP:20260218T212500Z
+UID:a4af1943-0d7b-4a53-a3a9-52f2eaaf8ef7
+DESCRIPTION:M. Riedel\, E. Moritz
+LOCATION:C06-1.26\, C06-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E2
+DTSTART:20260413T101500
+DTEND:20260413T133000
+DTSTAMP:20260218T212500Z
+UID:f2d739f1-2b0d-4b55-be92-ee7554cf8b93
+DESCRIPTION:A. Kinny\, E. Moritz
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E3
+DTSTART:20260421T083000
+DTEND:20260421T114500
+DTSTAMP:20260218T212500Z
+UID:c9c53d01-8c46-43e6-8828-f93435bed207
+DESCRIPTION:E. Moritz\, A. Kinny
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E3
+DTSTART:20260519T083000
+DTEND:20260519T114500
+DTSTAMP:20260218T212500Z
+UID:dcff7611-b6ea-40fa-a455-081a5bfea25d
+DESCRIPTION:E. Moritz\, A. Kinny
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie ÜL-3 WM
+DTSTART:20260423T083000
+DTEND:20260423T100000
+DTSTAMP:20260218T212500Z
+UID:b9cc3454-b9d9-4a57-8660-1612b22b086f
+DESCRIPTION:M. Riedel\, E. Moritz
+LOCATION:C06-1.26\, C06-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie ÜL-3 WM
+DTSTART:20260521T083000
+DTEND:20260521T100000
+DTSTAMP:20260218T212500Z
+UID:f5fa0db5-8c67-4052-a05d-46fa7e82bb67
+DESCRIPTION:M. Riedel\, E. Moritz
+LOCATION:C06-1.26\, C06-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie ÜL-W2
+DTSTART:20260420T101500
+DTEND:20260420T114500
+DTSTAMP:20260218T212500Z
+UID:7dae1135-ee92-40fc-8ddc-c3d96fb2218b
+DESCRIPTION:M. Riedel\, E. Moritz
+LOCATION:C06-1.26\, C06-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie ÜL-W2
+DTSTART:20260518T101500
+DTEND:20260518T114500
+DTSTAMP:20260218T212500Z
+UID:7bef0127-7a03-43c2-b3b2-1ef942185442
+DESCRIPTION:M. Riedel\, E. Moritz
+LOCATION:C06-1.26\, C06-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E1
+DTSTART:20260420T124500
+DTEND:20260420T160000
+DTSTAMP:20260218T212500Z
+UID:28db835c-0b16-408a-bdd1-642c01bef113
+DESCRIPTION:A. Kinny\, E. Moritz
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E1
+DTSTART:20260518T124500
+DTEND:20260518T160000
+DTSTAMP:20260218T212500Z
+UID:af1cc5e1-7678-4902-861a-2de1e8d18e2a
+DESCRIPTION:A. Kinny\, E. Moritz
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E4
+DTSTART:20260512T083000
+DTEND:20260512T114500
+DTSTAMP:20260218T212500Z
+UID:047830e1-8ea3-4d04-b2fc-6c685371fe0c
+DESCRIPTION:E. Moritz\, A. Kinny
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie ÜL-W1
+DTSTART:20260513T083000
+DTEND:20260513T100000
+DTSTAMP:20260218T212500Z
+UID:39078785-48a6-4e45-b874-58b1d13b6729
+DESCRIPTION:M. Riedel\, E. Moritz
+LOCATION:C06-1.26\, C06-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20260514T083000
+DTEND:20260514T180000
+DTSTAMP:20260218T212500Z
+UID:672473ce-d94c-4e97-b5de-bbbc1ed948c5
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayP. Wrobel\, Prof. Wree\, Pro
+ f. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sie
+ loff\, Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Reth
+ meier\, S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius
+ \, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Pr
+ of. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Pr
+ of. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H.
+  Mücke\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\
+ , Prof. Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohl
+ morgen\, A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswie
+ ck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmü
+ ller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartman
+ n\, L. Hannes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavri
+ lov\, H. Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspa
+ r\, Prof. Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof
+ . Badri-Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E2
+DTSTART:20260511T101500
+DTEND:20260511T133000
+DTSTAMP:20260218T212500Z
+UID:56a37bb6-2da2-4d64-af2d-d3ae4be49fd5
+DESCRIPTION:A. Kinny\, E. Moritz
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20260525T083000
+DTEND:20260525T180000
+DTSTAMP:20260218T212500Z
+UID:5fda4331-c460-4470-a89a-d94cb580ae18
+DESCRIPTION:Pfingstmontag__Whit_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E4
+DTSTART:20260526T083000
+DTEND:20260526T114500
+DTSTAMP:20260218T212500Z
+UID:d7940a77-8418-478c-813a-06e351099627
+DESCRIPTION:E. Moritz\, A. Kinny
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie ÜL-W1
+DTSTART:20260527T083000
+DTEND:20260527T100000
+DTSTAMP:20260218T212500Z
+UID:0417eaa1-e82f-46a0-9e6b-15d108a1a61e
+DESCRIPTION:M. Riedel\, E. Moritz
+LOCATION:C06-1.26\, C06-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E3
+DTSTART:20260602T083000
+DTEND:20260602T114500
+DTSTAMP:20260218T212500Z
+UID:5c270770-43cd-4d5c-847f-ab0e44e1ff80
+DESCRIPTION:E. Moritz\, A. Kinny
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie ÜL-3 WM
+DTSTART:20260604T083000
+DTEND:20260604T100000
+DTSTAMP:20260218T212500Z
+UID:46c6c116-068c-47a2-b423-11010e4fb4b7
+DESCRIPTION:M. Riedel\, E. Moritz
+LOCATION:C06-1.26\, C06-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie ÜL-W2
+DTSTART:20260601T101500
+DTEND:20260601T114500
+DTSTAMP:20260218T212500Z
+UID:2eb66245-798a-4347-85d9-73c699451808
+DESCRIPTION:M. Riedel\, E. Moritz
+LOCATION:C06-1.26\, C06-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E1
+DTSTART:20260601T124500
+DTEND:20260601T160000
+DTSTAMP:20260218T212500Z
+UID:78ba2af7-c1bb-4512-8e56-821b85c46c53
+DESCRIPTION:A. Kinny\, E. Moritz
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2  ÜL-E2
+DTSTART:20260604T143000
+DTEND:20260604T174500
+DTSTAMP:20260218T212500Z
+UID:a07836f5-ad06-4cde-8faa-a0a34b836857
+DESCRIPTION:ErsatzterminE. Moritz\, A. Kinny
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie ÜL-W1
+DTSTART:20260610T083000
+DTEND:20260610T100000
+DTSTAMP:20260218T212500Z
+UID:2e89dec9-acde-4b75-bb8d-b1187b04738f
+DESCRIPTION:M. Riedel\, E. Moritz
+LOCATION:C06-1.26\, C06-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-E2
+DTSTART:20260608T101500
+DTEND:20260608T114500
+DTSTAMP:20260218T212500Z
+UID:9c644ddb-06c3-4429-96d1-4bba219916d3
+DESCRIPTION:E. Moritz\, A. Kinny
+LOCATION:C13-1.23\, C13-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-E4
+DTSTART:20260609T101500
+DTEND:20260609T114500
+DTSTAMP:20260218T212500Z
+UID:0b0d1090-9b62-404d-8f98-8054ba392056
+DESCRIPTION:E. Moritz\, A. Kinny
+LOCATION:C13-1.23\, C13-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie ÜL-3 WM
+DTSTART:20260618T083000
+DTEND:20260618T100000
+DTSTAMP:20260218T212500Z
+UID:e02b46b0-6d20-416e-aad7-213b5528e2d3
+DESCRIPTION:M. Riedel\, E. Moritz
+LOCATION:C06-1.26\, C06-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solarenergie ÜL-W2
+DTSTART:20260615T101500
+DTEND:20260615T114500
+DTSTAMP:20260218T212500Z
+UID:36529c12-17e4-45de-810d-ab1fa5d32fcc
+DESCRIPTION:M. Riedel\, E. Moritz
+LOCATION:C06-1.26\, C06-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-E3
+DTSTART:20260616T101500
+DTEND:20260616T114500
+DTSTAMP:20260218T212500Z
+UID:c1c3834f-ccb0-4eeb-97ac-044bf7a98508
+DESCRIPTION:E. Moritz\, A. Kinny
+LOCATION:C13-1.23\, C13-1.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-E1
+DTSTART:20260615T124500
+DTEND:20260615T141500
+DTSTAMP:20260218T212500Z
+UID:f126e3ea-2991-44f3-b317-eba96fded69b
+DESCRIPTION:E. Moritz\, A. Kinny
+LOCATION:C13-1.25\, C13-1.23
+END:VEVENT
+END:VCALENDAR

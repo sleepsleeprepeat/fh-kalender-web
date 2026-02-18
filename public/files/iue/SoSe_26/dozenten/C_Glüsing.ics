@@ -1,0 +1,298 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:IT-Wartung C12-2.63 + C12-4.20
+DTSTART:20260317T124500
+DTEND:20260317T141500
+DTSTAMP:20260218T212500Z
+UID:19b60001-8d40-480b-8e39-9d6d9c1a6b53
+DESCRIPTION:C. Glüsing\, M. Teichmann
+LOCATION:C12-4.20\, C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Wartung C12-2.63 + C12-4.20
+DTSTART:20260324T124500
+DTEND:20260324T141500
+DTSTAMP:20260218T212500Z
+UID:46d4b0dc-04f9-4b21-8418-b5157513dafc
+DESCRIPTION:C. Glüsing\, M. Teichmann
+LOCATION:C12-4.20\, C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Wartung C12-2.63 + C12-4.20
+DTSTART:20260414T124500
+DTEND:20260414T141500
+DTSTAMP:20260218T212500Z
+UID:30c34637-345c-437c-b579-28867deb468d
+DESCRIPTION:C. Glüsing\, M. Teichmann
+LOCATION:C12-4.20\, C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Wartung C12-2.63 + C12-4.20
+DTSTART:20260421T124500
+DTEND:20260421T141500
+DTSTAMP:20260218T212500Z
+UID:40b62cad-ca0a-4c9e-b3ca-20f8b2b0208b
+DESCRIPTION:C. Glüsing\, M. Teichmann
+LOCATION:C12-4.20\, C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Wartung C12-2.63 + C12-4.20
+DTSTART:20260519T124500
+DTEND:20260519T141500
+DTSTAMP:20260218T212500Z
+UID:5354caa5-36d1-4683-abb3-4687ef916122
+DESCRIPTION:C. Glüsing\, M. Teichmann
+LOCATION:C12-4.20\, C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Wartung C12-2.63 + C12-4.20
+DTSTART:20260602T124500
+DTEND:20260602T141500
+DTSTAMP:20260218T212500Z
+UID:7d60a4e0-8efe-4984-acfb-f42daa85ed4d
+DESCRIPTION:C. Glüsing\, M. Teichmann
+LOCATION:C12-4.20\, C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Wartung C12-2.63 + C12-4.20
+DTSTART:20260609T124500
+DTEND:20260609T141500
+DTSTAMP:20260218T212500Z
+UID:ab5962e8-fc17-4c42-ab7b-4c2591f3fe63
+DESCRIPTION:C. Glüsing\, M. Teichmann
+LOCATION:C12-4.20\, C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BM107 Schaltungssim. Fertig. elektron. Baugr. ÜL-1
+DTSTART:20260316T143000
+DTEND:20260316T160000
+DTSTAMP:20260218T212500Z
+UID:96d065d4-7d37-49ff-8d92-78313d986faf
+DESCRIPTION:C. Glüsing\, Prof. Weber
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BM107 Schaltungssim. Fertig. elektron. Baugr. ÜL-1
+DTSTART:20260323T143000
+DTEND:20260323T160000
+DTSTAMP:20260218T212500Z
+UID:f407482e-8ff3-4c85-9d63-c3c3892f1e50
+DESCRIPTION:C. Glüsing\, Prof. Weber
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BM107 Schaltungssim. Fertig. elektron. Baugr. ÜL-1
+DTSTART:20260413T143000
+DTEND:20260413T160000
+DTSTAMP:20260218T212500Z
+UID:0f35b5d7-a911-4d30-bdfc-45c1c5fd018e
+DESCRIPTION:C. Glüsing\, Prof. Weber
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BM107 Schaltungssim. Fertig. elektron. Baugr. ÜL-1
+DTSTART:20260420T143000
+DTEND:20260420T160000
+DTSTAMP:20260218T212500Z
+UID:0f7a6ccc-7ad0-4f87-a1c5-6adcfbf60f84
+DESCRIPTION:C. Glüsing\, Prof. Weber
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BM107 Schaltungssim. Fertig. elektron. Baugr. ÜL-1
+DTSTART:20260518T143000
+DTEND:20260518T160000
+DTSTAMP:20260218T212500Z
+UID:7a51b2d1-63c5-4c30-b5a4-d10e13219687
+DESCRIPTION:C. Glüsing\, Prof. Weber
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BM107 Schaltungssim. Fertig. elektron. Baugr. ÜL-1
+DTSTART:20260601T143000
+DTEND:20260601T160000
+DTSTAMP:20260218T212500Z
+UID:77a4c684-e17b-4011-8957-5fb641e37ec9
+DESCRIPTION:C. Glüsing\, Prof. Weber
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BM107 Schaltungssim. Fertig. elektron. Baugr. ÜL-1
+DTSTART:20260608T143000
+DTEND:20260608T160000
+DTSTAMP:20260218T212500Z
+UID:3fbcec43-6766-4d78-88b8-5ecae98ef770
+DESCRIPTION:C. Glüsing\, Prof. Weber
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20260403T083000
+DTEND:20260403T180000
+DTSTAMP:20260218T212500Z
+UID:0afafe5e-ce73-4b1d-9207-155027315b18
+DESCRIPTION:Karfreitag__Good_FridayP. Wrobel\, Prof. Wree\, Prof. Woelk\, 
+ G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, Prof
+ . Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. 
+ Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Rixen
+ \, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prieß\
+ , Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Osterwa
+ ld\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\, E
+ . Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. Luc
+ zak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A.
+  Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Prof. 
+ Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. Hann
+ es\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H. Fo
+ lkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof. B
+ rauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-Hö
+ her\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Wartung C12-2.63 + C12-4.20
+DTSTART:20260331T124500
+DTEND:20260331T141500
+DTSTAMP:20260218T212500Z
+UID:4dc512d0-39df-4fe3-9711-0f484ba4ec30
+DESCRIPTION:C. Glüsing\, M. Teichmann
+LOCATION:C12-4.20\, C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BM107 Schaltungssim. Fertig. elektron. Baugr. ÜL-1
+DTSTART:20260330T143000
+DTEND:20260330T160000
+DTSTAMP:20260218T212500Z
+UID:3bb5b711-87c9-42b6-8dfa-5c2243668958
+DESCRIPTION:C. Glüsing\, Prof. Weber
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20260406T083000
+DTEND:20260406T180000
+DTSTAMP:20260218T212500Z
+UID:a68b032b-8428-4a01-83e6-da07ec73a826
+DESCRIPTION:Ostermontag__Easter_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Wartung C12-2.63 + C12-4.20
+DTSTART:20260407T124500
+DTEND:20260407T141500
+DTSTAMP:20260218T212500Z
+UID:f57408f5-aa46-4b3e-a032-c8065c3578f6
+DESCRIPTION:C. Glüsing\, M. Teichmann
+LOCATION:C12-4.20\, C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20260514T083000
+DTEND:20260514T180000
+DTSTAMP:20260218T212500Z
+UID:13af580c-3342-429c-b584-f02be264b55e
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayP. Wrobel\, Prof. Wree\, Pro
+ f. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sie
+ loff\, Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Reth
+ meier\, S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius
+ \, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Pr
+ of. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Pr
+ of. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H.
+  Mücke\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\
+ , Prof. Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohl
+ morgen\, A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswie
+ ck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmü
+ ller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartman
+ n\, L. Hannes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavri
+ lov\, H. Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspa
+ r\, Prof. Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof
+ . Badri-Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Wartung C12-2.63 + C12-4.20
+DTSTART:20260512T124500
+DTEND:20260512T141500
+DTSTAMP:20260218T212500Z
+UID:4bf6dea3-b674-44f8-bedb-9ed3b95e4f2a
+DESCRIPTION:C. Glüsing\, M. Teichmann
+LOCATION:C12-4.20\, C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BM107 Schaltungssim. Fertig. elektron. Baugr. ÜL-1
+DTSTART:20260511T143000
+DTEND:20260511T160000
+DTSTAMP:20260218T212500Z
+UID:77c39f45-04ff-4165-91ac-f2b581c9fa69
+DESCRIPTION:C. Glüsing\, Prof. Weber
+LOCATION:C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20260525T083000
+DTEND:20260525T180000
+DTSTAMP:20260218T212500Z
+UID:c6558b93-5b2b-4130-b646-f06ac562c5d3
+DESCRIPTION:Pfingstmontag__Whit_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Wartung C12-2.63 + C12-4.20
+DTSTART:20260526T124500
+DTEND:20260526T141500
+DTSTAMP:20260218T212500Z
+UID:fe9fe442-5427-44d3-8c98-9acdb2dc9c3f
+DESCRIPTION:C. Glüsing\, M. Teichmann
+LOCATION:C12-4.20\, C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Wartung C12-2.63 + C12-4.20
+DTSTART:20260616T124500
+DTEND:20260616T141500
+DTSTAMP:20260218T212500Z
+UID:73dc1628-6b79-45ba-883d-90b776e1a0e5
+DESCRIPTION:C. Glüsing
+LOCATION:C12-4.20\, C12-2.63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BM107 Schaltungssim. Fertig. elektron. Baugr. ÜL-1
+DTSTART:20260615T143000
+DTEND:20260615T160000
+DTSTAMP:20260218T212500Z
+UID:31b67a98-38a7-43b6-b172-0ffc40ff2bf0
+DESCRIPTION:C. Glüsing\, Prof. Weber
+LOCATION:C12-2.63
+END:VEVENT
+END:VCALENDAR

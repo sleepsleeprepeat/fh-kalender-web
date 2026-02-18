@@ -1,0 +1,217 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Spezielle  Messtechnik ÜL-Einführung
+DTSTART:20260317T083000
+DTEND:20260317T100000
+DTSTAMP:20260218T212500Z
+UID:23a3ef1d-057b-482a-b853-1acd24912ceb
+DESCRIPTION:Prof. Behrendt-Bicakci\, Y. Bockholt
+LOCATION:C13-0.04
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spezielle Messtechnik ÜL-M2
+DTSTART:20260319T083000
+DTEND:20260319T100000
+DTSTAMP:20260218T212500Z
+UID:fed3491e-a62e-4734-8f37-852be7a024cd
+DESCRIPTION:Y. Bockholt
+LOCATION:C12-3.28
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spezielle Messtechnik ÜL-M3
+DTSTART:20260319T124500
+DTEND:20260319T141500
+DTSTAMP:20260218T212500Z
+UID:662bff46-3313-47d6-9620-1a4ee81536e2
+DESCRIPTION:Y. Bockholt
+LOCATION:C12-3.28
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spezielle Messtechnik ÜL-M2
+DTSTART:20260326T083000
+DTEND:20260326T100000
+DTSTAMP:20260218T212500Z
+UID:a8650e62-6fa4-45c4-a4a6-b48dfdc99e7b
+DESCRIPTION:Y. Bockholt
+LOCATION:C12-3.28
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spezielle Messtechnik ÜL-M2
+DTSTART:20260416T083000
+DTEND:20260416T100000
+DTSTAMP:20260218T212500Z
+UID:da73d029-1645-4eb0-9933-abafe5922e47
+DESCRIPTION:Y. Bockholt
+LOCATION:C12-3.28
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spezielle Messtechnik ÜL-M2
+DTSTART:20260423T083000
+DTEND:20260423T100000
+DTSTAMP:20260218T212500Z
+UID:d8ec1388-5680-4957-b0b3-30a03d722efc
+DESCRIPTION:Y. Bockholt
+LOCATION:C12-3.28
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spezielle Messtechnik ÜL-M3
+DTSTART:20260326T124500
+DTEND:20260326T141500
+DTSTAMP:20260218T212500Z
+UID:eef1b703-4352-4fbd-84af-1861ed01d0d9
+DESCRIPTION:Y. Bockholt
+LOCATION:C12-3.28
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spezielle Messtechnik ÜL-M3
+DTSTART:20260416T124500
+DTEND:20260416T141500
+DTSTAMP:20260218T212500Z
+UID:2738efd0-7151-47ce-b202-ed9677e4dd7d
+DESCRIPTION:Y. Bockholt
+LOCATION:C12-3.28
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spezielle Messtechnik ÜL-M3
+DTSTART:20260423T124500
+DTEND:20260423T141500
+DTSTAMP:20260218T212500Z
+UID:2838dceb-773a-4a82-b546-34cd81337e96
+DESCRIPTION:Y. Bockholt
+LOCATION:C12-3.28
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spezielle Messtechnik ÜL-M2
+DTSTART:20260402T083000
+DTEND:20260402T100000
+DTSTAMP:20260218T212500Z
+UID:594f72c9-208a-4443-83aa-ec508fac16ed
+DESCRIPTION:Y. Bockholt
+LOCATION:C12-3.28
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20260403T083000
+DTEND:20260403T180000
+DTSTAMP:20260218T212500Z
+UID:d890663b-518c-499f-9b18-e6192b4cd6fc
+DESCRIPTION:Karfreitag__Good_FridayP. Wrobel\, Prof. Wree\, Prof. Woelk\, 
+ G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, Prof
+ . Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. 
+ Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Rixen
+ \, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prieß\
+ , Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Osterwa
+ ld\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\, E
+ . Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. Luc
+ zak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A.
+  Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Prof. 
+ Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. Hann
+ es\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H. Fo
+ lkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof. B
+ rauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-Hö
+ her\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spezielle Messtechnik ÜL-M3
+DTSTART:20260402T124500
+DTEND:20260402T141500
+DTSTAMP:20260218T212500Z
+UID:542ef7f5-deec-4079-9397-b0c52e6ea9f0
+DESCRIPTION:Y. Bockholt
+LOCATION:C12-3.28
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20260406T083000
+DTEND:20260406T180000
+DTSTAMP:20260218T212500Z
+UID:dea53dbf-b969-4ef3-9a7d-3cc5331f7bf0
+DESCRIPTION:Ostermontag__Easter_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spezielle Messtechnik ÜL-M2
+DTSTART:20260409T083000
+DTEND:20260409T100000
+DTSTAMP:20260218T212500Z
+UID:16cfe995-f2f7-4ded-8606-36fdb3dd57e0
+DESCRIPTION:Y. Bockholt
+LOCATION:C12-3.28
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spezielle Messtechnik ÜL-M3
+DTSTART:20260409T124500
+DTEND:20260409T141500
+DTSTAMP:20260218T212500Z
+UID:a1ec8aef-b56d-4b8e-bf15-3ab55701d28d
+DESCRIPTION:Y. Bockholt
+LOCATION:C12-3.28
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20260514T083000
+DTEND:20260514T180000
+DTSTAMP:20260218T212500Z
+UID:8f63a03d-dfae-4670-8af4-52593a7050c4
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayP. Wrobel\, Prof. Wree\, Pro
+ f. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sie
+ loff\, Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Reth
+ meier\, S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius
+ \, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Pr
+ of. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Pr
+ of. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H.
+  Mücke\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\
+ , Prof. Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohl
+ morgen\, A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswie
+ ck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmü
+ ller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartman
+ n\, L. Hannes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavri
+ lov\, H. Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspa
+ r\, Prof. Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof
+ . Badri-Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20260525T083000
+DTEND:20260525T180000
+DTSTAMP:20260218T212500Z
+UID:06ba54e7-d130-4acb-8b42-7151d011c324
+DESCRIPTION:Pfingstmontag__Whit_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+END:VCALENDAR

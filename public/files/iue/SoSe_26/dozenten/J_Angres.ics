@@ -1,0 +1,244 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Angewandte Netzwerktechnik
+DTSTART:20260319T143000
+DTEND:20260319T174500
+DTSTAMP:20260218T212500Z
+UID:ce2201bb-6acb-46d9-bd1a-e498c44bd485
+DESCRIPTION:J. Angres
+LOCATION:C13-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angewandte Netzwerktechnik
+DTSTART:20260326T143000
+DTEND:20260326T160000
+DTSTAMP:20260218T212500Z
+UID:9a46f75b-aa5a-4522-b6ec-a246b01cb753
+DESCRIPTION:J. Angres
+LOCATION:C13-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angewandte Netzwerktechnik
+DTSTART:20260416T143000
+DTEND:20260416T160000
+DTSTAMP:20260218T212500Z
+UID:ded1e75e-f2e5-4e1c-a433-00035b1b444d
+DESCRIPTION:J. Angres
+LOCATION:C13-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angewandte Netzwerktechnik
+DTSTART:20260423T143000
+DTEND:20260423T160000
+DTSTAMP:20260218T212500Z
+UID:f7083ebc-d0c0-433a-a595-48be052ad0f6
+DESCRIPTION:J. Angres
+LOCATION:C13-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angewandte Netzwerktechnik
+DTSTART:20260326T161500
+DTEND:20260326T174500
+DTSTAMP:20260218T212500Z
+UID:b368434a-335b-4b0d-9570-a6f62ff66f8a
+DESCRIPTION:J. Angres
+LOCATION:C13-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angewandte Netzwerktechnik
+DTSTART:20260416T161500
+DTEND:20260416T174500
+DTSTAMP:20260218T212500Z
+UID:fb553d2f-c756-4746-91a5-87088c929ad7
+DESCRIPTION:J. Angres
+LOCATION:C13-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angewandte Netzwerktechnik
+DTSTART:20260423T161500
+DTEND:20260423T174500
+DTSTAMP:20260218T212500Z
+UID:7976aeb0-84c4-4a61-a90d-9a8372cd6d72
+DESCRIPTION:J. Angres
+LOCATION:C13-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20260403T083000
+DTEND:20260403T180000
+DTSTAMP:20260218T212500Z
+UID:be9a7817-afef-4891-9e16-01ede5e96c75
+DESCRIPTION:Karfreitag__Good_FridayP. Wrobel\, Prof. Wree\, Prof. Woelk\, 
+ G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, Prof
+ . Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. 
+ Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Rixen
+ \, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prieß\
+ , Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Osterwa
+ ld\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\, E
+ . Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. Luc
+ zak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A.
+  Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Prof. 
+ Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. Hann
+ es\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H. Fo
+ lkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof. B
+ rauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-Hö
+ her\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angewandte Netzwerktechnik
+DTSTART:20260402T143000
+DTEND:20260402T160000
+DTSTAMP:20260218T212500Z
+UID:c5b9dd1e-7068-4b88-91fe-6807ba43f291
+DESCRIPTION:J. Angres
+LOCATION:C13-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angewandte Netzwerktechnik
+DTSTART:20260402T161500
+DTEND:20260402T174500
+DTSTAMP:20260218T212500Z
+UID:2c38fa1c-5e0c-4c97-8e2f-2c20f8e06b33
+DESCRIPTION:J. Angres
+LOCATION:C13-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20260406T083000
+DTEND:20260406T180000
+DTSTAMP:20260218T212500Z
+UID:513e0e78-b9cf-4aea-a0d2-364d8229ba3e
+DESCRIPTION:Ostermontag__Easter_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angewandte Netzwerktechnik
+DTSTART:20260409T143000
+DTEND:20260409T160000
+DTSTAMP:20260218T212500Z
+UID:c5ecac61-49f7-4462-86b9-70109b99929c
+DESCRIPTION:J. Angres
+LOCATION:C13-0.01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angewandte Netzwerktechnik
+DTSTART:20260409T161500
+DTEND:20260409T174500
+DTSTAMP:20260218T212500Z
+UID:b24677ea-1447-4734-a7d5-b5be0932eb11
+DESCRIPTION:J. Angres
+LOCATION:C13-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20260514T083000
+DTEND:20260514T180000
+DTSTAMP:20260218T212500Z
+UID:eff765a4-50c1-40df-8b3a-87f7f9e12c47
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayP. Wrobel\, Prof. Wree\, Pro
+ f. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sie
+ loff\, Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Reth
+ meier\, S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius
+ \, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Pr
+ of. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Pr
+ of. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H.
+  Mücke\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\
+ , Prof. Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohl
+ morgen\, A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswie
+ ck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmü
+ ller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartman
+ n\, L. Hannes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavri
+ lov\, H. Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspa
+ r\, Prof. Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof
+ . Badri-Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angewandte Netzwerktechnik
+DTSTART:20260521T143000
+DTEND:20260521T174500
+DTSTAMP:20260218T212500Z
+UID:70f2f01f-cdc5-45a9-aa9b-109dea9e450d
+DESCRIPTION:J. Angres
+LOCATION:C13-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angewandte Netzwerktechnik
+DTSTART:20260604T143000
+DTEND:20260604T174500
+DTSTAMP:20260218T212500Z
+UID:0e2fae43-0aa4-415e-8386-0ad9af5e289e
+DESCRIPTION:J. Angres
+LOCATION:C13-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angewandte Netzwerktechnik
+DTSTART:20260611T143000
+DTEND:20260611T174500
+DTSTAMP:20260218T212500Z
+UID:7cc03ae8-3229-4895-8568-acbac9a2a019
+DESCRIPTION:J. Angres
+LOCATION:C13-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angewandte Netzwerktechnik
+DTSTART:20260618T143000
+DTEND:20260618T174500
+DTSTAMP:20260218T212500Z
+UID:5cc0670a-3018-4df4-904c-ad0453a09b47
+DESCRIPTION:J. Angres
+LOCATION:C13-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20260525T083000
+DTEND:20260525T180000
+DTSTAMP:20260218T212500Z
+UID:1a21a003-d5fc-4052-8360-175bd556a65e
+DESCRIPTION:Pfingstmontag__Whit_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angewandte Netzwerktechnik
+DTSTART:20260528T143000
+DTEND:20260528T174500
+DTSTAMP:20260218T212500Z
+UID:09b4ac75-6854-44a8-9d52-04aa864a25e4
+DESCRIPTION:J. Angres
+LOCATION:C13-1.13
+END:VEVENT
+END:VCALENDAR

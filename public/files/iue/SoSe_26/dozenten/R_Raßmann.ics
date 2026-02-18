@@ -1,0 +1,298 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-E1
+DTSTART:20260323T101500
+DTEND:20260323T114500
+DTSTAMP:20260218T212500Z
+UID:cd90702f-e4f9-4c97-8a54-0b11801f8fae
+DESCRIPTION:R. Raßmann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-E1
+DTSTART:20260413T101500
+DTEND:20260413T114500
+DTSTAMP:20260218T212500Z
+UID:089b8dd8-6657-44a0-bbce-95d84313b38d
+DESCRIPTION:R. Raßmann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-E1
+DTSTART:20260420T101500
+DTEND:20260420T114500
+DTSTAMP:20260218T212500Z
+UID:f183feb5-2435-443c-a3da-186e9ffb9822
+DESCRIPTION:R. Raßmann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-E1
+DTSTART:20260518T101500
+DTEND:20260518T114500
+DTSTAMP:20260218T212500Z
+UID:21ff69c7-417b-4c66-91ca-4b3e3e4f605c
+DESCRIPTION:R. Raßmann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-E1
+DTSTART:20260601T101500
+DTEND:20260601T114500
+DTSTAMP:20260218T212500Z
+UID:abedd668-b705-494e-9bd3-47b23b37610f
+DESCRIPTION:R. Raßmann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-E1
+DTSTART:20260608T101500
+DTEND:20260608T114500
+DTSTAMP:20260218T212500Z
+UID:1583c48f-9b66-4a00-a7e0-6b97b45621aa
+DESCRIPTION:R. Raßmann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-E1
+DTSTART:20260615T101500
+DTEND:20260615T114500
+DTSTAMP:20260218T212500Z
+UID:fab97265-dcfe-48eb-9bda-2c26d4566609
+DESCRIPTION:R. Raßmann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-E2
+DTSTART:20260325T124500
+DTEND:20260325T141500
+DTSTAMP:20260218T212500Z
+UID:f252a9e8-059b-4e4c-bb3c-8f0ce0da31d2
+DESCRIPTION:R. Raßmann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-E2
+DTSTART:20260415T124500
+DTEND:20260415T141500
+DTSTAMP:20260218T212500Z
+UID:c894ad47-dc67-4656-a3b0-30d327478680
+DESCRIPTION:R. Raßmann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-E2
+DTSTART:20260422T124500
+DTEND:20260422T141500
+DTSTAMP:20260218T212500Z
+UID:f335ee6a-cdda-47d9-8a85-53f3e2c51a70
+DESCRIPTION:R. Raßmann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-E2
+DTSTART:20260520T124500
+DTEND:20260520T141500
+DTSTAMP:20260218T212500Z
+UID:ea1e0797-4619-4c88-a9f7-b74f5c0391a5
+DESCRIPTION:R. Raßmann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-E2
+DTSTART:20260603T124500
+DTEND:20260603T141500
+DTSTAMP:20260218T212500Z
+UID:9dda16af-925f-455c-9eaa-90741aa67ad3
+DESCRIPTION:R. Raßmann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-E2
+DTSTART:20260610T124500
+DTEND:20260610T141500
+DTSTAMP:20260218T212500Z
+UID:c421960c-a6c0-4ae6-a9bd-cfc17f699b17
+DESCRIPTION:R. Raßmann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-E2
+DTSTART:20260617T124500
+DTEND:20260617T141500
+DTSTAMP:20260218T212500Z
+UID:0b4efaa4-6fd1-4ae9-960d-54079373a42a
+DESCRIPTION:R. Raßmann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20260403T083000
+DTEND:20260403T180000
+DTSTAMP:20260218T212500Z
+UID:308ec04e-0564-4d79-8d4a-b74a68143e8c
+DESCRIPTION:Karfreitag__Good_FridayP. Wrobel\, Prof. Wree\, Prof. Woelk\, 
+ G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, Prof
+ . Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. 
+ Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Rixen
+ \, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prieß\
+ , Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Osterwa
+ ld\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\, E
+ . Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. Luc
+ zak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A.
+  Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Prof. 
+ Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. Hann
+ es\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H. Fo
+ lkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof. B
+ rauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-Hö
+ her\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-E1
+DTSTART:20260330T101500
+DTEND:20260330T114500
+DTSTAMP:20260218T212500Z
+UID:8239133a-dc3e-4d75-aca2-8b55d6b1c2b0
+DESCRIPTION:R. Raßmann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-E2
+DTSTART:20260401T124500
+DTEND:20260401T141500
+DTSTAMP:20260218T212500Z
+UID:6783fd67-db14-40ae-98e9-9347a1fead6a
+DESCRIPTION:R. Raßmann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20260406T083000
+DTEND:20260406T180000
+DTSTAMP:20260218T212500Z
+UID:ed3bc3c2-a3b0-4c56-81f4-7439b58d7457
+DESCRIPTION:Ostermontag__Easter_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-E2
+DTSTART:20260408T124500
+DTEND:20260408T141500
+DTSTAMP:20260218T212500Z
+UID:b098ab10-35f1-4744-a53a-00ff2d784bf9
+DESCRIPTION:R. Raßmann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-E1
+DTSTART:20260407T161500
+DTEND:20260407T174500
+DTSTAMP:20260218T212500Z
+UID:4d4b6c79-16a8-47d3-89b6-40ac4dcf1f70
+DESCRIPTION:ErsatzterminR. Raßmann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20260514T083000
+DTEND:20260514T180000
+DTSTAMP:20260218T212500Z
+UID:6549cc51-be49-4ca4-9535-94dfc6dff294
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayP. Wrobel\, Prof. Wree\, Pro
+ f. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sie
+ loff\, Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Reth
+ meier\, S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius
+ \, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Pr
+ of. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Pr
+ of. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H.
+  Mücke\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\
+ , Prof. Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohl
+ morgen\, A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswie
+ ck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmü
+ ller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartman
+ n\, L. Hannes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavri
+ lov\, H. Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspa
+ r\, Prof. Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof
+ . Badri-Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-E1
+DTSTART:20260511T101500
+DTEND:20260511T114500
+DTSTAMP:20260218T212500Z
+UID:00985db1-0168-4195-808e-fddde0bd179a
+DESCRIPTION:R. Raßmann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-E2
+DTSTART:20260513T124500
+DTEND:20260513T141500
+DTSTAMP:20260218T212500Z
+UID:dbf59559-5282-4967-a52b-716694c01756
+DESCRIPTION:R. Raßmann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20260525T083000
+DTEND:20260525T180000
+DTSTAMP:20260218T212500Z
+UID:9ede2cd9-f266-4a6d-a845-ce034f7a7f18
+DESCRIPTION:Pfingstmontag__Whit_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-E2
+DTSTART:20260527T124500
+DTEND:20260527T141500
+DTSTAMP:20260218T212500Z
+UID:9df637be-a187-43fc-81af-3fff953a4934
+DESCRIPTION:R. Raßmann
+LOCATION:C06-1.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik-2 Ü-E1
+DTSTART:20260526T161500
+DTEND:20260526T174500
+DTSTAMP:20260218T212500Z
+UID:2786edef-0e2e-4f6b-875b-3f56b8a6feeb
+DESCRIPTION:ErsatzterminR. Raßmann
+LOCATION:C06-1.13
+END:VEVENT
+END:VCALENDAR

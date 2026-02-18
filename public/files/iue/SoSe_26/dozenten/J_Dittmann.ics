@@ -1,0 +1,523 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-M3 Einf.
+DTSTART:20260318T083000
+DTEND:20260318T100000
+DTSTAMP:20260218T212500Z
+UID:658f18c4-b03d-4831-bfd0-26ef8c80c478
+DESCRIPTION:A. Kinny\, J. Dittmann\, Prof. Brauer
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-E2 Einf.
+DTSTART:20260316T101500
+DTEND:20260316T114500
+DTSTAMP:20260218T212500Z
+UID:f5924069-22f7-4523-b51f-c5f24a6a2871
+DESCRIPTION:J. Dittmann\, A. Kinny\, E. Moritz
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-E4 Einf.
+DTSTART:20260317T101500
+DTEND:20260317T114500
+DTSTAMP:20260218T212500Z
+UID:e0064344-aed7-4534-b09f-25b00716dc8b
+DESCRIPTION:J. Dittmann\, A. Kinny\, E. Moritz
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BK126 Elektromagnetische Verträglichkeit
+DTSTART:20260320T124500
+DTEND:20260320T141500
+DTSTAMP:20260218T212500Z
+UID:31c7d6da-db98-4e42-8efc-00e638a3ddd2
+DESCRIPTION:J. Dittmann\, Prof. Brauer
+LOCATION:C11-0.01\, C13-3.23\, C13-3.24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-W1 Einf.
+DTSTART:20260317T143000
+DTEND:20260317T160000
+DTSTAMP:20260218T212500Z
+UID:6f0e0e82-7cf6-4b76-802d-d0d458796b8c
+DESCRIPTION:A. Kinny\, L. Hannes\, J. Dittmann
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-M2 Einf.
+DTSTART:20260325T083000
+DTEND:20260325T100000
+DTSTAMP:20260218T212500Z
+UID:2fcf2f08-d268-4c1c-9149-173c44c41265
+DESCRIPTION:A. Kinny\, J. Dittmann\, Prof. Brauer
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-E3 Einf.
+DTSTART:20260324T101500
+DTEND:20260324T114500
+DTSTAMP:20260218T212500Z
+UID:ef862d2d-b983-4c4c-a66c-5473c420d2dc
+DESCRIPTION:J. Dittmann\, A. Kinny\, E. Moritz
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-E1 Einf.
+DTSTART:20260323T124500
+DTEND:20260323T141500
+DTSTAMP:20260218T212500Z
+UID:81e07560-f4fd-4bd2-9de1-93179d6c10e6
+DESCRIPTION:J. Dittmann\, A. Kinny\, E. Moritz
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BK126 Elektromagnetische Verträglichkeit
+DTSTART:20260327T124500
+DTEND:20260327T141500
+DTSTAMP:20260218T212500Z
+UID:633c2acf-2f63-47a3-b4b3-ff0f1ac8241c
+DESCRIPTION:J. Dittmann\, Prof. Brauer
+LOCATION:C11-0.01\, C13-3.23\, C13-3.24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elektrotechnik 2 ÜL-W2 Einf.
+DTSTART:20260324T161500
+DTEND:20260324T174500
+DTSTAMP:20260218T212500Z
+UID:7dad49b9-9a8c-4bb4-9994-9021ea49d75f
+DESCRIPTION:ggf._14:30_UhrA. Kinny\, A. Gavrilov\, J. Dittmann
+LOCATION:C13-1.23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-M2
+DTSTART:20260330T083000
+DTEND:20260330T114500
+DTSTAMP:20260218T212500Z
+UID:a169aa87-4e68-45ee-b5d0-7b2be54935f6
+DESCRIPTION:J. Dittmann\, M. Sieloff
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20260403T083000
+DTEND:20260403T180000
+DTSTAMP:20260218T212500Z
+UID:6bab74fb-ba79-4545-9a79-c21c30d4b70f
+DESCRIPTION:Karfreitag__Good_FridayP. Wrobel\, Prof. Wree\, Prof. Woelk\, 
+ G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, Prof
+ . Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. 
+ Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Rixen
+ \, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prieß\
+ , Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Osterwa
+ ld\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\, E
+ . Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. Luc
+ zak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A.
+  Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Prof. 
+ Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. Hann
+ es\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H. Fo
+ lkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof. B
+ rauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-Hö
+ her\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E1
+DTSTART:20260330T124500
+DTEND:20260330T160000
+DTSTAMP:20260218T212500Z
+UID:6965cf87-6852-4ca2-a4cd-00ed31008c25
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20260406T083000
+DTEND:20260406T180000
+DTSTAMP:20260218T212500Z
+UID:95fdcbab-eb98-482a-8547-3e743333e357
+DESCRIPTION:Ostermontag__Easter_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E4W
+DTSTART:20260408T083000
+DTEND:20260408T114500
+DTSTAMP:20260218T212500Z
+UID:a12f3f0a-1194-4366-9fb2-569a05636e27
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BK126 Elektromagnetische Verträglichkeit
+DTSTART:20260410T124500
+DTEND:20260410T141500
+DTSTAMP:20260218T212500Z
+UID:a63cb9f9-b4f2-4c19-b2d8-064658595d58
+DESCRIPTION:J. Dittmann\, Prof. Brauer
+LOCATION:C11-0.01\, C13-3.23\, C13-3.24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-M2
+DTSTART:20260413T083000
+DTEND:20260413T114500
+DTSTAMP:20260218T212500Z
+UID:3e4e2aa2-e8b4-421b-84f1-0420bb1286ae
+DESCRIPTION:J. Dittmann\, M. Sieloff
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-M2
+DTSTART:20260608T083000
+DTEND:20260608T114500
+DTSTAMP:20260218T212500Z
+UID:23ffb810-80af-44bb-bba0-4a58eceba097
+DESCRIPTION:J. Dittmann\, M. Sieloff
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E3
+DTSTART:20260414T083000
+DTEND:20260414T114500
+DTSTAMP:20260218T212500Z
+UID:1c229708-22fd-41d2-942b-34c33b657a40
+DESCRIPTION:J. Hoffmüller\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E3
+DTSTART:20260609T083000
+DTEND:20260609T114500
+DTSTAMP:20260218T212500Z
+UID:86b11d43-ecb9-47a3-9b66-55ff5ccf76f2
+DESCRIPTION:J. Hoffmüller\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-M3
+DTSTART:20260415T083000
+DTEND:20260415T114500
+DTSTAMP:20260218T212500Z
+UID:6f416022-6b65-4729-aa2b-7a0fbc524bc5
+DESCRIPTION:J. Dittmann\, M. Sieloff
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-M3
+DTSTART:20260610T083000
+DTEND:20260610T114500
+DTSTAMP:20260218T212500Z
+UID:993cd846-f38a-45a6-bdc6-8ef66437e2a4
+DESCRIPTION:J. Dittmann\, M. Sieloff
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E1
+DTSTART:20260413T124500
+DTEND:20260413T160000
+DTSTAMP:20260218T212500Z
+UID:8f689a5b-dae6-4a91-a395-32d57267c610
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E1
+DTSTART:20260608T124500
+DTEND:20260608T160000
+DTSTAMP:20260218T212500Z
+UID:fce382f4-591f-4d16-8074-9aa23f878be5
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BK126 Elektromagnetische Verträglichkeit
+DTSTART:20260417T124500
+DTEND:20260417T141500
+DTSTAMP:20260218T212500Z
+UID:510e414a-d49d-44bf-b9d5-6df6beeaa77c
+DESCRIPTION:J. Dittmann\, Prof. Brauer
+LOCATION:C11-0.01\, C13-3.23\, C13-3.24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BK126 Elektromagnetische Verträglichkeit
+DTSTART:20260612T124500
+DTEND:20260612T141500
+DTSTAMP:20260218T212500Z
+UID:6e345140-d8aa-4a00-a948-b6cd5e9f13a4
+DESCRIPTION:J. Dittmann\, Prof. Brauer
+LOCATION:C11-0.01\, C13-3.23\, C13-3.24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-M1
+DTSTART:20260420T083000
+DTEND:20260420T114500
+DTSTAMP:20260218T212500Z
+UID:9957be15-e70c-4f7b-add1-ac9cf7fefb7d
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-M1
+DTSTART:20260518T083000
+DTEND:20260518T114500
+DTSTAMP:20260218T212500Z
+UID:3573ef47-81a4-4988-8262-8665d6e5efa5
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-M1
+DTSTART:20260601T083000
+DTEND:20260601T114500
+DTSTAMP:20260218T212500Z
+UID:4eb7e340-728d-4fd9-b315-cf28db6f70a3
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E4W
+DTSTART:20260422T083000
+DTEND:20260422T114500
+DTSTAMP:20260218T212500Z
+UID:b2d076b1-6327-4208-baef-416d48ffceb1
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E4W
+DTSTART:20260520T083000
+DTEND:20260520T114500
+DTSTAMP:20260218T212500Z
+UID:fc835e64-4fcc-4ff3-9733-23feb4219618
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E4W
+DTSTART:20260603T083000
+DTEND:20260603T114500
+DTSTAMP:20260218T212500Z
+UID:ca4fb113-5b55-4ca4-90e3-625802e74124
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E2
+DTSTART:20260420T124500
+DTEND:20260420T160000
+DTSTAMP:20260218T212500Z
+UID:00dd5fd1-1a89-4c32-87ff-b0bd2c22cc3d
+DESCRIPTION:J. Hoffmüller\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E2
+DTSTART:20260518T124500
+DTEND:20260518T160000
+DTSTAMP:20260218T212500Z
+UID:92ee1514-6526-4a3a-81c1-9f06aa41533d
+DESCRIPTION:J. Hoffmüller\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E2
+DTSTART:20260601T124500
+DTEND:20260601T160000
+DTSTAMP:20260218T212500Z
+UID:72429e08-3e2f-4220-8cde-c60d99bab1db
+DESCRIPTION:J. Hoffmüller\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BK126 Elektromagnetische Verträglichkeit
+DTSTART:20260424T124500
+DTEND:20260424T141500
+DTSTAMP:20260218T212500Z
+UID:32846706-13d4-45ad-84ae-22bf55274a3b
+DESCRIPTION:J. Dittmann\, Prof. Brauer
+LOCATION:C11-0.01\, C13-3.23\, C13-3.24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BK126 Elektromagnetische Verträglichkeit
+DTSTART:20260522T124500
+DTEND:20260522T141500
+DTSTAMP:20260218T212500Z
+UID:bb535695-8bed-49a4-9307-bf05ee54abb2
+DESCRIPTION:J. Dittmann\, Prof. Brauer
+LOCATION:C11-0.01\, C13-3.23\, C13-3.24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BK126 Elektromagnetische Verträglichkeit
+DTSTART:20260605T124500
+DTEND:20260605T141500
+DTSTAMP:20260218T212500Z
+UID:ace08d1e-e551-43e6-8129-9ea4f6b488ca
+DESCRIPTION:J. Dittmann\, Prof. Brauer
+LOCATION:C11-0.01\, C13-3.23\, C13-3.24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-M2
+DTSTART:20260511T083000
+DTEND:20260511T114500
+DTSTAMP:20260218T212500Z
+UID:3ea9df72-59ab-4053-9572-3ebc0d65b2c4
+DESCRIPTION:J. Dittmann\, M. Sieloff
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E3
+DTSTART:20260512T083000
+DTEND:20260512T114500
+DTSTAMP:20260218T212500Z
+UID:416d3056-ba53-47f2-ade1-bb5acc09e8c0
+DESCRIPTION:J. Hoffmüller\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-M3
+DTSTART:20260513T083000
+DTEND:20260513T114500
+DTSTAMP:20260218T212500Z
+UID:d2953a32-8320-4303-b7a7-8fbd0b8ad923
+DESCRIPTION:J. Dittmann\, M. Sieloff
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20260514T083000
+DTEND:20260514T180000
+DTSTAMP:20260218T212500Z
+UID:08055ded-9ced-4d4c-b66f-9c32a28c93a6
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayP. Wrobel\, Prof. Wree\, Pro
+ f. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sie
+ loff\, Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Reth
+ meier\, S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius
+ \, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Pr
+ of. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Pr
+ of. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H.
+  Mücke\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\
+ , Prof. Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohl
+ morgen\, A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswie
+ ck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmü
+ ller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartman
+ n\, L. Hannes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavri
+ lov\, H. Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspa
+ r\, Prof. Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof
+ . Badri-Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E1
+DTSTART:20260511T124500
+DTEND:20260511T160000
+DTSTAMP:20260218T212500Z
+UID:118295d9-e433-4830-a0d0-b822a6c0a1cc
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BK126 Elektromagnetische Verträglichkeit
+DTSTART:20260515T124500
+DTEND:20260515T141500
+DTSTAMP:20260218T212500Z
+UID:97d902c6-e639-462e-b68d-acac4844e119
+DESCRIPTION:J. Dittmann\, Prof. Brauer
+LOCATION:C11-0.01\, C13-3.23\, C13-3.24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20260525T083000
+DTEND:20260525T180000
+DTSTAMP:20260218T212500Z
+UID:86ba4039-8299-4cbc-89b9-4767b336c48d
+DESCRIPTION:Pfingstmontag__Whit_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E3
+DTSTART:20260526T083000
+DTEND:20260526T114500
+DTSTAMP:20260218T212500Z
+UID:d3605322-7b4e-4b6e-89e5-79bef0aea8a5
+DESCRIPTION:J. Hoffmüller\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-M3
+DTSTART:20260527T083000
+DTEND:20260527T114500
+DTSTAMP:20260218T212500Z
+UID:7e76b929-3cb4-437b-965a-dd2d652459fb
+DESCRIPTION:J. Dittmann\, M. Sieloff
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BK126 Elektromagnetische Verträglichkeit
+DTSTART:20260529T124500
+DTEND:20260529T141500
+DTSTAMP:20260218T212500Z
+UID:bc19a69e-dae6-4d27-b661-3f045aa59791
+DESCRIPTION:J. Dittmann\, Prof. Brauer
+LOCATION:C11-0.01\, C13-3.23\, C13-3.24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-M1
+DTSTART:20260615T083000
+DTEND:20260615T114500
+DTSTAMP:20260218T212500Z
+UID:ca3ebfc1-bdf0-4fa7-ab14-1f50d1f143fc
+DESCRIPTION:M. Sieloff\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digitaltechnik ÜL-E2
+DTSTART:20260615T124500
+DTEND:20260615T160000
+DTSTAMP:20260218T212500Z
+UID:30d2dcef-a8ac-4472-bdb3-59088c2cae7b
+DESCRIPTION:J. Hoffmüller\, J. Dittmann
+LOCATION:C13-2.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BK126 Elektromagnetische Verträglichkeit
+DTSTART:20260619T124500
+DTEND:20260619T141500
+DTSTAMP:20260218T212500Z
+UID:59245fe4-c2ad-4580-aa6b-69c8ce315287
+DESCRIPTION:J. Dittmann\, Prof. Brauer
+LOCATION:C11-0.01\, C13-3.23\, C13-3.24
+END:VEVENT
+END:VCALENDAR

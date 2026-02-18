@@ -1,0 +1,658 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E1
+DTSTART:20260326T101500
+DTEND:20260326T114500
+DTSTAMP:20260218T212500Z
+UID:747df4f0-ee89-408f-a94e-46064210b8c4
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE140 Betriebsm. der elektr. Energietech.-ÜL-1
+DTSTART:20260327T101500
+DTEND:20260327T114500
+DTSTAMP:20260218T212500Z
+UID:2f2868a7-157c-43a4-afcd-d860672ca663
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.01\, C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E2
+DTSTART:20260325T124500
+DTEND:20260325T141500
+DTSTAMP:20260218T212500Z
+UID:cea3e0ac-8c86-49e6-b7bd-25e88ae36329
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME120 Hochspannungsprüf- und -messtechnik ÜL-1
+DTSTART:20260327T143000
+DTEND:20260327T160000
+DTSTAMP:20260218T212500Z
+UID:7fdf130a-df29-4383-8bfd-28a93dcf5a2b
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME120 Hochspannungsprüf- und -messtechnik ÜL-2
+DTSTART:20260326T161500
+DTEND:20260326T174500
+DTSTAMP:20260218T212500Z
+UID:c04b8c93-a4e3-4ef0-9834-c94b96522f8e
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20260403T083000
+DTEND:20260403T180000
+DTSTAMP:20260218T212500Z
+UID:2e7c0aa8-7a38-4b38-a8bb-c845ea731ff1
+DESCRIPTION:Karfreitag__Good_FridayP. Wrobel\, Prof. Wree\, Prof. Woelk\, 
+ G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, Prof
+ . Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. 
+ Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Rixen
+ \, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prieß\
+ , Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Osterwa
+ ld\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\, E
+ . Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. Luc
+ zak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A.
+  Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Prof. 
+ Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. Hann
+ es\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H. Fo
+ lkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof. B
+ rauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-Hö
+ her\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E1
+DTSTART:20260402T101500
+DTEND:20260402T114500
+DTSTAMP:20260218T212500Z
+UID:c491033a-ef6a-4dd1-a168-70fba1e00aa1
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E2
+DTSTART:20260401T124500
+DTEND:20260401T141500
+DTSTAMP:20260218T212500Z
+UID:ed16fbb6-3985-4437-9432-cc0ddea730a4
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME120 Hochspannungsprüf- und -messtechnik ÜL-2
+DTSTART:20260402T161500
+DTEND:20260402T174500
+DTSTAMP:20260218T212500Z
+UID:1980ce70-92b0-4c1d-8a53-84ac0957a0b2
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20260406T083000
+DTEND:20260406T180000
+DTSTAMP:20260218T212500Z
+UID:94ce5def-f6e5-420b-b7f8-443b63e4b74a
+DESCRIPTION:Ostermontag__Easter_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik ÜL-E2
+DTSTART:20260408T083000
+DTEND:20260408T114500
+DTSTAMP:20260218T212500Z
+UID:48162b5d-5205-4512-b981-8ebba37c3fe1
+DESCRIPTION:C. Brauer\, J. Kohlmorgen\, J. Schlüter
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E1
+DTSTART:20260409T101500
+DTEND:20260409T114500
+DTSTAMP:20260218T212500Z
+UID:ead8b1f3-a934-4d41-a94c-361be38c8a74
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE140 Betriebsm. der elektr. Energietech-ÜL-2
+DTSTART:20260410T101500
+DTEND:20260410T114500
+DTSTAMP:20260218T212500Z
+UID:abd6c5a9-b96c-49a6-897e-6cc673a08e2b
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.01\, C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E2
+DTSTART:20260408T124500
+DTEND:20260408T141500
+DTSTAMP:20260218T212500Z
+UID:bf0e5340-f7ad-4fcb-baf2-0e5583c716b0
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME120 Hochspannungsprüf- und -messtechnik ÜL-1
+DTSTART:20260410T143000
+DTEND:20260410T160000
+DTSTAMP:20260218T212500Z
+UID:8e1f52bf-8545-4d73-b6b5-eb56a2cad05b
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME120 Hochspannungsprüf- und -messtechnik ÜL-2
+DTSTART:20260409T161500
+DTEND:20260409T174500
+DTSTAMP:20260218T212500Z
+UID:70b387e0-9cd3-417a-8cf1-23160748bf42
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik ÜL-W1
+DTSTART:20260413T083000
+DTEND:20260413T114500
+DTSTAMP:20260218T212500Z
+UID:33a289c0-34b2-4654-b032-ceb9a053a851
+DESCRIPTION:C. Brauer\, J. Kohlmorgen
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik ÜL-W1
+DTSTART:20260608T083000
+DTEND:20260608T114500
+DTSTAMP:20260218T212500Z
+UID:b64309b6-35ef-4874-b6f4-fd5f02028d2d
+DESCRIPTION:C. Brauer\, J. Kohlmorgen
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E1
+DTSTART:20260416T101500
+DTEND:20260416T114500
+DTSTAMP:20260218T212500Z
+UID:92f661c9-1916-4a2b-b033-53724d2384ab
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E1
+DTSTART:20260611T101500
+DTEND:20260611T114500
+DTSTAMP:20260218T212500Z
+UID:16845b69-0379-48e5-abdd-09205988c80a
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE140 Betriebsm. der elektr. Energietech.-ÜL-1
+DTSTART:20260417T101500
+DTEND:20260417T114500
+DTSTAMP:20260218T212500Z
+UID:f7f7e3c7-70a4-49cf-83e0-c2541b321085
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.01\, C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE140 Betriebsm. der elektr. Energietech.-ÜL-1
+DTSTART:20260612T101500
+DTEND:20260612T114500
+DTSTAMP:20260218T212500Z
+UID:4ced2374-2a8c-46bd-96e6-7179d9eecfc0
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.01\, C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E2
+DTSTART:20260415T124500
+DTEND:20260415T141500
+DTSTAMP:20260218T212500Z
+UID:146fd961-5a92-4aba-bf09-28866daf42e1
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E2
+DTSTART:20260610T124500
+DTEND:20260610T141500
+DTSTAMP:20260218T212500Z
+UID:446ec901-3bc1-4788-b52f-2affe5beac2f
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik ÜL-E1
+DTSTART:20260413T143000
+DTEND:20260413T174500
+DTSTAMP:20260218T212500Z
+UID:a0bcff63-430b-4fcd-96e4-9d7c3ac26e19
+DESCRIPTION:J. Kohlmorgen\, G.S. Gesell
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik ÜL-E1
+DTSTART:20260608T143000
+DTEND:20260608T174500
+DTSTAMP:20260218T212500Z
+UID:72718488-87c8-4d03-af93-ed4e7452031f
+DESCRIPTION:J. Kohlmorgen\, G.S. Gesell
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME120 Hochspannungsprüf- und -messtechnik ÜL-1
+DTSTART:20260417T143000
+DTEND:20260417T160000
+DTSTAMP:20260218T212500Z
+UID:8ec581cf-56ea-48ec-9291-b456e91e5dc5
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME120 Hochspannungsprüf- und -messtechnik ÜL-1
+DTSTART:20260612T143000
+DTEND:20260612T160000
+DTSTAMP:20260218T212500Z
+UID:6062963a-fa93-4c10-baa8-211fa00e4fea
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME120 Hochspannungsprüf- und -messtechnik ÜL-2
+DTSTART:20260416T161500
+DTEND:20260416T174500
+DTSTAMP:20260218T212500Z
+UID:23ec1e00-3f90-403d-88fd-4cefbbea5d76
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME120 Hochspannungsprüf- und -messtechnik ÜL-2
+DTSTART:20260611T161500
+DTEND:20260611T174500
+DTSTAMP:20260218T212500Z
+UID:92910021-fae2-4fa7-9ec7-78227fc6aa78
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik ÜL-E4W
+DTSTART:20260420T083000
+DTEND:20260420T114500
+DTSTAMP:20260218T212500Z
+UID:56aecd36-8518-43c2-bc12-8c086183e3b8
+DESCRIPTION:J. Kohlmorgen\, A. Falckenhain\, C. Brauer
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik ÜL-E4W
+DTSTART:20260601T083000
+DTEND:20260601T114500
+DTSTAMP:20260218T212500Z
+UID:b1de5913-8f94-490c-a75e-b6ccfbe74b25
+DESCRIPTION:J. Kohlmorgen\, A. Falckenhain\, C. Brauer
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik ÜL-E2
+DTSTART:20260422T083000
+DTEND:20260422T114500
+DTSTAMP:20260218T212500Z
+UID:dc980040-3d2e-451b-a9e6-11beb47e3b54
+DESCRIPTION:C. Brauer\, J. Kohlmorgen\, J. Schlüter
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik ÜL-E2
+DTSTART:20260603T083000
+DTEND:20260603T114500
+DTSTAMP:20260218T212500Z
+UID:99d1c4e3-8761-41cd-8776-232a03c6602b
+DESCRIPTION:C. Brauer\, J. Kohlmorgen\, J. Schlüter
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E1
+DTSTART:20260423T101500
+DTEND:20260423T114500
+DTSTAMP:20260218T212500Z
+UID:51c180c4-9f1d-4397-a0de-1ec2112e1247
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E1
+DTSTART:20260604T101500
+DTEND:20260604T114500
+DTSTAMP:20260218T212500Z
+UID:ec4bff53-a8c4-4418-b911-c0eedda846db
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE140 Betriebsm. der elektr. Energietech-ÜL-2
+DTSTART:20260424T101500
+DTEND:20260424T114500
+DTSTAMP:20260218T212500Z
+UID:ed66020d-a5e4-42f0-b31b-51263cb4b6af
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.01\, C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE140 Betriebsm. der elektr. Energietech-ÜL-2
+DTSTART:20260605T101500
+DTEND:20260605T114500
+DTSTAMP:20260218T212500Z
+UID:f9066b67-2dff-4cfe-98ad-83bbf1ac6dd6
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.01\, C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E2
+DTSTART:20260422T124500
+DTEND:20260422T141500
+DTSTAMP:20260218T212500Z
+UID:e993dfab-bb70-4732-abe5-68ee59b10609
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E2
+DTSTART:20260603T124500
+DTEND:20260603T141500
+DTSTAMP:20260218T212500Z
+UID:66e30dc2-b6a0-4409-af20-aa383030d379
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME120 Hochspannungsprüf- und -messtechnik ÜL-1
+DTSTART:20260424T143000
+DTEND:20260424T160000
+DTSTAMP:20260218T212500Z
+UID:8612afb3-19c0-4b25-b414-743694e6b8f4
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME120 Hochspannungsprüf- und -messtechnik ÜL-1
+DTSTART:20260605T143000
+DTEND:20260605T160000
+DTSTAMP:20260218T212500Z
+UID:8ff4e57f-86a9-4221-973a-1c31bfde7b46
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME120 Hochspannungsprüf- und -messtechnik ÜL-2
+DTSTART:20260423T161500
+DTEND:20260423T174500
+DTSTAMP:20260218T212500Z
+UID:796dfdb7-8c5d-4f3c-a657-b2cd5cca0b9d
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME120 Hochspannungsprüf- und -messtechnik ÜL-2
+DTSTART:20260604T161500
+DTEND:20260604T174500
+DTSTAMP:20260218T212500Z
+UID:58aabfdf-a9ed-4bb4-b5ef-adbda82a2776
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik ÜL-W1
+DTSTART:20260511T083000
+DTEND:20260511T114500
+DTSTAMP:20260218T212500Z
+UID:c64b7249-0c73-47eb-8685-2e8fd612c740
+DESCRIPTION:C. Brauer\, J. Kohlmorgen
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20260514T083000
+DTEND:20260514T180000
+DTSTAMP:20260218T212500Z
+UID:474d8ed3-f87f-447f-b83e-0ec1fdae6ac2
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayP. Wrobel\, Prof. Wree\, Pro
+ f. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sie
+ loff\, Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Reth
+ meier\, S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius
+ \, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Pr
+ of. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Pr
+ of. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H.
+  Mücke\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\
+ , Prof. Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohl
+ morgen\, A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswie
+ ck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmü
+ ller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartman
+ n\, L. Hannes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavri
+ lov\, H. Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspa
+ r\, Prof. Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof
+ . Badri-Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE140 Betriebsm. der elektr. Energietech.-ÜL-1
+DTSTART:20260515T101500
+DTEND:20260515T114500
+DTSTAMP:20260218T212500Z
+UID:0bfae8ef-9b97-4aba-8e41-492c17ca75e3
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.01\, C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik ÜL-E1
+DTSTART:20260511T143000
+DTEND:20260511T174500
+DTSTAMP:20260218T212500Z
+UID:4ea190e4-d34e-45ac-9015-8967f752feec
+DESCRIPTION:J. Kohlmorgen\, G.S. Gesell
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME120 Hochspannungsprüf- und -messtechnik ÜL-1
+DTSTART:20260515T143000
+DTEND:20260515T160000
+DTSTAMP:20260218T212500Z
+UID:d34b809e-0411-45f7-a9bb-0a917e77e812
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik ÜL-E4W
+DTSTART:20260518T083000
+DTEND:20260518T114500
+DTSTAMP:20260218T212500Z
+UID:80b8f33e-7ce8-41c8-b7c6-f2b76951e683
+DESCRIPTION:J. Kohlmorgen\, A. Falckenhain\, C. Brauer
+LOCATION:C12-2.64 / 2.65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E1
+DTSTART:20260521T101500
+DTEND:20260521T114500
+DTSTAMP:20260218T212500Z
+UID:5a82082e-f158-4e5e-af4a-5a845179b8b7
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE140 Betriebsm. der elektr. Energietech-ÜL-2
+DTSTART:20260522T101500
+DTEND:20260522T114500
+DTSTAMP:20260218T212500Z
+UID:6d74bf97-a152-4982-ad0f-99eb49441d7c
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.01\, C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E2
+DTSTART:20260520T124500
+DTEND:20260520T141500
+DTSTAMP:20260218T212500Z
+UID:bb5d22f8-d897-49b8-b234-c82636c4102c
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME120 Hochspannungsprüf- und -messtechnik ÜL-1
+DTSTART:20260522T143000
+DTEND:20260522T160000
+DTSTAMP:20260218T212500Z
+UID:d9389479-e2e3-4420-beef-351fec444965
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME120 Hochspannungsprüf- und -messtechnik ÜL-2
+DTSTART:20260521T161500
+DTEND:20260521T174500
+DTSTAMP:20260218T212500Z
+UID:6ed4bc6f-b27f-4a1f-a40d-90146fca50a3
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20260525T083000
+DTEND:20260525T180000
+DTSTAMP:20260218T212500Z
+UID:4a7cc9d1-7fed-4b63-9cfe-5a2eac9d3b40
+DESCRIPTION:Pfingstmontag__Whit_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E1
+DTSTART:20260528T101500
+DTEND:20260528T114500
+DTSTAMP:20260218T212500Z
+UID:be5e575a-76f7-46cc-8792-b978cb9d007f
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE140 Betriebsm. der elektr. Energietech.-ÜL-1
+DTSTART:20260529T101500
+DTEND:20260529T114500
+DTSTAMP:20260218T212500Z
+UID:fbe353a2-25aa-4e5e-b3c8-4c17bad068e2
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.01\, C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E2
+DTSTART:20260527T124500
+DTEND:20260527T141500
+DTSTAMP:20260218T212500Z
+UID:cd0b45d2-971f-416e-8624-811b0af8fbe5
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME120 Hochspannungsprüf- und -messtechnik ÜL-1
+DTSTART:20260529T143000
+DTEND:20260529T160000
+DTSTAMP:20260218T212500Z
+UID:a9e260c0-4232-4967-bcf0-2bb9c59a953d
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME120 Hochspannungsprüf- und -messtechnik ÜL-2
+DTSTART:20260528T161500
+DTEND:20260528T174500
+DTSTAMP:20260218T212500Z
+UID:94ebcc34-f391-45e1-84d2-16f482d4d780
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E1
+DTSTART:20260618T101500
+DTEND:20260618T114500
+DTSTAMP:20260218T212500Z
+UID:fe7b104d-f934-4bcb-9674-ede2381e23c0
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE140 Betriebsm. der elektr. Energietech-ÜL-2
+DTSTART:20260619T101500
+DTEND:20260619T114500
+DTSTAMP:20260218T212500Z
+UID:6fc6a466-aa42-4a7d-a161-cc49f8a5f3c3
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.01\, C12-1.20\, C12-1.19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochspannungstechnik ÜL-E2
+DTSTART:20260617T124500
+DTEND:20260617T141500
+DTSTAMP:20260218T212500Z
+UID:874a3286-a932-48fc-9273-a4a7bd213f4d
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME120 Hochspannungsprüf- und -messtechnik ÜL-1
+DTSTART:20260619T143000
+DTEND:20260619T160000
+DTSTAMP:20260218T212500Z
+UID:326206cd-002a-4015-80f5-fe06129f52f6
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ME120 Hochspannungsprüf- und -messtechnik ÜL-2
+DTSTART:20260618T161500
+DTEND:20260618T174500
+DTSTAMP:20260218T212500Z
+UID:9453d785-8b56-431f-813b-054a05832873
+DESCRIPTION:J. Kohlmorgen\, Prof. Schmidt- Rethmeier
+LOCATION:C11-0.02\, C12-1.19\, C12-1.20
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,326 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veranstaltungsplan der FH Kiel//fh-kalender.de//
+BEGIN:VEVENT
+SUMMARY:Ingenieurmathematik
+DTSTART:20260320T083000
+DTEND:20260320T114500
+DTSTAMP:20260218T212500Z
+UID:c99a63c0-1b1c-4297-bc19-30a1f8d06d7a
+DESCRIPTION:A. Kielmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurmathematik
+DTSTART:20260327T083000
+DTEND:20260327T114500
+DTSTAMP:20260218T212500Z
+UID:42a69fe3-0ea4-4215-a3ed-66b27e4aa22c
+DESCRIPTION:A. Kielmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurmathematik
+DTSTART:20260417T083000
+DTEND:20260417T114500
+DTSTAMP:20260218T212500Z
+UID:1307fc4e-1460-40a2-9f96-bba35d0973b7
+DESCRIPTION:A. Kielmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurmathematik
+DTSTART:20260424T083000
+DTEND:20260424T114500
+DTSTAMP:20260218T212500Z
+UID:cbd9403d-13a4-4391-9c0c-573156b4a498
+DESCRIPTION:A. Kielmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurmathematik
+DTSTART:20260508T083000
+DTEND:20260508T114500
+DTSTAMP:20260218T212500Z
+UID:c0045cfd-d82a-4eb5-902b-29d93a19607f
+DESCRIPTION:A. Kielmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurmathematik
+DTSTART:20260522T083000
+DTEND:20260522T114500
+DTSTAMP:20260218T212500Z
+UID:d4409f2b-2cc2-475a-a863-21c40ce3b636
+DESCRIPTION:A. Kielmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurmathematik
+DTSTART:20260605T083000
+DTEND:20260605T114500
+DTSTAMP:20260218T212500Z
+UID:a9d36b42-00dc-4c48-9bcb-43af087c5599
+DESCRIPTION:A. Kielmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurmathematik
+DTSTART:20260612T083000
+DTEND:20260612T114500
+DTSTAMP:20260218T212500Z
+UID:2cb423f9-5908-4453-8d53-b6d553b9ffac
+DESCRIPTION:A. Kielmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurmathematik
+DTSTART:20260619T083000
+DTEND:20260619T114500
+DTSTAMP:20260218T212500Z
+UID:061dd4ce-8922-432d-beba-a98dab8da64d
+DESCRIPTION:A. Kielmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurmathematik
+DTSTART:20260320T124500
+DTEND:20260320T141500
+DTSTAMP:20260218T212500Z
+UID:ff9f838c-14dc-40ce-a926-6422fc7094bc
+DESCRIPTION:A. Kielmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurmathematik
+DTSTART:20260327T124500
+DTEND:20260327T141500
+DTSTAMP:20260218T212500Z
+UID:dde8e712-57d2-44ee-95a6-49f91020974a
+DESCRIPTION:A. Kielmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurmathematik
+DTSTART:20260417T124500
+DTEND:20260417T141500
+DTSTAMP:20260218T212500Z
+UID:df75355c-c04f-4a55-a1f5-0dc96b6b2d74
+DESCRIPTION:A. Kielmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurmathematik
+DTSTART:20260424T124500
+DTEND:20260424T141500
+DTSTAMP:20260218T212500Z
+UID:79c88e1e-188e-4ddf-a247-3aac02e7c66c
+DESCRIPTION:A. Kielmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurmathematik
+DTSTART:20260508T124500
+DTEND:20260508T141500
+DTSTAMP:20260218T212500Z
+UID:5516927b-7123-4407-b24d-58183a0b4cfe
+DESCRIPTION:A. Kielmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurmathematik
+DTSTART:20260522T124500
+DTEND:20260522T141500
+DTSTAMP:20260218T212500Z
+UID:95dfa51e-ecc4-4fd4-bebe-1c684fa9ec3f
+DESCRIPTION:A. Kielmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurmathematik
+DTSTART:20260605T124500
+DTEND:20260605T141500
+DTSTAMP:20260218T212500Z
+UID:9a72c8a9-8b6f-4978-ab89-990a9278c23a
+DESCRIPTION:A. Kielmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurmathematik
+DTSTART:20260612T124500
+DTEND:20260612T141500
+DTSTAMP:20260218T212500Z
+UID:7b6465a6-ceab-47f6-9167-34ccd13b6168
+DESCRIPTION:A. Kielmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurmathematik
+DTSTART:20260619T124500
+DTEND:20260619T141500
+DTSTAMP:20260218T212500Z
+UID:fcf95452-7338-4dc8-8103-5d1e84d794d0
+DESCRIPTION:A. Kielmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART:20260403T083000
+DTEND:20260403T180000
+DTSTAMP:20260218T212500Z
+UID:d72d9789-4726-45e2-8c05-9826a8bdf0c5
+DESCRIPTION:Karfreitag__Good_FridayP. Wrobel\, Prof. Wree\, Prof. Woelk\, 
+ G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, Prof
+ . Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, S. 
+ Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Rixen
+ \, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prieß\
+ , Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Osterwa
+ ld\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\, E
+ . Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. Luc
+ zak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\, A.
+  Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Prof. 
+ Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K. H
+ inkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. Hann
+ es\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H. Fo
+ lkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof. B
+ rauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-Hö
+ her\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART:20260406T083000
+DTEND:20260406T180000
+DTSTAMP:20260218T212500Z
+UID:2b6299c3-63ec-494d-9634-25325a18d6e2
+DESCRIPTION:Ostermontag__Easter_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurmathematik
+DTSTART:20260410T083000
+DTEND:20260410T114500
+DTSTAMP:20260218T212500Z
+UID:765c4926-5cc0-43fb-9b8f-36bd917de1f4
+DESCRIPTION:A. Kielmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurmathematik
+DTSTART:20260410T124500
+DTEND:20260410T141500
+DTSTAMP:20260218T212500Z
+UID:efd9b7dc-adf8-4af1-806d-5beaed665f34
+DESCRIPTION:A. Kielmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Mai Gesetzlicher Feiertag
+DTSTART:20260501T083000
+DTEND:20260501T173000
+DTSTAMP:20260218T212500Z
+UID:621a0dba-7855-43a5-aa55-29c5c42b998e
+DESCRIPTION:1._Mai:_Gesetzlicher_Feiertag__Labour_dayA. Kielmann\, Prof. K
+ allies\, J. Jürgens
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+DTSTART:20260514T083000
+DTEND:20260514T180000
+DTSTAMP:20260218T212500Z
+UID:5cc3bd60-b408-45b4-87a7-3b0c3bedb563
+DESCRIPTION:Christi_Himmelfahrt__Ascension_dayP. Wrobel\, Prof. Wree\, Pro
+ f. Woelk\, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sie
+ loff\, Prof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Reth
+ meier\, S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius
+ \, T. Rixen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Pr
+ of. Prieß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Pr
+ of. Osterwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H.
+  Mücke\, E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\
+ , Prof. Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohl
+ morgen\, A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswie
+ ck\, Prof. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmü
+ ller\, K. Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartman
+ n\, L. Hannes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavri
+ lov\, H. Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspa
+ r\, Prof. Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof
+ . Badri-Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurmathematik
+DTSTART:20260515T083000
+DTEND:20260515T114500
+DTSTAMP:20260218T212500Z
+UID:e77831ea-d7f5-4a6f-861c-89c991bb092d
+DESCRIPTION:A. Kielmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurmathematik
+DTSTART:20260515T124500
+DTEND:20260515T141500
+DTSTAMP:20260218T212500Z
+UID:f63e0445-7d92-42b9-b32c-79aad9f7c245
+DESCRIPTION:A. Kielmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART:20260525T083000
+DTEND:20260525T180000
+DTSTAMP:20260218T212500Z
+UID:927aef69-5baa-40f9-a35f-2696bbe48daf
+DESCRIPTION:Pfingstmontag__Whit_MondayP. Wrobel\, Prof. Wree\, Prof. Woelk
+ \, G. Werner\, Prof. Wehrend\, Prof. Weber\, M. Teichmann\, M. Sieloff\, P
+ rof. Schümann\, C. Schwatlo\, Prof. Schramm\, Prof. Schmidt- Rethmeier\, 
+ S. Schmarbeck\, J. Schlüter\, J. Schiwy\, J. Rähse\, M. Robinius\, T. Ri
+ xen\, Prof. Rinder\, M. Riedel\, R. Raßmann\, Prof. Prochnow\, Prof. Prie
+ ß\, Prof. Petersen\, E. Petersen\, Prof. Patz\, N. N.- RPHYL\, Prof. Oste
+ rwald\, H. Oenings\, J. Nowitzki\, Prof. Neumann\, A. Neumann\, H. Mücke\
+ , E. Moritz\, Dr. Mohs\, M. Menzel\, Prof. Manzke\, Prof. Lüssem\, Prof. 
+ Luczak\, Prof. Lebert\, N. Kreutzer\, S. Koß\, C. Kopka\, J. Kohlmorgen\,
+  A. Kinny\, A. Kielmann\, Prof. Kallies\, J. Jürgens\, L. Jorswieck\, Pro
+ f. Jetzek\, Prof. Jacobsen\, Prof. Immel\, M. Ignatov\, J. Hoffmüller\, K
+ . Hinkelmann\, S. Herzog\, Prof. Hennig\, R. Hellmund\, K. Hartmann\, L. H
+ annes\, J. Haase\, T. Greve\, C. Glüsing\, G.S. Gesell\, A. Gavrilov\, H.
+  Folkerts\, A. Falckenhain\, Prof. Ehlers\, J. Dittmann\, F. Caspar\, Prof
+ . Brauer\, C. Brauer\, Y. Bockholt\, Prof. Behrendt-Bicakci\, Prof. Badri-
+ Höher\, Prof. Aßmuth\, J. Angres\, M. Ali Algbara\, Prof. Acker
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurmathematik
+DTSTART:20260529T083000
+DTEND:20260529T114500
+DTSTAMP:20260218T212500Z
+UID:af052d4d-26f9-497b-a7c4-6e3a0505616f
+DESCRIPTION:A. Kielmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingenieurmathematik
+DTSTART:20260529T124500
+DTEND:20260529T141500
+DTSTAMP:20260218T212500Z
+UID:33b345de-e57f-464e-8a9a-22c2df17bb11
+DESCRIPTION:A. Kielmann
+LOCATION:C05-C1.40  CIMTT
+END:VEVENT
+END:VCALENDAR
